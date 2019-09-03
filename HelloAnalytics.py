@@ -2,6 +2,7 @@
 
 from apiclient.discovery import build
 from oauth2client.service_account import ServiceAccountCredentials
+import pandas as pd
 
 
 def get_service(api_name, api_version, scopes, key_file_location):
@@ -63,21 +64,11 @@ def get_results(service, profile_id):
             ids='ga:' + profile_id,
             start_date='7daysAgo',
             end_date='today',
-            dimensions='ga:browser,ga:city',
+            dimensions='ga:country,ga:city,ga:day,ga:month',
             metrics='ga:sessions').execute()
 
 
-def print_results(results):
-    # Print data nicely for the user.
-    if results:
-        print( 'View (Profile):', results.get('profileInfo').get('profileName'))
-        print( 'Total Sessions:', results.get('rows')[0][0])
-        print(results.get('rows'))
-    else:
-        print( 'No results found')
-
-
-def main():
+def fetch_data():
     # Define the auth scopes to request.
     scope = 'https://www.googleapis.com/auth/analytics.readonly'
     key_file_location = './t-gate-251120-01178be56205.json'
@@ -90,8 +81,13 @@ def main():
             key_file_location=key_file_location)
 
     profile_id = get_first_profile_id(service)
-    print_results(get_results(service, profile_id))
+    return get_results(service, profile_id)
 
+def main():
+    res = fetch_data()
+    df = pd.DataFrame(res.get('rows'), 
+            columns=['country','city','day','month','sessions'])
+    print(df.head().to_dict(orient='records'))
 
 if __name__ == '__main__':
     main()
