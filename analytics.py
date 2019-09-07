@@ -85,9 +85,10 @@ def fetch_data():
 
 def main():
     res = fetch_data()
-    df = pd.DataFrame(res.get('rows'), 
-            columns=['country','city','day','month','sessions'])
+    df = pd.DataFrame(res.get('rows'),
+            columns=['country', 'city', 'day', 'month', 'sessions'])
     print(df.head().to_dict(orient='records'))
+    return df.to_dict(orient='records')
 
 if __name__ == '__main__':
     main()
