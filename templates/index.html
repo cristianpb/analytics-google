@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <title>Google Analytics</title>
+    <meta charset="utf-8" name="viewport" content= "width=device-width, initial-scale=1.0"> 
+    <link rel="stylesheet"  src = "./static/css/bulma.min.css" >
+    <link rel="stylesheet"  src = "./static/css/dc.min.css" >
+    <link rel="stylesheet"  src = "./static/css/font-awesome.min.css" >
+    <link rel="stylesheet"  src = "./static/css/leaflet.css" >
+    <style>
+      .title { 
+      font-size:40px; 
+      font-weight:bold; 
+      text-align:center; 
+      } 
+    </style>
+  </head>
+  <body>
+    <h1 class="title">Google Analytics</h1>
+
+    <section class="section">
+      <div class="container is-fullhd">
+        <div id="number-records-nd"></div>
+        <div class="columns">
+
+          <div class="column is-4">
+            <div id="country-chart" style="width: 100px; height: 200px;"></div>
+          </div>
+          <div class="column is-4">
+            <div id="city-chart" style="width: 100%; height: 200px;"></div>
+          </div>
+          <div class="column is-4">
+            <div id="day-chart" style="width: 100%; height: 200px;"></div>
+          </div>
+          <div class="column is-4">
+            <div id="month-chart"  style="width: 100%; height: 200px;"></div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <script src = "/static/js/jquery.min.js" ></script>
+    <script src = "/static/js/crossfilter.js" ></script>
+    <script src = "/static/js/d3.min.js" ></script>
+    <script src = "/static/js/dc.min.js" ></script>
+    <script src = "/static/js/d3-queue.js" ></script>
+    <script type = "text/javascript" src = "/static/graph.js" ></script>
+
+  </body>
+</html>
