@@ -64,7 +64,7 @@ def get_results(service, profile_id):
             ids='ga:' + profile_id,
             start_date='7daysAgo',
             end_date='today',
-            dimensions='ga:country,ga:city,ga:day,ga:month',
+            dimensions='ga:country,ga:countryIsoCode,ga:city,ga:date,ga:deviceCategory,ga:source',
             metrics='ga:sessions').execute()
 
 
@@ -86,7 +86,7 @@ def fetch_data():
 def main():
     res = fetch_data()
     df = pd.DataFrame(res.get('rows'),
-            columns=['country', 'city', 'day', 'month', 'sessions'])
+            columns=['country', 'countryIsoCode', 'city', 'date', 'device', 'source', 'sessions'])
     print(df.head().to_dict(orient='records'))
     return df.to_dict(orient='records')
 
