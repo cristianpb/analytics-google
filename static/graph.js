@@ -1,3 +1,22 @@
+dc.config.defaultColors(d3.schemeCategory10);
+
+function remove_empty_bins(source_group) {
+    function non_zero_pred(d) {
+        //return Math.abs(d.value) > 0.00001; // if using floating-point numbers
+        return d.value !== 0; // if integers only
+    }
+    return {
+        all: function () {
+            return source_group.all().filter(non_zero_pred);
+        },
+        top: function(n) {
+            return source_group.top(Infinity)
+                .filter(non_zero_pred)
+                .slice(0, n);
+        }
+    };
+}
+
 $.getJSON("/data", function(data) {
   console.log(data.length);
   console.log(data);
@@ -5,26 +24,24 @@ $.getJSON("/data", function(data) {
   var ndx = crossfilter(data);
 
   // parse date
-  var dateFormat = d3.time.format("%Y%m%d");
+  var dateFormatParser = d3.timeParse("%Y%m%d");
   data.forEach(function(d) {
-		d["date"] = dateFormat.parse(d["date"]);
+		d.dd = dateFormatParser(d.date);
 	});
 
   //Define Dimensions
   var countryDim = ndx.dimension(function(d) { return d["country"]; });
   var countryCodeDim = ndx.dimension(function(d) { return d["countryIsoCode"]; });
-  var dateDim = ndx.dimension(function(d) { return d["date"]; });
+  var dateDim = ndx.dimension(function(d) { return d.dd; });
   var deviceDim = ndx.dimension(function(d) { return d["device"]; });
   var sourceDim = ndx.dimension(function(d) { return d["source"]; });
-  //var cityDim = ndx.dimension(function(d) { return d["city"]; });
-  //var dayDim = ndx.dimension(function(d) { return d["day"]; });
-  //var monthDim = ndx.dimension(function(d) { return d["month"]; });
   var allDim = ndx.dimension(function(d) {return d;});
 
   //Group Data
   var countryGroup = countryDim.group().reduceSum(function (d) {
     return d["sessions"];
   });
+  var filter_countryGroup = remove_empty_bins(countryGroup);
   var dateGroup = dateDim.group().reduceSum(function (d) {
     return d["sessions"];
   });
@@ -34,18 +51,21 @@ $.getJSON("/data", function(data) {
   var sourceGroup = sourceDim.group().reduceSum(function (d) {
     return d["sessions"];
   });
+  var filter_sourceGroup = remove_empty_bins(sourceGroup);
   //var cityGroup = cityDim.group();
   //var dayGroup = dayDim.group();
   //var monthGroup = monthDim.group();
   var all = ndx.groupAll();
 
   //Define values (to be used in charts)
-	var minDate = dateDim.bottom(1)[0]["date"];
-	var maxDate = dateDim.top(1)[0]["date"];
+	var minDate = dateDim.bottom(1)[0].dd;
+	var maxDate = dateDim.top(1)[0].dd;
+  var monthFormat = d3.timeFormat("%B");
+	var month = monthFormat(dateDim.top(1)[0].dd);
 
   //Charts
   var countryChart = dc.rowChart("#country-chart");
-  var timeChart = dc.barChart("#time-chart");
+  var timeChart = dc.seriesChart("#time-chart");
   var deviceChart = dc.pieChart("#device-chart");
   var sourceChart = dc.rowChart("#source-chart");
   var numberRecordsND = dc.numberDisplay("#number-records-nd");
@@ -60,22 +80,31 @@ $.getJSON("/data", function(data) {
     .height(800)        
     .margins({top: 10, right: 50, bottom: 30, left: 40})
     .dimension(countryDim)
-    .group(countryGroup)
+    .group(filter_countryGroup)
+    .cap(10)
     .ordering(function(d) { return -d.value })
     .elasticX(true);
 
   timeChart
     .width(400)
     .height(150)
+    .chart(function(c) { return dc.lineChart(c).curve(d3.curveLinear); })
+    // https://github.com/d3/d3-shape/blob/master/README.md#curves
+    .x(d3.scaleTime().domain([minDate,maxDate]))
+    .brushOn(false)
+    .yAxisLabel("Measured Speed km/s")
+    .xAxisLabel(month)
+    .clipPadding(10)
+    .elasticY(true)
     .dimension(dateDim)
     .group(dateGroup)
-    .transitionDuration(500)
-    .x(d3.time.scale().domain([minDate, maxDate]))
-    .xUnits(function(){return 10;})
-    .elasticY(true)
+    .mouseZoomable(true)
+    .seriesAccessor(function(d) {return "One";})
+    .keyAccessor(function(d) {return +d.key;})
+    .valueAccessor(function(d) {return +d.value;});
+  timeChart
     .xAxis()
-    .tickFormat(d3.time.format('%d')).ticks(7);
-
+    .tickFormat(d3.timeFormat('%d')).ticks(7);
 
   deviceChart
     .width(300)
@@ -87,9 +116,10 @@ $.getJSON("/data", function(data) {
   sourceChart
     .width(300)
     .height(800)        
-    .margins({top: 10, right: 50, bottom: 30, left: 40})
+    //.margins({top: 10, right: 50, bottom: 30, left: 40})
     .dimension(sourceDim)
-    .group(sourceGroup)
+    .group(filter_sourceGroup)
+    .cap(10)
     .ordering(function(d) { return -d.value })
     .elasticX(true);
 
