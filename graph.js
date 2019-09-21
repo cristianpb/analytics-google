@@ -32,7 +32,6 @@ d3.csv("data.csv").then(function(data) {
 
   //Define Dimensions
   var countryDim = ndx.dimension(function(d) { return d["country"]; });
-  var countryCodeDim = ndx.dimension(function(d) { return d["countryIsoCode"]; });
   var dateDim = ndx.dimension(function(d) { return d.dd; });
   var deviceDim = ndx.dimension(function(d) { return d["device"]; });
   var sourceDim = ndx.dimension(function(d) { return d["source"]; });
@@ -58,9 +57,7 @@ d3.csv("data.csv").then(function(data) {
     return d["sessions"];
   });
   var filter_pageGroup = remove_empty_bins(pageGroup);
-  //var cityGroup = cityDim.group();
-  //var dayGroup = dayDim.group();
-  //var monthGroup = monthDim.group();
+
   var all = ndx.groupAll();
 
   //Define values (to be used in charts)
@@ -75,6 +72,7 @@ d3.csv("data.csv").then(function(data) {
   var deviceChart = dc.pieChart("#device-chart");
   var sourceChart = dc.rowChart("#source-chart");
   var pageChart = dc.rowChart("#page-chart");
+  var dataTable = dc.dataTable("#data-table");
   var numberRecordsND = dc.numberDisplay("#number-records-nd");
 
   numberRecordsND
@@ -99,7 +97,7 @@ d3.csv("data.csv").then(function(data) {
     // https://github.com/d3/d3-shape/blob/master/README.md#curves
     .x(d3.scaleTime().domain([minDate,maxDate]))
     .xUnits(function(){return 10;})
-    .brushOn(false)
+    .brushOn(true)
     .yAxisLabel("Nombre de visites")
     .xAxisLabel(month)
     .clipPadding(10)
@@ -140,6 +138,14 @@ d3.csv("data.csv").then(function(data) {
     .cap(10)
     .ordering(function(d) { return -d.value })
     .elasticX(true);
+
+  dataTable
+    .width(768)
+    .height(480)
+    .dimension(countryDim)
+    .showSections(false)
+    .columns(['date', 'country', 'city', 'pagePath', 'device', 'source', 'sessions'])
+    .order(d3.descending);
 
   // Define map
   var map = L.map('map');
