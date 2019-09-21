@@ -1,0 +1,29 @@
+---
+name: Build html
+
+on: [push]
+
+jobs:
+  publish:
+    name: Publish github pages
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: Set up Python 3.7
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.7
+      - name: install requirements
+        run: make venv
+      - name: get data
+        run: make data
+      - name: build html
+        run: make build
+      - name: deploy
+        uses: peaceiris/actions-gh-pages@v2.2.0
+        if: success()
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PUBLISH_BRANCH: github-pages
+          PUBLISH_DIR: ./dist
