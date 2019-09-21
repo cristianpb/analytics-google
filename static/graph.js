@@ -145,9 +145,9 @@ d3.csv("data.csv").then(function(data) {
   var drawMap = function(){
 
     map.setView([37, 2.8], 1);
-    mapLink = '<a href="http://openstreetmap.org">OpenStreetMap</a>';
+    mapLink = '<a href="https://openstreetmap.org">OpenStreetMap</a>';
     L.tileLayer(
-      'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; ' + mapLink + ' Contributors',
         maxZoom: 15,
       }).addTo(map);
