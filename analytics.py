@@ -1,25 +1,26 @@
 """A simple example of how to access the Google Analytics API."""
 
+import os
+import json
 from apiclient.discovery import build
 from oauth2client.service_account import ServiceAccountCredentials
 import pandas as pd
 
 
-def get_service(api_name, api_version, scopes, key_file_location):
+def get_service(api_name, api_version, scopes, token):
     """Get a service that communicates to a Google API.
 
     Args:
         api_name: The name of the api to connect to.
         api_version: The api version to connect to.
         scopes: A list auth scopes to authorize for the application.
-        key_file_location: The path to a valid service account JSON key file.
+        token: Token dict
 
     Returns:
         A service that is connected to the specified API.
     """
-
-    credentials = ServiceAccountCredentials.from_json_keyfile_name(
-            key_file_location, scopes=scopes)
+    credentials = ServiceAccountCredentials.from_json_keyfile_dict(
+            token, scopes=scopes)
 
     # Build the service object.
     service = build(api_name, api_version, credentials=credentials)
@@ -71,14 +72,19 @@ def get_results(service, profile_id):
 def fetch_data():
     # Define the auth scopes to request.
     scope = 'https://www.googleapis.com/auth/analytics.readonly'
-    key_file_location = './t-gate-251120-01178be56205.json'
+
+    if os.getenv('TOKEN') is not None:
+        token = json.loads(os.getenv('TOKEN'))
+    else:
+        with open('token.json', 'r') as fp:
+            token = json.loads(fp.read())
 
     # Authenticate and construct service.
     service = get_service(
             api_name='analytics',
             api_version='v3',
             scopes=[scope],
-            key_file_location=key_file_location)
+            token=token)
 
     profile_id = get_first_profile_id(service)
     return get_results(service, profile_id)
