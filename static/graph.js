@@ -35,6 +35,7 @@ $.getJSON("/data", function(data) {
   var dateDim = ndx.dimension(function(d) { return d.dd; });
   var deviceDim = ndx.dimension(function(d) { return d["device"]; });
   var sourceDim = ndx.dimension(function(d) { return d["source"]; });
+  var pageDim = ndx.dimension(function(d) { return d["pagePath"]; });
   var allDim = ndx.dimension(function(d) {return d;});
 
   //Group Data
@@ -52,6 +53,10 @@ $.getJSON("/data", function(data) {
     return d["sessions"];
   });
   var filter_sourceGroup = remove_empty_bins(sourceGroup);
+  var pageGroup = pageDim.group().reduceSum(function (d) {
+    return d["sessions"];
+  });
+  var filter_pageGroup = remove_empty_bins(pageGroup);
   //var cityGroup = cityDim.group();
   //var dayGroup = dayDim.group();
   //var monthGroup = monthDim.group();
@@ -68,6 +73,7 @@ $.getJSON("/data", function(data) {
   var timeChart = dc.seriesChart("#time-chart");
   var deviceChart = dc.pieChart("#device-chart");
   var sourceChart = dc.rowChart("#source-chart");
+  var pageChart = dc.rowChart("#page-chart");
   var numberRecordsND = dc.numberDisplay("#number-records-nd");
 
   numberRecordsND
@@ -77,7 +83,7 @@ $.getJSON("/data", function(data) {
 
   countryChart
     .width(300)
-    .height(800)        
+    .height(400)        
     .margins({top: 10, right: 50, bottom: 30, left: 40})
     .dimension(countryDim)
     .group(filter_countryGroup)
@@ -87,12 +93,12 @@ $.getJSON("/data", function(data) {
 
   timeChart
     .width(400)
-    .height(150)
-    .chart(function(c) { return dc.lineChart(c).curve(d3.curveLinear); })
+    .height(400)
+    .chart(function(c) { return dc.lineChart(c).curve(d3.curveLinear).renderArea(false); })
     // https://github.com/d3/d3-shape/blob/master/README.md#curves
     .x(d3.scaleTime().domain([minDate,maxDate]))
     .brushOn(false)
-    .yAxisLabel("Measured Speed km/s")
+    .yAxisLabel("Nombre de visites")
     .xAxisLabel(month)
     .clipPadding(10)
     .elasticY(true)
@@ -115,7 +121,7 @@ $.getJSON("/data", function(data) {
 
   sourceChart
     .width(300)
-    .height(800)        
+    .height(400)
     //.margins({top: 10, right: 50, bottom: 30, left: 40})
     .dimension(sourceDim)
     .group(filter_sourceGroup)
@@ -123,40 +129,15 @@ $.getJSON("/data", function(data) {
     .ordering(function(d) { return -d.value })
     .elasticX(true);
 
-  //countryChart
-  //  .width(300)
-  //  .height(100)
-  //  .dimension(countryDim)
-  //  .group(countryGroup)
-  //  .transitionDuration(500)
-  //  .elasticY(true);
-
-  //cityChart
-  //  .width(300)
-  //  .height(100)
-  //  .dimension(countryDim)
-  //  .group(countryGroup)
-  //  .transitionDuration(500)
-  //  .elasticY(true)
-  //  .yAxis().ticks(4);
-
-  //dayChart
-  //  .width(300)
-  //  .height(100)
-  //  .dimension(countryDim)
-  //  .group(countryGroup)
-  //  .transitionDuration(500)
-  //  .elasticY(true)
-  //  .yAxis().ticks(4);
-
-  //monthChart
-  //  .width(300)
-  //  .height(100)
-  //  .dimension(countryDim)
-  //  .group(countryGroup)
-  //  .transitionDuration(500)
-  //  .elasticY(true)
-  //  .yAxis().ticks(4);
+  pageChart
+    .width(300)
+    .height(400)        
+    .margins({top: 10, right: 50, bottom: 30, left: 40})
+    .dimension(pageDim)
+    .group(filter_pageGroup)
+    .cap(10)
+    .ordering(function(d) { return -d.value })
+    .elasticX(true);
 
   // Define map
   var map = L.map('map');
@@ -214,7 +195,7 @@ $.getJSON("/data", function(data) {
 	drawMap();
 
 	//Update the heatmap if any dc chart get filtered
-	dcCharts = [countryChart];
+	dcCharts = [countryChart, timeChart, sourceChart, deviceChart, pageChart];
 
 	dcCharts.forEach((dcChart) => {
     dcChart.on("filtered", function (chart, filter) {
