@@ -7,5 +7,18 @@ venv:
 up: venv
 	venv/bin/python3 app.py
 
+data.csv:
+	venv/bin/python3 analytics.py
+
+data: data.csv
+
+dist:
+	mkdir -p dist
+
+build: dist
+	venv/bin/python3 render.py
+	cp data.csv dist
+	cp -r static/graph.js dist
+
 clean:
-	rm -Rf venv
+	rm -Rf venv dist

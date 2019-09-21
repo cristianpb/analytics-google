@@ -17,7 +17,8 @@ function remove_empty_bins(source_group) {
     };
 }
 
-$.getJSON("/data", function(data) {
+//$.getJSON("/data", function(data) {
+d3.csv("/data.csv").then(function(data) {
   console.log(data.length);
   console.log(data);
   //Create a Crossfilter instance
