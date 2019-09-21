@@ -71,7 +71,7 @@ d3.csv("data.csv").then(function(data) {
 
   //Charts
   var countryChart = dc.rowChart("#country-chart");
-  var timeChart = dc.seriesChart("#time-chart");
+  var timeChart = dc.barChart("#time-chart");
   var deviceChart = dc.pieChart("#device-chart");
   var sourceChart = dc.rowChart("#source-chart");
   var pageChart = dc.rowChart("#page-chart");
@@ -95,20 +95,21 @@ d3.csv("data.csv").then(function(data) {
   timeChart
     .width(400)
     .height(400)
-    .chart(function(c) { return dc.lineChart(c).curve(d3.curveLinear).renderArea(false); })
+    //.chart(function(c) { return dc.lineChart(c).curve(d3.curveLinear).renderArea(false); })
     // https://github.com/d3/d3-shape/blob/master/README.md#curves
     .x(d3.scaleTime().domain([minDate,maxDate]))
+    .xUnits(function(){return 10;})
     .brushOn(false)
     .yAxisLabel("Nombre de visites")
     .xAxisLabel(month)
     .clipPadding(10)
-    .elasticY(true)
+    //.elasticY(true)
     .dimension(dateDim)
-    .group(dateGroup)
-    .mouseZoomable(true)
-    .seriesAccessor(function(d) {return "One";})
-    .keyAccessor(function(d) {return +d.key;})
-    .valueAccessor(function(d) {return +d.value;});
+    .group(dateGroup);
+    //.mouseZoomable(true)
+    //.seriesAccessor(function(d) {return "One";})
+    //.keyAccessor(function(d) {return +d.key;})
+    //.valueAccessor(function(d) {return +d.value;});
   timeChart
     .xAxis()
     .tickFormat(d3.timeFormat('%d')).ticks(7);
