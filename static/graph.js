@@ -177,7 +177,7 @@ d3.csv("data.csv").then(function(data) {
     }
 
     // Read geojson and color regions using density
-    $.getJSON("./static/geo/output.json", function(countries_json) {
+    $.getJSON("static/countries.geo.json", function(countries_json) {
       console.log(countries_json.features);
       countries_json.features.forEach((obj) => {
         obj.properties.density = 0

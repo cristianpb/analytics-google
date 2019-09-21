@@ -13,11 +13,12 @@ data.csv:
 data: data.csv
 
 dist:
-	mkdir -p dist
+	mkdir -p dist/static
 
 build: dist
 	venv/bin/python3 render.py
 	cp data.csv dist
+	cp static/countries.geo.json dist/static
 	cp -r static/graph.js dist
 
 clean:
