@@ -18,6 +18,8 @@ jobs:
         run: make venv
       - name: get data
         run: make data
+        env:
+          TOKEN: ${{ secrets.TOKEN }}
       - name: build html
         run: make build
       - name: deploy
@@ -25,5 +27,5 @@ jobs:
         if: success()
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PUBLISH_BRANCH: github-pages
+          PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: ./dist

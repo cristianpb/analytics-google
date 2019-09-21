@@ -73,8 +73,8 @@ def fetch_data():
     # Define the auth scopes to request.
     scope = 'https://www.googleapis.com/auth/analytics.readonly'
 
-    if os.getenv('TOKEN') is not None:
-        token = json.loads(os.getenv('TOKEN'))
+    if os.environ['TOKEN'] is not None:
+        token = json.loads(os.environ['TOKEN'])
     else:
         with open('token.json', 'r') as fp:
             token = json.loads(fp.read())
