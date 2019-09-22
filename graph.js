@@ -17,10 +17,8 @@ function remove_empty_bins(source_group) {
     };
 }
 
-//$.getJSON("/data", function(data) {
 d3.csv("data.csv").then(function(data) {
   console.log(data.length);
-  console.log(data);
   //Create a Crossfilter instance
   var ndx = crossfilter(data);
 
@@ -184,8 +182,7 @@ d3.csv("data.csv").then(function(data) {
     }
 
     // Read geojson and color regions using density
-    $.getJSON("static/countries.geo.json", function(countries_json) {
-      console.log(countries_json.features);
+    d3.json("static/countries.geo.json").then(function(countries_json, error) {
       countries_json.features.forEach((obj) => {
         obj.properties.density = 0
         allDim.top(Infinity).forEach((d) => {
