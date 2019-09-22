@@ -20,6 +20,7 @@ build: dist
 	cp data.csv dist
 	cp static/countries.geo.json dist/static
 	cp -r static/graph.js dist
+	touch dist/.nojekyll
 
 clean:
 	rm -Rf venv dist

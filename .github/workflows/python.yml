@@ -4,7 +4,7 @@ name: Build html
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '59 23 * * *'
+    - cron:  '57 23 * * *'
 
 jobs:
   publish:
