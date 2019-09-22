@@ -34,6 +34,8 @@ d3.csv("data.csv").then(function(data) {
   var deviceDim = ndx.dimension(function(d) { return d["device"]; });
   var sourceDim = ndx.dimension(function(d) { return d["source"]; });
   var pageDim = ndx.dimension(function(d) { return d["pagePath"]; });
+  var textDim = ndx.dimension(function(d) { 
+    return d.country + ' ' + d.city + ' ' + d.device + ' ' + d.source; });
   var allDim = ndx.dimension(function(d) {return d;});
 
   //Group Data
@@ -61,7 +63,7 @@ d3.csv("data.csv").then(function(data) {
   //Define values (to be used in charts)
 	var minDate = dateDim.bottom(1)[0].dd;
 	var maxDate = dateDim.top(1)[0].dd;
-  var monthFormat = d3.timeFormat("%B");
+  var monthFormat = d3.timeFormat("%B %Y");
 	var month = monthFormat(dateDim.top(1)[0].dd);
 
   //Charts
@@ -72,6 +74,9 @@ d3.csv("data.csv").then(function(data) {
   var pageChart = dc.rowChart("#page-chart");
   var dataTable = dc.dataTable("#data-table");
   var numberRecordsND = dc.numberDisplay("#number-records-nd");
+
+  dc.textFilterWidget('#search')
+    .dimension(textDim);
 
   numberRecordsND
     .formatNumber(d3.format("d"))
@@ -86,7 +91,8 @@ d3.csv("data.csv").then(function(data) {
     .group(filter_countryGroup)
     .cap(10)
     .ordering(function(d) { return -d.value })
-    .elasticX(true);
+    .elasticX(true)
+    .controlsUseVisibility(true);
 
   timeChart
     .width(400)
@@ -96,7 +102,7 @@ d3.csv("data.csv").then(function(data) {
     .x(d3.scaleTime().domain([minDate,maxDate]))
     .xUnits(function(){return 10;})
     .brushOn(true)
-    .yAxisLabel("Nombre de visites")
+    .yAxisLabel("Number of visits")
     .xAxisLabel(month)
     .clipPadding(10)
     //.elasticY(true)
@@ -115,7 +121,16 @@ d3.csv("data.csv").then(function(data) {
     .height(300)
     .innerRadius(100)
     .dimension(deviceDim)
-    .group(deviceGroup);
+    .group(deviceGroup)
+    .on('pretransition', function(chart) {
+      chart.selectAll('text.pie-slice').text(function(d) {
+        if (d.endAngle - d.startAngle != 0) {
+          return d.data.key + ' ' + dc.utils.printSingleValue((d.endAngle - d.startAngle) / (2*Math.PI) * 100) + '%';
+        } else {
+          return '';
+        }
+      })
+    });
 
   sourceChart
     .width(300)

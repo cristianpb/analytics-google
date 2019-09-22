@@ -15,7 +15,7 @@ data: data.csv
 dist:
 	mkdir -p dist/static
 
-build: dist
+build: dist data
 	venv/bin/python3 render.py
 	cp data.csv dist
 	cp static/countries.geo.json dist/static
