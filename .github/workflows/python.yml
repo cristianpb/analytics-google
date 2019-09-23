@@ -5,6 +5,9 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     - cron:  '57 21 * * *'
+  push:
+    branches:
+    - master
 
 jobs:
   publish:
@@ -26,9 +29,11 @@ jobs:
       - name: build html
         run: make build
       - name: deploy
-        uses: peaceiris/actions-gh-pages@v2.2.0
+        # uses: peaceiris/actions-gh-pages@v2.2.0
+        uses: docker://peaceiris/gh-pages:v2.3.2
         if: success()
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: ./dist
