@@ -63,6 +63,7 @@ d3.csv("data.csv").then(function(data) {
   //Define values (to be used in charts)
 	var minDate = dateDim.bottom(1)[0].dd;
 	var maxDate = dateDim.top(1)[0].dd;
+  maxDate.setDate(maxDate.getDate()+1);
   var monthFormat = d3.timeFormat("%B %Y");
 	var month = monthFormat(dateDim.top(1)[0].dd);
 
@@ -228,3 +229,29 @@ d3.csv("data.csv").then(function(data) {
 
   dc.renderAll();
 })
+
+
+document.addEventListener('DOMContentLoaded', () => {
+
+  // Get all "navbar-burger" elements
+  const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+  // Check if there are any navbar burgers
+  if ($navbarBurgers.length > 0) {
+
+    // Add a click event on each of them
+    $navbarBurgers.forEach( el => {
+      el.addEventListener('click', () => {
+
+        // Get the target from the "data-target" attribute
+        const target = el.dataset.target;
+        const $target = document.getElementById(target);
+
+        // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+        el.classList.toggle('is-active');
+        $target.classList.toggle('is-active');
+
+      });
+    });
+  }
+});
