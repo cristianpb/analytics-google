@@ -1,7 +1,7 @@
 country,countryIsoCode,city,date,device,source,pagePath,sessions
+(not set),ZZ,(not set),20191009,desktop,google,/blog/monitoring-grafana,1
 Argentina,AR,Buenos Aires,20191002,desktop,google,/blog/image-rotation-opencv,1
 Argentina,AR,Buenos Aires,20191003,desktop,google,/blog/ssd-yolo,1
-Australia,AU,Perth,20191001,desktop,google,/blog/ssd-yolo,1
 Australia,AU,Perth,20191008,desktop,google,/blog/ssd-yolo,1
 Austria,AT,Vienna,20191005,desktop,google,/blog/monitoring-grafana,1
 Bahrain,BH,Manama,20191003,mobile,google,/blog/ssd-yolo,1
@@ -16,58 +16,60 @@ Brazil,BR,Sao Paulo,20191008,desktop,google,/blog/image-rotation-opencv,2
 Brazil,BR,Uberlandia,20191002,desktop,(direct),/blog/image-rotation-opencv,1
 Brazil,BR,Uberlandia,20191003,desktop,(direct),/blog/image-rotation-opencv,1
 Canada,CA,Calgary,20191003,mobile,google,/about/,1
-Canada,CA,Kitchener,20191001,desktop,google,/blog/ssd-yolo,1
 Canada,CA,Montreal,20191002,desktop,google,/blog/monitoring-grafana,1
-Canada,CA,Ottawa,20191001,desktop,google,/blog/ssd-yolo,1
 Canada,CA,Toronto,20191003,desktop,blog.paperspace.com,/blog/image-rotation-opencv,1
 Canada,CA,Toronto,20191008,desktop,google,/blog/ssd-yolo,1
-Chile,CL,Santiago,20191001,desktop,google,/blog/ssd-yolo,1
 Chile,CL,Santiago,20191006,desktop,google,/blog/ssd-yolo,1
+China,CN,(not set),20191009,desktop,cn.bing.com,/blog/image-rotation-opencv,1
 China,CN,Beijing,20191008,desktop,cn.bing.com,/blog/ssd-yolo,1
 China,CN,Nanjing,20191008,desktop,cn.bing.com,/blog/ssd-yolo,1
 China,CN,Shenzhen,20191008,desktop,cn.bing.com,/blog/ssd-yolo,1
+Croatia,HR,Zagreb,20191009,desktop,google,/blog/bulma-amp,1
 Czechia,CZ,Olomouc,20191007,desktop,google,/blog/image-rotation-opencv,1
+Czechia,CZ,Pilsen,20191009,desktop,google,/blog/ssd-yolo,1
 Denmark,DK,Rodovre,20191008,desktop,google,/blog/image-rotation-opencv,1
+Estonia,EE,Tallinn,20191009,desktop,google,/blog/ssd-yolo,1
 Finland,FI,Espoo,20191008,desktop,google,/blog/ssd-yolo,1
 France,FR,Annecy,20191007,desktop,google,/blog/ssd-yolo,1
 France,FR,Antony,20191008,desktop,entrepreneur-interet-general.etalab.gouv.fr,/,1
 France,FR,Antony,20191008,desktop,google,/about/,1
+France,FR,Arles,20191009,desktop,google,/blog/monitoring-grafana,1
 France,FR,Dijon,20191004,mobile,google,/blog/music-voice-cotrol,2
 France,FR,Epinay-sur-Orge,20191007,desktop,google,/blog/image-preprocessing,1
 France,FR,Nantes,20191007,desktop,google,/blog/ssd-yolo,1
-France,FR,Paris,20191001,desktop,google,/blog/ssd-yolo,1
+France,FR,Oullins,20191009,desktop,google,/blog/bulma-amp,1
 France,FR,Paris,20191006,mobile,(direct),/blog/analytics-google,1
 France,FR,Paris,20191006,mobile,google,/,1
 France,FR,Paris,20191008,mobile,(direct),/,1
 France,FR,Paris,20191008,mobile,(direct),/blog/music-voice-cotrol,1
 France,FR,Paris,20191008,mobile,google,/about/,1
-France,FR,Plouzane,20191001,desktop,(direct),/blog/image-rotation-opencv,1
 France,FR,Plouzane,20191007,desktop,google,/blog/image-rotation-opencv,1
+France,FR,Plouzane,20191009,desktop,google,/blog/image-rotation-opencv,1
+France,FR,Saint-Tropez,20191009,desktop,google,/blog/image-rotation-opencv,1
 Gabon,GA,Libreville,20191003,desktop,google,/blog/ssd-yolo,1
 Germany,DE,Berlin,20191008,mobile,google,/blog/ssd-yolo,1
+Germany,DE,Hamburg,20191009,desktop,ecosia.org,/blog/image-rotation-opencv,1
 Germany,DE,Karlsruhe,20191003,mobile,(direct),/blog/ssd-yolo,1
 Germany,DE,Munich,20191007,desktop,google,/blog/tags.html,1
 Germany,DE,Rosenheim,20191004,desktop,(direct),/blog/monitoring-grafana,1
 Germany,DE,Siegen,20191002,desktop,google,/blog/image-rotation-opencv,1
-Germany,DE,Tubingen,20191001,desktop,google,/blog/image-rotation-opencv,1
 Greece,GR,(not set),20191008,desktop,google,/blog/ssd-yolo,1
 Greece,GR,Thessaloniki,20191004,desktop,(direct),/blog/image-rotation-opencv,1
 Hong Kong,HK,(not set),20191005,desktop,(direct),/blog/image-rotation-opencv,1
-India,IN,(not set),20191001,desktop,google,/blog/image-rotation-opencv,1
-India,IN,Ahmedabad,20191001,desktop,google,/blog/image-rotation-opencv,1
-India,IN,Bengaluru,20191001,desktop,google,/blog/image-rotation-opencv,1
+Hong Kong,HK,(not set),20191009,desktop,google,/blog/document-detection,1
 India,IN,Bengaluru,20191002,desktop,duckduckgo,/blog/ssd-yolo,1
 India,IN,Chennai,20191005,desktop,(direct),/blog/image-rotation-opencv,1
 India,IN,Chennai,20191005,desktop,google,/blog/ssd-yolo,1
+India,IN,Chennai,20191009,desktop,google,/blog/image-rotation-opencv,1
 India,IN,Delhi,20191002,desktop,(direct),/blog/monitoring-grafana,1
 India,IN,Delhi,20191007,desktop,google,/blog/ssd-yolo,1
 India,IN,Dombivli,20191007,desktop,google,/blog/ssd-yolo,1
+India,IN,Dombivli,20191009,desktop,google,/blog/ssd-yolo,1
 India,IN,Hyderabad,20191003,desktop,google,/blog/monitoring-grafana,1
 India,IN,Jammu,20191004,desktop,google,/blog/ssd-yolo,1
 India,IN,Kochi,20191004,mobile,google,/blog/ssd-yolo,1
 India,IN,Kolkata,20191002,mobile,google,/blog/gnuplot-electrode,1
 India,IN,Mumbai,20191003,desktop,google,/blog/ssd-yolo,1
-India,IN,Nellore,20191001,desktop,google,/blog/ssd-yolo,1
 India,IN,New Delhi,20191003,desktop,google,/blog/ssd-yolo,1
 India,IN,Noida,20191003,desktop,google,/blog/image-rotation-opencv,1
 Indonesia,ID,Bekasi,20191002,desktop,google,/blog/ssd-yolo,1
@@ -86,17 +88,12 @@ Japan,JP,Yokkaichi,20191007,desktop,google,/blog/monitoring-grafana,1
 Japan,JP,Yokohama,20191003,desktop,google,/blog/image-rotation-opencv,1
 Japan,JP,Yokohama,20191008,mobile,google,/blog/bulma-amp,1
 Malaysia,MY,Kajang,20191004,desktop,google,/blog/ssd-yolo,1
-Malaysia,MY,Kuala Lumpur,20191001,mobile,github.com,/about/,1
 Malaysia,MY,Kuala Lumpur,20191002,tablet,google,/blog/ssd-yolo,1
 Malaysia,MY,Kuala Lumpur,20191004,desktop,google,/blog/ssd-yolo,1
-Malaysia,MY,Puchong,20191001,desktop,google,/,1
 Malaysia,MY,Puchong,20191003,desktop,google,/blog/ssd-yolo,1
-Malaysia,MY,Shah Alam,20191001,mobile,github.com,/,1
 Mexico,MX,Guadalajara,20191004,desktop,google,/blog/ssd-yolo,1
-Mexico,MX,Monterrey,20191001,desktop,google,/blog/image-preprocessing,1
 Myanmar (Burma),MM,Yangon,20191005,desktop,google,/blog/ssd-yolo,1
 Netherlands,NL,Bleiswijk,20191007,desktop,google,/blog/ssd-yolo,1
-Netherlands,NL,Utrecht,20191001,desktop,github.com,/blog/bulma-amp,2
 New Zealand,NZ,Queenstown,20191002,desktop,(direct),/blog/ssd-yolo,1
 Pakistan,PK,Islamabad,20191005,desktop,google,/blog/ssd-yolo,1
 Pakistan,PK,Islamabad,20191006,desktop,(direct),/blog/ssd-yolo,1
@@ -109,6 +106,7 @@ Pakistan,PK,Karachi,20191002,desktop,google,/blog/ssd-yolo,2
 Pakistan,PK,Lahore,20191006,desktop,google,/blog/image-rotation-opencv,1
 Pakistan,PK,Lahore,20191008,desktop,(direct),/blog/image-rotation-opencv,2
 Pakistan,PK,Lahore,20191008,desktop,google,/blog/image-rotation-opencv,1
+Pakistan,PK,Lahore,20191009,desktop,google,/blog/ssd-yolo,1
 Pakistan,PK,Rawalpindi,20191006,desktop,(direct),/blog/ssd-yolo,1
 Philippines,PH,Butuan City,20191004,desktop,google,/blog/ssd-yolo,1
 Philippines,PH,Cotabato City,20191003,desktop,google,/blog/ssd-yolo,1
@@ -120,17 +118,13 @@ Russia,RU,Moscow,20191003,desktop,google,/blog/image-rotation-opencv,1
 Russia,RU,Nizhny Novgorod,20191003,desktop,google,/blog/image-rotation-opencv,1
 Russia,RU,Novosibirsk,20191007,mobile,google,/blog/ssd-yolo,1
 Russia,RU,Saint Petersburg,20191007,mobile,google,/blog/ssd-yolo,1
-Russia,RU,Tula,20191001,desktop,(direct),/blog/image-rotation-opencv,1
 Saudi Arabia,SA,Jeddah,20191006,desktop,google,/blog/ssd-yolo,1
 Singapore,SG,(not set),20191002,desktop,google,/blog/ssd-yolo,1
 Singapore,SG,(not set),20191008,desktop,google,/blog/ssd-yolo,1
 Slovenia,SI,Ljubljana,20191008,desktop,google,/blog/bulma-amp,1
-South Africa,ZA,Sandton,20191001,desktop,google,/blog/bulma-amp,1
-South Korea,KR,Seoul,20191001,desktop,google,/blog/ssd-yolo,1
 South Korea,KR,Seoul,20191002,mobile,google,/blog/ssd-yolo,1
 South Korea,KR,Seoul,20191004,mobile,google,/blog/ssd-yolo,1
 South Korea,KR,Seoul,20191008,desktop,google,/blog/ssd-yolo,1
-South Korea,KR,Suwon-si,20191001,desktop,google,/blog/image-rotation-opencv,1
 Spain,ES,Alicante,20191003,desktop,(direct),/blog/motion-monitor-opencv,1
 Spain,ES,Alicante,20191003,desktop,(direct),/blog/ssd-yolo,1
 Spain,ES,Barcelona,20191002,desktop,google,/blog/monitoring-grafana,1
@@ -140,63 +134,66 @@ Spain,ES,Madrid,20191007,desktop,google,/blog/ssd-yolo,1
 Spain,ES,Tarragona,20191002,desktop,google,/blog/music-voice-cotrol,1
 Spain,ES,Valencia,20191008,desktop,medium.com,/blog/monitoring-grafana,1
 Spain,ES,Vigo,20191007,desktop,google,/blog/ssd-yolo,1
-Sri Lanka,LK,Sri Jayawardenepura Kotte,20191001,desktop,google,/blog/ssd-yolo,1
 Sweden,SE,Lulea,20191007,desktop,google,/blog/ssd-yolo,1
-Sweden,SE,Stockholm,20191001,desktop,medium.com,/blog/monitoring-grafana,1
 Taiwan,TW,(not set),20191005,desktop,google,/blog/monitoring-grafana,1
-Taiwan,TW,Zhongli District,20191001,desktop,google,/blog/ssd-yolo,1
 Taiwan,TW,Zhubei City,20191006,mobile,google,/blog/ssd-yolo,1
 Thailand,TH,Ban Du,20191004,desktop,(direct),/blog/ssd-yolo,1
 Thailand,TH,Bangkok,20191006,desktop,google,/blog/ssd-yolo,1
 Thailand,TH,Bangkok,20191007,desktop,(direct),/blog/ssd-yolo,1
+Thailand,TH,Bangkok,20191009,desktop,google,/blog/image-rotation-opencv,1
 Thailand,TH,Khlong Sam,20191007,mobile,google,/blog/ssd-yolo,1
 Thailand,TH,Laem Chabang,20191004,desktop,google,/blog/ssd-yolo,2
 Thailand,TH,Laem Chabang,20191005,desktop,google,/blog/ssd-yolo,2
 Thailand,TH,Pak Kret,20191006,desktop,google,/blog/image-rotation-opencv,2
-Turkey,TR,Ankara,20191001,desktop,google,/blog/ssd-yolo,1
+Turkey,TR,Eskisehir,20191009,desktop,google,/blog/image-rotation-opencv,1
 Turkey,TR,Gaziantep,20191008,mobile,google,/blog/image-rotation-opencv,1
 Turkey,TR,Istanbul,20191004,desktop,google,/blog/ssd-yolo,1
 Ukraine,UA,Lviv,20191008,desktop,google,/blog/image-rotation-opencv,1
 United Arab Emirates,AE,Abu Dhabi,20191002,desktop,google,/blog/ssd-yolo,1
 United Kingdom,GB,(not set),20191003,desktop,google,/blog/ssd-yolo,1
 United Kingdom,GB,(not set),20191006,desktop,google,/blog/ssd-yolo,1
-United Kingdom,GB,Farnborough,20191001,desktop,medium.com,/blog/monitoring-grafana,1
 United Kingdom,GB,Guildford,20191003,desktop,google,/blog/bulma-amp,1
 United Kingdom,GB,Guildford,20191006,desktop,google,/,1
 United Kingdom,GB,London,20191007,desktop,google,/blog/ssd-yolo,2
+United Kingdom,GB,Milton Keynes,20191009,desktop,google,/blog/bulma-amp,1
 United Kingdom,GB,Newcastle upon Tyne,20191008,desktop,google,/blog/ssd-yolo,1
 United Kingdom,GB,Reading,20191007,desktop,google,/blog/ssd-yolo,1
+United States,US,(not set),20191009,desktop,(direct),/blog/monitoring-grafana,3
+United States,US,(not set),20191009,desktop,google,/blog/ssd-yolo,1
 United States,US,Altus,20191007,desktop,duckduckgo,/blog/motion-monitor-opencv,1
 United States,US,Annapolis,20191004,desktop,google,/blog/image-rotation-opencv,1
 United States,US,Ashburn,20191003,desktop,(direct),/about/,1
 United States,US,Ashburn,20191006,desktop,(direct),/about/,1
 United States,US,Ashburn,20191006,desktop,(direct),/blog/external,1
+United States,US,Bellevue,20191009,desktop,bing,/blog/image-rotation-opencv,1
 United States,US,Brownsville,20191002,desktop,google,/blog/ssd-yolo,1
 United States,US,Chattanooga,20191003,desktop,google,/blog/ssd-yolo,1
 United States,US,Chicago,20191002,mobile,(direct),/blog/grafana-dashboard,1
 United States,US,Columbus,20191002,desktop,(direct),/,1
 United States,US,Dallas,20191007,desktop,(direct),/blog/grafana-dashboard,1
-United States,US,Dayton,20191001,desktop,google,/blog/image-rotation-opencv,1
 United States,US,Delta charter Township,20191008,desktop,google,/blog/monitoring-grafana,1
 United States,US,Devault,20191004,mobile,google,/blog/ssd-yolo,1
 United States,US,East Hanover,20191007,desktop,google,/blog/monitoring-grafana,1
 United States,US,El Paso,20191008,desktop,google,/blog/ssd-yolo,1
 United States,US,Iowa City,20191008,mobile,blog-paperspace-com.cdn.ampproject.org,/blog/image-rotation-opencv,1
-United States,US,Irvine,20191001,desktop,facebook.com,/?fbclid=IwAR3BXoQqH4uk84wQ37Nw9iJz0uQI0UKcLz_cdCeMrxeuiV5brRibHykWjiA,1
 United States,US,Marina del Rey,20191006,desktop,google,/blog/gnuplot-electrode,1
 United States,US,Miami,20191004,desktop,google,/blog/image-rotation-opencv,1
 United States,US,Nashville,20191005,mobile,google,/,1
+United States,US,Nashville,20191009,desktop,google,/blog/document-detection,1
 United States,US,New York,20191008,desktop,google,/blog/monitoring-grafana,1
 United States,US,Orange,20191008,desktop,google,/blog/ssd-yolo,1
 United States,US,Pittsburgh,20191002,desktop,google,/blog/image-rotation-opencv,1
 United States,US,San Diego,20191003,tablet,google,/blog/ssd-yolo,1
 United States,US,San Francisco,20191008,mobile,google,/blog/ssd-yolo,1
 United States,US,San Jose,20191008,desktop,(direct),/blog/image-rotation-opencv,1
+United States,US,San Jose,20191009,desktop,(direct),/blog/image-rotation-opencv,1
 United States,US,Seattle,20191002,desktop,google,/blog/image-rotation-opencv,1
 United States,US,Sunnyvale,20191005,desktop,google,/blog/image-rotation-opencv,1
 United States,US,Tempe,20191002,desktop,google,/blog/image-rotation-opencv,1
 United States,US,Tempe,20191003,desktop,(direct),/blog/image-rotation-opencv,1
 United States,US,Tempe,20191003,desktop,google,/blog/image-rotation-opencv,1
+Vietnam,VN,(not set),20191009,desktop,google,/blog/ssd-yolo,1
+Vietnam,VN,(not set),20191009,tablet,za.zalo.me,/blog/motion-monitor-opencv,1
 Vietnam,VN,Ca Mau,20191004,mobile,zalo,/blog/motion-monitor-opencv?zarsrc=30,1
 Vietnam,VN,Da Nang,20191003,desktop,google,/blog/image-rotation-opencv,1
 Vietnam,VN,Hai Phong,20191004,desktop,google,/blog/ssd-yolo,1
@@ -204,6 +201,7 @@ Vietnam,VN,Hai Phong,20191007,desktop,google,/blog/image-rotation-opencv,1
 Vietnam,VN,Hanoi,20191002,desktop,google,/blog/image-rotation-opencv,1
 Vietnam,VN,Hanoi,20191003,desktop,(direct),/blog/image-rotation-opencv,1
 Vietnam,VN,Hanoi,20191004,mobile,google,/blog/ssd-yolo,1
+Vietnam,VN,Hanoi,20191009,desktop,google,/blog/image-rotation-opencv,1
 Vietnam,VN,Ho Chi Minh City,20191004,desktop,google,/blog/document-detection,1
 Vietnam,VN,Ho Chi Minh City,20191004,desktop,google,/blog/image-rotation-opencv,1
 Vietnam,VN,Ho Chi Minh City,20191004,desktop,google,/blog/ssd-yolo,1
