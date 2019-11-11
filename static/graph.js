@@ -115,7 +115,7 @@ d3.csv("data.csv").then(function(data) {
     //.valueAccessor(function(d) {return +d.value;});
   timeChart
     .xAxis()
-    .tickFormat(d3.timeFormat('%d')).ticks(7);
+    .tickFormat(d3.timeFormat('%a %d')).ticks(7);
 
   deviceChart
     .width(300)
@@ -228,6 +228,11 @@ d3.csv("data.csv").then(function(data) {
   });
 
   dc.renderAll();
+
+  var parentDOM = document.getElementById("search");
+  var testTarget=parentDOM.getElementsByClassName("dc-text-filter-input")[0];
+  testTarget.classList.add("input")
+
 })
 
 
