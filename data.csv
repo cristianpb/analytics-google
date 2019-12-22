@@ -2,7 +2,6 @@ country,countryIsoCode,city,date,device,source,pagePath,sessions
 Armenia,AM,Yerevan,20191216,desktop,google,/blog/image-rotation-opencv,1
 Australia,AU,Melton,20191221,mobile,(direct),/blog/raspberry-video-stream,1
 Australia,AU,Perth,20191218,desktop,google,/blog/image-rotation-opencv,1
-Australia,AU,Sydney,20191214,desktop,(direct),/blog/image-rotation-opencv,1
 Australia,AU,Townsville,20191220,desktop,(direct),/blog/ssd-yolo,1
 Austria,AT,Vienna,20191219,desktop,google,/blog/bulma-amp,1
 Belgium,BE,Beringen,20191217,desktop,google,/blog/monitoring-grafana,1
@@ -19,15 +18,14 @@ China,CN,Beijing,20191215,desktop,bing,/blog/ssd-yolo,1
 China,CN,Beijing,20191217,desktop,(direct),/blog/grafana-dashboard,1
 China,CN,Wuhan,20191218,desktop,cn.bing.com,/blog/ssd-yolo,1
 China,CN,Wuhan,20191218,desktop,google,/blog/ssd-yolo,1
-Colombia,CO,Medellin,20191214,desktop,google,/blog/gnuplot-electrode,2
 Finland,FI,Espoo,20191219,desktop,google,/blog/ssd-yolo,1
 Finland,FI,Jyvaskyla sub-region,20191220,desktop,(direct),/blog/raspberry-video-stream,1
 Finland,FI,Rauma,20191217,mobile,google,/blog/ssd-yolo,1
 France,FR,(not set),20191219,tablet,google,/blog/grafana-dashboard,1
+France,FR,Chatou,20191222,mobile,(direct),/blog/ssd-yolo,2
+France,FR,Grenoble,20191222,desktop,entrepreneur-interet-general.etalab.gouv.fr,/,1
 France,FR,Merignac,20191219,desktop,feedburner,/blog/raspberry-video-stream,1
 France,FR,Nice,20191220,desktop,google,/,1
-France,FR,Paris,20191214,mobile,feedburner,/,1
-France,FR,Paris,20191214,mobile,google,/blog/velib-folium,1
 France,FR,Paris,20191215,mobile,feedburner,/,1
 France,FR,Paris,20191217,desktop,google,/blog/image-rotation-opencv,1
 France,FR,Paris,20191217,mobile,feedburner,/,1
@@ -40,8 +38,12 @@ France,FR,Paris,20191218,mobile,reddit.com,/blog/raspberry-video-stream,1
 France,FR,Paris,20191220,mobile,feedburner,/blog/raspberry-video-stream,1
 France,FR,Paris,20191221,desktop,feedburner,/blog/motion-monitor-opencv,1
 France,FR,Paris,20191221,mobile,linkedin.com,/blog/ssd-yolo,2
+France,FR,Paris,20191222,desktop,entrepreneur-interet-general.etalab.gouv.fr,/,1
+France,FR,Paris,20191222,mobile,(direct),/blog/snips-relay-lights,1
 France,FR,Rennes,20191221,desktop,google,/blog/image-rotation-opencv,1
+France,FR,Tourcoing,20191222,mobile,linkedin.com,/blog/ssd-yolo,1
 Germany,DE,Berlin,20191218,mobile,(direct),/blog/raspberry-video-stream,1
+Germany,DE,Berlin,20191222,desktop,hackster.io,/blog/music-voice-cotrol,1
 Germany,DE,Bielefeld,20191219,desktop,google,/blog/image-rotation-opencv,1
 Germany,DE,Cologne,20191216,desktop,google,/blog/image-rotation-opencv,1
 Germany,DE,Cologne,20191219,desktop,blog.paperspace.com,/blog/image-rotation-opencv,1
@@ -50,7 +52,6 @@ Germany,DE,Friedrichshafen,20191217,desktop,google,/blog/image-rotation-opencv,1
 Germany,DE,Hamburg,20191219,mobile,(direct),/blog/raspberry-video-stream,1
 Germany,DE,Ingolstadt,20191219,desktop,google,/blog/ssd-yolo,1
 Germany,DE,Julich,20191219,desktop,google,/blog/gnuplot-electrode,1
-Germany,DE,Luneburg,20191214,desktop,hackster.io,/blog/music-voice-cotrol,1
 Germany,DE,Munich,20191216,desktop,google,/blog/image-rotation-opencv,1
 Germany,DE,Munich,20191217,desktop,google,/blog/image-rotation-opencv,1
 Germany,DE,Munich,20191217,desktop,medium.com,/blog/monitoring-grafana,1
@@ -59,6 +60,7 @@ Hong Kong,HK,(not set),20191217,desktop,google,/blog/ssd-yolo,1
 Hong Kong,HK,(not set),20191218,desktop,google,/blog/ssd-yolo,1
 Hong Kong,HK,(not set),20191219,desktop,google,/blog/ssd-yolo,1
 Hungary,HU,Budapest,20191217,desktop,google,/blog/monitoring-grafana,1
+India,IN,(not set),20191222,desktop,google,/blog/gnuplot-electrode,1
 India,IN,Ahmedabad,20191220,desktop,(direct),/blog/image-rotation-opencv,1
 India,IN,Bengaluru,20191217,desktop,(direct),/blog/image-rotation-opencv,3
 India,IN,Bengaluru,20191217,desktop,google,/blog/monitoring-grafana,1
@@ -67,7 +69,6 @@ India,IN,Bengaluru,20191218,desktop,(direct),/blog/image-rotation-opencv,1
 India,IN,Bengaluru,20191218,desktop,google,/blog/image-rotation-opencv,1
 India,IN,Bengaluru,20191220,desktop,google,/blog/image-rotation-opencv,1
 India,IN,Chennai,20191219,desktop,google,/blog/image-rotation-opencv,1
-India,IN,Hyderabad,20191214,desktop,(direct),/amp?episode=,1
 India,IN,Hyderabad,20191218,desktop,google,/blog/monitoring-grafana,1
 India,IN,Indore,20191218,desktop,google,/blog/image-rotation-opencv,1
 India,IN,Mumbai,20191221,desktop,google,/blog/ssd-yolo,1
@@ -77,12 +78,10 @@ India,IN,Thiruvananthapuram,20191216,desktop,google,/blog/image-rotation-opencv,
 Indonesia,ID,Denpasar,20191216,desktop,blog.paperspace.com,/blog/image-rotation-opencv,1
 Indonesia,ID,Jakarta,20191219,desktop,duckduckgo,/blog/ssd-yolo,1
 Indonesia,ID,Tulungagung,20191215,desktop,google,/blog/analytics-google,1
-Indonesia,ID,Yogyakarta,20191214,mobile,google,/blog/image-rotation-opencv,2
 Indonesia,ID,Yogyakarta,20191219,desktop,bing,/blog/ssd-yolo,1
 Iraq,IQ,Baghdad,20191217,desktop,google,/blog/ssd-yolo,1
 Ireland,IE,Dublin,20191216,mobile,google,/blog/ssd-yolo,1
 Israel,IL,Tel Aviv-Yafo,20191218,desktop,(direct),/blog/image-rotation-opencv,1
-Italy,IT,Cremona,20191214,desktop,google,/blog/ssd-yolo,1
 Japan,JP,Chiyoda City,20191218,desktop,google,/blog/ssd-yolo,1
 Japan,JP,Osaka,20191218,desktop,cn.bing.com,/blog/ssd-yolo,1
 Japan,JP,Shinagawa City,20191218,desktop,medium.com,/blog/monitoring-grafana,1
@@ -106,10 +105,14 @@ South Korea,KR,Hwaseong-si,20191218,desktop,(direct),/blog/monitoring-grafana,1
 South Korea,KR,Jangseong-gun,20191217,desktop,google,/blog/ssd-yolo,1
 South Korea,KR,Seoul,20191218,desktop,(direct),/blog/image-rotation-opencv,1
 Spain,ES,Barcelona,20191218,desktop,feedly.com,/blog/raspberry-video-stream,1
+Spain,ES,Barcelona,20191222,desktop,duckduckgo,/blog/image-rotation-opencv,1
 Spain,ES,Basauri,20191220,desktop,google,/blog/bulma-amp,1
 Spain,ES,Madrid,20191217,desktop,google,/blog/ssd-yolo,1
 Spain,ES,Madrid,20191219,desktop,google,/blog/grafana-dashboard,1
 Spain,ES,Madrid,20191220,desktop,google,/blog/ssd-yolo,1
+Spain,ES,Madrid,20191222,desktop,bing,/blog/monitoring-grafana,1
+Spain,ES,Madrid,20191222,desktop,linkedin.com,/blog/ssd-yolo,1
+Spain,ES,Madrid,20191222,mobile,linkedin.com,/blog/ssd-yolo,1
 Spain,ES,Murcia,20191219,desktop,getpocket.com,/blog/ssd-yolo,1
 Spain,ES,Palma,20191218,desktop,google,/blog/ssd-yolo,1
 Spain,ES,Zaragoza,20191217,desktop,google,/blog/gnuplot-electrode,1
@@ -117,12 +120,15 @@ Sweden,SE,Stockholm,20191216,desktop,(direct),/blog/image-rotation-opencv,1
 Switzerland,CH,Montreux,20191221,desktop,google,/blog/ssd-yolo,1
 Taiwan,TW,(not set),20191221,desktop,(direct),/blog/image-rotation-opencv,1
 Taiwan,TW,(not set),20191221,desktop,facebook.com,/blog/image-rotation-opencv?fbclid=IwAR0jVydsVA7kTPbM22b39puZ1Mtki5QU-y51lOaw6fqCo022CtYA2cv03I0,1
+Taiwan,TW,(not set),20191222,desktop,facebook.com,/blog/image-rotation-opencv?fbclid=IwAR3Ii2WyzoSCjv16Tm0mJ78XWCqKcFZ1pnE21dQ9d25mKMUXnM4pRaUeups,1
+Taiwan,TW,(not set),20191222,desktop,facebook.com,/blog/image-rotation-opencv?fbclid=IwAR3tIDKVgbEIAAl1PzW63QjqvHpbhAnDjAFdibUbm0LJA5sgHEFrSH4d8RQ,2
+Taiwan,TW,(not set),20191222,desktop,l.facebook.com,/blog/image-rotation-opencv?fbclid=IwAR3iQABwikqoejyXLpFJ6se9SNNBosmDmBPVa2yGaZw-TgANpJElAPlZZFo,1
+Taiwan,TW,Zhongli District,20191222,desktop,(direct),/blog/image-rotation-opencv?fbclid=IwAR3tIDKVgbEIAAl1PzW63QjqvHpbhAnDjAFdibUbm0LJA5sgHEFrSH4d8RQ,1
 Turkey,TR,Istanbul,20191216,desktop,google,/blog/image-rotation-opencv,1
 Ukraine,UA,Cherkasy,20191217,desktop,google,/blog/monitoring-grafana,1
 Ukraine,UA,Kherson,20191215,mobile,(direct),/blog/snips-relay-lights,1
 Ukraine,UA,Kyiv,20191217,desktop,(direct),/blog/image-rotation-opencv,2
 United Kingdom,GB,London,20191221,mobile,(direct),/blog/raspberry-video-stream,1
-United States,US,(not set),20191214,desktop,google,/blog/ssd-yolo,1
 United States,US,(not set),20191219,desktop,bing,/blog/ssd-yolo,1
 United States,US,(not set),20191219,desktop,google,/blog/ssd-yolo,1
 United States,US,Alpharetta,20191216,desktop,google,/blog/image-rotation-opencv,1
@@ -135,19 +141,19 @@ United States,US,Clifton,20191218,desktop,google,/blog/image-rotation-opencv,1
 United States,US,Clifton,20191219,desktop,google,/blog/image-rotation-opencv,1
 United States,US,Clifton,20191219,desktop,google,/blog/image-rotation-opencv.,1
 United States,US,Cookeville,20191219,desktop,google,/blog/ssd-yolo,1
-United States,US,Cupertino,20191214,desktop,(direct),/blog/image-rotation-opencv,1
 United States,US,Cupertino,20191216,desktop,(direct),/blog/image-rotation-opencv,1
 United States,US,Dallas,20191220,mobile,(direct),/blog/raspberry-video-stream,1
-United States,US,Epping,20191214,mobile,duckduckgo,/blog/snips-relay-lights,1
 United States,US,Eugene,20191218,desktop,duckduckgo,/blog/monitoring-grafana,1
 United States,US,Irvine,20191221,mobile,m.facebook.com,/blog/image-rotation-opencv?fbclid=IwAR01dbaX8pN5aB9p7M43Ke0y7MeJCh-YrS1ftUe8u6t5j9Qmxs0XK8nEntw,1
+United States,US,Jasper,20191222,desktop,(direct),/blog/raspberry-video-stream,1
 United States,US,Kingston,20191218,mobile,google,/blog/ssd-yolo,1
+United States,US,Lewiston,20191222,mobile,google,/blog/image-rotation-opencv,1
 United States,US,Mountain View,20191219,desktop,blog.paperspace.com,/blog/image-rotation-opencv,1
+United States,US,Mountain View,20191222,mobile,google,/blog/ssd-yolo,2
 United States,US,New Haven,20191219,mobile,(direct),/blog/raspberry-video-stream,1
 United States,US,New York,20191215,desktop,(direct),/blog/motion-monitor-opencv,1
 United States,US,New York,20191215,desktop,google,/blog/image-rotation-opencv,1
 United States,US,New York,20191217,desktop,google,/,1
-United States,US,Orem,20191214,desktop,google,/blog/monitoring-grafana,1
 United States,US,Phoenix,20191218,mobile,(direct),/blog/raspberry-video-stream,1
 United States,US,Pontiac,20191220,desktop,google,/blog/ssd-yolo,1
 United States,US,Redmond,20191217,desktop,google,/blog/ssd-yolo,1
@@ -156,12 +162,13 @@ United States,US,San Jose,20191216,desktop,google,/blog/image-rotation-opencv,1
 United States,US,San Jose,20191218,desktop,google,/blog/image-rotation-opencv,1
 United States,US,Seattle,20191220,mobile,google,/blog/image-rotation-opencv,1
 United States,US,Sunnyvale,20191220,desktop,google,/blog/ssd-yolo,1
+United States,US,Warner Robins,20191221,desktop,(direct),/blog/raspberry-video-stream,1
 United States,US,Westlake,20191218,mobile,(direct),/blog/raspberry-video-stream,1
 United States,US,Winchester,20191216,desktop,duckduckgo,/blog/snips-relay-lights,1
 United States,US,Youngsville,20191218,mobile,(direct),/blog/raspberry-video-stream,1
 Vietnam,VN,Bien Hoa,20191216,desktop,google,/blog/image-rotation-opencv,1
 Vietnam,VN,Da Nang,20191221,desktop,blog.paperspace.com,/blog/image-rotation-opencv,1
-Vietnam,VN,Ho Chi Minh City,20191214,desktop,(direct),/blog/image-rotation-opencv,1
+Vietnam,VN,Da Nang,20191222,desktop,l.facebook.com,/blog/image-rotation-opencv?fbclid=IwAR0P0olm7ixOpkOX8f8ItASXCbLkD1RHNNvDsuPfLOE4PDljgk9NSDWBXr4,1
 Vietnam,VN,Ho Chi Minh City,20191218,desktop,blog.paperspace.com,/blog/image-rotation-opencv,1
 Vietnam,VN,Ho Chi Minh City,20191219,desktop,(direct),/blog/image-rotation-opencv,1
 Vietnam,VN,Ho Chi Minh City,20191221,desktop,(direct),/blog/image-rotation-opencv,1
