@@ -6,3 +6,10 @@ __pycache__
 static/css
 static/js
 static/geo
+
+# production
+public/build
+bundle.*
+
+# dependencies
+/node_modules
