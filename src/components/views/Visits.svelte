@@ -1,7 +1,7 @@
 <canvas id="visits-chart" on:click={handleClick}></canvas>
 
 <script>
-  import { data as dataCsv } from '../tools/stores.js';
+  import { data as dataCsv, results } from '../tools/stores.js';
   import { onMount } from "svelte";
   import Chart from "chart.js";
   let visits;
@@ -26,7 +26,7 @@
     });
   });
 
-  const unsubscribe = dataCsv.subscribe(myData => {
+  const unsubscribe = results.subscribe(myData => {
     if (myData.length > 0) {
       visits = myData.reduce((total, s) => {
         let day = `${s.dd.getFullYear()}${("0" + (s.dd.getMonth() + 1)).slice(-2)}${("0" + s.dd.getDate()).slice(-2)}`
@@ -52,7 +52,7 @@
     if (activePoints[0]) {
       const idx = activePoints[0]['_index'];
       console.log(idx);
-      dataCsv.update(v => v.filter(x => x.day === Object.keys(visits)[idx]))
+      $results = $dataCsv.filter(x => x.day === Object.keys(visits)[idx])
     }
   }
 

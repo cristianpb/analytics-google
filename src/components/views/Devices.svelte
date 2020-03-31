@@ -3,7 +3,7 @@
 <canvas id="devices-chart" on:click={handleClick}></canvas>
 
 <script>
-  import { data as dataCsv } from '../tools/stores.js';
+  import { data as dataCsv, results } from '../tools/stores.js';
   import { onMount } from "svelte";
   import Chart from "chart.js";
   let devices;
@@ -29,7 +29,7 @@
     });
   });
 
-  const unsubscribe = dataCsv.subscribe(myData => {
+  const unsubscribe = results.subscribe(myData => {
     if (myData.length > 0) {
       devices = myData.reduce((total, s) => {
         if (s.device in total) {
@@ -56,7 +56,7 @@
     const activePoints = devicesChart.getElementsAtEvent(event);
     if (activePoints[0]) {
       const idx = activePoints[0]['_index'];
-      dataCsv.update(v => v.filter(x => x.device === Object.keys(devices)[idx]))
+      $results = $dataCsv.filter(x => x.device === Object.keys(devices)[idx])
     }
   }
 

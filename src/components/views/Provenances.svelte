@@ -3,7 +3,7 @@
 <canvas id="provenances-chart" on:click={handleClick}></canvas>
 
 <script>
-  import { data as dataCsv } from '../tools/stores.js';
+  import { data as dataCsv, results } from '../tools/stores.js';
   import { onMount } from "svelte";
   import Chart from "chart.js";
   let provenances;
@@ -28,7 +28,7 @@
     });
   });
 
-  const unsubscribe = dataCsv.subscribe(myData => {
+  const unsubscribe = results.subscribe(myData => {
     if (myData.length > 0) {
       provenances = myData.reduce((total, s) => {
         if (s.source in total) {
@@ -55,7 +55,7 @@
     const activePoints = provenancesChart.getElementsAtEvent(event);
     if (activePoints[0]) {
       const idx = activePoints[0]['_index'];
-      dataCsv.update(v => v.filter(x => x.source === Object.keys(provenances)[idx]))
+      $results = $dataCsv.filter(x => x.source === Object.keys(provenances)[idx])
     }
   }
 

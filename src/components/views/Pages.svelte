@@ -3,7 +3,7 @@
 <canvas id="pages-chart" on:click={handleClick}></canvas>
 
 <script>
-  import { data as dataCsv } from '../tools/stores.js';
+  import { data as dataCsv, results } from '../tools/stores.js';
   import { onMount } from "svelte";
   import Chart from "chart.js";
   let pages;
@@ -28,7 +28,7 @@
     });
   });
 
-  const unsubscribe = dataCsv.subscribe(myData => {
+  const unsubscribe = results.subscribe(myData => {
     if (myData.length > 0) {
       pages = myData.reduce((total, s) => {
         if (s.pagePath in total) {
@@ -71,7 +71,7 @@
     const activePoints = pagesChart.getElementsAtEvent(event);
     if (activePoints[0]) {
       const idx = activePoints[0]['_index'];
-      dataCsv.update(v => v.filter(x => x.pagePath === Object.keys(pages)[idx]))
+      $results = $dataCsv.filter(x => x.pagePath === Object.keys(pages)[idx])
     }
   }
 

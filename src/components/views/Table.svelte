@@ -32,11 +32,11 @@
 {/if}
 
 <script>
-  import { data as dataCsv } from '../tools/stores.js';
+  import { results } from '../tools/stores.js';
   
   let tableRows;
 
-  const unsubscribe = dataCsv.subscribe(myData => {
+  const unsubscribe = results.subscribe(myData => {
     if (myData.length > 0) {
       tableRows = myData.slice(0,20)
     }

@@ -1,8 +1,7 @@
 import { csv, timeParse } from 'd3';
-import { data } from './stores.js';
 
 export function loadCsv() {
-  csv('data.csv', (d) => {
+  return csv('data.csv', (d) => {
     return {
       dd: dateFormatParser(d.date),
       day: d.date,
@@ -14,8 +13,6 @@ export function loadCsv() {
       source: d.source,
       sessions: +d.sessions
     };
-  }).then(myData => {
-    data.update(v => myData)
   })
 }
 

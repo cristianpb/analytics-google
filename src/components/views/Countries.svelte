@@ -3,7 +3,7 @@
 <canvas id="countries-chart" on:click={handleClick}></canvas>
 
 <script>
-  import { data as dataCsv } from '../tools/stores.js';
+  import { data as dataCsv, results } from '../tools/stores.js';
   import { onMount } from "svelte";
   import Chart from "chart.js";
   let countries;
@@ -28,7 +28,7 @@
     });
   });
 
-  const unsubscribe = dataCsv.subscribe(myData => {
+  const unsubscribe = results.subscribe(myData => {
     if (myData.length > 0) {
       countries = myData.reduce((total, s) => {
         if (s.country in total) {
@@ -71,7 +71,7 @@
     const activePoints = countriesChart.getElementsAtEvent(event);
     if (activePoints[0]) {
       const idx = activePoints[0]['_index'];
-      dataCsv.update(v => v.filter(x => x.country === Object.keys(countries)[idx]))
+      $results = $dataCsv.filter(x => x.country === Object.keys(countries)[idx])
     }
   }
 

@@ -1,17 +1,18 @@
-Filter: <input bind:value={searchTerm} on:keyup|preventDefault={updateSearch}/>
+Filter: <input bind:value={searchTerm} on:input|preventDefault={updateSearch}/>
 
 <script>
-  import { data as dataCsv } from '../tools/stores.js';
+  import { data as dataCsv, results } from '../tools/stores.js';
   import { loadCsv } from '../tools/getData';
 
 	let searchTerm = "";
+  
+  $results = $dataCsv
 
-  async function updateSearch() {
+  function updateSearch() {
     if (searchTerm) {
       console.log(searchTerm)
-      //loadCsv()
-      dataCsv.update(v => v.filter(x => (x.country.indexOf(searchTerm) !== -1) || (x.city.indexOf(searchTerm) !== -1) || (x.device.indexOf(searchTerm) !== -1) || (x.source.indexOf(searchTerm) !== -1)))
-    }
+      $results = $dataCsv.filter(x => (x.country.indexOf(searchTerm) !== -1) || (x.city.indexOf(searchTerm) !== -1) || (x.device.indexOf(searchTerm) !== -1) || (x.source.indexOf(searchTerm) !== -1))
+    } 
   }
 	
 </script>
