@@ -3,6 +3,8 @@
 </p>
 
 <Total/>
+<SearchBox/>
+<Table/>
 <Provenances/>
 <Devices/>
 <Map/>
@@ -12,10 +14,12 @@
 
 <script>
   import Total from './Total.svelte';
+  import SearchBox from './SearchBox.svelte';
   import Visits from './Visits.svelte';
   import Countries from './Countries.svelte';
   import Pages from './Pages.svelte';
   import Map from './Map.svelte';
   import Devices from './Devices.svelte';
   import Provenances from './Provenances.svelte';
+  import Table from './Table.svelte';
 </script>
