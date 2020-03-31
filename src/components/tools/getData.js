@@ -8,6 +8,7 @@ export function loadCsv() {
       day: d.date,
       country: d.country,
       pagePath: d.pagePath,
+      countryIsoCode: d.countryIsoCode,
       device: d.device,
       source: d.source,
       sessions: +d.sessions
