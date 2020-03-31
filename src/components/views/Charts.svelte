@@ -3,6 +3,7 @@
 </p>
 
 <Total/>
+<Provenances/>
 <Devices/>
 <Map/>
 <Visits/>
@@ -16,4 +17,5 @@
   import Pages from './Pages.svelte';
   import Map from './Map.svelte';
   import Devices from './Devices.svelte';
+  import Provenances from './Provenances.svelte';
 </script>
