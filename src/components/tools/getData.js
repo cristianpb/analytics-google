@@ -7,6 +7,7 @@ export function loadCsv() {
       dd: dateFormatParser(d.date),
       day: d.date,
       country: d.country,
+      pagePath: d.pagePath,
       device: d.device,
       source: d.source,
       sessions: +d.sessions

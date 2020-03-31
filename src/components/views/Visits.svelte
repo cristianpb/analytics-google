@@ -1,20 +1,32 @@
-<p>Visits: </p>
-
-{#if visits}
-  {#each Object.entries(visits) as visit}
-    <p on:click={event => onDelete(event)}>
-      {visit[0]}
-    </p>
-    <p>: {visit[1]}
-    </p>
-  {/each}
-{/if}
+<canvas id="visits-chart" on:click={handleClick}></canvas>
 
 <script>
-  import { data } from '../tools/stores.js';
+  import { data as dataCsv } from '../tools/stores.js';
+  import { onMount } from "svelte";
+  import Chart from "chart.js";
   let visits;
+  let visitChart;
 
-  const unsubscribe = data.subscribe(myData => {
+  onMount(async () => {
+    const ctx = document.getElementById("visits-chart").getContext("2d");
+    visitChart = new Chart(ctx, {
+      type: "line",
+      data: {
+        labels: [],
+        datasets: [
+          {
+            label: "My First dataset",
+            backgroundColor: "rgb(255, 99, 132)",
+            borderColor: "rgb(255, 99, 132)",
+            data: []
+          }
+        ]
+      },
+      options:{}
+    });
+  });
+
+  const unsubscribe = dataCsv.subscribe(myData => {
     if (myData.length > 0) {
       visits = myData.reduce((total, s) => {
         let day = `${s.dd.getFullYear()}${("0" + (s.dd.getMonth() + 1)).slice(-2)}${("0" + s.dd.getDate()).slice(-2)}`
@@ -25,18 +37,23 @@
         }
         return total
       }, {})
+      renderChart(Object.keys(visits),Object.values(visits))
     }
   })
 
-  function onDelete (event) {
-    // if it's a custom event you can get the properties passed to it:
-    const customEventData = event.detail
+  function renderChart(labels, data) {
+    visitChart.data.labels = labels
+    visitChart.data.datasets[0].data = data
+    visitChart.update();
+  }
 
-    // if you want the element, you guessed it:
-    const innerHTML = event.target.innerHTML
-    //console.log(customEventData);
-    console.log(innerHTML);
-    data.update(v => v.filter(x => x.day === innerHTML))
+  function handleClick(event) {
+    const activePoints = visitChart.getElementsAtEvent(event);
+    if (activePoints[0]) {
+      const idx = activePoints[0]['_index'];
+      console.log(idx);
+      dataCsv.update(v => v.filter(x => x.day === Object.keys(visits)[idx]))
+    }
   }
 
 </script>
