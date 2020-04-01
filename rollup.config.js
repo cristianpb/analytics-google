@@ -7,6 +7,7 @@ import sveltePreprocess from 'svelte-preprocess'
 import { terser } from 'rollup-plugin-terser';
 
 const production = !process.env.ROLLUP_WATCH;
+const BASEURL = process.env.BASEURL || '';
 
 const preprocessOptions = {
   scss: {
@@ -40,7 +41,8 @@ export default {
 		replace({
 			// you're right, you shouldn't be injecting this
 			// into a client script :)
-			__MAPBOX_TOKEN__: process.env.MAPBOX_TOKEN
+			__MAPBOX_TOKEN__: process.env.MAPBOX_TOKEN,
+			__BASEURL__: BASEURL
 		  }),
 		// If you have external dependencies installed from
 		// npm, you'll most likely need these plugins. In

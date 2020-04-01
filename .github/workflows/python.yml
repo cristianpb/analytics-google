@@ -42,6 +42,7 @@ jobs:
           make build
         env:
           MAPBOX_TOKEN: ${{ secrets.MAPBOX_TOKEN }}
+          BASEURL: '/analytics-google'
       - name: deploy to github pages
         if: success() && steps.extract_branch.outputs.branch == 'master'
         # uses: peaceiris/actions-gh-pages@v2.2.0

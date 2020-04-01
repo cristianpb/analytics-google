@@ -17,7 +17,7 @@
       container: 'map',
       style: 'mapbox://styles/mapbox/streets-v9'
     });
-    const res = await fetch(`/countries.geo.json`);
+    const res = await fetch(`__BASEURL__/countries.geo.json`);
     const countries = await res.json();
     const unsubscribe = dataCsv.subscribe(myData => {
       if (myData.length > 0) {
