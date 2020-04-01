@@ -3,9 +3,19 @@ import resolve from '@rollup/plugin-node-resolve';
 import replace from '@rollup/plugin-replace';
 import commonjs from '@rollup/plugin-commonjs';
 import livereload from 'rollup-plugin-livereload';
+import sveltePreprocess from 'svelte-preprocess'
 import { terser } from 'rollup-plugin-terser';
 
 const production = !process.env.ROLLUP_WATCH;
+
+const preprocessOptions = {
+  scss: {
+    includePaths: [
+      'node_modules',
+      'src'
+    ]
+  }
+}
 
 export default {
 	input: 'src/main.js',
@@ -19,11 +29,13 @@ export default {
 		svelte({
 			// enable run-time checks when not in production
 			dev: !production,
+      // Prepare scss
+      preprocess: sveltePreprocess(preprocessOptions),
 			// we'll extract any component CSS out into
 			// a separate file - better for performance
 			css: css => {
 				css.write('public/build/bundle.css');
-			}
+			},
 		}),
 		replace({
 			// you're right, you shouldn't be injecting this

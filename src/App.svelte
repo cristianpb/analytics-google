@@ -1,4 +1,3 @@
-
 <script>
   import { onMount } from 'svelte';
   import { loadCsv } from './components/tools/getData';
@@ -10,7 +9,6 @@
     console.log(myData);
     $dataCsv = myData
     $results = myData
-    console.log($results);
 	});
 
 
@@ -19,3 +17,7 @@
 <main>
   <Layout/>
 </main>
+
+<svelte:head>
+  <style src="./scss/global.scss"></style>
+</svelte:head>
