@@ -1,4 +1,4 @@
-Filter: <input bind:value={searchTerm} on:input|preventDefault={updateSearch}/>
+<input class="input"  type="text" placeholder="Search ex: Poland" bind:value={searchTerm} on:input|preventDefault={updateSearch}/>
 
 <script>
   import { data as dataCsv, results } from '../tools/stores.js';
@@ -11,8 +11,10 @@ Filter: <input bind:value={searchTerm} on:input|preventDefault={updateSearch}/>
   function updateSearch() {
     if (searchTerm) {
       console.log(searchTerm)
-      $results = $dataCsv.filter(x => (x.country.indexOf(searchTerm) !== -1) || (x.city.indexOf(searchTerm) !== -1) || (x.device.indexOf(searchTerm) !== -1) || (x.source.indexOf(searchTerm) !== -1))
-    } 
+      $results = $dataCsv.filter(x => (x.country.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.city.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.device.indexOf(searchTerm) !== -1) || (x.source.indexOf(searchTerm) !== -1) || (x.pagePath.indexOf(searchTerm) !== -1))
+    } else {
+      $results = $dataCsv
+    }
   }
 	
 </script>
