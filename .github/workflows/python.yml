@@ -36,7 +36,10 @@ jobs:
       - name: install node requirements
         run: make node_modules
       - name: build html
-        run: make build
+        run: |
+          sed -i "s/href='/href='\/analytics-google/"  public/index.html
+          sed -i "s/src='/src='\/analytics-google/"  public/index.html
+          make build
         env:
           MAPBOX_TOKEN: ${{ secrets.MAPBOX_TOKEN }}
       - name: deploy to github pages
