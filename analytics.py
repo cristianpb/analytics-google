@@ -95,7 +95,7 @@ def main():
             columns=['country', 'countryIsoCode', 'city', 'date', 'device', 'source', 'pagePath', 'sessions'])
     print(df.head().to_dict(orient='records'))
     #return df.to_dict(orient='records')
-    df.to_csv('data.csv', index=False, header=True)
+    df.to_csv('public/data.csv', index=False, header=True)
 
 if __name__ == '__main__':
     main()
