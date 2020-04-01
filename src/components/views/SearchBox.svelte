@@ -18,3 +18,9 @@
   }
 	
 </script>
+
+<style>
+  .input, .textarea, .select select {
+    color: white;
+  }
+</style>

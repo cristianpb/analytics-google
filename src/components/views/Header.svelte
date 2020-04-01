@@ -6,15 +6,17 @@
     <a href="{null}" class="navbar-item">
       Total sessions: {total}
     </a>
-
-    <a href="{null}" role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+    <a href="{null}" 
+       class:is-active={burgerState}
+       on:click={toggleBurger}
+       role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu">
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
     </a>
   </div>
 
-  <div id="navbarBasicExample" class="navbar-menu">
+  <div id="navMenu" class="navbar-menu" class:is-active={burgerState}>
     <div class="navbar-start">
       <div class="navbar-item">
         <SearchBox/>
@@ -37,6 +39,7 @@
   import { loadCsv } from '../tools/getData';
   import { results } from '../tools/stores.js'
   let total
+  let burgerState = false;
 
   const unsubscribe = results.subscribe(myData => {
     total = myData.reduce((total, s) => total + s.sessions, 0);
@@ -47,4 +50,9 @@
     $results = myData
     console.log("RESET", $results.length);
   }
+
+  function toggleBurger() {
+    burgerState = !burgerState
+  }
+
 </script>
