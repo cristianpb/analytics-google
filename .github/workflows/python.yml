@@ -7,7 +7,7 @@ on:
     - cron:  '57 21 * * *'
   push:
     branches:
-    - master
+    - '*'
 
 jobs:
   publish:
@@ -26,6 +26,13 @@ jobs:
         run: make data
         env:
           TOKEN: ${{ secrets.TOKEN }}
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '10.x'
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
       - name: install node requirements
         run: make node_modules
       - name: build html
@@ -33,9 +40,9 @@ jobs:
         env:
           MAPBOX_TOKEN: ${{ secrets.MAPBOX_TOKEN }}
       - name: deploy to github pages
+        if: success() && steps.extract_branch.outputs.branch == 'master'
         # uses: peaceiris/actions-gh-pages@v2.2.0
         uses: docker://peaceiris/gh-pages:v2.3.2
-        if: success()
         env:
           ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           PUBLISH_BRANCH: gh-pages
