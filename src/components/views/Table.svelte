@@ -1,34 +1,32 @@
-<p>
-  Table
-</p>
-
 {#if tableRows}
-  <table class="table is-hoverable">
-    <thead>
-      <tr>
-        <th>Day</th>
-        <th>Country</th>
-        <th>City</th>
-        <th>Page path</th>
-        <th>Devices</th>
-        <th>Sources</th>
-        <th>Sessions</th>
-      </tr>
-    </thead>
-    <tbody>
-      {#each Object.values(tableRows) as row }
+  <div class="table-container">
+    <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
+      <thead>
         <tr>
-          <td>{row.day}</td>
-          <td>{row.country}</td>
-          <td>{row.city}</td>
-          <td>{row.pagePath}</td>
-          <td>{row.device}</td>
-          <td>{row.source}</td>
-          <td>{row.sessions}</td>
+          <th>Day</th>
+          <th>Country</th>
+          <th>City</th>
+          <th>Page path</th>
+          <th>Devices</th>
+          <th>Sources</th>
+          <th>Sessions</th>
         </tr>
-      {/each}
-    </tbody>
-  </table>
+      </thead>
+      <tbody>
+        {#each Object.values(tableRows) as row }
+          <tr>
+            <td>{row.day}</td>
+            <td>{row.country}</td>
+            <td>{row.city}</td>
+            <td>{row.pagePath}</td>
+            <td>{row.device}</td>
+            <td>{row.source}</td>
+            <td>{row.sessions}</td>
+          </tr>
+        {/each}
+      </tbody>
+    </table>
+  </div>
 {/if}
 
 <script>

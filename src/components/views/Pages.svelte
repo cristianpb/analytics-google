@@ -1,6 +1,6 @@
 <p>Visits per pages:</p>
 
-<canvas id="pages-chart" on:click={handleClick}></canvas>
+<canvas id="pages-chart" on:click={handleClick} height="400px"></canvas>
 
 <script>
   import { data as dataCsv, results } from '../tools/stores.js';
@@ -17,14 +17,22 @@
         labels: [],
         datasets: [
           {
-            label: "My First dataset",
+            label: "",
             backgroundColor: "rgb(255, 99, 132)",
             borderColor: "rgb(255, 99, 132)",
             data: []
           }
         ]
       },
-      options:{}
+      options:{
+        legend: {
+          display: false
+        },
+        tooltips: {
+          mode: 'nearest',
+          intersect: false,
+        }
+      }
     });
   });
 

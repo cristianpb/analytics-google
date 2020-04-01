@@ -1,5 +1,3 @@
-<p>Countries:</p>
-
 <canvas id="countries-chart" on:click={handleClick}></canvas>
 
 <script>
@@ -12,19 +10,29 @@
   onMount(async () => {
     const ctx = document.getElementById("countries-chart").getContext("2d");
     countriesChart = new Chart(ctx, {
-      type: "horizontalBar",
+      type: "bar",
       data: {
         labels: [],
         datasets: [
           {
-            label: "My First dataset",
             backgroundColor: "rgb(255, 99, 132)",
             borderColor: "rgb(255, 99, 132)",
             data: []
           }
         ]
       },
-      options:{}
+      options: {
+        legend: {
+          display: false
+        },
+        tooltips: {
+          mode: 'nearest',
+          intersect: false,
+        },
+        responsive: true,
+        maintainAspectRatio: false,
+      }
+
     });
   });
 

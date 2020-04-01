@@ -1,6 +1,6 @@
 <p>Provenance :</p>
 
-<canvas id="provenances-chart" on:click={handleClick}></canvas>
+<canvas id="provenances-chart" on:click={handleClick} height="400px"></canvas>
 
 <script>
   import { data as dataCsv, results } from '../tools/stores.js';
@@ -24,7 +24,15 @@
           }
         ]
       },
-      options:{}
+      options:{
+        legend: {
+          display: false
+        },
+        tooltips: {
+          mode: 'nearest',
+          intersect: false,
+        }
+      }
     });
   });
 
@@ -43,8 +51,27 @@
   })
 
   function renderChart(labels, data) {
-    provenancesChart.data.labels = labels
-    provenancesChart.data.datasets[0].data = data
+    let sortedValues = labels
+      .map((item, idx) => { 
+        return {data: data[idx], label: labels[idx] }
+      })
+      .sort(function(a, b) {
+        return b.data>a.data;
+      })
+      .reduce((total, s, idx) => {
+        if (idx > 10) {
+          if ('Others' in total) {
+            total.Others += s.data
+          } else {
+            total.Others = s.data
+          }
+        } else {
+          total[s.label] = s.data
+        }
+        return total
+      }, {});
+    provenancesChart.data.labels = Object.keys(sortedValues)
+    provenancesChart.data.datasets[0].data = Object.values(sortedValues)
     provenancesChart.data.datasets[0].backgroundColor = colors.slice(0, labels.length)
     provenancesChart.data.datasets[0].borderColor = colors.slice(0, labels.length)
     provenancesChart.update();

@@ -1,20 +1,35 @@
-<p>
-  Charts
-</p>
+<section class="section">
+  <div class="container is-fullhd">
 
-<Total/>
-<SearchBox/>
-<Table/>
-<Provenances/>
-<Devices/>
-<Map/>
-<Visits/>
-<Countries/>
-<Pages/>
+    <div class="columns is-multiline">
+      <div class="column is-4">
+        <Visits/>
+      </div>
+      <div class="column is-4">
+        <Countries/>
+      </div>
+      <div class="column is-4">
+        <Map/>
+      </div>
+      <div class="column is-4">
+        <Pages/>
+      </div>
+      <div class="column is-4">
+        <Devices/>
+      </div>
+      <div class="column is-4">
+        <Provenances/>
+      </div>
+      <div class="column is-12">
+        <Table/>
+      </div>
+    </div>
+
+  </div>
+</section>
+  
 
 <script>
-  import Total from './Total.svelte';
-  import SearchBox from './SearchBox.svelte';
   import Visits from './Visits.svelte';
   import Countries from './Countries.svelte';
   import Pages from './Pages.svelte';

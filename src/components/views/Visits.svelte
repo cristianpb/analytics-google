@@ -15,14 +15,49 @@
         labels: [],
         datasets: [
           {
-            label: "My First dataset",
             backgroundColor: "rgb(255, 99, 132)",
             borderColor: "rgb(255, 99, 132)",
+            fill: false,
             data: []
           }
         ]
       },
-      options:{}
+      options: {
+        legend: {
+          display: false
+        },
+        responsive: true,
+        maintainAspectRatio: false,
+        scales: {
+          xAxes: [{
+            type: 'time',
+          }],
+          yAxes: [{
+            id: 'temp-y-axis',
+            type: 'linear',
+            position: 'left',
+            scaleLabel: {
+              display: true,
+              labelString: 'Number of sessions'
+            }
+          }]
+        },
+        tooltips: {
+          mode: 'nearest',
+          intersect: false,
+          //callbacks: {
+          //  title: function(tooltipItems, data) {
+          //    //let date = tooltipItems[0].xLabel
+          //    //let day = `${date.getFullYear()}/${("0" + (date.getMonth() + 1)).slice(-2)}/${("0" + date.getDate()).slice(-2)}`
+          //    //return day
+          //    return tooltipItems[0].xLabel
+
+          //  }
+          //}
+        }
+      }
+
+
     });
   });
 
@@ -31,19 +66,19 @@
       visits = myData.reduce((total, s) => {
         let day = `${s.dd.getFullYear()}${("0" + (s.dd.getMonth() + 1)).slice(-2)}${("0" + s.dd.getDate()).slice(-2)}`
         if (day in total) {
-          total[day] += s.sessions;
+          total[day].y += s.sessions;
         } else {
-          total[day] = s.sessions;
+          total[day] = {x: s.dd, y: s.sessions};
         }
         return total
       }, {})
-      renderChart(Object.keys(visits),Object.values(visits))
+      renderChart(Object.values(visits))
     }
   })
 
-  function renderChart(labels, data) {
-    visitChart.data.labels = labels
-    visitChart.data.datasets[0].data = data
+  function renderChart(data) {
+    visitChart.data.labels = data.map(x => x.x)
+    visitChart.data.datasets[0].data = data.map(x => x.y)
     visitChart.update();
   }
 

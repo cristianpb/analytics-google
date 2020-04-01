@@ -14,7 +14,7 @@
 
 </script>
 
-<main>
+<main class="has-navbar-fixed-top">
   <Layout/>
 </main>
 

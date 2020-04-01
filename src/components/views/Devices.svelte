@@ -1,6 +1,6 @@
 <p>Devices :</p>
 
-<canvas id="devices-chart" on:click={handleClick}></canvas>
+<canvas id="devices-chart" on:click={handleClick} height="400px"></canvas>
 
 <script>
   import { data as dataCsv, results } from '../tools/stores.js';

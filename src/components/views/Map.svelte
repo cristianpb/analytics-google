@@ -43,8 +43,8 @@
   });
 
   function drawMap(countries) {
-    map.setCenter([37,2.8]);
-    map.setZoom(1);
+    map.setCenter([20,15.8]);
+    map.setZoom(0);
     map.addSource('countries', {
       type: 'geojson',
       data: countries
