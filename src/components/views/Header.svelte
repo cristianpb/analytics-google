@@ -1,8 +1,10 @@
 <nav class="navbar is-link is-fixed-top" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a href="{null}" class="navbar-item" on:click={resetData}>
-      Reset
-    </a>
+    <div href="{null}" class="navbar-item">
+      <a href="{null}" class="button" on:click={resetData}>
+        Reset
+      </a>
+    </div>
     <a href="{null}" class="navbar-item">
       Total sessions: {total}
     </a>
