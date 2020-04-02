@@ -1,5 +1,6 @@
 <section class="section">
   <div class="container is-fullhd">
+    <Indicators/>
 
     <div class="columns is-multiline">
       <div class="column is-4">
@@ -37,4 +38,5 @@
   import Devices from './Devices.svelte';
   import Provenances from './Provenances.svelte';
   import Table from './Table.svelte';
+  import Indicators from './Indicators.svelte';
 </script>
