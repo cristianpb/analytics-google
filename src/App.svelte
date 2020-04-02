@@ -6,7 +6,6 @@
 
   onMount(async () => {
     const myData = await loadCsv()
-    console.log(myData);
     $dataCsv = myData
     $results = myData
 	});

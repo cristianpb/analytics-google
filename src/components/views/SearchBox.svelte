@@ -1,5 +1,3 @@
-<input class="input"  type="text" placeholder="Search ex: Poland" bind:value={searchTerm} on:input|preventDefault={updateSearch}/>
-
 <script>
   import { data as dataCsv, results } from '../tools/stores.js';
   import { loadCsv } from '../tools/getData';
@@ -18,6 +16,8 @@
   }
 	
 </script>
+
+<input class="input"  type="text" placeholder="Search ex: Poland" bind:value={searchTerm} on:input|preventDefault={updateSearch}/>
 
 <style>
   .input, .textarea, .select select {

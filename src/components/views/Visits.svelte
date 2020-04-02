@@ -45,15 +45,13 @@
         tooltips: {
           mode: 'nearest',
           intersect: false,
-          //callbacks: {
-          //  title: function(tooltipItems, data) {
-          //    //let date = tooltipItems[0].xLabel
-          //    //let day = `${date.getFullYear()}/${("0" + (date.getMonth() + 1)).slice(-2)}/${("0" + date.getDate()).slice(-2)}`
-          //    //return day
-          //    return tooltipItems[0].xLabel
-
-          //  }
-          //}
+          callbacks: {
+            title: function(tooltipItems, data) {
+              let idx = tooltipItems[0].index
+              let date = data.labels[idx];
+              return `${("0" + date.getDate()).slice(-2)} / ${("0" + (date.getMonth() + 1)).slice(-2)} / ${date.getFullYear()}`
+            }
+          }
         }
       }
 
@@ -64,11 +62,10 @@
   const unsubscribe = results.subscribe(myData => {
     if (myData.length > 0) {
       visits = myData.reduce((total, s) => {
-        let day = `${s.dd.getFullYear()}${("0" + (s.dd.getMonth() + 1)).slice(-2)}${("0" + s.dd.getDate()).slice(-2)}`
-        if (day in total) {
-          total[day].y += s.sessions;
+        if (s.day in total) {
+          total[s.day].y += s.sessions;
         } else {
-          total[day] = {x: s.dd, y: s.sessions};
+          total[s.day] = {x: s.dd, y: s.sessions};
         }
         return total
       }, {})
