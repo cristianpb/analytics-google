@@ -1,6 +1,4 @@
-export async function loadCsv() {
-  const res = await fetch('__DATAURL__')
-  const text = await res.text()
+function processCsv(text) {
   const rows = text.split('\n').map(str => str.split(','))
   const headers = rows.shift();
   return rows
@@ -18,4 +16,26 @@ export async function loadCsv() {
         sessions: +row[7]
       };
     });
+}
+
+export async function loadCsv() {
+  const res = await fetch('__DATAURL__')
+  const text = await res.text()
+  return processCsv(text)
+}
+
+export async function fetchHistory() {
+  const res = await fetch('https://api.github.com/repos/cristianpb/analytics-google/commits?sha=data')
+  const commits = await res.json()
+  const date = new Date();
+  date.setDate( date.getDate() - 7);
+  const commit = commits.find(item => {
+    const dateCommit = new Date(item.commit.committer.date)
+    if (dateCommit.getFullYear() === date.getFullYear() && dateCommit.getMonth() === date.getMonth() && dateCommit.getDate() === date.getDate()) {
+      return item
+    }
+  })
+  const lastWeek = await fetch(`https://raw.githubusercontent.com/cristianpb/analytics-google/${commit.sha}/data.csv`)
+  const lastWeekText = await lastWeek.text()
+  return processCsv(lastWeekText)
 }
