@@ -9,7 +9,7 @@
   function updateSearch() {
     if (searchTerm) {
       console.log(searchTerm)
-      $results = $dataCsv.filter(x => (x.country.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.city.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.device.indexOf(searchTerm) !== -1) || (x.source.indexOf(searchTerm) !== -1) || (x.pagePath.indexOf(searchTerm) !== -1))
+      $results = $dataCsv.filter(x => (x.country.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.city.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.device.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.source.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.pagePath.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1))
     } else {
       $results = $dataCsv
     }
