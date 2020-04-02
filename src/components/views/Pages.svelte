@@ -56,7 +56,7 @@
         return {data: data[idx], label: labels[idx] }
       })
       .sort(function(a, b) {
-        return b.data>a.data;
+        return b.data - a.data;
       })
       .reduce((total, s, idx) => {
         if (idx > 10) {

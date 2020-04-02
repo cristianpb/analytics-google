@@ -51,12 +51,12 @@
   })
 
   function renderChart(labels, data) {
-    let sortedValues = labels
+    let orderedValues = labels
       .map((item, idx) => { 
         return {data: data[idx], label: labels[idx] }
       })
       .sort(function(a, b) {
-        return b.data>a.data;
+        return b.data - a.data;
       })
       .reduce((total, s, idx) => {
         if (idx > 10) {
@@ -70,8 +70,8 @@
         }
         return total
       }, {});
-    countriesChart.data.labels = Object.keys(sortedValues)
-    countriesChart.data.datasets[0].data = Object.values(sortedValues)
+    countriesChart.data.labels = Object.keys(orderedValues)
+    countriesChart.data.datasets[0].data = Object.values(orderedValues)
     countriesChart.update();
   }
 
