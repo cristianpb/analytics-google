@@ -1,15 +1,13 @@
 ---
 name: Get data from GA
 
-on: [push]
-#on:
-#  schedule:
-#    # * is a special character in YAML so you have to quote this string
-#    - cron:  '57 21 * * *'
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '57 21 * * *'
 
 jobs:
   publish:
-    name: Get data from GA
     runs-on: ubuntu-latest
 
     steps:
@@ -26,8 +24,8 @@ jobs:
           TOKEN: ${{ secrets.TOKEN }}
       - name: deploy to github pages
         if: success()
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: data
-          directory: public/data
+        uses: docker://peaceiris/gh-pages:v2.3.2
+        env:
+          ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          PUBLISH_BRANCH: data
+          PUBLISH_DIR: public/data
