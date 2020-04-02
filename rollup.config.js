@@ -8,6 +8,7 @@ import { terser } from 'rollup-plugin-terser';
 
 const production = !process.env.ROLLUP_WATCH;
 const BASEURL = process.env.BASEURL || '';
+const DATAURL = production ? 'https://raw.githubusercontent.com/cristianpb/analytics-google/data/data.csv' : 'data/data.csv';
 
 const preprocessOptions = {
   scss: {
@@ -42,7 +43,8 @@ export default {
 			// you're right, you shouldn't be injecting this
 			// into a client script :)
 			__MAPBOX_TOKEN__: process.env.MAPBOX_TOKEN,
-			__BASEURL__: BASEURL
+			__BASEURL__: BASEURL,
+			__DATAURL__: DATAURL
 		  }),
 		// If you have external dependencies installed from
 		// npm, you'll most likely need these plugins. In

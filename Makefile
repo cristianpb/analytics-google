@@ -6,16 +6,19 @@ venv:
 node_modules:
 	npm install
 
-public/data.csv: venv
+public/data:
+	mkdir -p public/data
+
+public/data/data.csv: public/data venv
 	venv/bin/python3 analytics.py
 
-data: public/data.csv
+data: public/data/data.csv
 
 up: data
 	npm run dev
 
-build: node_modules data
+build: node_modules
 	npm run build
 
 clean:
-	rm -Rf venv node_modules data
+	rm -Rf venv node_modules public/data

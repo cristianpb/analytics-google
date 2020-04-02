@@ -1,5 +1,5 @@
 export async function loadCsv() {
-  const res = await fetch('data.csv')
+  const res = await fetch('__DATAURL__')
   const text = await res.text()
   const rows = text.split('\n').map(str => str.split(','))
   const headers = rows.shift();
