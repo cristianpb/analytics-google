@@ -9,6 +9,7 @@ country,countryIsoCode,city,date,device,source,pagePath,sessions
 Argentina,AR,San Francisco,20200328,desktop,google,/blog/image-rotation-opencv,1
 Australia,AU,Brisbane,20200324,desktop,google,/blog/ssd-yolo,1
 Australia,AU,Sydney,20200323,mobile,(direct),/blog/monitoring-grafana,1
+Australia,AU,Canberra,20200330,desktop,google,/blog/image-rotation-opencv,1
 Austria,AT,Hopfgarten im Brixental,20200325,mobile,getbottraffic4free.pw,/,1
 Austria,AT,Linz,20200324,desktop,getbottraffic4free.pw,/,1
 Austria,AT,Vienna,20200324,mobile,getbottraffic4free.pw,/,1
@@ -19,8 +20,6 @@ Azerbaijan,AZ,Baku,20200327,mobile,getbottraffic4free.pw,/,1
 Azerbaijan,AZ,Baku,20200327,tablet,getbottraffic4free.pw,/,1
 Belgium,BE,Arlon,20200324,mobile,getbottraffic4free.pw,/,2
 Belgium,BE,Deinze,20200324,desktop,getbottraffic4free.pw,/,1
-Belgium,BE,Frasnes-lez-Anvaing,20200323,mobile,getbottraffic4free.pw,/,1
-Belgium,BE,Ghent,20200323,desktop,google,/blog/image-rotation-opencv,2
 Belgium,BE,Herstal,20200326,mobile,getbottraffic4free.pw,/,1
 Belgium,BE,Schaerbeek,20200327,desktop,getbottraffic4free.pw,/,1
 Belgium,BE,Sint-Jans-Molenbeek,20200328,mobile,getbottraffic4free.pw,/,1
@@ -29,27 +28,23 @@ Bosnia & Herzegovina,BA,Brod,20200328,tablet,getbottraffic4free.pw,/,1
 Brazil,BR,Porto Alegre,20200325,desktop,google,/blog/serverless-api-lambda,1
 Brazil,BR,Sao Paulo,20200327,desktop,google,/blog/ssd-yolo,1
 Brazil,BR,Tubarao,20200323,desktop,google,/blog/motion-monitor-opencv,1
+Brazil,BR,Sao Paulo,20200330,desktop,google,/blog/ssd-yolo,1
 Bulgaria,BG,Ruse,20200325,desktop,getbottraffic4free.pw,/,1
-Bulgaria,BG,Sofia,20200323,desktop,google,/blog/monitoring-grafana,1
 Bulgaria,BG,Sofia,20200325,desktop,getbottraffic4free.pw,/,1
 Canada,CA,Esterhazy,20200327,desktop,google,/blog/image-rotation-opencv,1
 Canada,CA,Kitchener,20200329,desktop,google,/blog/image-rotation-opencv,1
 Canada,CA,Markham,20200329,desktop,google,/blog/serverless-api-lambda,1
-Canada,CA,Quebec City,20200323,desktop,google,/blog/motion-monitor-opencv,1
 Canada,CA,Quebec City,20200327,desktop,google,/blog/motion-monitor-opencv,1
-Canada,CA,Saskatoon,20200323,desktop,(direct),/blog/monitoring-grafana,1
 Canada,CA,Toronto,20200327,mobile,google,/blog/ssd-yolo,1
 Canada,CA,Toronto,20200329,desktop,google,/blog/serverless-api-lambda,1
 Canada,CA,Waterloo,20200329,mobile,google,/blog/image-rotation-opencv,2
 Chile,CL,Santiago,20200325,desktop,google,/blog/image-rotation-opencv,1
-China,CN,Shanghai,20200323,desktop,google,/blog/image-rotation-opencv,1
 China,CN,Shanghai,20200327,desktop,google,/blog/image-rotation-opencv,1
 Croatia,HR,Split,20200326,desktop,getbottraffic4free.pw,/,1
 Croatia,HR,Zagreb,20200325,desktop,getbottraffic4free.pw,/,1
 Croatia,HR,Zagreb,20200326,mobile,getbottraffic4free.pw,/,2
 Cyprus,CY,Limassol,20200324,mobile,getbottraffic4free.pw,/,1
 Czechia,CZ,Havirov,20200324,desktop,(direct),/,1
-Czechia,CZ,Hlubocky,20200323,desktop,getbottraffic4free.pw,/,1
 Czechia,CZ,Pilsen,20200328,desktop,getbottraffic4free.pw,/,1
 Czechia,CZ,Prague,20200325,desktop,getbottraffic4free.pw,/,1
 Denmark,DK,Copenhagen,20200327,desktop,google,/blog/image-rotation-opencv,1
@@ -57,8 +52,6 @@ Denmark,DK,Koge,20200329,mobile,getbottraffic4free.pw,/,1
 Denmark,DK,Rodovre,20200324,desktop,(direct),/blog/image-rotation-opencv,1
 Dominican Republic,DO,Santo Domingo,20200329,desktop,google,/blog/document-detection,1
 Ecuador,EC,Cuenca,20200329,mobile,google,/blog/grafana-dashboard,1
-Ecuador,EC,Ibarra,20200323,desktop,google,/blog/ssd-yolo,1
-Finland,FI,Helsinki,20200323,desktop,google,/blog/serverless-api-lambda,1
 Finland,FI,Helsinki,20200327,desktop,getbottraffic4free.pw,/,2
 Finland,FI,Jyvaskyla sub-region,20200327,desktop,google,/blog/motion-monitor-opencv,1
 Finland,FI,Turku,20200327,mobile,getbottraffic4free.pw,/,2
@@ -103,14 +96,12 @@ Germany,DE,Bocholt,20200327,desktop,getbottraffic4free.pw,/,1
 Germany,DE,Bremen,20200325,mobile,getbottraffic4free.pw,/,1
 Germany,DE,Bruchsal,20200327,mobile,google,/blog/analytics-google,1
 Germany,DE,Darmstadt,20200328,mobile,getbottraffic4free.pw,/,1
-Germany,DE,Dresden,20200323,desktop,getbottraffic4free.pw,/,1
 Germany,DE,Dresden,20200325,mobile,getbottraffic4free.pw,/,1
 Germany,DE,Eimsheim,20200324,desktop,getbottraffic4free.pw,/,1
 Germany,DE,Essen,20200327,desktop,getbottraffic4free.pw,/,1
 Germany,DE,Frankfurt,20200325,mobile,getbottraffic4free.pw,/,1
 Germany,DE,Frankfurt,20200326,desktop,getbottraffic4free.pw,/,1
 Germany,DE,Frankfurt,20200327,mobile,getbottraffic4free.pw,/,1
-Germany,DE,Freiberg,20200323,desktop,google,/blog/grafana-dashboard,1
 Germany,DE,Hamburg,20200324,desktop,google,/blog/raspberry-video-stream,1
 Germany,DE,Hamburg,20200325,desktop,google,/blog/serverless-api-lambda,1
 Germany,DE,Hamburg,20200325,mobile,getbottraffic4free.pw,/,1
@@ -125,29 +116,24 @@ Germany,DE,Kaiserslautern,20200329,desktop,google,/blog/ssd-yolo,1
 Germany,DE,Kamen,20200327,mobile,getbottraffic4free.pw,/,1
 Germany,DE,Kippenheim,20200327,desktop,google,/blog/image-rotation-opencv,1
 Germany,DE,Lubeck,20200329,desktop,(direct),/blog/ssd-yolo,1
-Germany,DE,Mittweida,20200323,mobile,getbottraffic4free.pw,/,1
 Germany,DE,Munich,20200327,desktop,google,/blog/bulma-amp,1
 Germany,DE,Munster,20200324,mobile,getbottraffic4free.pw,/,1
-Germany,DE,Nuremberg,20200323,mobile,getbottraffic4free.pw,/,1
-Germany,DE,Offenbach,20200323,tablet,getbottraffic4free.pw,/,1
 Germany,DE,Offenburg,20200324,desktop,getbottraffic4free.pw,/,1
 Germany,DE,Otigheim,20200325,desktop,google,/blog/image-rotation-opencv,1
 Germany,DE,Parchim,20200326,desktop,getbottraffic4free.pw,/,1
-Germany,DE,Rottweil,20200323,desktop,google,/blog/ssd-yolo,1
 Germany,DE,Schwabisch Gmund,20200328,desktop,getbottraffic4free.pw,/,1
 Germany,DE,Suhl,20200328,desktop,getbottraffic4free.pw,/,1
 Germany,DE,Waldheim,20200325,mobile,getbottraffic4free.pw,/,1
 Germany,DE,Wesseling,20200324,mobile,getbottraffic4free.pw,/,1
 Germany,DE,Willich,20200324,mobile,getbottraffic4free.pw,/,1
-Germany,DE,Zarrentin am Schaalsee,20200323,mobile,getbottraffic4free.pw,/,1
 Greece,GR,Athens,20200326,mobile,getbottraffic4free.pw,/,1
 Greece,GR,Athens,20200327,desktop,getbottraffic4free.pw,/,1
 Greece,GR,Athens,20200327,mobile,getbottraffic4free.pw,/,1
-Hong Kong,HK,(not set),20200323,desktop,google,/blog/image-rotation-opencv,2
 Hungary,HU,Erd,20200328,mobile,getbottraffic4free.pw,/,1
 Hungary,HU,Godollo,20200329,mobile,getbottraffic4free.pw,/,1
 India,IN,(not set),20200329,mobile,google,/blog/ssd-yolo,1
 India,IN,Ahmedabad,20200323,desktop,google,/blog/image-rotation-opencv,1
+India,IN,Ahmedabad,20200330,mobile,(direct),/blog/ssd-yolo,1
 India,IN,Bengaluru,20200324,desktop,google,/blog/ssd-yolo,1
 India,IN,Bengaluru,20200327,desktop,google,/blog/ssd-yolo,1
 India,IN,Bengaluru,20200329,desktop,(direct),/blog/image-rotation-opencv,1
@@ -165,9 +151,7 @@ India,IN,Kolkata,20200324,desktop,google,/blog/analytics-google,1
 India,IN,Pune,20200326,desktop,duckduckgo,/blog/document-detection,1
 India,IN,Raipur,20200327,desktop,blog.paperspace.com,/blog/image-rotation-opencv,1
 India,IN,Thiruvananthapuram,20200324,desktop,google,/blog/image-rotation-opencv,1
-Indonesia,ID,Jakarta,20200323,desktop,google,/blog/image-rotation-opencv,1
 Indonesia,ID,Jakarta,20200327,desktop,google,/blog/ssd-yolo,1
-Indonesia,ID,Surabaya,20200323,desktop,github.com,/blog/bulma-amp,3
 Indonesia,ID,Surabaya,20200327,mobile,google,/blog/bulma-amp,1
 Iran,IR,(not set),20200328,desktop,getbottraffic4free.pw,/,1
 Iran,IR,Arak,20200328,desktop,google,/blog/image-rotation-opencv,1
@@ -181,7 +165,6 @@ Israel,IL,Bnei Brak,20200329,desktop,google,/blog/image-rotation-opencv,1
 Israel,IL,Petah Tikva,20200327,desktop,google,/blog/image-rotation-opencv,1
 Israel,IL,Ramat Gan,20200328,desktop,google,/blog/image-rotation-opencv,1
 Israel,IL,Rishon LeTsiyon,20200328,desktop,google,/blog/image-rotation-opencv,2
-Israel,IL,Tel Aviv-Yafo,20200323,desktop,google,/blog/motion-monitor-opencv,1
 Israel,IL,Tel Aviv-Yafo,20200324,desktop,google,/blog/motion-monitor-opencv,1
 Israel,IL,Tel Aviv-Yafo,20200326,desktop,google,/blog/image-rotation-opencv,1
 Italy,IT,(not set),20200324,mobile,getbottraffic4free.pw,/,1
@@ -195,6 +178,7 @@ Italy,IT,Brugherio,20200327,mobile,getbottraffic4free.pw,/,1
 Italy,IT,Cagliari,20200328,desktop,getbottraffic4free.pw,/,1
 Italy,IT,Camponogara,20200327,desktop,google,/blog/image-rotation-opencv,1
 Italy,IT,Cremona,20200323,desktop,google,/blog/ssd-yolo,1
+Italy,IT,Empoli,20200330,desktop,google,/blog/ssd-yolo,1
 Italy,IT,Florence,20200325,mobile,getbottraffic4free.pw,/,1
 Italy,IT,Florence,20200327,mobile,getbottraffic4free.pw,/,1
 Italy,IT,Legnano,20200327,desktop,google,/blog/image-rotation-opencv,1
@@ -207,14 +191,10 @@ Italy,IT,Turin,20200326,mobile,(direct),/blog/ssd-yolo,1
 Italy,IT,Velletri,20200327,desktop,getbottraffic4free.pw,/,1
 Italy,IT,Viadana,20200325,desktop,getbottraffic4free.pw,/,1
 Japan,JP,Kyoto,20200325,desktop,google,/blog/image-rotation-opencv,1
-Japan,JP,Matsue,20200323,desktop,google,/blog/serverless-api-lambda,1
-Japan,JP,Odate,20200323,desktop,google,/blog/ssd-yolo,1
 Japan,JP,Osaka,20200327,mobile,(direct),/blog/image-rotation-opencv,1
 Japan,JP,Taito City,20200328,desktop,google,/blog/ssd-yolo,1
-Jordan,JO,(not set),20200323,desktop,google,/blog/ssd-yolo,1
 Kosovo,XK,(not set),20200326,desktop,getbottraffic4free.pw,/,1
 Kosovo,XK,(not set),20200326,tablet,getbottraffic4free.pw,/,1
-Lithuania,LT,Kaunas,20200323,desktop,getbottraffic4free.pw,/,1
 Lithuania,LT,Klaipeda,20200325,mobile,getbottraffic4free.pw,/,1
 Lithuania,LT,Vidukles gelezinkelio stotis,20200325,desktop,getbottraffic4free.pw,/,1
 Mayotte,YT,(not set),20200328,desktop,getbottraffic4free.pw,/,1
@@ -231,6 +211,7 @@ Netherlands,NL,Deventer,20200328,mobile,getbottraffic4free.pw,/,1
 Netherlands,NL,Enschede,20200328,desktop,getbottraffic4free.pw,/,1
 Netherlands,NL,Heemstede,20200323,desktop,getbottraffic4free.pw,/,1
 Netherlands,NL,Leiden,20200323,desktop,google,/blog/image-rotation-opencv,1
+Netherlands,NL,Gouda,20200330,desktop,google,/blog/bulma-amp,1
 Netherlands,NL,Naaldwijk,20200325,mobile,getbottraffic4free.pw,/,1
 Netherlands,NL,Rotterdam,20200325,mobile,getbottraffic4free.pw,/,1
 Norway,NO,Harstad Municipality,20200328,desktop,yahoo,/blog/ssd-yolo,1
@@ -256,16 +237,15 @@ Romania,RO,Bucharest,20200324,desktop,getbottraffic4free.pw,/,1
 Romania,RO,Oradea,20200326,mobile,getbottraffic4free.pw,/,3
 Russia,RU,Moscow,20200323,desktop,google,/blog/image-rotation-opencv,1
 Russia,RU,Naberezhnye Chelny,20200323,desktop,google,/blog/ssd-yolo,1
+Russia,RU,Dolgoprudny,20200330,desktop,google,/blog/image-rotation-opencv,1
 Russia,RU,Velikiye Luki,20200327,mobile,google,/blog/ssd-yolo,1
 Russia,RU,Vologda,20200326,desktop,google,/blog/ssd-yolo,1
 Serbia,RS,Baric,20200324,desktop,getbottraffic4free.pw,/,1
 Serbia,RS,Belgrade,20200327,desktop,getbottraffic4free.pw,/,1
-Singapore,SG,(not set),20200323,desktop,google,/blog/bulma-amp,1
 Singapore,SG,Singapore,20200325,desktop,google,/blog/ssd-yolo,2
 Singapore,SG,Singapore,20200326,desktop,google,/blog/ssd-yolo,1
 Singapore,SG,Singapore,20200328,mobile,google,/blog/bulma-amp,1
 Singapore,SG,Singapore,20200329,desktop,google,/blog/ssd-yolo,1
-Slovakia,SK,Humenne,20200323,desktop,google,/blog/image-rotation-opencv,1
 Slovakia,SK,Zilina,20200328,mobile,getbottraffic4free.pw,/,1
 Slovenia,SI,Koper,20200327,mobile,getbottraffic4free.pw,/,1
 South Africa,ZA,(not set),20200328,mobile,getbottraffic4free.pw,/,1
@@ -274,9 +254,6 @@ South Korea,KR,Busan,20200326,desktop,cafe.naver.com,/blog/motion-monitor-opencv
 South Korea,KR,Daejeon,20200325,desktop,google,/blog/image-rotation-opencv,1
 South Korea,KR,Goyang-si,20200324,desktop,google,/blog/ssd-yolo,1
 South Korea,KR,Incheon,20200327,desktop,google,/blog/ssd-yolo,1
-South Korea,KR,Seongnam-si,20200323,desktop,google,/blog/image-rotation-opencv,1
-South Korea,KR,Seoul,20200323,desktop,google,/blog/image-rotation-opencv,1
-South Korea,KR,Seoul,20200323,desktop,google,/blog/ssd-yolo,2
 South Korea,KR,Seoul,20200324,desktop,(direct),/blog/ssd-yolo,1
 South Korea,KR,Seoul,20200324,desktop,google,/blog/image-rotation-opencv,1
 South Korea,KR,Seoul,20200324,desktop,google,/blog/ssd-yolo,1
@@ -287,7 +264,6 @@ South Korea,KR,Seoul,20200326,mobile,google,/blog/ssd-yolo,1
 South Korea,KR,Seoul,20200327,desktop,google,/blog/ssd-yolo,1
 South Korea,KR,Siheung-si,20200324,desktop,google,/blog/ssd-yolo,1
 South Korea,KR,Yeongi-gun,20200325,desktop,google,/blog/ssd-yolo,1
-Spain,ES,(not set),20200323,desktop,getbottraffic4free.pw,/,1
 Spain,ES,(not set),20200324,mobile,getbottraffic4free.pw,/,1
 Spain,ES,(not set),20200326,desktop,getbottraffic4free.pw,/,2
 Spain,ES,(not set),20200327,mobile,getbottraffic4free.pw,/,1
@@ -311,7 +287,6 @@ Spain,ES,San Cristobal de La Laguna,20200326,mobile,getbottraffic4free.pw,/,1
 Spain,ES,Seville,20200325,mobile,getbottraffic4free.pw,/,1
 Spain,ES,Seville,20200326,desktop,getbottraffic4free.pw,/,1
 Spain,ES,Seville,20200328,desktop,getbottraffic4free.pw,/,1
-Spain,ES,Valencia,20200323,mobile,getbottraffic4free.pw,/,1
 Spain,ES,Valencia,20200324,desktop,getbottraffic4free.pw,/,1
 Spain,ES,Valencia,20200325,desktop,getbottraffic4free.pw,/,1
 Spain,ES,Valencia,20200326,desktop,getbottraffic4free.pw,/,1
@@ -320,13 +295,11 @@ Sweden,SE,Karlstad,20200325,mobile,getbottraffic4free.pw,/,1
 Sweden,SE,Norrkoping,20200326,desktop,(direct),/blog/image-rotation-opencv,1
 Sweden,SE,Stockholm,20200324,desktop,getbottraffic4free.pw,/,1
 Sweden,SE,Stockholm,20200324,tablet,getbottraffic4free.pw,/,1
-Switzerland,CH,(not set),20200323,desktop,getbottraffic4free.pw,/,1
 Switzerland,CH,(not set),20200326,desktop,getbottraffic4free.pw,/,1
 Switzerland,CH,Lindau,20200325,desktop,google,/blog/ssd-yolo,1
 Switzerland,CH,Lugano,20200325,mobile,getbottraffic4free.pw,/,1
 Switzerland,CH,Lutry,20200325,desktop,google,/blog/bulma-amp,1
 Switzerland,CH,Zurich,20200327,desktop,getbottraffic4free.pw,/,1
-Taiwan,TW,(not set),20200323,desktop,google,/blog/ssd-yolo,1
 Taiwan,TW,(not set),20200326,desktop,google,/blog/image-rotation-opencv,1
 Taiwan,TW,(not set),20200327,desktop,(direct),/blog/image-rotation-opencv,1
 Taiwan,TW,(not set),20200327,desktop,google,/blog/ssd-yolo,1
@@ -341,7 +314,6 @@ Thailand,TH,Pattaya City,20200324,desktop,google,/blog/image-rotation-opencv,1
 Tunisia,TN,Tunis,20200326,desktop,(direct),/blog/image-rotation-opencv,1
 Turkey,TR,Ankara,20200326,desktop,(direct),/blog/image-rotation-opencv,1
 Turkey,TR,Istanbul,20200326,desktop,google,/blog/image-rotation-opencv,1
-Turkey,TR,Konya,20200323,desktop,google,/blog/image-rotation-opencv,1
 Turkey,TR,Samsun,20200327,mobile,google,/blog/ssd-yolo,1
 Ukraine,UA,(not set),20200328,tablet,getbottraffic4free.pw,/,1
 Ukraine,UA,Chernivtsi,20200324,mobile,getbottraffic4free.pw,/,1
@@ -349,10 +321,8 @@ Ukraine,UA,Kharkiv,20200325,desktop,getbottraffic4free.pw,/,1
 Ukraine,UA,Odesa,20200324,mobile,getbottraffic4free.pw,/,1
 Ukraine,UA,Odesa,20200325,desktop,getbottraffic4free.pw,/,1
 Ukraine,UA,Odesa,20200326,mobile,getbottraffic4free.pw,/,1
-Ukraine,UA,Rivne,20200323,desktop,getbottraffic4free.pw,/,1
 Ukraine,UA,Zaporizhzhia,20200324,mobile,getbottraffic4free.pw,/,1
 United Arab Emirates,AE,Abu Dhabi,20200328,desktop,google,/blog/image-rotation-opencv,1
-United Kingdom,GB,(not set),20200323,desktop,google,/blog/ssd-yolo,1
 United Kingdom,GB,(not set),20200324,desktop,getbottraffic4free.pw,/,1
 United Kingdom,GB,(not set),20200324,desktop,google,/blog/image-rotation-opencv,1
 United Kingdom,GB,(not set),20200324,mobile,getbottraffic4free.pw,/,1
@@ -367,7 +337,6 @@ United Kingdom,GB,Bradford,20200329,mobile,getbottraffic4free.pw,/,1
 United Kingdom,GB,Brighton,20200324,desktop,getbottraffic4free.pw,/,1
 United Kingdom,GB,Bristol,20200324,mobile,getbottraffic4free.pw,/,1
 United Kingdom,GB,Burgess Hill,20200328,mobile,getbottraffic4free.pw,/,1
-United Kingdom,GB,Bury,20200323,desktop,google,/blog/bulma-amp,1
 United Kingdom,GB,Chelmsford,20200325,mobile,getbottraffic4free.pw,/,1
 United Kingdom,GB,Epsom,20200328,desktop,getbottraffic4free.pw,/,1
 United Kingdom,GB,Glossop,20200325,tablet,getbottraffic4free.pw,/,1
@@ -379,7 +348,6 @@ United Kingdom,GB,Liverpool,20200327,mobile,getbottraffic4free.pw,/,1
 United Kingdom,GB,London,20200325,mobile,getbottraffic4free.pw,/,1
 United Kingdom,GB,London,20200329,mobile,getbottraffic4free.pw,/,1
 United Kingdom,GB,Malton,20200329,desktop,google,/blog/serverless-api-lambda,1
-United Kingdom,GB,Mirfield,20200323,desktop,getbottraffic4free.pw,/,1
 United Kingdom,GB,Northampton,20200328,desktop,getbottraffic4free.pw,/,1
 United Kingdom,GB,Paignton,20200328,mobile,getbottraffic4free.pw,/,1
 United Kingdom,GB,Ramsgate,20200325,desktop,getbottraffic4free.pw,/,1
@@ -387,7 +355,6 @@ United Kingdom,GB,Slough,20200324,mobile,getbottraffic4free.pw,/,1
 United Kingdom,GB,Slough,20200329,tablet,getbottraffic4free.pw,/,1
 United Kingdom,GB,Southend-on-Sea,20200325,desktop,google,/blog/bulma-amp,1
 United Kingdom,GB,Southend-on-Sea,20200327,mobile,getbottraffic4free.pw,/,1
-United States,US,(not set),20200323,desktop,google,/blog/image-rotation-opencv,1
 United States,US,Arlington,20200328,desktop,google,/blog/serverless-api-lambda,1
 United States,US,Ashburn,20200327,desktop,(direct),/blog/image-rotation-opencv,1
 United States,US,Bentonville,20200326,desktop,google,/blog/image-rotation-opencv,1
@@ -408,7 +375,6 @@ United States,US,Indianapolis,20200327,desktop,google,/blog/serverless-api-lambd
 United States,US,Irvine,20200325,mobile,m.facebook.com,/blog/raspberry-video-stream?fbclid=IwAR3ZqcNOuH2mmeFVVnXwXTEbIf3oNRIEeZyPe9O8ggZlQAouK-ddvm_g5Lk,1
 United States,US,La Puente,20200324,mobile,getbottraffic4free.pw,/,1
 United States,US,Lakeland Highlands,20200329,desktop,google,/blog/monitoring-grafana,1
-United States,US,Linden,20200323,desktop,google,/blog/document-detection,1
 United States,US,Los Angeles,20200328,desktop,getbottraffic4free.pw,/,1
 United States,US,Minneapolis,20200327,desktop,(direct),/blog/image-rotation-opencv,1
 United States,US,Montgomery,20200324,desktop,bing,/blog/image-rotation-opencv,1
@@ -423,17 +389,13 @@ United States,US,Santa Clara,20200326,desktop,google,/blog/image-rotation-opencv
 United States,US,Seattle,20200328,mobile,google,/blog/serverless-api-lambda,1
 United States,US,Seattle,20200329,desktop,google,/blog/ssd-yolo,1
 United States,US,Sunnyvale,20200329,mobile,google,/blog/ssd-yolo,1
-United States,US,Vienna,20200323,desktop,oceanhero.today,/blog/image-rotation-opencv,1
 Vietnam,VN,(not set),20200327,desktop,google,/blog/ssd-yolo,3
 Vietnam,VN,Da Nang,20200325,desktop,google,/blog/image-rotation-opencv,1
-Vietnam,VN,Hai Duong,20200323,mobile,google,/blog/bulma-amp,1
-Vietnam,VN,Hanoi,20200323,desktop,google,/blog/image-rotation-opencv,3
 Vietnam,VN,Hanoi,20200324,desktop,github.com,/blog/bulma-amp,1
 Vietnam,VN,Hanoi,20200324,desktop,google,/blog/bulma-amp,1
 Vietnam,VN,Hanoi,20200324,mobile,(direct),/blog/bulma-amp,1
 Vietnam,VN,Hanoi,20200325,desktop,google,/blog/image-rotation-opencv,1
 Vietnam,VN,Hanoi,20200327,desktop,google,/blog/ssd-yolo,1
-Vietnam,VN,Ho Chi Minh City,20200323,desktop,google,/blog/image-rotation-opencv,1
 Vietnam,VN,Ho Chi Minh City,20200324,desktop,(direct),/blog/image-rotation-opencv,1
 Vietnam,VN,Ho Chi Minh City,20200324,desktop,google,/blog/image-rotation-opencv,1
 Vietnam,VN,Ho Chi Minh City,20200325,desktop,google,/blog/ssd-yolo,1
