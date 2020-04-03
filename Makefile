@@ -4,7 +4,7 @@ venv:
 	venv/bin/pip install -U -r requirements.txt
 
 node_modules:
-	npm install
+	npm ci
 
 public/data:
 	mkdir -p public/data
