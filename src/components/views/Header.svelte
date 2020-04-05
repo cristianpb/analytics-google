@@ -2,12 +2,12 @@
   <div class="navbar-brand">
     <div href="{null}" class="navbar-item">
       <a href="{null}" class="button" on:click={resetData}>
-        Reset
+        ♻️
       </a>
     </div>
-    <a href="{null}" class="navbar-item">
-      Total sessions: {total}
-    </a>
+    <div class="navbar-item">
+      <SearchBox/>
+    </div>
     <a href="{null}" 
        class:is-active={burgerState}
        on:click={toggleBurger}
@@ -19,11 +19,6 @@
   </div>
 
   <div id="navMenu" class="navbar-menu" class:is-active={burgerState}>
-    <div class="navbar-start">
-      <div class="navbar-item">
-        <SearchBox/>
-      </div>
-    </div>
     <div class="navbar-end">
       <div class="navbar-item">
         <div class="buttons">

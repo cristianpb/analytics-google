@@ -15,7 +15,7 @@
       <div class="column is-4">
         <Pages/>
       </div>
-      <div class="column is-4">
+      <div class="column is-4-desktop is-6-mobile">
         <Devices/>
       </div>
       <div class="column is-4">

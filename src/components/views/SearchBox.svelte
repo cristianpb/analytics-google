@@ -22,5 +22,6 @@
 <style>
   .input, .textarea, .select select {
     color: white;
+    width: 200px;
   }
 </style>
