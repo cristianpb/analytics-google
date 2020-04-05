@@ -28,10 +28,10 @@ export async function fetchHistory() {
   const res = await fetch('https://api.github.com/repos/cristianpb/analytics-google/commits?sha=data')
   const commits = await res.json()
   const date = new Date();
-  date.setDate( date.getDate() - 7);
+  date.setDate(date.getDate() - 7);
   const commit = commits.find(item => {
     const dateCommit = new Date(item.commit.committer.date)
-    if (dateCommit.getFullYear() === date.getFullYear() && dateCommit.getMonth() === date.getMonth() && dateCommit.getDate() === date.getDate()) {
+    if (dateCommit.getTime() < date.getTime()) {
       return item
     }
   })
