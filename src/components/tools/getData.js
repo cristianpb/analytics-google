@@ -4,16 +4,25 @@ function processCsv(text) {
   return rows
     .filter(row => row.length === headers.length)
     .map(row => {
+      let readRow = {}
+      headers.forEach((key, idx) => readRow[key] = row[idx]) 
       return {
-        country: row[0] === '(not set)' ? '': row[0],
-        countryIsoCode: row[1],
-        city: row[2] === '(not set)' ? '': row[2],
-        day: row[3],
-        dd: new Date(row[3].substring(0,4), row[3].substring(4,6) - 1, row[3].substring(6,8)),
-        device: row[4],
-        source: row[5],
-        pagePath: row[6],
-        sessions: +row[7]
+        userType: readRow.userType,
+        source: readRow.source,
+        pagePath: readRow.pagePath,
+        device: readRow.deviceCategory,
+        country: readRow.country === '(not set)' ? '' : readRow.country,
+        city: readRow.city === '(not set)' ? '': readRow.city,
+        users: +readRow.users,
+        sessions: +readRow.sessions,
+        sessionDuration: +readRow.sessionDuration,
+        timeOnPage: +readRow.timeOnPage,
+        pageLoadTime: +readRow.pageLoadTime,
+        bounces: +readRow.bounces,
+        day: readRow.date,
+        hour: +readRow.hour,
+        countryIsoCode: readRow.countryIsoCode,
+        dd: new Date(readRow.date.substring(0,4), readRow.date.substring(4,6) - 1, readRow.date.substring(6,8))
       };
     });
 }

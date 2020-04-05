@@ -35,9 +35,9 @@
   import { data as dataCsv, results, lastWeek } from '../tools/stores.js';
 
   $: sessions = $dataCsv.reduce((total, s) => total + s.sessions, 0)
-  $: users = $dataCsv.reduce((total, s) => total + 1, 0)
+  $: users = $dataCsv.reduce((total, s) => total + s.users, 0)
   $: sessionsLastWeek = $lastWeek.reduce((total, s) => total + s.sessions, 0)
-  $: usersLastWeek = $lastWeek.reduce((total, s) => total + 1, 0)
+  $: usersLastWeek = $lastWeek.reduce((total, s) => total + s.users, 0)
   $: sessionsRatio = Math.round(((sessions-sessionsLastWeek)/(sessions) + Number.EPSILON) * 100) / 100
   $: usersRatio = Math.round(((users-usersLastWeek)/(users) + Number.EPSILON) * 100) / 100
 

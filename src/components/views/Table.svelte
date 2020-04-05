@@ -10,18 +10,20 @@
           <th>Devices</th>
           <th>Sources</th>
           <th>Sessions</th>
+          <th>Users</th>
         </tr>
       </thead>
       <tbody>
         {#each Object.values(tableRows) as row }
           <tr>
-            <td>{row.day}</td>
+            <td>{row.day.substring(6,8)}/{row.day.substring(4,6)}/{row.day.substring(0,4)}</td>
             <td>{row.country}</td>
             <td>{row.city}</td>
             <td>{row.pagePath}</td>
             <td>{row.device}</td>
             <td>{row.source}</td>
             <td>{row.sessions}</td>
+            <td>{row.users}</td>
           </tr>
         {/each}
       </tbody>
