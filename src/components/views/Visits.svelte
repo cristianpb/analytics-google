@@ -90,7 +90,7 @@
       visitChart.options.scales.xAxes[0].ticks.min = +Object.values(visits)[0].x
       visitChart.options.scales.xAxes[0].ticks.max = +Object.values(visits)[Object.keys(visits).length - 1].x
       visitChart.options.scales.xAxes[1].ticks.min = +Object.values(visitsLast)[0].x
-      visitChart.options.scales.xAxes[1].ticks.max = +Object.values(visitsLast)[Object.keys(visits).length - 1].x
+      visitChart.options.scales.xAxes[1].ticks.max = +Object.values(visitsLast)[Object.keys(visitsLast).length - 1].x
       visitChart.update();
     }
   })
