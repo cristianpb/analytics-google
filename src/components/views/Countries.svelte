@@ -38,7 +38,7 @@
 
   const unsubscribe = results.subscribe(myData => {
     if (myData.length > 0) {
-      countries = myData.reduce((total, s) => {
+      let countriesUnsorted = myData.reduce((total, s) => {
         if (s.country in total) {
           total[s.country] += s.sessions;
         } else {
@@ -46,32 +46,33 @@
         }
         return total
       }, {})
+      countries = Object.keys(countriesUnsorted)
+        .map((item, idx) => { 
+          return {data: countriesUnsorted[item], label: item }
+        })
+        .sort(function(a, b) {
+          return b.data - a.data;
+        })
+        .reduce((total, s, idx) => {
+          if (idx > 10) {
+            if ('Others' in total) {
+              total.Others += s.data
+            } else {
+              total.Others = s.data
+            }
+          } else {
+            total[s.label] = s.data
+          }
+          return total
+        }, {});
+
       renderChart(Object.keys(countries),Object.values(countries))
     }
   })
 
   function renderChart(labels, data) {
-    let orderedValues = labels
-      .map((item, idx) => { 
-        return {data: data[idx], label: labels[idx] }
-      })
-      .sort(function(a, b) {
-        return b.data - a.data;
-      })
-      .reduce((total, s, idx) => {
-        if (idx > 10) {
-          if ('Others' in total) {
-            total.Others += s.data
-          } else {
-            total.Others = s.data
-          }
-        } else {
-          total[s.label] = s.data
-        }
-        return total
-      }, {});
-    countriesChart.data.labels = Object.keys(orderedValues)
-    countriesChart.data.datasets[0].data = Object.values(orderedValues)
+    countriesChart.data.labels = labels
+    countriesChart.data.datasets[0].data = data
     countriesChart.update();
   }
 

@@ -38,7 +38,7 @@
 
   const unsubscribe = results.subscribe(myData => {
     if (myData.length > 0) {
-      pages = myData.reduce((total, s) => {
+      let pagesUnsorted = myData.reduce((total, s) => {
         if (s.pagePath in total) {
           total[s.pagePath] += s.sessions;
         } else {
@@ -46,32 +46,32 @@
         }
         return total
       }, {})
+      pages = Object.keys(pagesUnsorted)
+        .map((item, idx) => { 
+          return {label: item, data: pagesUnsorted[item] }
+        })
+        .sort(function(a, b) {
+          return b.data - a.data;
+        })
+        .reduce((total, s, idx) => {
+          if (idx > 10) {
+            if ('Others' in total) {
+              total.Others += s.data
+            } else {
+              total.Others = s.data
+            }
+          } else {
+            total[s.label] = s.data
+          }
+          return total
+        }, {});
       renderChart(Object.keys(pages),Object.values(pages))
     }
   })
 
   function renderChart(labels, data) {
-    let sortedValues = labels
-      .map((item, idx) => { 
-        return {data: data[idx], label: labels[idx] }
-      })
-      .sort(function(a, b) {
-        return b.data - a.data;
-      })
-      .reduce((total, s, idx) => {
-        if (idx > 10) {
-          if ('Others' in total) {
-            total.Others += s.data
-          } else {
-            total.Others = s.data
-          }
-        } else {
-          total[s.label] = s.data
-        }
-        return total
-      }, {});
-    pagesChart.data.labels = Object.keys(sortedValues)
-    pagesChart.data.datasets[0].data = Object.values(sortedValues)
+    pagesChart.data.labels = labels
+    pagesChart.data.datasets[0].data = data
     pagesChart.update();
   }
 
