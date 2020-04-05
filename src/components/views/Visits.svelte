@@ -7,37 +7,50 @@
   let visits;
   let visitChart;
   let visitsLast;
+  let daysWeek = {0: "Sunday", 1: "Monday", 2: "Tuesday", 3: "Wednesday", 4: "Thursday", 5: "Friday", 6: "Saturday", }
 
   onMount(async () => {
     const ctx = document.getElementById("visits-chart").getContext("2d");
     visitChart = new Chart(ctx, {
       type: "line",
       data: {
-        labels: [],
         datasets: [
           {
+            label: "This week",
             backgroundColor: "#2171b5",
             borderColor: "#2171b5",
             fill: false,
             data: []
           },
           {
+            label: "Last week",
             backgroundColor: "#c6dbef",
             borderColor: "#c6dbef",
             fill: false,
+            borderDash: [10,5],
+            xAxisID:'axisLastWeek',
             data: []
           }
         ]
       },
       options: {
-        legend: {
-          display: false
-        },
         responsive: true,
         maintainAspectRatio: false,
         scales: {
           xAxes: [{
+            id: 'axisThisWeek',
             type: 'time',
+            ticks: {
+              min: 0,
+              max: 1586000000000,
+            }
+          },{
+            id: 'axisLastWeek',
+            type: 'time',
+            display: false,
+            gridLines: {
+              drawOnChartArea: false
+            },
           }],
           yAxes: [{
             id: 'temp-y-axis',
@@ -54,9 +67,10 @@
           intersect: false,
           callbacks: {
             title: function(tooltipItems, data) {
-              let idx = tooltipItems[0].index
-              let date = data.labels[idx];
-              return `${("0" + date.getDate()).slice(-2)} / ${("0" + (date.getMonth() + 1)).slice(-2)} / ${date.getFullYear()}`
+              let { index } = tooltipItems[0]
+              let { datasetIndex } = tooltipItems[0]
+              let date = data.datasets[datasetIndex].data[index].x;
+              return `${daysWeek[date.getDay()]} ${("0" + date.getDate()).slice(-2)} / ${("0" + (date.getMonth() + 1)).slice(-2)} / ${date.getFullYear()}`
             }
           }
         }
@@ -68,12 +82,16 @@
   const unsubscribe = results.subscribe(myData => {
     if (myData.length > 0) {
       visits = myData.reduce(sumPerDay, {})
+      renderChart(Object.values(visits), 0)
       if ($lastWeek) {
         visitsLast = $lastWeek.reduce(sumPerDay, {})
         renderChart(Object.values(visitsLast), 1)
       }
-      visitChart.data.labels = Object.values(visits).map(x => x.x)
-      renderChart(Object.values(visits), 0)
+      visitChart.options.scales.xAxes[0].ticks.min = +Object.values(visits)[0].x
+      visitChart.options.scales.xAxes[0].ticks.max = +Object.values(visits)[Object.keys(visits).length - 1].x
+      visitChart.options.scales.xAxes[1].ticks.min = +Object.values(visitsLast)[0].x
+      visitChart.options.scales.xAxes[1].ticks.max = +Object.values(visitsLast)[Object.keys(visits).length - 1].x
+      visitChart.update();
     }
   })
 
@@ -87,7 +105,9 @@
   }
 
   function renderChart(data, idx) {
-    visitChart.data.datasets[idx].data = data.map(x => x.y)
+    visitChart.data.datasets[idx].data = data.map(x => {
+      return {x: x.x, y: x.y}
+    })
     visitChart.update();
   }
 
@@ -95,7 +115,6 @@
     const activePoints = visitChart.getElementsAtEvent(event);
     if (activePoints[0]) {
       const idx = activePoints[0]['_index'];
-      console.log(idx);
       $results = $dataCsv.filter(x => x.day === Object.keys(visits)[idx])
     }
   }
