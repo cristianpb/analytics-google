@@ -5,8 +5,8 @@
     "../../SearchBox.svelte"
   ],
   "sourcesContent": [
-    "<script>\n  import { data as dataCsv, results } from '../tools/stores.js';\n  import { loadCsv } from '../tools/getData';\n\n\tlet searchTerm = \"\";\n  \n  $results = $dataCsv\n\n  function updateSearch() {\n    if (searchTerm) {\n      console.log(searchTerm)\n      $results = $dataCsv.filter(x => (x.country.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.city.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.device.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.source.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.pagePath.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1))\n    } else {\n      $results = $dataCsv\n    }\n  }\n\t\n</script>\n\n<input class=\"input\"  type=\"text\" placeholder=\"Search ex: Poland\" bind:value={searchTerm} on:input|preventDefault={updateSearch}/>\n\n<style>\n  .input, .textarea, .select select {\n    color: white;\n    width: 200px;\n  }\n</style>\n"
+    "<script>\n  import { data as dataCsv, results } from '../tools/stores.js';\n  import { loadCsv } from '../tools/getData';\n\n\tlet searchTerm = \"\";\n  \n  $results = $dataCsv\n\n  function updateSearch() {\n    if (searchTerm) {\n      $results = $dataCsv.filter(x => (x.country.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.city.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.device.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.source.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.pagePath.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1))\n    } else {\n      $results = $dataCsv\n    }\n  }\n\t\n</script>\n\n<input class=\"input\"  type=\"text\" placeholder=\"Search ex: Poland\" bind:value={searchTerm} on:input|preventDefault={updateSearch}/>\n\n<style>\n  .input, .textarea, .select select {\n    color: white;\n    width: 200px;\n  }\n</style>\n"
   ],
   "names": [],
-  "mappings": "AAsBE,MAAM,cAA4B,CAAC,AACjC,KAAK,CAAE,KAAK,CACZ,KAAK,CAAE,KAAK,AACd,CAAC"
+  "mappings": "AAqBE,MAAM,cAA4B,CAAC,AACjC,KAAK,CAAE,KAAK,CACZ,KAAK,CAAE,KAAK,AACd,CAAC"
 }
