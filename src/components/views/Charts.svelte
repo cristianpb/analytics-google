@@ -12,6 +12,7 @@
       <div class="column is-4">
         <Map/>
       </div>
+
       <div class="column is-4">
         <Pages/>
       </div>
@@ -21,6 +22,11 @@
       <div class="column is-4">
         <Provenances/>
       </div>
+
+      <div class="column is-12">
+        <Github/>
+      </div>
+
       <div class="column is-12">
         <Table/>
       </div>
@@ -39,4 +45,5 @@
   import Provenances from './Provenances.svelte';
   import Table from './Table.svelte';
   import Indicators from './Indicators.svelte';
+  import Github from './Github.svelte';
 </script>

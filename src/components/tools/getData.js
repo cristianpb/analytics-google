@@ -48,3 +48,27 @@ export async function fetchHistory() {
   const lastWeekText = await lastWeek.text()
   return processCsv(lastWeekText)
 }
+
+function processGithubCsv(text) {
+  const rows = text.split('\n').map(str => str.split(','))
+  const headers = rows.shift();
+  return rows
+    .filter(row => row.length === headers.length)
+    .map(row => {
+      let readRow = {}
+      headers.forEach((key, idx) => readRow[key] = row[idx]) 
+      return {
+        date: readRow.date,
+        repository: readRow.repository,
+        dd: new Date(readRow.date.substring(0,4), readRow.date.substring(5,7) - 1, readRow.date.substring(8,10)),
+        clones: +readRow.clones,
+        views: +readRow.views
+      };
+    });
+}
+
+export async function fetchGithub() {
+  const res = await fetch('__GITHUB_URL__')
+  const text = await res.text()
+  return processGithubCsv(text)
+}
