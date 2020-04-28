@@ -6,7 +6,7 @@
           <p class="title">{sessions}</p>
           <p class="heading">sessions</p>
           <p class:has-text-danger={sessionsRatio < 0}
-             class:has-text-link={sessionsRatio > 0}
+             class:has-text-success={sessionsRatio > 0}
              class="title is-size-5">{sessionsRatio} %</p>
           <br>
           <p>{sessionsLastWeek} last week</p>
@@ -21,7 +21,7 @@
           <p class="title">{users}</p>
           <p class="heading">users</p>
           <p class:has-text-danger={usersRatio < 0}
-             class:has-text-link={usersRatio > 0}
+             class:has-text-success={usersRatio > 0}
              class="title is-size-5">{usersRatio} %</p>
           <br>
           <p>{usersLastWeek} last week</p>
