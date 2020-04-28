@@ -17,7 +17,6 @@
         labels: [],
         datasets: [
           {
-            label: "My First dataset",
             backgroundColor: '',
             borderColor: '',
             data: []
