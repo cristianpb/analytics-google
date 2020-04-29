@@ -5,9 +5,15 @@
         <div class="content">
           <p class="title">{sessions}</p>
           <p class="heading">sessions</p>
-          <p class:has-text-danger={sessionsRatio < 0}
-             class:has-text-success={sessionsRatio > 0}
-             class="title is-size-5">{sessionsRatio} %</p>
+          {#if sessionsRatio < 0}
+            <p class="title is-size-5 has-text-danger">
+              - {sessionsRatio} %
+            </p>
+          {:else}
+            <p class="title is-size-5 has-text-success">
+              + {sessionsRatio} %
+            </p>
+          {/if}
           <br>
           <p>{sessionsLastWeek} last week</p>
         </div>
@@ -20,9 +26,15 @@
         <div class="content">
           <p class="title">{users}</p>
           <p class="heading">users</p>
-          <p class:has-text-danger={usersRatio < 0}
-             class:has-text-success={usersRatio > 0}
-             class="title is-size-5">{usersRatio} %</p>
+          {#if usersRatio < 0}
+            <p class="title is-size-5 has-text-danger">
+              - {usersRatio} %
+            </p>
+          {:else}
+            <p class="title is-size-5 has-text-success">
+              + {usersRatio} %
+            </p>
+          {/if}
           <br>
           <p>{usersLastWeek} last week</p>
         </div>
@@ -38,7 +50,7 @@
   $: users = $dataCsv.reduce((total, s) => total + s.users, 0)
   $: sessionsLastWeek = $lastWeek.reduce((total, s) => total + s.sessions, 0)
   $: usersLastWeek = $lastWeek.reduce((total, s) => total + s.users, 0)
-  $: sessionsRatio = Math.round(((sessions-sessionsLastWeek)/(sessions) + Number.EPSILON) * 100) / 100
-  $: usersRatio = Math.round(((users-usersLastWeek)/(users) + Number.EPSILON) * 100) / 100
+  $: sessionsRatio = Math.round(((sessions-sessionsLastWeek)/(sessions) + Number.EPSILON) * 100)
+  $: usersRatio = Math.round(((users-usersLastWeek)/(users) + Number.EPSILON) * 100)
 
 </script>

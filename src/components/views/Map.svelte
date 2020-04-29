@@ -35,7 +35,6 @@
             .filter(x => x.countryIsoCode === obj.id)
             .reduce((total, s) => total + s.sessions, 0)
           obj.properties.density = density;
-          if (density > 0) console.log(`${obj.id} - ${density}`);
         })
         leafletMap.eachLayer(l => leafletMap.removeLayer(l))
         countriesLayer = L.geoJson(countries, {
