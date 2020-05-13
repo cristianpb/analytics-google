@@ -7,7 +7,7 @@
           <p class="heading">sessions</p>
           {#if sessionsRatio < 0}
             <p class="title is-size-5 has-text-danger">
-              - {sessionsRatio} %
+              {sessionsRatio} %
             </p>
           {:else}
             <p class="title is-size-5 has-text-success">
@@ -28,7 +28,7 @@
           <p class="heading">users</p>
           {#if usersRatio < 0}
             <p class="title is-size-5 has-text-danger">
-              - {usersRatio} %
+              {usersRatio} %
             </p>
           {:else}
             <p class="title is-size-5 has-text-success">

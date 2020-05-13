@@ -123,9 +123,9 @@
           backgroundColor: colors[idx],
           borderColor: colors[idx],
           fill: false,
-          data: results[key].data.map(x => {
-            if (x.views > 0) return {x: x.day, y: x.views}
-          }).filter(x => x)
+          data: results[key].data.filter(x => x.views > 0).map(x => {
+             return {x: x.day, y: x.views}
+          })
         }
       )
       clonesChart.data.datasets.push(
@@ -134,9 +134,9 @@
           backgroundColor: colors[idx],
           borderColor: colors[idx],
           fill: false,
-          data: results[key].data.map(x => {
-            if (x.clones > 0) return {x: x.day, y: x.clones}
-          }).filter(x => x)
+          data: results[key].data.filter(x => x.clones > 0).map(x => {
+            return {x: x.day, y: x.clones}
+          })
         }
       )
     })
