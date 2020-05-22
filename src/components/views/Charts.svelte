@@ -23,6 +23,10 @@
         <Provenances/>
       </div>
 
+      <div class="column is-4">
+        <Tags />
+      </div>
+
       <div class="column is-12">
         <Github/>
       </div>
@@ -46,4 +50,5 @@
   import Table from './Table.svelte';
   import Indicators from './Indicators.svelte';
   import Github from './Github.svelte';
+  import Tags from './Tags.svelte';
 </script>

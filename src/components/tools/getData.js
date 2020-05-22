@@ -72,3 +72,12 @@ export async function fetchGithub() {
   const text = await res.text()
   return processGithubCsv(text)
 }
+
+export async function fetchJekyll() {
+  const res = await fetch('__JEKYLL_URL__')
+  if (res) {
+    return await res.json()
+  } else {
+    return []
+  }
+}
