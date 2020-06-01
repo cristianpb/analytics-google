@@ -2,16 +2,18 @@
 
 <script>
   import { data as dataCsv, results } from '../tools/stores.js';
-  import L from "leaflet";
   import { onMount } from "svelte";
 
   let leafletMap;
+  let L;
   let mapContainer;
   let countriesLayer;
   let center = [20, 15.8];
   let zoom = 1;
 
   onMount(async () => {
+    const module = await import('leaflet')
+    L = module.default;
     leafletMap = L.map(mapContainer, {
       svgSprite: false,
       preferCanvas: false,
