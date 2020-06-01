@@ -25,18 +25,14 @@ jobs:
             ${{ runner.os }}-node-
       - name: install node requirements
         run: make node_modules
-      - name: build html
-        run: |
-          sed -i "s/href='/href='\/analytics-google/"  public/index.html
-          sed -i "s/src='/src='\/analytics-google/"  public/index.html
-          make build
+      - name: 🏗 Build html
+        run: NODE_ENV=production npm run export
         env:
-          MAPBOX_TOKEN: ${{ secrets.MAPBOX_TOKEN }}
           BASEURL: '/analytics-google'
-      - name: deploy to github pages
+      - name: 🚀 Deploy to GitHub pages
         if: success() && steps.extract_branch.outputs.branch == 'master'
         uses: peaceiris/actions-gh-pages@v3
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_branch: gh-pages
-          publish_dir: ./public
+          publish_dir: ./__sapper__/export/analytics-google
