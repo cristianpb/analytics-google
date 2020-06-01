@@ -1,6 +1,6 @@
 <script>
+  export let segment;
   import SearchBox from './views/SearchBox.svelte';
-  import { loadCsv } from './tools/getData';
   import { results } from './tools/stores.js'
   let total
   let burgerState = false;
@@ -9,19 +9,15 @@
     total = myData.reduce((total, s) => total + s.sessions, 0);
   });
 
-  async function resetData() {
-    const myData = await loadCsv()
-    $results = myData
-  }
 </script>
 
 <nav class="navbar is-link is-fixed-top  ontop" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <div href="{null}" class="navbar-item">
-      <a href="{null}" class="button" on:click={resetData}>
-        ♻️
-      </a>
-    </div>
+    <a class="navbar-item" href="{ process.env.NODE_ENV === 'development' ?  '/' : 'https://cristianpb.github.io/'}">
+      <img src="{ process.env.NODE_ENV === 'development' ?  '/favicon.png' : 'https://cristianpb.github.io/assets/img/avatar-small.png'}" 
+      alt="home page link"
+      width="30" height="30"/>
+    </a>
     <div class="navbar-item">
       <SearchBox/>
     </div>
@@ -39,13 +35,9 @@
 
   <div id="navMenu" class="navbar-menu" class:is-active={burgerState} class:active={burgerState}>
     <div class="navbar-end">
-      <div class="navbar-item">
-        <div class="buttons">
-          <a class="button is-danger" href="https://github.com/cristianpb/analytics-google">
-            Github code
-          </a>
-        </div>
-      </div>
+      <a class="navbar-item" href="/about">About me</a>
+      <a class="navbar-item" href="/blog">Blog</a>
+      <a class="navbar-item" class:is-active={segment === undefined} href="/analytics-google">Analytics</a>
     </div>
   </div>
 </nav>

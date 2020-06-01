@@ -13,14 +13,30 @@
       $results = $dataCsv
     }
   }
+
+  async function resetData() {
+    searchTerm = "";
+    const myData = await loadCsv()
+    $results = myData
+  }
 	
 </script>
 
-<input class="input"  type="text" placeholder="Search ex: Poland" bind:value={searchTerm} on:input|preventDefault={updateSearch}/>
+<div class="field has-addons">
+  <div class="control">
+    <input class="input"  type="search" placeholder="Search ex: Poland" bind:value={searchTerm} on:input|preventDefault={updateSearch}/>
+  </div>
+  <div class="control">
+    <a class="button is-info" href="{null}"  on:click={resetData}>
+      Clear
+    </a>
+  </div>
+</div>
 
 <style>
   .input  {
-    color: white;
-    width: 200px;
+    color: #723122;
+    width: 150px;
+    background-color: #EFF0EB;
   }
 </style>
