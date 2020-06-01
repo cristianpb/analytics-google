@@ -6,6 +6,13 @@ import babel from '@rollup/plugin-babel';
 import { terser } from 'rollup-plugin-terser';
 import config from 'sapper/config/rollup.js';
 import pkg from './package.json';
+import sass from 'rollup-plugin-sass';
+import postcss from 'postcss'
+
+const purgecss = require("@fullhuman/postcss-purgecss")({
+  content: ["./src/**/*.svelte", "./src/**/*.html"],
+  defaultExtractor: content => content.match(/[A-Za-z0-9-_:/]+/g) || []
+});
 
 const mode = process.env.NODE_ENV;
 const dev = mode === 'development';
@@ -30,6 +37,17 @@ export default {
       __GITHUB_URL__: GITHUB_URL,
       __JEKYLL_URL__: JEKYLL_URL
 			}),
+      sass({
+        includePaths: ['src/scss', 'node_modules'],
+        output: 'static/global.css',
+        processor: css => postcss(...[purgecss])
+        .process(css)
+        .then(result => result.css),
+        options: {
+          outputStyle: 'compressed',
+          sourceMap: false,
+        }
+      }),
 			svelte({
 				dev,
 				hydratable: true,
