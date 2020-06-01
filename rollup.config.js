@@ -10,7 +10,7 @@ import sass from 'rollup-plugin-sass';
 import postcss from 'postcss'
 
 const purgecss = require("@fullhuman/postcss-purgecss")({
-  content: ["./src/**/*.svelte", "./src/**/*.html"],
+  content: ["./src/**/*.svelte", "./src/**/*.html", "./src/scss/leaflet.scss"],
   defaultExtractor: content => content.match(/[A-Za-z0-9-_:/]+/g) || []
 });
 
