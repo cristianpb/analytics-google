@@ -1,13 +1,12 @@
+.DS_Store
+/node_modules/
+/src/node_modules/@sapper/
+yarn-error.log
+/cypress/screenshots/
+/__sapper__/
+
 venv
-dist
 data.csv
 token.json
 __pycache__
 
-# production
-public/build
-public/data
-bundle.*
-
-# dependencies
-/node_modules

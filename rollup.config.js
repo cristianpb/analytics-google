@@ -1,96 +1,119 @@
-import svelte from 'rollup-plugin-svelte';
 import resolve from '@rollup/plugin-node-resolve';
 import replace from '@rollup/plugin-replace';
 import commonjs from '@rollup/plugin-commonjs';
-import livereload from 'rollup-plugin-livereload';
-import sveltePreprocess from 'svelte-preprocess'
+import svelte from 'rollup-plugin-svelte';
+import babel from '@rollup/plugin-babel';
 import { terser } from 'rollup-plugin-terser';
+import config from 'sapper/config/rollup.js';
+import pkg from './package.json';
 
-const production = !process.env.ROLLUP_WATCH;
+const mode = process.env.NODE_ENV;
+const dev = mode === 'development';
+const legacy = !!process.env.SAPPER_LEGACY_BUILD;
 const BASEURL = process.env.BASEURL || '';
-const DATAURL = production ? 'https://raw.githubusercontent.com/cristianpb/analytics-google/data/data.csv' : 'data/data.csv';
-const GITHUB_URL = production ? 'https://cristianpb.github.io/stats/github-visits.csv' : 'data/github-visits.csv';
-const JEKYLL_URL = production ? 'https://cristianpb.github.io/api/github-pages.json' : 'data/github-pages.json';
+const DATAURL = mode == 'production' ? 'https://raw.githubusercontent.com/cristianpb/analytics-google/data/data.csv' : 'data/data.csv';
+const GITHUB_URL = mode == 'production' ? 'https://cristianpb.github.io/stats/github-visits.csv' : 'data/github-visits.csv';
+const JEKYLL_URL = mode == 'production' ? 'https://cristianpb.github.io/api/github-pages.json' : 'data/github-pages.json';
 
-const preprocessOptions = {
-  scss: {
-    includePaths: [
-      'node_modules',
-      'src'
-    ]
-  }
-}
+const onwarn = (warning, onwarn) => (warning.code === 'CIRCULAR_DEPENDENCY' && /[/\\]@sapper[/\\]/.test(warning.message)) || onwarn(warning);
 
 export default {
-	input: 'src/main.js',
-	output: {
-		sourcemap: true,
-		format: 'iife',
-		name: 'app',
-		file: 'public/build/bundle.js'
-	},
-	plugins: [
-		svelte({
-			// enable run-time checks when not in production
-			dev: !production,
-      // Prepare scss
-      preprocess: sveltePreprocess(preprocessOptions),
-			// we'll extract any component CSS out into
-			// a separate file - better for performance
-			css: css => {
-				css.write('public/build/bundle.css');
-			},
-		}),
-		replace({
-			// you're right, you shouldn't be injecting this
-			// into a client script :)
-			__MAPBOX_TOKEN__: process.env.MAPBOX_TOKEN,
+	client: {
+		input: config.client.input(),
+		output: config.client.output(),
+		plugins: [
+			replace({
+				'process.browser': true,
+				'process.env.NODE_ENV': JSON.stringify(mode),
 			__BASEURL__: BASEURL,
 			__DATAURL__: DATAURL,
       __GITHUB_URL__: GITHUB_URL,
       __JEKYLL_URL__: JEKYLL_URL
-		  }),
-		// If you have external dependencies installed from
-		// npm, you'll most likely need these plugins. In
-		// some cases you'll need additional configuration -
-		// consult the documentation for details:
-		// https://github.com/rollup/plugins/tree/master/packages/commonjs
-		resolve({
-			browser: true,
-			dedupe: ['svelte']
-		}),
-		commonjs(),
+			}),
+			svelte({
+				dev,
+				hydratable: true,
+				emitCss: true
+			}),
+			resolve({
+				browser: true,
+				dedupe: ['svelte']
+			}),
+			commonjs(),
 
-		// In dev mode, call `npm run start` once
-		// the bundle has been generated
-		!production && serve(),
+			legacy && babel({
+				extensions: ['.js', '.mjs', '.html', '.svelte'],
+				babelHelpers: 'runtime',
+				exclude: ['node_modules/@babel/**'],
+				presets: [
+					['@babel/preset-env', {
+						targets: '> 0.25%, not dead'
+					}]
+				],
+				plugins: [
+					'@babel/plugin-syntax-dynamic-import',
+					['@babel/plugin-transform-runtime', {
+						useESModules: true
+					}]
+				]
+			}),
 
-		// Watch the `public` directory and refresh the
-		// browser on changes when not in production
-		!production && livereload('public'),
+			!dev && terser({
+				module: true
+			})
+		],
 
-		// If we're building for production (npm run build
-		// instead of npm run dev), minify
-		production && terser()
-	],
-	watch: {
-		clearScreen: false
+		preserveEntrySignatures: false,
+		onwarn,
+	},
+
+	server: {
+		input: config.server.input(),
+		output: config.server.output(),
+		plugins: [
+			replace({
+				'process.browser': false,
+				'process.env.NODE_ENV': JSON.stringify(mode),
+        __BASEURL__: BASEURL,
+        __DATAURL__: DATAURL,
+        __GITHUB_URL__: GITHUB_URL,
+        __JEKYLL_URL__: JEKYLL_URL
+			}),
+			svelte({
+				generate: 'ssr',
+				dev
+			}),
+			resolve({
+				dedupe: ['svelte']
+			}),
+			commonjs()
+		],
+		external: Object.keys(pkg.dependencies).concat(
+			require('module').builtinModules || Object.keys(process.binding('natives'))
+		),
+
+		preserveEntrySignatures: 'strict',
+		onwarn,
+	},
+
+	serviceworker: {
+		input: config.serviceworker.input(),
+		output: config.serviceworker.output(),
+		plugins: [
+			resolve(),
+			replace({
+				'process.browser': true,
+				'process.env.NODE_ENV': JSON.stringify(mode),
+        __BASEURL__: BASEURL,
+        __DATAURL__: DATAURL,
+        __GITHUB_URL__: GITHUB_URL,
+        __JEKYLL_URL__: JEKYLL_URL
+			}),
+			commonjs(),
+			!dev && terser()
+		],
+
+		preserveEntrySignatures: false,
+		onwarn,
 	}
 };
-
-function serve() {
-	let started = false;
-
-	return {
-		writeBundle() {
-			if (!started) {
-				started = true;
-
-				require('child_process').spawn('npm', ['run', 'start', '--', '--dev'], {
-					stdio: ['ignore', 'inherit', 'inherit'],
-					shell: true
-				});
-			}
-		}
-	};
-}

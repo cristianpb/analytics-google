@@ -19,7 +19,7 @@
 <input class="input"  type="text" placeholder="Search ex: Poland" bind:value={searchTerm} on:input|preventDefault={updateSearch}/>
 
 <style>
-  .input, .textarea, .select select {
+  .input  {
     color: white;
     width: 200px;
   }
