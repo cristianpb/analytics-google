@@ -68,7 +68,6 @@
             ticks: {
 							userCallback: function(tick) {
 								var remain = tick / (Math.pow(10, Math.floor(Chart.helpers.log10(tick))));
-                console.log(remain)
 								if (remain === 1 || remain === 2 || remain === 5) {
 									return tick.toString();
 								}

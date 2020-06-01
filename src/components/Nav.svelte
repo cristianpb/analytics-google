@@ -1,6 +1,4 @@
 <script>
-	export let segment;
-
   import SearchBox from './views/SearchBox.svelte';
   import { loadCsv } from './tools/getData';
   import { results } from './tools/stores.js'
@@ -14,13 +12,7 @@
   async function resetData() {
     const myData = await loadCsv()
     $results = myData
-    console.log("RESET", $results.length);
   }
-
-  function toggleBurger() {
-    burgerState = !burgerState
-  }
-
 </script>
 
 <nav class="navbar is-link is-fixed-top  ontop" role="navigation" aria-label="main navigation">
@@ -33,25 +25,20 @@
     <div class="navbar-item">
       <SearchBox/>
     </div>
-    <a href="{null}" 
+    <a role="button"
        class:is-active={burgerState}
-       on:click={toggleBurger}
-       role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu">
+       on:click={() => burgerState = !burgerState}
+       class="navbar-burger burger"
+       aria-label="menu" aria-expanded="false" href="{null}"
+       data-target="navMenu">
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
     </a>
   </div>
 
-  <div id="navMenu" class="navbar-menu" class:is-active={burgerState}>
+  <div id="navMenu" class="navbar-menu" class:is-active={burgerState} class:active={burgerState}>
     <div class="navbar-end">
-      <div class="navbar-item">
-        <div class="buttons">
-          <a class="button is-danger" aria-current='{segment === undefined ? "page" : undefined}' href='.'>
-            home
-          </a>
-        </div>
-      </div>
       <div class="navbar-item">
         <div class="buttons">
           <a class="button is-danger" href="https://github.com/cristianpb/analytics-google">
@@ -67,4 +54,10 @@
   .ontop {
     z-index: 999;
   }
+
+  .active {
+    display: contents;
+  }
 </style>
+
+

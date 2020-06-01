@@ -105,7 +105,6 @@
     })
 
     const myData = await fetchGithub()
-    console.log(myData);
     let results = {}
     myData.forEach((item, idx) => {
       if (!(item.repository in results)) {
