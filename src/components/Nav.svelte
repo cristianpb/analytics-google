@@ -23,7 +23,7 @@
 
 </script>
 
-<nav class="navbar is-link is-fixed-top" role="navigation" aria-label="main navigation">
+<nav class="navbar is-link is-fixed-top  ontop" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
     <div href="{null}" class="navbar-item">
       <a href="{null}" class="button" on:click={resetData}>
@@ -62,3 +62,9 @@
     </div>
   </div>
 </nav>
+
+<style>
+  .ontop {
+    z-index: 999;
+  }
+</style>
