@@ -40,7 +40,7 @@ export default {
       sass({
         includePaths: ['src/scss', 'node_modules'],
         output: 'static/global.css',
-        processor: css => postcss(...[purgecss])
+        processor: css => postcss(...(mode === "production" ? [purgecss] : []))
         .process(css)
         .then(result => result.css),
         options: {
