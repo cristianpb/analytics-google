@@ -1,7 +1,7 @@
 <canvas id="visits-chart" on:click={handleClick}></canvas>
 
 <script>
-  import { data as dataCsv, results, lastWeek } from '../tools/stores.js';
+  import { data as dataCsv, results, lastWeek, lastWeekTemp } from '../tools/stores.js';
   import { onMount } from "svelte";
   import Chart from "chart.js";
   let visits;
@@ -83,18 +83,28 @@
     if (myData.length > 0) {
       visits = myData.reduce(sumPerDay, {})
       renderChart(Object.values(visits), 0)
-      visitChart.options.scales.xAxes[0].ticks.min = +Object.values(visits)[0].x
-      visitChart.options.scales.xAxes[0].ticks.max = +Object.values(visits)[Object.keys(visits).length - 1].x
+      if (Object.values(visits).length === 1) {
+        visitChart.options.scales.xAxes[0].ticks.min = +Object.values(visits)[0].x - 300000000
+        visitChart.options.scales.xAxes[0].ticks.max = +Object.values(visits)[0].x + 300000000
+      } else {
+        visitChart.options.scales.xAxes[0].ticks.min = +Object.values(visits)[0].x
+        visitChart.options.scales.xAxes[0].ticks.max = +Object.values(visits)[Object.keys(visits).length - 1].x
+      }
       visitChart.update();
     }
   })
 
-  const l = lastWeek.subscribe(myData => {
+  const l = lastWeekTemp.subscribe(myData => {
     if (myData && myData.length > 0) {
       visitsLast = myData.reduce(sumPerDay, {})
       renderChart(Object.values(visitsLast), 1)
-      visitChart.options.scales.xAxes[1].ticks.min = +Object.values(visitsLast)[0].x
-      visitChart.options.scales.xAxes[1].ticks.max = +Object.values(visitsLast)[Object.keys(visitsLast).length - 1].x
+      if (Object.values(visitsLast).length === 1) {
+        visitChart.options.scales.xAxes[1].ticks.min = +Object.values(visitsLast)[0].x - 300000000
+        visitChart.options.scales.xAxes[1].ticks.max = +Object.values(visitsLast)[0].x + 300000000
+      } else {
+        visitChart.options.scales.xAxes[1].ticks.min = +Object.values(visitsLast)[0].x
+        visitChart.options.scales.xAxes[1].ticks.max = +Object.values(visitsLast)[Object.keys(visitsLast).length - 1].x
+      }
       visitChart.update();
     }
   })
@@ -120,6 +130,7 @@
     if (activePoints[0]) {
       const idx = activePoints[0]['_index'];
       $results = $dataCsv.filter(x => x.day === Object.keys(visits)[idx])
+      $lastWeekTemp = $lastWeek.filter(x => x.day === Object.keys(visitsLast)[idx])
     }
   }
 
