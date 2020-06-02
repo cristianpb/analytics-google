@@ -1,5 +1,8 @@
 <section class="section">
   <div class="container is-fullhd">
+    {#if $dataCsv.length === 0}
+    <progress class="progress is-small is-primary" max="100">15%</progress>
+    {/if}
     <Indicators/>
 
     <div class="columns is-multiline">
@@ -51,4 +54,5 @@
   import Indicators from './Indicators.svelte';
   import Github from './Github.svelte';
   import Tags from './Tags.svelte';
+  import { data as dataCsv } from '../tools/stores.js';
 </script>
