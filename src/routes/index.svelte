@@ -15,7 +15,7 @@
 </script>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>Analytics - Cristian Perez Brokate</title>
 </svelte:head>
 
 <main class="has-navbar-fixed-top">
