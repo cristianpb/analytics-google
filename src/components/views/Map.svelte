@@ -31,7 +31,6 @@
 
     const unsubscribe = results.subscribe(myData => {
       if (myData.length > 0) {
-        console.log('Change',  myData.length);
         countries.features.forEach((obj) => {
           let density = myData
             .filter(x => x.countryIsoCode === obj.id)

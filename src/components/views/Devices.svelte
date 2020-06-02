@@ -3,7 +3,7 @@
 <canvas id="devices-chart" on:click={handleClick} height="400px"></canvas>
 
 <script>
-  import { data as dataCsv, results } from '../tools/stores.js';
+  import { data as dataCsv, results, lastWeek, lastWeekTemp } from '../tools/stores.js';
   import { onMount } from "svelte";
   import Chart from "chart.js";
   let devices;
@@ -56,7 +56,9 @@
     const activePoints = devicesChart.getElementsAtEvent(event);
     if (activePoints[0]) {
       const idx = activePoints[0]['_index'];
-      $results = $dataCsv.filter(x => x.device === Object.keys(devices)[idx])
+      const device = Object.keys(devices)[idx]
+      $results = $dataCsv.filter(x => x.device === device)
+      $lastWeekTemp = $lastWeek.filter(x => x.device === device)
     }
   }
 

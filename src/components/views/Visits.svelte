@@ -129,8 +129,9 @@
     const activePoints = visitChart.getElementsAtEvent(event);
     if (activePoints[0]) {
       const idx = activePoints[0]['_index'];
-      $results = $dataCsv.filter(x => x.day === Object.keys(visits)[idx])
-      $lastWeekTemp = $lastWeek.filter(x => x.day === Object.keys(visitsLast)[idx])
+      const day = Object.keys(visitsLast)[idx]
+      $results = $dataCsv.filter(x => x.day === day)
+      $lastWeekTemp = $lastWeek.filter(x => x.day === day)
     }
   }
 

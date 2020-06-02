@@ -3,7 +3,7 @@
 <canvas id="provenances-chart" on:click={handleClick} height="400px"></canvas>
 
 <script>
-  import { data as dataCsv, results } from '../tools/stores.js';
+  import { data as dataCsv, results, lastWeek, lastWeekTemp } from '../tools/stores.js';
   import { onMount } from "svelte";
   import Chart from "chart.js";
   let provenances;
@@ -81,7 +81,9 @@
     const activePoints = provenancesChart.getElementsAtEvent(event);
     if (activePoints[0]) {
       const idx = activePoints[0]['_index'];
-      $results = $dataCsv.filter(x => x.source === Object.keys(provenances)[idx])
+      const provenance = Object.keys(provenances)[idx]
+      $results = $dataCsv.filter(x => x.source === provenance)
+      $lastWeekTemp = $lastWeek.filter(x => x.source === provenance)
     }
   }
 

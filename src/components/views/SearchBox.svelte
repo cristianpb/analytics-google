@@ -1,6 +1,5 @@
 <script>
   import { data as dataCsv, results, lastWeek, lastWeekTemp } from '../tools/stores.js';
-  import { loadCsv } from '../tools/getData';
 
 	let searchTerm = "";
   

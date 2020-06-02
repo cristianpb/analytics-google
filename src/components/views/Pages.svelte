@@ -3,7 +3,7 @@
 <canvas id="pages-chart" on:click={handleClick} height="400px"></canvas>
 
 <script>
-  import { data as dataCsv, results } from '../tools/stores.js';
+  import { data as dataCsv, results, lastWeek, lastWeekTemp } from '../tools/stores.js';
   import { onMount } from "svelte";
   import Chart from "chart.js";
   let pages;
@@ -79,7 +79,9 @@
     const activePoints = pagesChart.getElementsAtEvent(event);
     if (activePoints[0]) {
       const idx = activePoints[0]['_index'];
-      $results = $dataCsv.filter(x => x.pagePath === Object.keys(pages)[idx])
+      const page =  Object.keys(pages)[idx]
+      $results = $dataCsv.filter(x => x.pagePath === page)
+      $lastWeekTemp = $lastWeek.filter(x => x.pagePath === page)
     }
   }
 
