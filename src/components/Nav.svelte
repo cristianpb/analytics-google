@@ -11,7 +11,7 @@
 
 </script>
 
-<nav class="navbar is-link is-fixed-top  ontop" role="navigation" aria-label="main navigation">
+<nav class="navbar is-primary is-fixed-top  ontop" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
     <a class="navbar-item" href="{ process.env.NODE_ENV === 'development' ?  '/' : 'https://cristianpb.github.io/'}">
       <img src="{ process.env.NODE_ENV === 'development' ?  '/favicon.png' : 'https://cristianpb.github.io/assets/img/avatar-small.png'}" 
@@ -33,7 +33,7 @@
     </a>
   </div>
 
-  <div id="navMenu" class="navbar-menu" class:is-active={burgerState} class:active={burgerState}>
+  <div id="navMenu" class="navbar-menu" class:is-active={burgerState}>
     <div class="navbar-end">
       <a class="navbar-item" href="/about">About me</a>
       <a class="navbar-item" href="/blog">Blog</a>
@@ -46,9 +46,7 @@
   .ontop {
     z-index: 999;
   }
-
-  .active {
-    display: contents;
+  .navbar .is-active {
   }
 </style>
 

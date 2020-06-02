@@ -35,8 +35,6 @@
 
 <style>
   .input  {
-    color: #723122;
     width: 150px;
-    background-color: #EFF0EB;
   }
 </style>

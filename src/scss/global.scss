@@ -3,20 +3,14 @@
 main { padding-top: 10px; }
 
 // Set your brand colors
-$brown: #723122; 
-$brown-light: #DA9C20;
-$beige-light: #D0D1CD;
-$beige-lighter: #EFF0EB;
+$lightblue: #247da6;
 
 // Update Bulma's global variables
-$primary: $brown;
-$link: $brown-light;
+$primary: $lightblue;
 
 // Update some of Bulma's component variables
-//$body-background-color: $beige-lighter;
 $control-border-width: 2px;
 $input-border-color: transparent;
-$input-background-color: $brown;
 $input-shadow: none;
 
 // Import only what you need from Bulma
