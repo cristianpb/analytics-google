@@ -44,12 +44,12 @@
 </nav>
 
 <script>
-  import { data as dataCsv, results, lastWeek } from '../tools/stores.js';
+  import { data as dataCsv, results, lastWeek, lastWeekTemp } from '../tools/stores.js';
 
-  $: sessions = $dataCsv.reduce((total, s) => total + s.sessions, 0)
-  $: users = $dataCsv.reduce((total, s) => total + s.users, 0)
-  $: sessionsLastWeek = $lastWeek.reduce((total, s) => total + s.sessions, 0)
-  $: usersLastWeek = $lastWeek.reduce((total, s) => total + s.users, 0)
+  $: sessions = $results.reduce((total, s) => total + s.sessions, 0)
+  $: users = $results.reduce((total, s) => total + s.users, 0)
+  $: sessionsLastWeek = $lastWeekTemp.reduce((total, s) => total + s.sessions, 0)
+  $: usersLastWeek = $lastWeekTemp.reduce((total, s) => total + s.users, 0)
   $: sessionsRatio = Math.round(((sessions-sessionsLastWeek)/(sessions) + Number.EPSILON) * 100)
   $: usersRatio = Math.round(((users-usersLastWeek)/(users) + Number.EPSILON) * 100)
 

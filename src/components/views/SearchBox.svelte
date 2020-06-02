@@ -1,5 +1,5 @@
 <script>
-  import { data as dataCsv, results } from '../tools/stores.js';
+  import { data as dataCsv, results, lastWeek, lastWeekTemp } from '../tools/stores.js';
   import { loadCsv } from '../tools/getData';
 
 	let searchTerm = "";
@@ -9,6 +9,7 @@
   function updateSearch() {
     if (searchTerm) {
       $results = $dataCsv.filter(x => (x.country.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.city.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.device.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.source.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.pagePath.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1))
+      $lastWeekTemp = $lastWeek.filter(x => (x.country.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.city.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.device.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.source.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1) || (x.pagePath.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1))
     } else {
       $results = $dataCsv
     }
@@ -16,8 +17,8 @@
 
   async function resetData() {
     searchTerm = "";
-    const myData = await loadCsv()
-    $results = myData
+    $results = $dataCsv
+    $lastWeekTemp = $lastWeek
   }
 	
 </script>
