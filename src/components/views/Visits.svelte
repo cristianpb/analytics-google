@@ -79,16 +79,20 @@
     });
   });
 
-  const unsubscribe = results.subscribe(myData => {
+  const r = results.subscribe(myData => {
     if (myData.length > 0) {
       visits = myData.reduce(sumPerDay, {})
       renderChart(Object.values(visits), 0)
-      if ($lastWeek) {
-        visitsLast = $lastWeek.reduce(sumPerDay, {})
-        renderChart(Object.values(visitsLast), 1)
-      }
       visitChart.options.scales.xAxes[0].ticks.min = +Object.values(visits)[0].x
       visitChart.options.scales.xAxes[0].ticks.max = +Object.values(visits)[Object.keys(visits).length - 1].x
+      visitChart.update();
+    }
+  })
+
+  const l = lastWeek.subscribe(myData => {
+    if (myData && myData.length > 0) {
+      visitsLast = myData.reduce(sumPerDay, {})
+      renderChart(Object.values(visitsLast), 1)
       visitChart.options.scales.xAxes[1].ticks.min = +Object.values(visitsLast)[0].x
       visitChart.options.scales.xAxes[1].ticks.max = +Object.values(visitsLast)[Object.keys(visitsLast).length - 1].x
       visitChart.update();
