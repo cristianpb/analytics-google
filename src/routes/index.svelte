@@ -2,7 +2,8 @@
   import { onMount } from 'svelte';
   import { loadCsv, fetchHistory  } from '../components/tools/getData';
   import { data as dataCsv, results, lastWeek, lastWeekTemp  } from '../components/tools/stores.js';
-  import Layout from '../components/views/Layout.svelte';
+  import Charts from '../components/views/Charts.svelte';
+  import Footer from '../components/views/Footer.svelte';
 
   onMount(async () => {
     const myData = await loadCsv()
@@ -20,6 +21,7 @@
 	<title>Analytics - Cristian Perez Brokate</title>
 </svelte:head>
 
-<main class="has-navbar-fixed-top">
-  <Layout/>
-</main>
+<div class="app">
+  <Charts/>
+  <Footer/>
+</div>

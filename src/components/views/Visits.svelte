@@ -80,7 +80,7 @@
   });
 
   const r = results.subscribe(myData => {
-    if (myData.length > 0) {
+    if (myData.length > 0 && visitChart) {
       visits = myData.reduce(sumPerDay, {})
       renderChart(Object.values(visits), 0)
       if (Object.values(visits).length === 1) {
@@ -95,7 +95,7 @@
   })
 
   const l = lastWeekTemp.subscribe(myData => {
-    if (myData && myData.length > 0) {
+    if (myData && myData.length > 0 && visitChart) {
       visitsLast = myData.reduce(sumPerDay, {})
       renderChart(Object.values(visitsLast), 1)
       if (Object.values(visitsLast).length === 1) {

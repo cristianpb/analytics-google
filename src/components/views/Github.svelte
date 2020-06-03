@@ -1,13 +1,13 @@
-
 <p class="is-size-3 has-text-centered">
   Github 
 </p>
+
 <div class="columns">
   <div class="column is-6">
-    <canvas id="github-views"></canvas>
+    <canvas id="github-views" height="300px"></canvas>
   </div>
   <div class="column is-6">
-    <canvas id="github-clones"></canvas>
+    <canvas id="github-clones" height="300px"></canvas>
   </div>
 </div>
 

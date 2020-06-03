@@ -87,7 +87,7 @@
   })
 
   const unsubscribe = results.subscribe(myData => {
-    if (myData.length > 0) {
+    if (myData.length > 0 && jekyll) {
       let pagesUnsorted = myData.reduce((total, s) => {
         if (s.pagePath in total) {
           total[s.pagePath] += s.sessions;

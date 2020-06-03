@@ -37,7 +37,7 @@
   });
 
   const unsubscribe = results.subscribe(myData => {
-    if (myData.length > 0) {
+    if (myData.length > 0 && countriesChart) {
       let countriesUnsorted = myData.reduce((total, s) => {
         if (s.country in total) {
           total[s.country] += s.sessions;

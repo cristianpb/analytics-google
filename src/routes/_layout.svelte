@@ -6,6 +6,6 @@
 
 <Nav {segment}/>
 
-<main>
+<main class="has-navbar-fixed-top">
 	<slot></slot>
 </main>

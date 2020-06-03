@@ -37,7 +37,31 @@
     <div class="navbar-end">
       <a class="navbar-item" href="/about">About me</a>
       <a class="navbar-item" href="/blog">Blog</a>
-      <a class="navbar-item" class:is-active={segment === undefined} href="/analytics-google">Analytics</a>
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link"  href="https://cristianpb.github.io/analytics-google">
+          Analytics
+        </a>
+
+        <div class="navbar-dropdown">
+          <a 
+            class="navbar-item" 
+            href="."
+            class:is-active={segment === undefined}
+            aria-current='{segment === undefined ? "page" : undefined}'
+            >
+            Google Analytics
+          </a>
+          <a 
+            href="github"
+            class:is-active={segment === "github"}
+            aria-current='{segment === "github" ? "page" : undefined}'
+            class="navbar-item" 
+            >
+            Github
+          </a>
+        </div>
+      </div>
+
     </div>
   </div>
 </nav>

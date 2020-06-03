@@ -30,7 +30,7 @@
   });
 
   const unsubscribe = results.subscribe(myData => {
-    if (myData.length > 0) {
+    if (myData.length > 0 && devicesChart) {
       devices = myData.reduce((total, s) => {
         if (s.device in total) {
           total[s.device] += s.sessions;

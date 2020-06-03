@@ -36,7 +36,7 @@
   });
 
   const unsubscribe = results.subscribe(myData => {
-    if (myData.length > 0) {
+    if (myData.length > 0 && provenancesChart) {
       provenances = myData.reduce((total, s) => {
         if (s.source in total) {
           total[s.source] += s.sessions;

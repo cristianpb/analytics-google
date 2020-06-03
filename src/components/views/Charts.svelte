@@ -31,10 +31,6 @@
       </div>
 
       <div class="column is-12">
-        <Github/>
-      </div>
-
-      <div class="column is-12">
         <Table/>
       </div>
     </div>
@@ -52,7 +48,6 @@
   import Provenances from './Provenances.svelte';
   import Table from './Table.svelte';
   import Indicators from './Indicators.svelte';
-  import Github from './Github.svelte';
   import Tags from './Tags.svelte';
   import { data as dataCsv } from '../tools/stores.js';
 </script>
