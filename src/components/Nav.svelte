@@ -59,6 +59,14 @@
             >
             Github
           </a>
+          <a 
+            href="algolia"
+            class:is-active={segment === "algolia"}
+            aria-current='{segment === "algolia" ? "page" : undefined}'
+            class="navbar-item" 
+            >
+            Algolia
+          </a>
         </div>
       </div>
 
