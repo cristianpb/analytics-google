@@ -4,8 +4,6 @@
 
 <h1>Github analytics</h1>
 
-<p>This is the 'about' page. There's not much here.</p>
-
 <div class="column is-12">
   <Github/>
 </div>
