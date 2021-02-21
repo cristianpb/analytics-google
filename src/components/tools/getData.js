@@ -64,7 +64,8 @@ function processGithubCsv(text) {
         clones: +readRow.clones,
         views: +readRow.views
       };
-    });
+    })
+    .sort((a, b) => b.dd - a.dd);
 }
 
 export async function fetchGithub() {
