@@ -1,15 +1,10 @@
 userType,source,pagePath,deviceCategory,country,city,users,sessions,sessionDuration,timeOnPage,pageLoadTime,bounces,date,hour,countryIsoCode
-New Visitor,google,/blog/ssd-yolo,mobile,Tunisia,Tunis,1,1,1448,1446,0,0,20210620,0,TN
-New Visitor,google,/blog/ssd-yolo,mobile,Tunisia,Tunis,1,0,0,2,0,0,20210620,1,TN
-New Visitor,google,/blog/serverless-api-lambda,desktop,Bangladesh,Dhaka,1,1,0,0,0,1,20210620,8,BD
-New Visitor,google,/blog/ssd-yolo,desktop,Bangladesh,Dhaka,1,1,0,0,0,1,20210621,18,BD
-New Visitor,(direct),/blog/magic-wand,mobile,France,Aulnay-sous-Bois,1,1,0,0,0,1,20210620,9,FR
-New Visitor,google,/blog/arduino-mkr-fox,mobile,France,Montpellier,1,1,0,0,0,1,20210620,19,FR
-New Visitor,google,/blog,desktop,France,Grenoble,1,1,0,0,0,1,20210620,20,FR
-New Visitor,google,/blog/grafana-dashboard,desktop,France,Dugny,1,0,0,108,0,0,20210620,23,FR
-New Visitor,google,/blog/monitoring-grafana,desktop,France,Dugny,1,0,0,1,0,0,20210620,23,FR
-New Visitor,google,/blog/music-voice-cotrol,desktop,France,Dugny,1,0,0,0,0,0,20210620,23,FR
-New Visitor,google,/blog/traefik-goaccess,desktop,France,Dugny,1,1,185,76,0,0,20210620,23,FR
+New Visitor,(direct),/blog/image-rotation-opencv,desktop,Costa Rica,Cartago,1,1,0,0,0,1,20210621,0,CR
+Returning Visitor,google,/,mobile,Italy,Lucca,1,1,0,0,0,1,20210621,0,IT
+New Visitor,google,/blog/motion-monitor-opencv,desktop,Italy,Pistoia,1,0,0,0,0,0,20210621,8,IT
+New Visitor,google,/blog/raspberry-video-stream,desktop,Italy,Pistoia,1,0,0,48,0,0,20210621,8,IT
+New Visitor,google,/blog/ssd-yolo,desktop,Italy,Pistoia,1,1,246,199,0,0,20210621,8,IT
+New Visitor,google,/blog/ssd-yolo,desktop,Italy,Bologna,1,1,0,0,0,1,20210624,15,IT
 New Visitor,bing,/blog/magic-wand,mobile,France,Meximieux,1,1,0,0,0,1,20210621,1,FR
 Returning Visitor,bing,/blog/magic-wand,mobile,France,Meximieux,1,1,0,0,0,1,20210621,6,FR
 New Visitor,google,/blog/traefik-goaccess,desktop,France,Bretigny-sur-Orge,1,1,0,0,0,1,20210621,10,FR
@@ -39,17 +34,24 @@ New Visitor,(direct),/,desktop,France,Saint-Denis,1,1,0,0,0,1,20210625,22,FR
 Returning Visitor,medium.com,/blog/monitoring-grafana,desktop,France,Saint-Denis,1,1,20,3,0,0,20210625,22,FR
 Returning Visitor,medium.com,/blog/tags,desktop,France,Saint-Denis,1,0,0,16,0,0,20210625,22,FR
 New Visitor,google,/blog/vimwiki-hugo,mobile,France,Bordeaux,1,1,0,0,0,1,20210626,22,FR
-New Visitor,(direct),/blog/image-rotation-opencv,desktop,China,Beijing,1,1,0,0,0,1,20210620,10,CN
-New Visitor,google,/blog/ssd-yolo,desktop,China,Guangzhou,1,1,0,0,0,1,20210621,10,CN
-New Visitor,google,/blog/ssd-yolo,desktop,China,Shenzhen,1,1,0,0,0,1,20210622,9,CN
-New Visitor,google,/blog/ssd-yolo,desktop,China,Shanghai,1,1,0,0,0,1,20210622,10,CN
-New Visitor,google,/blog/analytics-google,desktop,China,Hangzhou,1,1,0,0,0,1,20210623,14,CN
-New Visitor,(direct),/blog/image-rotation-opencv,desktop,China,(not set),1,1,0,0,0,1,20210624,10,CN
-New Visitor,google,/blog/ssd-yolo,desktop,China,Shanghai,1,1,0,0,0,1,20210624,16,CN
-New Visitor,google,/blog/ssd-yolo,desktop,India,Ahmedabad,1,1,0,0,0,1,20210620,10,IN
-New Visitor,google,/blog/motion-monitor-opencv,mobile,India,Pune,1,0,0,6,0,0,20210620,12,IN
-New Visitor,google,/blog/ssd-yolo,mobile,India,Pune,1,1,41,35,0,0,20210620,12,IN
-New Visitor,google,/blog/ssd-yolo,desktop,India,Delhi,1,1,0,0,0,1,20210620,16,IN
+New Visitor,google,/blog/motion-monitor-opencv,mobile,Nepal,Kathmandu,1,1,0,0,0,1,20210621,2,NP
+New Visitor,bing,/blog/ssd-yolo,desktop,Nepal,Kathmandu,1,1,0,0,0,1,20210622,17,NP
+Returning Visitor,google,/blog/motion-monitor-opencv,mobile,Nepal,Kathmandu,1,1,0,0,0,1,20210625,11,NP
+New Visitor,google,/blog/image-processing-using-serverless-architecture,desktop,Australia,Sydney,1,1,0,0,0,1,20210621,4,AU
+New Visitor,bing,/blog/serverless-api-lambda,desktop,Australia,Sydney,1,1,0,0,0,1,20210626,11,AU
+New Visitor,duckduckgo,/blog/serverless-api-lambda,desktop,Australia,Sydney,1,1,0,0,0,1,20210627,1,AU
+New Visitor,google,/blog/image-rotation-opencv,desktop,United Kingdom,Oxford,1,1,0,0,0,1,20210621,4,GB
+New Visitor,google,/blog/jekyll-algolia,desktop,United Kingdom,Brighton,1,1,0,0,0,1,20210621,18,GB
+New Visitor,google,/blog/mopidy-muse,mobile,United Kingdom,Luton,1,1,0,0,0,1,20210623,2,GB
+Returning Visitor,google,/blog/jekyll-algolia,desktop,United Kingdom,Skipton,1,1,0,0,0,1,20210623,16,GB
+New Visitor,google,/blog/bulma-amp,desktop,United Kingdom,High Wycombe,1,1,0,0,0,1,20210623,21,GB
+New Visitor,google,/blog/bulma-amp,desktop,United Kingdom,Wednesbury,1,1,0,0,0,1,20210624,11,GB
+New Visitor,(direct),/blog/vimwiki-hugo,mobile,United Kingdom,Trowbridge,1,1,0,0,0,1,20210625,10,GB
+New Visitor,duckduckgo,/blog/vimwiki-hugo,desktop,United Kingdom,Trowbridge,1,1,0,0,0,1,20210625,11,GB
+Returning Visitor,(direct),/blog/vimwiki-hugo,mobile,United Kingdom,Trowbridge,1,1,0,0,0,1,20210625,11,GB
+New Visitor,bing,/blog/velib-folium,desktop,United Kingdom,(not set),1,1,0,0,0,1,20210625,15,GB
+New Visitor,google,/blog/mopidy-muse,desktop,United Kingdom,Loughborough,1,1,0,0,0,1,20210627,16,GB
+Returning Visitor,bing,/blog/velib-folium,desktop,United Kingdom,(not set),1,1,0,0,0,1,20210627,18,GB
 New Visitor,google,/blog/ssd-yolo,desktop,India,Ahmedabad,1,1,0,0,0,1,20210621,5,IN
 New Visitor,google,/blog/document-detection,desktop,India,Noida,1,1,0,0,0,1,20210621,13,IN
 New Visitor,google,/blog/image-rotation-opencv,desktop,India,Chennai,1,1,0,0,0,1,20210622,9,IN
@@ -74,9 +76,74 @@ Returning Visitor,google,/blog/ssd-yolo,desktop,India,Delhi,1,1,0,0,1837,1,20210
 Returning Visitor,google,/blog/ssd-yolo,desktop,India,Delhi,1,1,0,0,640,1,20210626,15,IN
 New Visitor,(direct),/blog/raspberry-video-stream,desktop,India,Kolkata,1,1,0,0,0,1,20210626,19,IN
 New Visitor,google,/blog/image-rotation-opencv,desktop,India,Mysuru,1,1,0,0,0,1,20210626,19,IN
-Returning Visitor,(direct),/blog/monitoring-grafana,desktop,United States,Los Angeles,1,1,0,0,0,1,20210620,11,US
-New Visitor,(direct),/blog/raspberry-video-stream,desktop,United States,Rahway,1,1,0,0,0,1,20210620,18,US
-New Visitor,google,/blog/traefik-goaccess,desktop,United States,Germantown,1,1,0,0,0,1,20210620,22,US
+New Visitor,google,/blog/ssd-yolo,desktop,India,Chirala,1,1,0,0,0,1,20210627,4,IN
+New Visitor,duckduckgo,/blog/vimwiki-hugo,desktop,India,Thiruvananthapuram,1,1,0,0,0,1,20210627,8,IN
+New Visitor,google,/blog/document-detection,desktop,India,(not set),1,1,0,0,0,1,20210627,8,IN
+New Visitor,google,/blog/ssd-yolo,desktop,India,Rajkot,1,1,0,0,0,1,20210627,20,IN
+New Visitor,google,/blog/image-rotation-opencv,desktop,India,Navi Mumbai,1,1,0,0,0,1,20210627,22,IN
+New Visitor,google,/blog/image-rotation-opencv,desktop,Poland,Krakow,1,1,0,0,0,1,20210621,9,PL
+New Visitor,google,/blog/serverless-api-lambda,desktop,Poland,Katowice,1,1,0,0,0,1,20210621,14,PL
+New Visitor,linkedin.com,/,desktop,Poland,Warsaw,1,1,0,0,0,1,20210621,15,PL
+New Visitor,github.com,/blog,desktop,Poland,Ozarow Mazowiecki,1,0,0,0,0,0,20210622,15,PL
+New Visitor,github.com,/blog/mopidy-muse,desktop,Poland,Ozarow Mazowiecki,1,1,1154,1154,0,0,20210622,15,PL
+Returning Visitor,google,/blog/image-rotation-opencv,desktop,Poland,Krakow,1,1,0,0,0,1,20210623,8,PL
+New Visitor,google,/blog/ssd-yolo,desktop,Poland,Warsaw,1,1,0,0,0,1,20210624,15,PL
+New Visitor,google,/blog/raspberry-video-stream,desktop,Latvia,Riga,1,0,0,0,0,0,20210621,9,LV
+New Visitor,google,/blog/ssd-yolo,desktop,Latvia,Riga,1,1,249,249,0,0,20210621,9,LV
+New Visitor,google,/blog/ssd-yolo,desktop,Pakistan,Lahore,1,1,0,0,0,1,20210621,9,PK
+New Visitor,bing,/blog/raspberry-video-stream,desktop,Pakistan,(not set),1,1,0,0,0,1,20210624,6,PK
+New Visitor,google,/blog/ssd-yolo,desktop,China,Guangzhou,1,1,0,0,0,1,20210621,10,CN
+New Visitor,google,/blog/ssd-yolo,desktop,China,Shenzhen,1,1,0,0,0,1,20210622,9,CN
+New Visitor,google,/blog/ssd-yolo,desktop,China,Shanghai,1,1,0,0,0,1,20210622,10,CN
+New Visitor,google,/blog/analytics-google,desktop,China,Hangzhou,1,1,0,0,0,1,20210623,14,CN
+New Visitor,(direct),/blog/image-rotation-opencv,desktop,China,(not set),1,1,0,0,0,1,20210624,10,CN
+New Visitor,google,/blog/ssd-yolo,desktop,China,Shanghai,1,1,0,0,0,1,20210624,16,CN
+New Visitor,cn.bing.com,/blog/ssd-yolo,desktop,China,Tianjin,1,1,0,0,0,1,20210627,8,CN
+New Visitor,google,/blog/ssd-yolo,desktop,Austria,Vienna,1,1,0,0,0,1,20210621,12,AT
+New Visitor,google,/blog/dashboard-dc-js,mobile,Sri Lanka,Colombo,1,1,0,0,0,1,20210621,13,LK
+New Visitor,google,/blog/image-preprocessing,desktop,Sri Lanka,Kandy,1,1,0,0,0,1,20210626,16,LK
+New Visitor,google,/blog/image-rotation-opencv,desktop,Germany,Harsewinkel,1,1,0,0,0,1,20210621,13,DE
+New Visitor,google,/blog/serverless-api-lambda,desktop,Germany,(not set),1,1,0,0,0,1,20210621,17,DE
+New Visitor,google,/blog/ssd-yolo,desktop,Germany,Kothen (Anhalt),1,1,0,0,0,1,20210621,18,DE
+New Visitor,google,/blog/monitoring-grafana,desktop,Germany,Oberschleissheim,1,1,0,0,0,1,20210622,10,DE
+New Visitor,google,/blog/image-rotation-opencv,desktop,Germany,Munich,1,1,0,0,0,1,20210622,13,DE
+New Visitor,google,/blog/ssd-yolo,desktop,Germany,(not set),1,1,0,0,0,1,20210622,16,DE
+New Visitor,bing,/blog/ssd-yolo,desktop,Germany,Munich,1,1,0,0,0,1,20210623,9,DE
+New Visitor,google,/blog/vimwiki-hugo,desktop,Germany,Stuttgart,1,1,0,0,0,1,20210623,11,DE
+New Visitor,google,/blog/raspberry-video-stream,desktop,Germany,Gluckstadt,1,1,0,0,0,1,20210623,13,DE
+New Visitor,(direct),/blog/vimwiki-hugo,mobile,Germany,Hamburg,1,1,0,0,0,1,20210624,9,DE
+New Visitor,google,/blog/image-rotation-opencv,desktop,Germany,Frankfurt,1,1,0,0,0,1,20210624,9,DE
+New Visitor,google,/blog/vimwiki-hugo,mobile,Germany,Dresden,1,1,0,0,0,1,20210624,9,DE
+New Visitor,(direct),/blog/magic-wand,mobile,Germany,Dusseldorf,1,1,0,0,0,1,20210624,11,DE
+New Visitor,google,/blog/ssd-yolo,desktop,Germany,(not set),1,1,434,434,0,0,20210624,14,DE
+Returning Visitor,(direct),/blog/vimwiki-hugo,mobile,Germany,Hamburg,1,1,0,0,0,1,20210624,17,DE
+New Visitor,google,/blog/image-rotation-opencv,desktop,Germany,Bremen,1,1,0,0,0,1,20210625,15,DE
+New Visitor,google,/blog/image-rotation-opencv,desktop,Germany,Frankfurt,1,1,0,0,0,1,20210627,10,DE
+New Visitor,google,/blog/ssd-yolo,desktop,Germany,Bensheim,1,1,0,0,0,1,20210627,23,DE
+New Visitor,google,/blog/image-rotation-opencv,desktop,Israel,Tel Aviv-Yafo,1,1,16,16,0,0,20210621,13,IL
+New Visitor,google,/blog/raspberry-video-stream,desktop,Argentina,Olivos,1,1,0,0,0,1,20210621,14,AR
+New Visitor,google,/blog/analytics-google,desktop,Argentina,Libertad,1,1,0,0,0,1,20210621,22,AR
+Returning Visitor,google,/blog/ssd-yolo,desktop,Indonesia,Surabaya,1,1,0,0,0,1,20210621,16,ID
+New Visitor,google,/blog/ssd-yolo,desktop,Indonesia,(not set),1,1,0,0,0,1,20210623,12,ID
+New Visitor,google,/blog/ssd-yolo,desktop,Bangladesh,Dhaka,1,1,0,0,0,1,20210621,18,BD
+Returning Visitor,google,/blog/amp-search-jekyll,mobile,Netherlands,Amsterdam,1,0,0,0,0,0,20210621,18,NL
+Returning Visitor,google,/blog/bulma-amp,mobile,Netherlands,Amsterdam,1,1,67,67,0,0,20210621,18,NL
+New Visitor,google,/blog/ssd-yolo,mobile,Netherlands,Boekel,1,1,0,0,0,1,20210622,1,NL
+Returning Visitor,google,/blog/ssd-yolo,desktop,Netherlands,Amsterdam,1,1,0,0,0,1,20210622,11,NL
+New Visitor,google,/blog/monitoring-grafana,desktop,Netherlands,Rotterdam,1,1,0,0,0,1,20210623,13,NL
+New Visitor,google,/blog/traefik-goaccess,desktop,Netherlands,Amersfoort,1,1,0,0,0,1,20210624,11,NL
+New Visitor,google,/blog/ssd-yolo,desktop,Netherlands,Waalwijk,1,1,0,0,0,1,20210624,13,NL
+Returning Visitor,google,/blog/amp-search-jekyll,mobile,Netherlands,Naaldwijk,2,2,27,27,0,1,20210624,16,NL
+New Visitor,google,/blog/image-rotation-opencv,desktop,Netherlands,Dwingeloo,1,1,0,0,0,1,20210625,15,NL
+New Visitor,google,/blog/serverless-api-lambda,desktop,Netherlands,Rotterdam,1,1,0,0,0,1,20210626,14,NL
+New Visitor,google,/blog/image-rotation-opencv,desktop,Netherlands,Lichtenvoorde,1,1,0,0,0,1,20210626,19,NL
+New Visitor,bing,/blog/raspberry-video-stream,mobile,Netherlands,Grou,1,1,0,0,0,1,20210627,19,NL
+Returning Visitor,bing,/blog/raspberry-video-stream,mobile,Netherlands,Grou,1,1,0,0,0,1,20210627,22,NL
+New Visitor,google,/blog/ssd-yolo,desktop,Chile,Santiago,1,1,0,0,0,1,20210621,22,CL
+New Visitor,google,/blog/image-rotation-opencv,desktop,Chile,Concepcion,1,1,0,0,0,1,20210624,0,CL
+New Visitor,google,/blog/ssd-yolo,desktop,Norway,Arendal Municipality,1,1,0,0,0,1,20210621,22,NO
+New Visitor,bing,/blog/ssd-yolo,desktop,Bahrain,Manama,1,1,0,0,0,1,20210621,23,BH
+New Visitor,google,/blog/document-detection,desktop,Colombia,Bogota,1,1,0,0,0,1,20210622,0,CO
 New Visitor,github.com,/blog/analytics-google,desktop,United States,Sammamish,1,1,0,0,0,1,20210622,1,US
 New Visitor,google,/blog/image-rotation-opencv,desktop,United States,Jackson Township,1,1,268,268,0,0,20210622,2,US
 New Visitor,google,/blog/monitoring-grafana,desktop,United States,Torrance,1,1,0,0,0,1,20210622,2,US
@@ -102,89 +169,14 @@ New Visitor,github.com,/blog/analytics-google,desktop,United States,Harlingen,1,
 New Visitor,duckduckgo,/blog/vimwiki-hugo,mobile,United States,Knoxville,1,1,0,0,0,1,20210626,15,US
 New Visitor,google,/about,tablet,United States,Cherry Hill,1,0,0,0,0,0,20210626,16,US
 New Visitor,google,/blog/analytics-google,tablet,United States,Cherry Hill,1,1,39,39,0,0,20210626,16,US
-New Visitor,google,/blog/raspberry-video-stream,desktop,Romania,Pitesti,1,1,0,0,0,1,20210620,12,RO
-Returning Visitor,google,/,desktop,Romania,Pitesti,1,1,0,0,0,1,20210620,13,RO
-New Visitor,(direct),/blog/image-rotation-opencv,desktop,Romania,Bucharest,1,1,0,0,0,1,20210624,18,RO
-New Visitor,google,/blog/monitoring-grafana,mobile,Italy,Genoa,1,1,0,0,0,1,20210620,14,IT
-Returning Visitor,google,/,mobile,Italy,Lucca,1,1,0,0,0,1,20210621,0,IT
-New Visitor,google,/blog/motion-monitor-opencv,desktop,Italy,Pistoia,1,0,0,0,0,0,20210621,8,IT
-New Visitor,google,/blog/raspberry-video-stream,desktop,Italy,Pistoia,1,0,0,48,0,0,20210621,8,IT
-New Visitor,google,/blog/ssd-yolo,desktop,Italy,Pistoia,1,1,246,199,0,0,20210621,8,IT
-New Visitor,google,/blog/ssd-yolo,desktop,Italy,Bologna,1,1,0,0,0,1,20210624,15,IT
-New Visitor,google,/blog/motion-monitor-opencv,mobile,Nepal,Kathmandu,1,1,0,0,0,1,20210620,18,NP
-New Visitor,google,/blog/ssd-yolo,mobile,Nepal,Kathmandu,1,1,0,0,0,1,20210620,20,NP
-New Visitor,google,/blog/motion-monitor-opencv,mobile,Nepal,Kathmandu,1,1,0,0,0,1,20210621,2,NP
-New Visitor,bing,/blog/ssd-yolo,desktop,Nepal,Kathmandu,1,1,0,0,0,1,20210622,17,NP
-Returning Visitor,google,/blog/motion-monitor-opencv,mobile,Nepal,Kathmandu,1,1,0,0,0,1,20210625,11,NP
-New Visitor,google,/blog/ssd-yolo,desktop,Brazil,Porto Uniao,1,1,0,0,0,1,20210620,21,BR
+New Visitor,google,/blog/tags,desktop,United States,Nashville,1,1,0,0,0,1,20210627,0,US
+New Visitor,google,/blog/document-detection,desktop,United States,Dallas,1,1,0,0,0,1,20210627,19,US
+New Visitor,google,/blog/serverless-api-lambda,desktop,United States,Ashburn,1,1,0,0,0,1,20210627,19,US
 New Visitor,google,/blog/ssd-yolo,mobile,Brazil,Araraquara,1,1,251,252,0,0,20210622,5,BR
 New Visitor,bing,/blog/document-detection,desktop,Brazil,Porto Alegre,1,1,0,0,0,1,20210622,19,BR
 New Visitor,google,/blog/image-rotation-opencv,desktop,Brazil,Fortaleza,1,1,0,0,0,1,20210623,13,BR
-New Visitor,google,/blog/motion-monitor-opencv,desktop,Yemen,Sana'a,1,1,0,0,0,1,20210620,22,YE
-New Visitor,(direct),/blog/image-rotation-opencv,desktop,Costa Rica,Cartago,1,1,0,0,0,1,20210621,0,CR
-New Visitor,google,/blog/image-processing-using-serverless-architecture,desktop,Australia,Sydney,1,1,0,0,0,1,20210621,4,AU
-New Visitor,bing,/blog/serverless-api-lambda,desktop,Australia,Sydney,1,1,0,0,0,1,20210626,11,AU
-New Visitor,google,/blog/image-rotation-opencv,desktop,United Kingdom,Oxford,1,1,0,0,0,1,20210621,4,GB
-New Visitor,google,/blog/jekyll-algolia,desktop,United Kingdom,Brighton,1,1,0,0,0,1,20210621,18,GB
-New Visitor,google,/blog/mopidy-muse,mobile,United Kingdom,Luton,1,1,0,0,0,1,20210623,2,GB
-Returning Visitor,google,/blog/jekyll-algolia,desktop,United Kingdom,Skipton,1,1,0,0,0,1,20210623,16,GB
-New Visitor,google,/blog/bulma-amp,desktop,United Kingdom,High Wycombe,1,1,0,0,0,1,20210623,21,GB
-New Visitor,google,/blog/bulma-amp,desktop,United Kingdom,Wednesbury,1,1,0,0,0,1,20210624,11,GB
-New Visitor,(direct),/blog/vimwiki-hugo,mobile,United Kingdom,Trowbridge,1,1,0,0,0,1,20210625,10,GB
-New Visitor,duckduckgo,/blog/vimwiki-hugo,desktop,United Kingdom,Trowbridge,1,1,0,0,0,1,20210625,11,GB
-Returning Visitor,(direct),/blog/vimwiki-hugo,mobile,United Kingdom,Trowbridge,1,1,0,0,0,1,20210625,11,GB
-New Visitor,bing,/blog/velib-folium,desktop,United Kingdom,(not set),1,1,0,0,0,1,20210625,15,GB
-New Visitor,google,/blog/image-rotation-opencv,desktop,Poland,Krakow,1,1,0,0,0,1,20210621,9,PL
-New Visitor,google,/blog/serverless-api-lambda,desktop,Poland,Katowice,1,1,0,0,0,1,20210621,14,PL
-New Visitor,linkedin.com,/,desktop,Poland,Warsaw,1,1,0,0,0,1,20210621,15,PL
-New Visitor,github.com,/blog,desktop,Poland,Ozarow Mazowiecki,1,0,0,0,0,0,20210622,15,PL
-New Visitor,github.com,/blog/mopidy-muse,desktop,Poland,Ozarow Mazowiecki,1,1,1154,1154,0,0,20210622,15,PL
-Returning Visitor,google,/blog/image-rotation-opencv,desktop,Poland,Krakow,1,1,0,0,0,1,20210623,8,PL
-New Visitor,google,/blog/ssd-yolo,desktop,Poland,Warsaw,1,1,0,0,0,1,20210624,15,PL
-New Visitor,google,/blog/raspberry-video-stream,desktop,Latvia,Riga,1,0,0,0,0,0,20210621,9,LV
-New Visitor,google,/blog/ssd-yolo,desktop,Latvia,Riga,1,1,249,249,0,0,20210621,9,LV
-New Visitor,google,/blog/ssd-yolo,desktop,Pakistan,Lahore,1,1,0,0,0,1,20210621,9,PK
-New Visitor,bing,/blog/raspberry-video-stream,desktop,Pakistan,(not set),1,1,0,0,0,1,20210624,6,PK
-New Visitor,google,/blog/ssd-yolo,desktop,Austria,Vienna,1,1,0,0,0,1,20210621,12,AT
-New Visitor,google,/blog/dashboard-dc-js,mobile,Sri Lanka,Colombo,1,1,0,0,0,1,20210621,13,LK
-New Visitor,google,/blog/image-preprocessing,desktop,Sri Lanka,Kandy,1,1,0,0,0,1,20210626,16,LK
-New Visitor,google,/blog/image-rotation-opencv,desktop,Germany,Harsewinkel,1,1,0,0,0,1,20210621,13,DE
-New Visitor,google,/blog/serverless-api-lambda,desktop,Germany,(not set),1,1,0,0,0,1,20210621,17,DE
-New Visitor,google,/blog/ssd-yolo,desktop,Germany,Kothen (Anhalt),1,1,0,0,0,1,20210621,18,DE
-New Visitor,google,/blog/monitoring-grafana,desktop,Germany,Oberschleissheim,1,1,0,0,0,1,20210622,10,DE
-New Visitor,google,/blog/image-rotation-opencv,desktop,Germany,Munich,1,1,0,0,0,1,20210622,13,DE
-New Visitor,google,/blog/ssd-yolo,desktop,Germany,(not set),1,1,0,0,0,1,20210622,16,DE
-New Visitor,bing,/blog/ssd-yolo,desktop,Germany,Munich,1,1,0,0,0,1,20210623,9,DE
-New Visitor,google,/blog/vimwiki-hugo,desktop,Germany,Stuttgart,1,1,0,0,0,1,20210623,11,DE
-New Visitor,google,/blog/raspberry-video-stream,desktop,Germany,Gluckstadt,1,1,0,0,0,1,20210623,13,DE
-New Visitor,(direct),/blog/vimwiki-hugo,mobile,Germany,Hamburg,1,1,0,0,0,1,20210624,9,DE
-New Visitor,google,/blog/image-rotation-opencv,desktop,Germany,Frankfurt,1,1,0,0,0,1,20210624,9,DE
-New Visitor,google,/blog/vimwiki-hugo,mobile,Germany,Dresden,1,1,0,0,0,1,20210624,9,DE
-New Visitor,(direct),/blog/magic-wand,mobile,Germany,Dusseldorf,1,1,0,0,0,1,20210624,11,DE
-New Visitor,google,/blog/ssd-yolo,desktop,Germany,(not set),1,1,434,434,0,0,20210624,14,DE
-Returning Visitor,(direct),/blog/vimwiki-hugo,mobile,Germany,Hamburg,1,1,0,0,0,1,20210624,17,DE
-New Visitor,google,/blog/image-rotation-opencv,desktop,Germany,Bremen,1,1,0,0,0,1,20210625,15,DE
-New Visitor,google,/blog/image-rotation-opencv,desktop,Israel,Tel Aviv-Yafo,1,1,16,16,0,0,20210621,13,IL
-New Visitor,google,/blog/raspberry-video-stream,desktop,Argentina,Olivos,1,1,0,0,0,1,20210621,14,AR
-New Visitor,google,/blog/analytics-google,desktop,Argentina,Libertad,1,1,0,0,0,1,20210621,22,AR
-Returning Visitor,google,/blog/ssd-yolo,desktop,Indonesia,Surabaya,1,1,0,0,0,1,20210621,16,ID
-New Visitor,google,/blog/ssd-yolo,desktop,Indonesia,(not set),1,1,0,0,0,1,20210623,12,ID
-Returning Visitor,google,/blog/amp-search-jekyll,mobile,Netherlands,Amsterdam,1,0,0,0,0,0,20210621,18,NL
-Returning Visitor,google,/blog/bulma-amp,mobile,Netherlands,Amsterdam,1,1,67,67,0,0,20210621,18,NL
-New Visitor,google,/blog/ssd-yolo,mobile,Netherlands,Boekel,1,1,0,0,0,1,20210622,1,NL
-Returning Visitor,google,/blog/ssd-yolo,desktop,Netherlands,Amsterdam,1,1,0,0,0,1,20210622,11,NL
-New Visitor,google,/blog/monitoring-grafana,desktop,Netherlands,Rotterdam,1,1,0,0,0,1,20210623,13,NL
-New Visitor,google,/blog/traefik-goaccess,desktop,Netherlands,Amersfoort,1,1,0,0,0,1,20210624,11,NL
-New Visitor,google,/blog/ssd-yolo,desktop,Netherlands,Waalwijk,1,1,0,0,0,1,20210624,13,NL
-Returning Visitor,google,/blog/amp-search-jekyll,mobile,Netherlands,Naaldwijk,2,2,27,27,0,1,20210624,16,NL
-New Visitor,google,/blog/image-rotation-opencv,desktop,Netherlands,Dwingeloo,1,1,0,0,0,1,20210625,15,NL
-New Visitor,google,/blog/serverless-api-lambda,desktop,Netherlands,Rotterdam,1,1,0,0,0,1,20210626,14,NL
-New Visitor,google,/blog/image-rotation-opencv,desktop,Netherlands,Lichtenvoorde,1,1,0,0,0,1,20210626,19,NL
-New Visitor,google,/blog/ssd-yolo,desktop,Chile,Santiago,1,1,0,0,0,1,20210621,22,CL
-New Visitor,google,/blog/image-rotation-opencv,desktop,Chile,Concepcion,1,1,0,0,0,1,20210624,0,CL
-New Visitor,google,/blog/ssd-yolo,desktop,Norway,Arendal Municipality,1,1,0,0,0,1,20210621,22,NO
-New Visitor,bing,/blog/ssd-yolo,desktop,Bahrain,Manama,1,1,0,0,0,1,20210621,23,BH
-New Visitor,google,/blog/document-detection,desktop,Colombia,Bogota,1,1,0,0,0,1,20210622,0,CO
+New Visitor,google,/blog/analytics-google,desktop,Brazil,Maceio,1,0,0,0,0,0,20210627,10,BR
+New Visitor,google,/blog/dashboard-dc-js,desktop,Brazil,Maceio,1,1,284,284,0,0,20210627,10,BR
 New Visitor,google,/blog/serverless-api-lambda,desktop,Japan,Toshima City,1,1,0,0,0,1,20210622,8,JP
 New Visitor,google,/blog/ssd-yolo,desktop,Japan,Yokohama,1,1,0,0,0,1,20210622,13,JP
 New Visitor,google,/blog/ssd-yolo,desktop,Japan,Kashihara,1,1,0,0,0,1,20210624,4,JP
@@ -198,6 +190,7 @@ New Visitor,(direct),/blog/image-rotation-opencv,desktop,Canada,Montreal,1,1,0,0
 New Visitor,google,/blog/image-rotation-opencv,desktop,Canada,Vancouver,1,1,0,0,0,1,20210625,9,CA
 New Visitor,google,/blog/traefik-goaccess,desktop,Canada,Saint-Jean-sur-Richelieu,1,1,0,0,0,1,20210626,1,CA
 New Visitor,google,/blog/ssd-yolo,desktop,Canada,Whitby,1,1,0,0,0,1,20210626,11,CA
+Returning Visitor,(direct),/blog/image-rotation-opencv,desktop,Canada,Montreal,1,1,0,0,0,1,20210627,23,CA
 Returning Visitor,bing,/blog/document-detection,desktop,Malaysia,Kuala Lumpur,1,1,0,0,0,1,20210622,19,MY
 New Visitor,google,/blog/ssd-yolo,desktop,Philippines,Manila,1,1,392,392,0,0,20210622,23,PH
 New Visitor,duckduckgo,/blog/ssd-yolo,desktop,Philippines,Las Pinas,1,1,0,0,0,1,20210624,13,PH
@@ -209,6 +202,7 @@ Returning Visitor,google,/blog/arduino-mkr-fox,mobile,Spain,Madrid,1,1,0,0,0,1,2
 New Visitor,ecosia.org,/blog/ssd-yolo,desktop,Spain,Caceres‎,1,1,0,0,0,1,20210625,0,ES
 New Visitor,google,/blog/traefik-goaccess,desktop,Spain,Ourense,1,1,0,0,0,1,20210625,9,ES
 Returning Visitor,bing,/blog/image-preprocessing,desktop,Spain,Pamplona,1,1,394,394,0,0,20210625,10,ES
+New Visitor,google,/blog/motion-monitor-opencv,desktop,Spain,Arrecife,1,1,0,0,0,1,20210627,12,ES
 New Visitor,google,/blog/image-rotation-opencv,desktop,Denmark,Lyngby,1,1,0,0,0,1,20210623,12,DK
 New Visitor,google,/blog/ssd-yolo,desktop,Singapore,Singapore,1,1,0,0,0,1,20210623,17,SG
 New Visitor,(direct),/blog/image-rotation-opencv,desktop,Singapore,Singapore,1,1,1460,1460,0,0,20210624,5,SG
@@ -221,13 +215,17 @@ New Visitor,google,/blog/serverless-api-lambda,desktop,Peru,(not set),1,1,0,0,0,
 New Visitor,google,/blog/motion-monitor-opencv,desktop,Ukraine,Zhytomyr,1,1,53,53,0,0,20210624,10,UA
 New Visitor,google,/blog/raspberry-video-stream,desktop,Ukraine,Zhytomyr,1,0,0,0,0,0,20210624,10,UA
 New Visitor,google,/blog/document-detection,desktop,Bulgaria,Varna,1,1,0,0,0,1,20210624,15,BG
+New Visitor,(direct),/blog/image-rotation-opencv,desktop,Romania,Bucharest,1,1,0,0,0,1,20210624,18,RO
 New Visitor,google,/blog/ssd-yolo,desktop,Ecuador,Quito,1,1,0,0,0,1,20210624,18,EC
+New Visitor,bing,/blog/ssd-yolo,desktop,Ecuador,(not set),1,1,0,0,0,1,20210627,20,EC
 New Visitor,duckduckgo,/blog/monitoring-grafana,desktop,Belgium,Brussels,1,0,0,0,0,0,20210625,8,BE
 New Visitor,duckduckgo,/blog/traefik-goaccess,desktop,Belgium,Brussels,1,1,124,124,0,0,20210625,8,BE
 New Visitor,google,/blog/data-withings,mobile,Belgium,Overijse,1,1,0,0,0,1,20210625,8,BE
 New Visitor,google,/blog/mopidy-muse,desktop,Belgium,Deinze,1,1,0,0,0,1,20210625,19,BE
+New Visitor,google,/blog/ssd-yolo,desktop,Belgium,Antwerp,1,1,350,350,0,0,20210627,22,BE
 New Visitor,google,/blog/image-rotation-opencv,desktop,Turkey,Ankara,1,1,0,0,0,1,20210625,9,TR
 Returning Visitor,google,/blog/vimwiki-hugo,desktop,Hong Kong,(not set),1,1,0,0,0,1,20210625,11,HK
 New Visitor,google,/blog/raspberry-video-stream,desktop,Kazakhstan,Almaty,1,0,0,12,0,0,20210625,15,KZ
 New Visitor,google,/blog/ssd-yolo,desktop,Kazakhstan,Almaty,1,1,152,140,0,0,20210625,15,KZ
 Returning Visitor,github.com,/blog/mopidy-muse,mobile,New Caledonia,Noumea,1,1,0,0,0,1,20210626,12,NC
+New Visitor,google,/blog/traefik-goaccess,desktop,Croatia,Zagreb,1,1,0,0,0,1,20210627,0,HR
