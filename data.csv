@@ -1,11 +1,20 @@
 userType,source,pagePath,deviceCategory,country,city,users,sessions,sessionDuration,timeOnPage,pageLoadTime,bounces,date,hour,countryIsoCode
-New Visitor,(direct),/blog/traefik-goaccess,desktop,United States,Chattanooga,1,1,1127,1127,0,0,20220516,0,US
-Returning Visitor,(direct),/blog/traefik-goaccess,desktop,United States,Chattanooga,1,1,0,0,0,1,20220516,2,US
-New Visitor,google,/blog/traefik-goaccess,desktop,United States,Chattanooga,1,1,0,0,0,1,20220516,5,US
-New Visitor,google,/blog/magic-wand,desktop,United States,San Francisco,1,1,0,0,0,1,20220516,7,US
-New Visitor,(direct),/,desktop,United States,Columbus,1,1,0,0,0,1,20220516,17,US
-New Visitor,(direct),/about,desktop,United States,Columbus,1,1,0,0,0,1,20220516,17,US
-New Visitor,(direct),/blog,desktop,United States,Columbus,1,1,0,0,0,1,20220516,17,US
+New Visitor,google,/blog/ssd-yolo,desktop,Italy,Milan,1,1,0,0,0,1,20220517,1,IT
+New Visitor,google,/blog/ssd-yolo,desktop,Italy,Turin,1,1,0,0,0,1,20220517,14,IT
+New Visitor,google,/blog/monitoring-grafana,desktop,Italy,San Giovanni in Persiceto,1,1,0,0,0,1,20220523,14,IT
+New Visitor,trafficplus.me,/,desktop,Italy,Bologna,1,1,10,10,0,0,20220523,16,IT
+New Visitor,trafficplus.me,/,desktop,Italy,Rome,1,1,10,10,0,0,20220523,16,IT
+New Visitor,trafficplus.me,/,desktop,Italy,Milan,1,1,10,10,0,0,20220523,17,IT
+New Visitor,trafficplus.me,/,mobile,Italy,(not set),2,2,20,20,0,0,20220523,17,IT
+New Visitor,trafficplus.me,/,mobile,Italy,Milan,2,2,19,19,0,0,20220523,17,IT
+New Visitor,trafficplus.me,/,mobile,Italy,Padua,1,1,10,10,0,0,20220523,17,IT
+New Visitor,trafficplus.me,/,tablet,Italy,Taranto,1,1,10,10,0,0,20220523,17,IT
+Returning Visitor,trafficplus.me,/,desktop,Italy,(not set),1,1,10,10,0,0,20220523,17,IT
+Returning Visitor,trafficplus.me,/,desktop,Italy,Bologna,1,1,10,10,0,0,20220523,17,IT
+Returning Visitor,trafficplus.me,/,mobile,Italy,(not set),1,1,10,10,0,0,20220523,17,IT
+Returning Visitor,trafficplus.me,/,mobile,Italy,Padua,1,1,10,10,0,0,20220523,17,IT
+Returning Visitor,trafficplus.me,/,mobile,Italy,Ponte Galeria,1,1,10,10,0,0,20220523,17,IT
+Returning Visitor,trafficplus.me,/,mobile,Italy,Turin,1,1,10,10,0,0,20220523,17,IT
 Returning Visitor,google,/blog/grafana-dashboard,desktop,United States,Pittsburgh,1,1,0,0,0,1,20220517,2,US
 New Visitor,google,/blog/mopidy-muse,desktop,United States,Virginia Beach,1,1,0,0,0,1,20220517,5,US
 Returning Visitor,google,/blog/monitoring-grafana,desktop,United States,Burlington,1,1,0,0,0,1,20220517,14,US
@@ -32,178 +41,85 @@ New Visitor,discourse.gohugo.io,/blog/vimwiki-hugo,desktop,United States,Kirklan
 Returning Visitor,google,/blog/ssd-yolo,desktop,United States,Creve Coeur,1,1,0,0,0,1,20220522,8,US
 New Visitor,google,/blog/ssd-yolo,desktop,United States,New York,1,1,0,0,0,1,20220522,23,US
 New Visitor,google,/blog/vimwiki-hugo,desktop,United States,Kirkland,1,1,0,0,0,1,20220522,23,US
-New Visitor,trafficplus.me,/,desktop,United States,(not set),7,7,140,140,0,0,20220523,16,US
-New Visitor,trafficplus.me,/,desktop,United States,Atascocita,1,1,20,20,0,0,20220523,16,US
-New Visitor,trafficplus.me,/,desktop,United States,Burbank,1,1,20,20,0,0,20220523,16,US
-New Visitor,trafficplus.me,/,desktop,United States,El Cajon,1,1,20,20,0,0,20220523,16,US
-New Visitor,trafficplus.me,/,desktop,United States,Parker,1,1,20,20,0,0,20220523,16,US
-New Visitor,trafficplus.me,/,mobile,United States,(not set),2,2,40,40,0,0,20220523,16,US
-New Visitor,trafficplus.me,/,mobile,United States,Daphne,1,1,20,20,0,0,20220523,16,US
-New Visitor,trafficplus.me,/,mobile,United States,Farmington,1,1,17,17,0,0,20220523,16,US
-New Visitor,trafficplus.me,/,mobile,United States,Houston,1,1,20,20,0,0,20220523,16,US
-New Visitor,trafficplus.me,/,mobile,United States,Knob Noster,1,1,20,20,0,0,20220523,16,US
-New Visitor,trafficplus.me,/,mobile,United States,Lancaster,1,1,20,20,0,0,20220523,16,US
-New Visitor,trafficplus.me,/,mobile,United States,Monticello,1,1,20,20,0,0,20220523,16,US
-New Visitor,trafficplus.me,/,mobile,United States,Nashville,1,1,20,20,0,0,20220523,16,US
-New Visitor,trafficplus.me,/,mobile,United States,New London,1,1,20,20,0,0,20220523,16,US
-New Visitor,trafficplus.me,/,mobile,United States,Santa Clarita,1,1,20,20,0,0,20220523,16,US
-New Visitor,trafficplus.me,/,mobile,United States,Waukesha,1,1,20,20,0,0,20220523,16,US
-New Visitor,trafficplus.me,/,tablet,United States,Waskom,1,1,20,20,0,0,20220523,16,US
-Returning Visitor,trafficplus.me,/,desktop,United States,(not set),3,3,61,61,0,0,20220523,16,US
-Returning Visitor,trafficplus.me,/,desktop,United States,Punxsutawney,1,1,20,20,0,0,20220523,16,US
-Returning Visitor,trafficplus.me,/,desktop,United States,Stillwater,1,1,20,20,0,0,20220523,16,US
-Returning Visitor,trafficplus.me,/,desktop,United States,Stockton,1,1,20,20,0,0,20220523,16,US
-Returning Visitor,trafficplus.me,/,desktop,United States,Tampa,1,2,40,40,0,0,20220523,16,US
-Returning Visitor,trafficplus.me,/,mobile,United States,(not set),2,2,40,40,0,0,20220523,16,US
-Returning Visitor,trafficplus.me,/,mobile,United States,Hinesville,1,1,20,20,0,0,20220523,16,US
-Returning Visitor,trafficplus.me,/,mobile,United States,Portland,1,1,20,20,0,0,20220523,16,US
-New Visitor,trafficplus.me,/,desktop,United States,(not set),3,3,60,60,0,0,20220523,17,US
-New Visitor,trafficplus.me,/,desktop,United States,Ashburn,1,1,19,19,0,0,20220523,17,US
-New Visitor,trafficplus.me,/,desktop,United States,Hillsborough Township,1,1,20,20,0,0,20220523,17,US
-New Visitor,trafficplus.me,/,desktop,United States,Houston,1,1,20,20,0,0,20220523,17,US
-New Visitor,trafficplus.me,/,desktop,United States,Mahopac,1,1,20,20,0,0,20220523,17,US
-New Visitor,trafficplus.me,/,desktop,United States,Mount Airy,1,1,20,20,0,0,20220523,17,US
-New Visitor,trafficplus.me,/,desktop,United States,Palm River-Clair Mel,1,1,20,20,0,0,20220523,17,US
-New Visitor,trafficplus.me,/,desktop,United States,Seattle,1,1,21,21,0,0,20220523,17,US
-New Visitor,trafficplus.me,/,desktop,United States,St. Charles,1,1,20,20,0,0,20220523,17,US
-New Visitor,trafficplus.me,/,desktop,United States,Tampa,1,1,20,20,0,0,20220523,17,US
-New Visitor,trafficplus.me,/,desktop,United States,Wixom,1,1,20,20,0,0,20220523,17,US
-New Visitor,trafficplus.me,/,mobile,United States,(not set),6,6,120,120,0,0,20220523,17,US
-New Visitor,trafficplus.me,/,mobile,United States,Barnegat Township,1,1,20,20,0,0,20220523,17,US
-New Visitor,trafficplus.me,/,mobile,United States,Chicago,1,1,20,20,0,0,20220523,17,US
-New Visitor,trafficplus.me,/,mobile,United States,Greenbelt,1,1,20,20,0,0,20220523,17,US
-New Visitor,trafficplus.me,/,mobile,United States,Moore,1,1,20,20,0,0,20220523,17,US
-New Visitor,trafficplus.me,/,mobile,United States,Pelham,1,1,20,20,0,0,20220523,17,US
-New Visitor,trafficplus.me,/,tablet,United States,Coffeyville,1,1,20,20,0,0,20220523,17,US
-Returning Visitor,trafficplus.me,/,desktop,United States,(not set),2,2,40,40,0,0,20220523,17,US
-Returning Visitor,trafficplus.me,/,desktop,United States,Burbank,1,1,21,21,0,0,20220523,17,US
-Returning Visitor,trafficplus.me,/,mobile,United States,(not set),2,3,60,60,0,0,20220523,17,US
-Returning Visitor,trafficplus.me,/,mobile,United States,Hinesville,1,2,10,10,0,1,20220523,17,US
-Returning Visitor,trafficplus.me,/,mobile,United States,Lancaster,1,1,20,20,0,0,20220523,17,US
-Returning Visitor,trafficplus.me,/,mobile,United States,Monticello,1,2,39,39,0,0,20220523,17,US
-Returning Visitor,trafficplus.me,/,mobile,United States,Nashville,1,1,20,20,0,0,20220523,17,US
-Returning Visitor,trafficplus.me,/,mobile,United States,New London,1,1,20,20,0,0,20220523,17,US
-Returning Visitor,trafficplus.me,/,mobile,United States,Portland,1,1,20,20,0,0,20220523,17,US
+New Visitor,trafficplus.me,/,desktop,United States,(not set),7,7,70,70,0,0,20220523,16,US
+New Visitor,trafficplus.me,/,desktop,United States,Atascocita,1,1,10,10,0,0,20220523,16,US
+New Visitor,trafficplus.me,/,desktop,United States,Burbank,1,1,10,10,0,0,20220523,16,US
+New Visitor,trafficplus.me,/,desktop,United States,El Cajon,1,1,9,9,0,0,20220523,16,US
+New Visitor,trafficplus.me,/,desktop,United States,Parker,1,1,11,11,0,0,20220523,16,US
+New Visitor,trafficplus.me,/,mobile,United States,(not set),2,2,20,20,0,0,20220523,16,US
+New Visitor,trafficplus.me,/,mobile,United States,Daphne,1,1,10,10,0,0,20220523,16,US
+New Visitor,trafficplus.me,/,mobile,United States,Farmington,1,1,10,10,0,0,20220523,16,US
+New Visitor,trafficplus.me,/,mobile,United States,Houston,1,1,10,10,0,0,20220523,16,US
+New Visitor,trafficplus.me,/,mobile,United States,Knob Noster,1,1,10,10,0,0,20220523,16,US
+New Visitor,trafficplus.me,/,mobile,United States,Lancaster,1,1,10,10,0,0,20220523,16,US
+New Visitor,trafficplus.me,/,mobile,United States,Monticello,1,1,10,10,0,0,20220523,16,US
+New Visitor,trafficplus.me,/,mobile,United States,Nashville,1,1,9,9,0,0,20220523,16,US
+New Visitor,trafficplus.me,/,mobile,United States,New London,1,1,10,10,0,0,20220523,16,US
+New Visitor,trafficplus.me,/,mobile,United States,Santa Clarita,1,1,10,10,0,0,20220523,16,US
+New Visitor,trafficplus.me,/,mobile,United States,Waukesha,1,1,10,10,0,0,20220523,16,US
+New Visitor,trafficplus.me,/,tablet,United States,Waskom,1,1,10,10,0,0,20220523,16,US
+Returning Visitor,trafficplus.me,/,desktop,United States,(not set),3,3,27,27,0,0,20220523,16,US
+Returning Visitor,trafficplus.me,/,desktop,United States,Punxsutawney,1,1,10,10,0,0,20220523,16,US
+Returning Visitor,trafficplus.me,/,desktop,United States,Stillwater,1,1,10,10,0,0,20220523,16,US
+Returning Visitor,trafficplus.me,/,desktop,United States,Stockton,1,1,10,10,0,0,20220523,16,US
+Returning Visitor,trafficplus.me,/,desktop,United States,Tampa,1,2,19,19,0,0,20220523,16,US
+Returning Visitor,trafficplus.me,/,mobile,United States,(not set),2,2,19,19,0,0,20220523,16,US
+Returning Visitor,trafficplus.me,/,mobile,United States,Hinesville,1,1,10,10,0,0,20220523,16,US
+Returning Visitor,trafficplus.me,/,mobile,United States,Portland,1,1,10,10,0,0,20220523,16,US
+New Visitor,trafficplus.me,/,desktop,United States,(not set),3,3,29,29,0,0,20220523,17,US
+New Visitor,trafficplus.me,/,desktop,United States,Ashburn,1,1,10,10,0,0,20220523,17,US
+New Visitor,trafficplus.me,/,desktop,United States,Hillsborough Township,1,1,10,10,0,0,20220523,17,US
+New Visitor,trafficplus.me,/,desktop,United States,Houston,1,1,10,10,0,0,20220523,17,US
+New Visitor,trafficplus.me,/,desktop,United States,Mahopac,1,1,10,10,0,0,20220523,17,US
+New Visitor,trafficplus.me,/,desktop,United States,Mount Airy,1,1,9,9,0,0,20220523,17,US
+New Visitor,trafficplus.me,/,desktop,United States,Palm River-Clair Mel,1,1,10,10,0,0,20220523,17,US
+New Visitor,trafficplus.me,/,desktop,United States,Seattle,1,1,10,10,0,0,20220523,17,US
+New Visitor,trafficplus.me,/,desktop,United States,St. Charles,1,1,10,10,0,0,20220523,17,US
+New Visitor,trafficplus.me,/,desktop,United States,Tampa,1,1,10,10,0,0,20220523,17,US
+New Visitor,trafficplus.me,/,desktop,United States,Wixom,1,1,10,10,0,0,20220523,17,US
+New Visitor,trafficplus.me,/,mobile,United States,(not set),6,6,60,60,0,0,20220523,17,US
+New Visitor,trafficplus.me,/,mobile,United States,Barnegat Township,1,1,10,10,0,0,20220523,17,US
+New Visitor,trafficplus.me,/,mobile,United States,Chicago,1,1,10,10,0,0,20220523,17,US
+New Visitor,trafficplus.me,/,mobile,United States,Greenbelt,1,1,10,10,0,0,20220523,17,US
+New Visitor,trafficplus.me,/,mobile,United States,Moore,1,1,10,10,0,0,20220523,17,US
+New Visitor,trafficplus.me,/,mobile,United States,Pelham,1,1,9,9,0,0,20220523,17,US
+New Visitor,trafficplus.me,/,tablet,United States,Coffeyville,1,1,10,10,0,0,20220523,17,US
+Returning Visitor,trafficplus.me,/,desktop,United States,(not set),2,2,20,20,0,0,20220523,17,US
+Returning Visitor,trafficplus.me,/,desktop,United States,Burbank,1,1,11,11,0,0,20220523,17,US
+Returning Visitor,trafficplus.me,/,mobile,United States,(not set),2,3,30,30,0,0,20220523,17,US
+Returning Visitor,trafficplus.me,/,mobile,United States,Hinesville,1,1,10,10,0,0,20220523,17,US
+Returning Visitor,trafficplus.me,/,mobile,United States,Lancaster,1,1,10,10,0,0,20220523,17,US
+Returning Visitor,trafficplus.me,/,mobile,United States,Monticello,1,2,20,20,0,0,20220523,17,US
+Returning Visitor,trafficplus.me,/,mobile,United States,Nashville,1,1,10,10,0,0,20220523,17,US
+Returning Visitor,trafficplus.me,/,mobile,United States,New London,1,1,10,10,0,0,20220523,17,US
+Returning Visitor,trafficplus.me,/,mobile,United States,Portland,1,1,10,10,0,0,20220523,17,US
 New Visitor,google,/blog/ssd-yolo,desktop,United States,Merced,1,1,0,0,0,1,20220523,23,US
-Returning Visitor,google,/blog/vimwiki-hugo,desktop,Hungary,8420,1,1,0,0,0,1,20220516,2,HU
-Returning Visitor,trafficplus.me,/,mobile,Hungary,Kecskemet,1,1,20,20,0,0,20220523,16,HU
-New Visitor,trafficplus.me,/,desktop,Hungary,Miskolc,1,1,20,20,0,0,20220523,17,HU
-New Visitor,trafficplus.me,/,mobile,Hungary,(not set),1,1,20,20,0,0,20220523,17,HU
-Returning Visitor,google,/blog/velib-folium,desktop,Argentina,Mendoza,1,1,0,0,0,1,20220516,3,AR
-New Visitor,google,/blog/jekyll-algolia,desktop,Argentina,Buenos Aires,1,1,0,0,0,1,20220516,13,AR
-New Visitor,trafficplus.me,/,desktop,Argentina,Villa Lynch,1,1,20,20,0,0,20220523,16,AR
-New Visitor,trafficplus.me,/,tablet,Argentina,Santiago del Estero,1,1,20,20,0,0,20220523,16,AR
-Returning Visitor,trafficplus.me,/,desktop,Argentina,Ciudadela,1,1,21,21,0,0,20220523,16,AR
-Returning Visitor,trafficplus.me,/,mobile,Argentina,(not set),1,1,20,20,0,0,20220523,16,AR
-New Visitor,trafficplus.me,/,desktop,Argentina,Buenos Aires,1,1,20,20,0,0,20220523,17,AR
-New Visitor,trafficplus.me,/,desktop,Argentina,San Miguel de Tucuman,1,1,19,19,0,0,20220523,17,AR
-New Visitor,trafficplus.me,/,mobile,Argentina,Ciudadela,1,1,20,20,0,0,20220523,17,AR
-Returning Visitor,trafficplus.me,/,mobile,Argentina,Buenos Aires,1,1,19,19,0,0,20220523,17,AR
-New Visitor,google,/blog/motion-monitor-opencv,desktop,Poland,Poznan,1,1,223,117,0,0,20220516,7,PL
-New Visitor,google,/blog/raspberry-video-stream,desktop,Poland,Poznan,1,0,0,26,0,0,20220516,7,PL
-New Visitor,google,/blog/ssd-yolo,desktop,Poland,Poznan,1,0,0,81,0,0,20220516,7,PL
-New Visitor,google,/blog/motion-monitor-opencv,desktop,Poland,Gdansk,1,1,0,0,0,1,20220517,12,PL
-New Visitor,google,/blog/image-rotation-opencv,desktop,Poland,Krakow,1,1,0,0,0,1,20220518,10,PL
-New Visitor,(direct),/blog/traefik-goaccess,desktop,Poland,Rzeszow,1,1,0,0,0,1,20220520,12,PL
-New Visitor,trafficplus.me,/,mobile,Poland,Jastrzebie-Zdroj,1,1,20,20,0,0,20220523,16,PL
-Returning Visitor,trafficplus.me,/,desktop,Poland,Mielec,1,2,39,39,0,0,20220523,16,PL
-Returning Visitor,trafficplus.me,/,mobile,Poland,Krakow,1,1,20,20,0,0,20220523,16,PL
-New Visitor,trafficplus.me,/,desktop,Poland,Katowice,1,1,20,20,0,0,20220523,17,PL
-Returning Visitor,trafficplus.me,/,desktop,Poland,Katowice,1,1,20,20,0,0,20220523,17,PL
-New Visitor,google,/blog/raspberry-video-stream,mobile,Netherlands,Eindhoven,1,0,0,0,0,0,20220516,8,NL
-New Visitor,google,/blog/ssd-yolo,mobile,Netherlands,Eindhoven,1,1,316,316,0,0,20220516,8,NL
-New Visitor,(direct),/blog/analytics-google,desktop,Netherlands,Rotterdam,1,1,0,0,0,1,20220516,10,NL
-New Visitor,google,/blog/document-detection,desktop,Netherlands,Emmen,1,1,0,0,0,1,20220516,13,NL
-New Visitor,google,/blog/ssd-yolo,desktop,Netherlands,Delft,1,1,0,0,0,1,20220518,16,NL
-New Visitor,google,/blog,tablet,Netherlands,'s-Hertogenbosch,1,1,0,0,0,1,20220519,23,NL
-New Visitor,google,/blog/monitoring-grafana,desktop,Netherlands,Vlaardingen,1,1,0,0,0,1,20220523,9,NL
-New Visitor,trafficplus.me,/,desktop,Netherlands,(not set),2,2,39,39,0,0,20220523,17,NL
-New Visitor,trafficplus.me,/,desktop,Netherlands,Amsterdam,1,1,19,19,0,0,20220523,17,NL
-New Visitor,trafficplus.me,/,mobile,Netherlands,3991,1,1,20,20,0,0,20220523,17,NL
-New Visitor,trafficplus.me,/,mobile,Netherlands,Oldenzaal,1,1,20,20,0,0,20220523,17,NL
-Returning Visitor,trafficplus.me,/,mobile,Netherlands,6161,1,1,20,20,0,0,20220523,17,NL
-Returning Visitor,trafficplus.me,/,mobile,Netherlands,Oldenzaal,1,1,20,20,0,0,20220523,17,NL
-New Visitor,google,/blog/ssd-yolo,desktop,Indonesia,Depok,1,1,0,0,0,1,20220516,8,ID
-New Visitor,google,/blog/ssd-yolo,desktop,Indonesia,Bandung,1,1,0,0,0,1,20220519,13,ID
-New Visitor,google,/blog/image-rotation-opencv,desktop,Indonesia,Mataram,1,1,0,0,0,1,20220520,14,ID
-New Visitor,google,/blog/motion-monitor-opencv,desktop,Indonesia,Surabaya,1,1,303,303,0,0,20220523,16,ID
-New Visitor,trafficplus.me,/,desktop,Indonesia,Banjarmasin,1,1,20,20,0,0,20220523,16,ID
-New Visitor,trafficplus.me,/,desktop,Indonesia,Bogor,1,1,19,19,0,0,20220523,16,ID
-New Visitor,trafficplus.me,/,desktop,Indonesia,Depok,1,1,20,20,0,0,20220523,16,ID
-New Visitor,trafficplus.me,/,desktop,Indonesia,Kebasen,1,1,13,13,0,0,20220523,16,ID
-New Visitor,trafficplus.me,/,mobile,Indonesia,Bandung,1,1,13,13,0,0,20220523,16,ID
-New Visitor,trafficplus.me,/,mobile,Indonesia,Cikande,1,1,20,20,0,0,20220523,16,ID
-New Visitor,trafficplus.me,/,mobile,Indonesia,Depok,1,1,20,20,0,0,20220523,16,ID
-Returning Visitor,trafficplus.me,/,mobile,Indonesia,Makassar,1,1,20,20,0,0,20220523,16,ID
-New Visitor,trafficplus.me,/,desktop,Indonesia,Bekasi,1,1,20,20,0,0,20220523,17,ID
-New Visitor,trafficplus.me,/,desktop,Indonesia,Denpasar,1,1,21,20,0,0,20220523,17,ID
-New Visitor,trafficplus.me,/,desktop,Indonesia,Depok,1,1,20,20,0,0,20220523,17,ID
-New Visitor,trafficplus.me,/,desktop,Indonesia,Kuta Selatan,1,1,19,19,0,0,20220523,17,ID
-New Visitor,trafficplus.me,/,mobile,Indonesia,Jakarta,1,1,21,21,0,0,20220523,17,ID
-Returning Visitor,trafficplus.me,/,desktop,Indonesia,Medan,1,1,20,20,0,0,20220523,17,ID
-Returning Visitor,trafficplus.me,/,desktop,Indonesia,Surabaya,1,2,40,40,0,0,20220523,17,ID
-Returning Visitor,trafficplus.me,/,mobile,Indonesia,Gorontalo,1,1,20,20,0,0,20220523,17,ID
-Returning Visitor,trafficplus.me,/,mobile,Indonesia,Jakarta,1,2,36,36,0,0,20220523,17,ID
-New Visitor,(direct),/,desktop,China,(not set),1,1,0,0,0,1,20220516,9,CN
-New Visitor,(direct),/blog/ssd-yolo,desktop,China,(not set),1,1,0,0,0,1,20220516,9,CN
-New Visitor,(direct),/blog/ssd-yolo,mobile,China,Guangzhou,1,1,181,180,0,0,20220518,13,CN
-New Visitor,link.csdn.net,/blog/image-rotation-opencv,desktop,China,(not set),1,1,369,369,0,0,20220520,6,CN
-New Visitor,link.csdn.net,/blog/image-rotation-opencv ↩︎ ↩︎,desktop,China,(not set),1,0,0,0,0,0,20220520,6,CN
-Returning Visitor,(direct),/blog/ssd-yolo,desktop,China,(not set),1,1,0,0,0,1,20220520,10,CN
-New Visitor,(direct),/blog/ssd-yolo,desktop,China,(not set),1,1,0,0,0,1,20220521,4,CN
-New Visitor,(direct),/blog/ssd-yolo,desktop,China,(not set),1,1,0,0,0,1,20220521,5,CN
-Returning Visitor,(direct),/blog/ssd-yolo,desktop,China,(not set),1,1,0,0,0,1,20220521,5,CN
-New Visitor,google,/blog/ssd-yolo,desktop,China,(not set),1,1,0,0,0,1,20220521,14,CN
-New Visitor,google,/blog/ssd-yolo,desktop,China,(not set),1,1,0,0,0,1,20220521,16,CN
-New Visitor,www4.bing.com,/blog/ssd-yolo,desktop,China,(not set),1,1,759,759,0,0,20220522,14,CN
-New Visitor,trafficplus.me,/,desktop,China,(not set),7,7,139,139,0,0,20220523,16,CN
-New Visitor,trafficplus.me,/,mobile,China,(not set),5,5,99,98,0,0,20220523,16,CN
-Returning Visitor,trafficplus.me,/,desktop,China,(not set),3,4,79,79,0,0,20220523,16,CN
-Returning Visitor,trafficplus.me,/,mobile,China,(not set),3,3,60,60,0,0,20220523,16,CN
-New Visitor,trafficplus.me,/,desktop,China,(not set),2,2,40,40,0,0,20220523,17,CN
-New Visitor,trafficplus.me,/,mobile,China,(not set),2,2,40,40,0,0,20220523,17,CN
-Returning Visitor,trafficplus.me,/,desktop,China,(not set),6,8,160,160,0,0,20220523,17,CN
-Returning Visitor,trafficplus.me,/,mobile,China,(not set),7,7,139,139,0,0,20220523,17,CN
-Returning Visitor,trafficplus.me,/,tablet,China,(not set),1,1,20,20,0,0,20220523,17,CN
-New Visitor,google,/blog/serverless-api-lambda,desktop,Japan,Minato City,1,1,0,0,0,1,20220516,9,JP
-New Visitor,(direct),/blog/ssd-yolo,desktop,Japan,Yokohama,1,1,0,0,0,1,20220522,16,JP
-New Visitor,trafficplus.me,/,desktop,Japan,(not set),1,1,13,13,0,0,20220523,16,JP
-New Visitor,trafficplus.me,/,desktop,Japan,Kochi,1,1,20,20,0,0,20220523,16,JP
-New Visitor,trafficplus.me,/,desktop,Japan,Nagano,1,1,20,20,0,0,20220523,16,JP
-New Visitor,trafficplus.me,/,desktop,Japan,Saitama,1,1,20,20,0,0,20220523,16,JP
-New Visitor,trafficplus.me,/,mobile,Japan,(not set),4,4,80,80,0,0,20220523,16,JP
-New Visitor,trafficplus.me,/,mobile,Japan,Chiba,1,1,21,21,0,0,20220523,16,JP
-New Visitor,trafficplus.me,/,mobile,Japan,Koriyama,1,1,20,20,0,0,20220523,16,JP
-New Visitor,trafficplus.me,/,mobile,Japan,Nara,1,1,20,20,0,0,20220523,16,JP
-New Visitor,trafficplus.me,/,mobile,Japan,Okayama,1,1,20,20,0,0,20220523,16,JP
-New Visitor,trafficplus.me,/,mobile,Japan,Okazaki,1,1,21,21,0,0,20220523,16,JP
-Returning Visitor,trafficplus.me,/,mobile,Japan,Okazaki,1,1,19,19,0,0,20220523,16,JP
-New Visitor,trafficplus.me,/,desktop,Japan,(not set),1,1,21,21,0,0,20220523,17,JP
-New Visitor,trafficplus.me,/,desktop,Japan,Gifu,1,1,20,20,0,0,20220523,17,JP
-New Visitor,trafficplus.me,/,desktop,Japan,Kyoto,1,1,20,20,0,0,20220523,17,JP
-New Visitor,trafficplus.me,/,desktop,Japan,Nara,1,1,20,20,0,0,20220523,17,JP
-New Visitor,trafficplus.me,/,desktop,Japan,Osaka,1,1,20,20,0,0,20220523,17,JP
-New Visitor,trafficplus.me,/,desktop,Japan,Sapporo,1,1,20,20,0,0,20220523,17,JP
-New Visitor,trafficplus.me,/,mobile,Japan,Fukuoka,1,1,20,20,0,0,20220523,17,JP
-New Visitor,trafficplus.me,/,mobile,Japan,Minato City,1,1,20,20,0,0,20220523,17,JP
-New Visitor,trafficplus.me,/,mobile,Japan,Yokohama,1,1,20,20,0,0,20220523,17,JP
-New Visitor,trafficplus.me,/,tablet,Japan,Setagaya City,1,1,20,20,0,0,20220523,17,JP
-Returning Visitor,trafficplus.me,/,desktop,Japan,(not set),2,2,40,40,0,0,20220523,17,JP
-Returning Visitor,trafficplus.me,/,desktop,Japan,Kobe,1,1,20,20,0,0,20220523,17,JP
-Returning Visitor,trafficplus.me,/,desktop,Japan,Kochi,1,1,20,20,0,0,20220523,17,JP
-Returning Visitor,trafficplus.me,/,desktop,Japan,Saitama,1,2,40,40,0,0,20220523,17,JP
-Returning Visitor,trafficplus.me,/,mobile,Japan,(not set),2,2,40,40,0,0,20220523,17,JP
-Returning Visitor,trafficplus.me,/,mobile,Japan,Fukuoka,1,1,20,19,0,0,20220523,17,JP
-Returning Visitor,trafficplus.me,/,mobile,Japan,Nagano,1,1,21,21,0,0,20220523,17,JP
-Returning Visitor,trafficplus.me,/,mobile,Japan,Nara,1,1,20,20,0,0,20220523,17,JP
-Returning Visitor,trafficplus.me,/,mobile,Japan,Okayama,1,2,40,40,0,0,20220523,17,JP
-Returning Visitor,trafficplus.me,/,mobile,Japan,Toda,1,1,20,20,0,0,20220523,17,JP
-New Visitor,google,/blog/ssd-yolo,desktop,India,Bengaluru,1,1,0,0,0,1,20220516,9,IN
-New Visitor,google,/blog/image-rotation-opencv,desktop,India,Noida,1,1,0,0,0,1,20220516,11,IN
-New Visitor,google,/blog/ssd-yolo,desktop,India,Meerut,1,1,0,0,0,1,20220516,11,IN
-New Visitor,google,/blog/ssd-yolo,desktop,India,Thalassery,1,1,0,0,0,1,20220516,11,IN
-New Visitor,google,/blog/ssd-yolo,mobile,India,Bengaluru,1,1,119,119,0,0,20220516,14,IN
-New Visitor,google,/blog/vimwiki-hugo,desktop,India,Bengaluru,1,1,0,0,0,1,20220516,16,IN
+New Visitor,google,/blog/magic-wand,desktop,United States,Mount Lebanon,1,1,0,0,0,1,20220524,4,US
+Returning Visitor,google,/blog/ssd-yolo,desktop,United States,Creve Coeur,1,1,0,0,0,1,20220524,4,US
+New Visitor,bing,/blog/motion-monitor-opencv,desktop,United States,Dearborn Heights,1,1,0,0,0,1,20220524,6,US
+New Visitor,google,/blog/ssd-yolo,desktop,Chile,Santiago,1,1,0,0,0,1,20220517,4,CL
+New Visitor,trafficplus.me,/,desktop,Chile,(not set),1,1,17,17,0,0,20220523,16,CL
+New Visitor,trafficplus.me,/,desktop,Chile,Santiago,1,1,10,10,0,0,20220523,16,CL
+New Visitor,trafficplus.me,/,mobile,Chile,(not set),1,1,10,10,0,0,20220523,16,CL
+New Visitor,trafficplus.me,/,desktop,Chile,Santiago,1,1,10,10,0,0,20220523,17,CL
+New Visitor,trafficplus.me,/,mobile,Chile,Los Angeles,1,1,10,10,0,0,20220523,17,CL
+Returning Visitor,trafficplus.me,/,desktop,Chile,Santiago,1,1,10,10,0,0,20220523,17,CL
+Returning Visitor,google,/blog/ssd-yolo,desktop,Chile,Santiago,1,1,0,0,0,1,20220523,22,CL
+Returning Visitor,(direct),/blog/vimwiki-hugo,desktop,Hong Kong,(not set),1,1,0,0,0,1,20220517,4,HK
+New Visitor,trafficplus.me,/,mobile,Hong Kong,(not set),2,2,21,21,0,0,20220523,16,HK
+Returning Visitor,trafficplus.me,/,mobile,Hong Kong,(not set),1,1,10,10,0,0,20220523,16,HK
+New Visitor,trafficplus.me,/,desktop,Hong Kong,(not set),1,1,10,10,0,0,20220523,17,HK
+New Visitor,trafficplus.me,/,mobile,Hong Kong,(not set),2,2,20,20,0,0,20220523,17,HK
+Returning Visitor,trafficplus.me,/,mobile,Hong Kong,(not set),3,3,30,30,0,0,20220523,17,HK
+New Visitor,(direct),/blog/image-rotation-opencv,desktop,Malaysia,Subang Jaya,1,1,0,0,0,1,20220517,7,MY
+New Visitor,google,/blog/ssd-yolo,desktop,Malaysia,Kuala Lumpur,1,1,0,0,0,1,20220522,17,MY
+New Visitor,trafficplus.me,/,desktop,Malaysia,Taiping,1,1,10,10,0,0,20220523,16,MY
+Returning Visitor,trafficplus.me,/,desktop,Malaysia,Johor Bahru,1,1,10,10,0,0,20220523,16,MY
+New Visitor,trafficplus.me,/,desktop,Malaysia,George Town,1,1,10,10,0,0,20220523,17,MY
+New Visitor,trafficplus.me,/,desktop,Malaysia,Kota Kinabalu,1,1,10,10,0,0,20220523,17,MY
+New Visitor,trafficplus.me,/,desktop,Malaysia,Shah Alam,1,1,9,9,0,0,20220523,17,MY
+New Visitor,trafficplus.me,/,mobile,Malaysia,Kunak,1,1,10,10,0,0,20220523,17,MY
+Returning Visitor,trafficplus.me,/,desktop,Malaysia,Taiping,1,3,30,30,0,0,20220523,17,MY
 New Visitor,bing,/blog/magic-wand,desktop,India,Sahibzada Ajit Singh Nagar,1,1,0,0,0,1,20220517,7,IN
 New Visitor,google,/blog/magic-wand,mobile,India,Delhi,1,1,0,0,0,1,20220517,7,IN
 New Visitor,google,/blog/ssd-yolo,desktop,India,Kolkata,1,1,0,0,0,1,20220517,7,IN
@@ -238,109 +154,140 @@ New Visitor,google,/blog/motion-monitor-opencv,mobile,India,Nagpur,1,1,0,0,0,1,2
 New Visitor,google,/blog/marathon-mirabelle,mobile,India,Bhubaneswar,1,1,0,0,0,1,20220523,5,IN
 New Visitor,google,/blog/ssd-yolo,desktop,India,Sahibzada Ajit Singh Nagar,1,1,45,45,0,0,20220523,12,IN
 New Visitor,google,/blog/serverless-api-lambda,desktop,India,Bengaluru,1,1,0,0,0,1,20220523,13,IN
-New Visitor,trafficplus.me,/,desktop,India,(not set),1,1,20,20,0,0,20220523,16,IN
-New Visitor,trafficplus.me,/,desktop,India,Sonipat,1,1,20,20,0,0,20220523,16,IN
-New Visitor,trafficplus.me,/,mobile,India,(not set),1,1,20,20,0,0,20220523,16,IN
-New Visitor,trafficplus.me,/,mobile,India,Agra,1,1,20,20,0,0,20220523,16,IN
-New Visitor,trafficplus.me,/,mobile,India,Guwahati,1,1,20,20,0,0,20220523,16,IN
-New Visitor,trafficplus.me,/,mobile,India,Hyderabad,1,1,20,20,0,0,20220523,16,IN
-New Visitor,trafficplus.me,/,mobile,India,Ludhiana,1,1,21,21,0,0,20220523,16,IN
-New Visitor,trafficplus.me,/,mobile,India,Maduranthakam,1,1,20,20,0,0,20220523,16,IN
-New Visitor,trafficplus.me,/,mobile,India,Mumbai,1,1,20,20,0,0,20220523,16,IN
-New Visitor,trafficplus.me,/,mobile,India,Nagpur,1,1,20,20,0,0,20220523,16,IN
-New Visitor,trafficplus.me,/,tablet,India,Bhubaneswar,1,1,20,20,0,0,20220523,16,IN
-Returning Visitor,trafficplus.me,/,desktop,India,Kozhikode,1,1,20,20,0,0,20220523,16,IN
-New Visitor,trafficplus.me,/,desktop,India,(not set),1,1,20,20,0,0,20220523,17,IN
-New Visitor,trafficplus.me,/,desktop,India,Bengaluru,1,1,19,19,0,0,20220523,17,IN
-New Visitor,trafficplus.me,/,desktop,India,Chennai,1,1,19,18,0,0,20220523,17,IN
-New Visitor,trafficplus.me,/,desktop,India,Guwahati,1,1,19,19,0,0,20220523,17,IN
-New Visitor,trafficplus.me,/,desktop,India,Jaipur,1,1,20,20,0,0,20220523,17,IN
-New Visitor,trafficplus.me,/,desktop,India,Kochi,1,1,20,20,0,0,20220523,17,IN
-New Visitor,trafficplus.me,/,desktop,India,Mumbai,1,1,20,20,0,0,20220523,17,IN
-New Visitor,trafficplus.me,/,mobile,India,Delhi,1,1,20,20,0,0,20220523,17,IN
-New Visitor,trafficplus.me,/,mobile,India,Hyderabad,1,1,20,20,0,0,20220523,17,IN
-New Visitor,trafficplus.me,/,mobile,India,Kolkata,1,1,20,20,0,0,20220523,17,IN
-New Visitor,trafficplus.me,/,mobile,India,Lucknow,1,1,20,20,0,0,20220523,17,IN
-New Visitor,trafficplus.me,/,mobile,India,Sonipat,1,1,20,20,0,0,20220523,17,IN
-Returning Visitor,trafficplus.me,/,desktop,India,(not set),1,1,20,20,0,0,20220523,17,IN
-Returning Visitor,trafficplus.me,/,desktop,India,Kochi,1,1,20,20,0,0,20220523,17,IN
-Returning Visitor,trafficplus.me,/,mobile,India,Ahmedabad,1,2,40,40,0,0,20220523,17,IN
-Returning Visitor,trafficplus.me,/,mobile,India,Bengaluru,1,1,20,20,0,0,20220523,17,IN
-Returning Visitor,trafficplus.me,/,mobile,India,Lucknow,1,1,20,20,0,0,20220523,17,IN
-Returning Visitor,trafficplus.me,/,mobile,India,Mumbai,1,1,20,20,0,0,20220523,17,IN
+New Visitor,trafficplus.me,/,desktop,India,(not set),1,1,10,10,0,0,20220523,16,IN
+New Visitor,trafficplus.me,/,desktop,India,Sonipat,1,1,10,10,0,0,20220523,16,IN
+New Visitor,trafficplus.me,/,mobile,India,(not set),1,1,10,10,0,0,20220523,16,IN
+New Visitor,trafficplus.me,/,mobile,India,Agra,1,1,10,10,0,0,20220523,16,IN
+New Visitor,trafficplus.me,/,mobile,India,Guwahati,1,1,10,10,0,0,20220523,16,IN
+New Visitor,trafficplus.me,/,mobile,India,Hyderabad,1,1,10,10,0,0,20220523,16,IN
+New Visitor,trafficplus.me,/,mobile,India,Ludhiana,1,1,11,11,0,0,20220523,16,IN
+New Visitor,trafficplus.me,/,mobile,India,Maduranthakam,1,1,10,10,0,0,20220523,16,IN
+New Visitor,trafficplus.me,/,mobile,India,Mumbai,1,1,7,7,0,0,20220523,16,IN
+New Visitor,trafficplus.me,/,mobile,India,Nagpur,1,1,10,10,0,0,20220523,16,IN
+New Visitor,trafficplus.me,/,tablet,India,Bhubaneswar,1,1,10,10,0,0,20220523,16,IN
+Returning Visitor,trafficplus.me,/,desktop,India,Kozhikode,1,1,10,10,0,0,20220523,16,IN
+New Visitor,trafficplus.me,/,desktop,India,(not set),1,1,10,10,0,0,20220523,17,IN
+New Visitor,trafficplus.me,/,desktop,India,Bengaluru,1,1,10,10,0,0,20220523,17,IN
+New Visitor,trafficplus.me,/,desktop,India,Chennai,1,1,10,10,0,0,20220523,17,IN
+New Visitor,trafficplus.me,/,desktop,India,Guwahati,1,1,10,10,0,0,20220523,17,IN
+New Visitor,trafficplus.me,/,desktop,India,Jaipur,1,1,10,10,0,0,20220523,17,IN
+New Visitor,trafficplus.me,/,desktop,India,Kochi,1,1,10,10,0,0,20220523,17,IN
+New Visitor,trafficplus.me,/,desktop,India,Mumbai,1,1,10,10,0,0,20220523,17,IN
+New Visitor,trafficplus.me,/,mobile,India,Delhi,1,1,10,10,0,0,20220523,17,IN
+New Visitor,trafficplus.me,/,mobile,India,Hyderabad,1,1,10,10,0,0,20220523,17,IN
+New Visitor,trafficplus.me,/,mobile,India,Kolkata,1,1,10,10,0,0,20220523,17,IN
+New Visitor,trafficplus.me,/,mobile,India,Lucknow,1,1,10,10,0,0,20220523,17,IN
+New Visitor,trafficplus.me,/,mobile,India,Sonipat,1,1,10,10,0,0,20220523,17,IN
+Returning Visitor,trafficplus.me,/,desktop,India,(not set),1,1,10,10,0,0,20220523,17,IN
+Returning Visitor,trafficplus.me,/,desktop,India,Kochi,1,1,10,10,0,0,20220523,17,IN
+Returning Visitor,trafficplus.me,/,mobile,India,Ahmedabad,1,2,19,19,0,0,20220523,17,IN
+Returning Visitor,trafficplus.me,/,mobile,India,Bengaluru,1,1,10,10,0,0,20220523,17,IN
+Returning Visitor,trafficplus.me,/,mobile,India,Lucknow,1,1,10,10,0,0,20220523,17,IN
+Returning Visitor,trafficplus.me,/,mobile,India,Mumbai,1,1,10,10,0,0,20220523,17,IN
 New Visitor,google,/blog/image-rotation-opencv,desktop,India,Shivamogga,1,1,0,0,0,1,20220523,21,IN
-New Visitor,ecosia.org,/blog/data-withings,desktop,Germany,Brechen,1,1,0,0,0,1,20220516,10,DE
-New Visitor,google,/blog/ssd-yolo,desktop,Germany,Frankfurt,1,1,0,0,0,1,20220516,11,DE
-New Visitor,google,/blog/document-detection,desktop,Germany,Rostock,1,1,0,0,0,1,20220516,18,DE
-Returning Visitor,(direct),/blog/traefik-goaccess,mobile,Germany,Schmallenberg,1,1,0,0,0,1,20220517,21,DE
-New Visitor,ecosia.org,/blog/motion-monitor-opencv,mobile,Germany,Ohringen,1,1,0,0,0,1,20220518,13,DE
-New Visitor,google,/blog/monitoring-grafana,desktop,Germany,Frankfurt,1,1,0,0,0,1,20220518,13,DE
-New Visitor,google,/blog/grafana-dashboard,desktop,Germany,Dortmund,1,1,0,0,0,1,20220519,19,DE
-New Visitor,google,/blog/image-processing-using-serverless-architecture,desktop,Germany,Berlin,1,1,0,0,0,1,20220520,12,DE
-New Visitor,google,/blog/image-rotation-opencv,desktop,Germany,Aachen,1,1,0,0,0,1,20220520,14,DE
-New Visitor,google,/blog/ssd-yolo,desktop,Germany,Munich,1,1,0,0,0,1,20220521,12,DE
-New Visitor,google,/blog/traefik-goaccess,desktop,Germany,Frankfurt,1,1,0,0,0,1,20220522,15,DE
-New Visitor,google,/blog/image-processing-using-serverless-architecture,desktop,Germany,Berlin,1,1,0,0,0,1,20220522,22,DE
-New Visitor,(direct),/blog/image-rotation-opencv,desktop,Germany,(not set),1,1,0,0,0,1,20220523,7,DE
-New Visitor,trafficplus.me,/,desktop,Germany,Worms,1,1,20,20,0,0,20220523,16,DE
-New Visitor,trafficplus.me,/,mobile,Germany,Annaberg-Buchholz,1,1,20,20,0,0,20220523,16,DE
-New Visitor,trafficplus.me,/,mobile,Germany,Berlin,1,1,20,20,0,0,20220523,16,DE
-New Visitor,trafficplus.me,/,mobile,Germany,Dresden,1,1,20,20,0,0,20220523,16,DE
-New Visitor,trafficplus.me,/,mobile,Germany,Konstanz,1,1,21,21,0,0,20220523,16,DE
-New Visitor,google,/blog/serverless-api-lambda,desktop,Germany,Mannheim,1,1,0,0,0,1,20220523,17,DE
-New Visitor,trafficplus.me,/,desktop,Germany,Bad Kissingen,1,1,20,20,0,0,20220523,17,DE
-New Visitor,trafficplus.me,/,desktop,Germany,Buren,1,1,17,17,0,0,20220523,17,DE
-New Visitor,trafficplus.me,/,desktop,Germany,Cloppenburg,1,1,20,20,0,0,20220523,17,DE
-New Visitor,trafficplus.me,/,desktop,Germany,Karlsruhe,1,1,19,19,0,0,20220523,17,DE
-New Visitor,trafficplus.me,/,mobile,Germany,(not set),1,1,20,20,0,0,20220523,17,DE
-New Visitor,trafficplus.me,/,mobile,Germany,Essen,1,1,20,20,0,0,20220523,17,DE
-New Visitor,trafficplus.me,/,mobile,Germany,Munich,1,1,21,21,0,0,20220523,17,DE
-Returning Visitor,trafficplus.me,/,desktop,Germany,Nossen,1,1,20,20,0,0,20220523,17,DE
-Returning Visitor,trafficplus.me,/,mobile,Germany,Julich,1,1,20,20,0,0,20220523,17,DE
-New Visitor,google,/blog/analytics-google,desktop,Sweden,Sjobo,1,1,0,0,0,1,20220516,10,SE
-Returning Visitor,google,/blog/analytics-google,desktop,Sweden,Sjobo,1,1,0,0,0,1,20220516,10,SE
+Returning Visitor,google,/blog/image-rotation-opencv,desktop,India,Mumbai,1,1,0,0,0,1,20220524,10,IN
+New Visitor,google,/blog/ssd-yolo,desktop,India,Ahmedabad,1,1,0,0,0,1,20220524,16,IN
+New Visitor,google,/blog/image-rotation-opencv,desktop,India,Mumbai,1,1,0,0,0,1,20220524,21,IN
+New Visitor,google,/blog/ssd-yolo,desktop,India,Chennai,1,1,0,0,0,1,20220524,21,IN
 New Visitor,google,/blog/image-rotation-opencv,mobile,Sweden,Stockholm,1,1,0,0,0,1,20220517,9,SE
 New Visitor,google,/blog/ssd-yolo,mobile,Sweden,Gothenburg,1,1,0,0,0,1,20220517,16,SE
 New Visitor,google,/blog/serverless-api-lambda,mobile,Sweden,Gothenburg,1,1,0,0,0,1,20220517,20,SE
-New Visitor,trafficplus.me,/,mobile,Sweden,(not set),1,1,20,20,0,0,20220523,17,SE
-New Visitor,trafficplus.me,/,mobile,Sweden,Kristianstad,1,1,20,20,0,0,20220523,17,SE
-New Visitor,trafficplus.me,/,mobile,Sweden,Malmo,1,1,20,20,0,0,20220523,17,SE
-New Visitor,google,/blog/raspberry-video-stream,desktop,Tunisia,Tunis,1,1,0,0,0,1,20220516,10,TN
-New Visitor,google,/about,desktop,Tunisia,Tunis,1,1,3,3,0,0,20220517,20,TN
-New Visitor,google,/blog/raspberry-video-stream,desktop,Tunisia,Tunis,1,1,0,0,0,1,20220518,12,TN
-New Visitor,google,/blog/image-rotation-opencv,desktop,Norway,Trondheim Municipality,1,1,0,0,0,1,20220516,12,NO
-New Visitor,trafficplus.me,/,mobile,Norway,Baerum,1,1,20,20,0,0,20220523,16,NO
-Returning Visitor,trafficplus.me,/,mobile,Norway,(not set),1,1,20,20,0,0,20220523,16,NO
-Returning Visitor,trafficplus.me,/,mobile,Norway,(not set),1,1,20,20,0,0,20220523,17,NO
-Returning Visitor,google,/blog/gnuplot-electrode,desktop,United Kingdom,(not set),1,1,0,0,0,1,20220516,12,GB
-New Visitor,blog.paperspace.com,/blog/image-rotation-opencv,desktop,United Kingdom,Nottingham,1,1,0,0,0,1,20220516,17,GB
+New Visitor,trafficplus.me,/,mobile,Sweden,(not set),1,1,10,10,0,0,20220523,17,SE
+New Visitor,trafficplus.me,/,mobile,Sweden,Kristianstad,1,1,10,10,0,0,20220523,17,SE
+New Visitor,trafficplus.me,/,mobile,Sweden,Malmo,1,1,10,10,0,0,20220523,17,SE
+Returning Visitor,google,/blog/motion-monitor-opencv,desktop,Sweden,Vaxjo,1,1,0,0,0,1,20220524,10,SE
+New Visitor,google,/blog/ssd-yolo,mobile,Philippines,Quezon City,1,1,0,0,0,1,20220517,9,PH
+New Visitor,google,/blog/ssd-yolo,mobile,Philippines,Antipolo,1,1,0,0,0,1,20220517,16,PH
+New Visitor,trafficplus.me,/,desktop,Philippines,(not set),1,1,13,13,0,0,20220523,16,PH
+New Visitor,trafficplus.me,/,desktop,Philippines,Quezon City,1,1,11,11,0,0,20220523,16,PH
+New Visitor,trafficplus.me,/,mobile,Philippines,Pasig,1,1,10,10,0,0,20220523,16,PH
+Returning Visitor,trafficplus.me,/,desktop,Philippines,Quezon City,1,1,10,10,0,0,20220523,16,PH
+New Visitor,trafficplus.me,/,desktop,Philippines,Bacolod,1,1,10,10,0,0,20220523,17,PH
+New Visitor,trafficplus.me,/,desktop,Philippines,Makati,1,1,10,10,0,0,20220523,17,PH
+New Visitor,trafficplus.me,/,desktop,Philippines,Manila,1,1,17,17,0,0,20220523,17,PH
+New Visitor,trafficplus.me,/,desktop,Philippines,Taguig,1,1,10,10,0,0,20220523,17,PH
+New Visitor,trafficplus.me,/,mobile,Philippines,(not set),1,1,10,10,0,0,20220523,17,PH
+New Visitor,trafficplus.me,/,mobile,Philippines,Davao City,1,1,10,10,0,0,20220523,17,PH
+New Visitor,trafficplus.me,/,mobile,Philippines,Manila,2,2,23,23,0,0,20220523,17,PH
+Returning Visitor,trafficplus.me,/,desktop,Philippines,(not set),2,2,20,20,0,0,20220523,17,PH
+Returning Visitor,trafficplus.me,/,mobile,Philippines,Pasig,1,1,10,10,0,0,20220523,17,PH
+New Visitor,google,/blog/ssd-yolo,desktop,Philippines,Lipa,1,1,0,0,0,1,20220524,5,PH
 New Visitor,google,/blog/image-rotation-opencv,desktop,United Kingdom,Edinburgh,1,1,0,0,0,1,20220517,10,GB
 New Visitor,google,/blog/music-voice-cotrol,mobile,United Kingdom,London,1,1,0,0,0,1,20220517,11,GB
 New Visitor,google,/blog/monitoring-grafana,desktop,United Kingdom,London,1,1,0,0,0,1,20220520,14,GB
 New Visitor,yahoo,/blog/ssd-yolo,desktop,United Kingdom,London,1,1,339,339,0,0,20220522,17,GB
-New Visitor,trafficplus.me,/,desktop,United Kingdom,Coventry,1,1,20,20,0,0,20220523,16,GB
-New Visitor,trafficplus.me,/,desktop,United Kingdom,Falmouth,1,1,20,20,0,0,20220523,16,GB
-New Visitor,trafficplus.me,/,desktop,United Kingdom,London,1,1,20,20,0,0,20220523,16,GB
-New Visitor,trafficplus.me,/,mobile,United Kingdom,Andover,1,1,20,20,0,0,20220523,16,GB
-New Visitor,trafficplus.me,/,mobile,United Kingdom,Shrewsbury,1,1,20,20,0,0,20220523,16,GB
-New Visitor,trafficplus.me,/,desktop,United Kingdom,Belfast,1,1,20,20,0,0,20220523,17,GB
-New Visitor,trafficplus.me,/,desktop,United Kingdom,London,1,1,20,20,0,0,20220523,17,GB
-New Visitor,trafficplus.me,/,desktop,United Kingdom,Sheffield,1,1,20,20,0,0,20220523,17,GB
-New Visitor,trafficplus.me,/,mobile,United Kingdom,Beaminster,1,1,20,20,0,0,20220523,17,GB
-New Visitor,trafficplus.me,/,mobile,United Kingdom,Doncaster,1,1,20,20,0,0,20220523,17,GB
-New Visitor,trafficplus.me,/,mobile,United Kingdom,Dorking,1,1,20,20,0,0,20220523,17,GB
-New Visitor,trafficplus.me,/,mobile,United Kingdom,Lichfield,1,1,21,21,0,0,20220523,17,GB
-Returning Visitor,trafficplus.me,/,desktop,United Kingdom,Belfast,1,1,20,20,0,0,20220523,17,GB
-Returning Visitor,trafficplus.me,/,desktop,United Kingdom,Brentwood,1,2,37,37,0,0,20220523,17,GB
-Returning Visitor,trafficplus.me,/,desktop,United Kingdom,Norwich,1,1,20,20,0,0,20220523,17,GB
-Returning Visitor,trafficplus.me,/,mobile,United Kingdom,Sutton-in-Ashfield,1,1,20,20,0,0,20220523,17,GB
-New Visitor,google,/blog/amp-search-jekyll,desktop,Romania,Bucharest,1,1,0,0,0,1,20220516,14,RO
-New Visitor,google,/blog/ssd-yolo,desktop,Romania,(not set),1,1,0,0,0,1,20220518,7,RO
-New Visitor,google,/blog/ssd-yolo,mobile,Romania,Bucharest,1,1,1446,1446,0,0,20220522,15,RO
-New Visitor,google,/blog/ssd-yolo,desktop,Romania,Bucharest,1,1,0,0,0,1,20220522,21,RO
-New Visitor,google,/blog/image-rotation-opencv,desktop,France,Paris,1,1,0,0,0,1,20220516,15,FR
-New Visitor,google,/blog/document-detection,desktop,France,(not set),1,1,0,0,0,1,20220516,22,FR
-New Visitor,google,/blog/ssd-yolo,desktop,France,(not set),1,1,0,0,0,1,20220516,22,FR
+New Visitor,trafficplus.me,/,desktop,United Kingdom,Coventry,1,1,10,10,0,0,20220523,16,GB
+New Visitor,trafficplus.me,/,desktop,United Kingdom,Falmouth,1,1,7,7,0,0,20220523,16,GB
+New Visitor,trafficplus.me,/,desktop,United Kingdom,London,1,1,10,10,0,0,20220523,16,GB
+New Visitor,trafficplus.me,/,mobile,United Kingdom,Andover,1,1,10,10,0,0,20220523,16,GB
+New Visitor,trafficplus.me,/,mobile,United Kingdom,Shrewsbury,1,1,10,10,0,0,20220523,16,GB
+New Visitor,trafficplus.me,/,desktop,United Kingdom,Belfast,1,1,10,10,0,0,20220523,17,GB
+New Visitor,trafficplus.me,/,desktop,United Kingdom,London,1,1,11,11,0,0,20220523,17,GB
+New Visitor,trafficplus.me,/,desktop,United Kingdom,Sheffield,1,1,10,10,0,0,20220523,17,GB
+New Visitor,trafficplus.me,/,mobile,United Kingdom,Beaminster,1,1,10,10,0,0,20220523,17,GB
+New Visitor,trafficplus.me,/,mobile,United Kingdom,Doncaster,1,1,10,10,0,0,20220523,17,GB
+New Visitor,trafficplus.me,/,mobile,United Kingdom,Dorking,1,1,10,10,0,0,20220523,17,GB
+New Visitor,trafficplus.me,/,mobile,United Kingdom,Lichfield,1,1,10,10,0,0,20220523,17,GB
+Returning Visitor,trafficplus.me,/,desktop,United Kingdom,Belfast,1,1,10,10,0,0,20220523,17,GB
+Returning Visitor,trafficplus.me,/,desktop,United Kingdom,Brentwood,1,2,13,13,0,0,20220523,17,GB
+Returning Visitor,trafficplus.me,/,desktop,United Kingdom,Norwich,1,1,10,10,0,0,20220523,17,GB
+Returning Visitor,trafficplus.me,/,mobile,United Kingdom,Sutton-in-Ashfield,1,1,10,10,0,0,20220523,17,GB
+New Visitor,google,/blog/ssd-yolo,desktop,Switzerland,Geneva,1,1,0,0,0,1,20220517,10,CH
+New Visitor,google,/blog/traefik-goaccess,desktop,Switzerland,Zurich,1,1,0,0,0,1,20220519,13,CH
+New Visitor,google,/blog/ssd-yolo,desktop,Switzerland,Muttenz,1,1,0,0,0,1,20220519,14,CH
+New Visitor,trafficplus.me,/,desktop,Switzerland,Zurich,1,1,10,10,0,0,20220523,17,CH
+New Visitor,google,/blog/ssd-yolo,desktop,Turkey,Izmir,1,1,0,0,0,1,20220517,11,TR
+New Visitor,google,/blog/motion-monitor-opencv,desktop,Turkey,Ankara,1,1,0,0,0,1,20220522,20,TR
+New Visitor,trafficplus.me,/,desktop,Turkey,(not set),1,1,10,10,0,0,20220523,16,TR
+New Visitor,trafficplus.me,/,desktop,Turkey,Adana,1,1,9,9,0,0,20220523,16,TR
+New Visitor,trafficplus.me,/,desktop,Turkey,Ankara,1,1,9,9,0,0,20220523,16,TR
+New Visitor,trafficplus.me,/,desktop,Turkey,Istanbul,1,1,10,10,0,0,20220523,16,TR
+New Visitor,trafficplus.me,/,mobile,Turkey,Diyarbakir,1,1,10,10,0,0,20220523,16,TR
+New Visitor,trafficplus.me,/,mobile,Turkey,Istanbul,1,1,10,10,0,0,20220523,16,TR
+New Visitor,trafficplus.me,/,mobile,Turkey,Rize,1,1,10,10,0,0,20220523,16,TR
+New Visitor,trafficplus.me,/,tablet,Turkey,Samsun,1,1,9,9,0,0,20220523,16,TR
+New Visitor,trafficplus.me,/,desktop,Turkey,(not set),1,1,10,10,0,0,20220523,17,TR
+New Visitor,trafficplus.me,/,desktop,Turkey,Istanbul,1,1,11,11,0,0,20220523,17,TR
+New Visitor,trafficplus.me,/,mobile,Turkey,Istanbul,1,1,10,10,0,0,20220523,17,TR
+New Visitor,trafficplus.me,/,mobile,Turkey,Kutahya,1,1,10,10,0,0,20220523,17,TR
+New Visitor,trafficplus.me,/,mobile,Turkey,Salihli,1,1,10,10,0,0,20220523,17,TR
+Returning Visitor,trafficplus.me,/,desktop,Turkey,(not set),1,1,10,10,0,0,20220523,17,TR
+Returning Visitor,trafficplus.me,/,mobile,Turkey,Istanbul,1,1,10,10,0,0,20220523,17,TR
+New Visitor,google,/blog/ssd-yolo,desktop,Turkey,Istanbul,1,1,72,72,0,0,20220524,21,TR
+New Visitor,google,/blog/motion-monitor-opencv,desktop,Poland,Gdansk,1,1,0,0,0,1,20220517,12,PL
+New Visitor,google,/blog/image-rotation-opencv,desktop,Poland,Krakow,1,1,0,0,0,1,20220518,10,PL
+New Visitor,(direct),/blog/traefik-goaccess,desktop,Poland,Rzeszow,1,1,0,0,0,1,20220520,12,PL
+New Visitor,trafficplus.me,/,mobile,Poland,Jastrzebie-Zdroj,1,1,10,10,0,0,20220523,16,PL
+Returning Visitor,trafficplus.me,/,desktop,Poland,Mielec,1,2,20,20,0,0,20220523,16,PL
+Returning Visitor,trafficplus.me,/,mobile,Poland,Krakow,1,1,10,10,0,0,20220523,16,PL
+New Visitor,trafficplus.me,/,desktop,Poland,Katowice,1,1,10,10,0,0,20220523,17,PL
+Returning Visitor,trafficplus.me,/,desktop,Poland,Katowice,1,1,10,10,0,0,20220523,17,PL
+New Visitor,google,/blog/vimwiki-hugo,desktop,Poland,Warsaw,1,1,0,0,0,1,20220524,8,PL
+New Visitor,google,/blog/traefik-goaccess,desktop,Spain,Madrid,1,1,0,0,0,1,20220517,15,ES
+New Visitor,google,/blog/motion-monitor-opencv,mobile,Spain,Santander,1,1,0,0,0,1,20220521,16,ES
+New Visitor,duckduckgo,/blog/vimwiki-hugo,mobile,Spain,(not set),1,1,0,0,0,1,20220522,11,ES
+New Visitor,trafficplus.me,/,desktop,Spain,Cordoba,1,1,10,10,0,0,20220523,16,ES
+New Visitor,trafficplus.me,/,desktop,Spain,Seville,2,2,20,20,0,0,20220523,16,ES
+New Visitor,trafficplus.me,/,mobile,Spain,(not set),1,1,10,10,0,0,20220523,16,ES
+New Visitor,trafficplus.me,/,mobile,Spain,Madrid,1,1,10,10,0,0,20220523,16,ES
+New Visitor,trafficplus.me,/,mobile,Spain,Santa Cruz de Tenerife,1,1,10,10,0,0,20220523,16,ES
+New Visitor,trafficplus.me,/,mobile,Spain,Seville,2,2,21,21,0,0,20220523,16,ES
+Returning Visitor,trafficplus.me,/,desktop,Spain,Seville,1,1,11,11,0,0,20220523,16,ES
+New Visitor,trafficplus.me,/,desktop,Spain,(not set),2,2,19,19,0,0,20220523,17,ES
+New Visitor,trafficplus.me,/,desktop,Spain,Cordoba,1,1,10,10,0,0,20220523,17,ES
+New Visitor,trafficplus.me,/,desktop,Spain,Seville,4,4,32,32,0,0,20220523,17,ES
+New Visitor,trafficplus.me,/,mobile,Spain,Alcala de Guadaira,1,1,10,10,0,0,20220523,17,ES
+New Visitor,trafficplus.me,/,mobile,Spain,Bailen,1,1,10,10,0,0,20220523,17,ES
+New Visitor,trafficplus.me,/,mobile,Spain,Getafe,1,1,10,10,0,0,20220523,17,ES
+New Visitor,trafficplus.me,/,mobile,Spain,Ourense,1,1,10,10,0,0,20220523,17,ES
+New Visitor,trafficplus.me,/,mobile,Spain,Seville,1,1,10,10,0,0,20220523,17,ES
+New Visitor,trafficplus.me,/,tablet,Spain,Seville,1,1,10,10,0,0,20220523,17,ES
+Returning Visitor,trafficplus.me,/,desktop,Spain,Seville,1,1,10,10,0,0,20220523,17,ES
+Returning Visitor,trafficplus.me,/,mobile,Spain,Alcala de Guadaira,1,1,10,10,0,0,20220523,17,ES
+Returning Visitor,trafficplus.me,/,mobile,Spain,Barcelona,1,1,10,10,0,0,20220523,17,ES
+Returning Visitor,trafficplus.me,/,mobile,Spain,Ourense,1,2,20,20,0,0,20220523,17,ES
+Returning Visitor,trafficplus.me,/,tablet,Spain,Seville,1,1,10,10,0,0,20220523,17,ES
+New Visitor,mopidy.com,/blog/mopidy-muse,desktop,Spain,Igualada,1,1,0,0,0,1,20220524,16,ES
 New Visitor,(direct),/blog/vimwiki-hugo,mobile,France,(not set),1,1,0,0,0,1,20220517,16,FR
 New Visitor,google,/blog/ssd-yolo,desktop,France,Voiron,1,1,0,0,0,1,20220518,9,FR
 New Visitor,google,/blog/image-rotation-opencv,desktop,France,Saint-Herblain,1,1,0,0,0,1,20220518,17,FR
@@ -361,24 +308,174 @@ New Visitor,google,/,desktop,France,Nice,1,0,0,0,0,0,20220523,14,FR
 New Visitor,google,/about,desktop,France,Nice,1,1,15,15,0,0,20220523,14,FR
 New Visitor,google,/blog/marathon-mirabelle,desktop,France,Meudon,1,1,0,0,0,1,20220523,15,FR
 New Visitor,google,/blog/traefik-goaccess,desktop,France,Montevrain,1,1,0,0,0,1,20220523,16,FR
-New Visitor,trafficplus.me,/,desktop,France,Colombes,1,1,20,20,0,0,20220523,16,FR
-New Visitor,trafficplus.me,/,desktop,France,Paris,2,2,41,41,0,0,20220523,16,FR
-New Visitor,trafficplus.me,/,desktop,France,Saint-Etienne,1,1,20,20,0,0,20220523,16,FR
-New Visitor,trafficplus.me,/,mobile,France,(not set),2,2,41,41,0,0,20220523,16,FR
-New Visitor,trafficplus.me,/,mobile,France,Aix-en-Provence,1,1,20,20,0,0,20220523,16,FR
-New Visitor,trafficplus.me,/,mobile,France,Venissieux,1,1,20,20,0,0,20220523,16,FR
-Returning Visitor,trafficplus.me,/,desktop,France,Paris,1,1,17,17,0,0,20220523,16,FR
-Returning Visitor,trafficplus.me,/,mobile,France,(not set),1,1,20,20,0,0,20220523,16,FR
-Returning Visitor,trafficplus.me,/,mobile,France,Lyon,1,1,20,20,0,0,20220523,16,FR
-New Visitor,trafficplus.me,/,desktop,France,(not set),3,3,60,60,0,0,20220523,17,FR
-New Visitor,trafficplus.me,/,mobile,France,Dijon,1,1,21,21,0,0,20220523,17,FR
-New Visitor,trafficplus.me,/,mobile,France,Paris,1,1,20,20,0,0,20220523,17,FR
-Returning Visitor,trafficplus.me,/,desktop,France,(not set),2,2,40,40,0,0,20220523,17,FR
-Returning Visitor,trafficplus.me,/,desktop,France,Paris,1,1,20,19,0,0,20220523,17,FR
-Returning Visitor,trafficplus.me,/,desktop,France,Ploemeur,1,1,20,20,0,0,20220523,17,FR
-Returning Visitor,trafficplus.me,/,mobile,France,(not set),2,2,40,40,0,0,20220523,17,FR
+New Visitor,trafficplus.me,/,desktop,France,Colombes,1,1,10,10,0,0,20220523,16,FR
+New Visitor,trafficplus.me,/,desktop,France,Paris,2,2,20,20,0,0,20220523,16,FR
+New Visitor,trafficplus.me,/,desktop,France,Saint-Etienne,1,1,10,10,0,0,20220523,16,FR
+New Visitor,trafficplus.me,/,mobile,France,(not set),2,2,21,21,0,0,20220523,16,FR
+New Visitor,trafficplus.me,/,mobile,France,Aix-en-Provence,1,1,10,10,0,0,20220523,16,FR
+New Visitor,trafficplus.me,/,mobile,France,Venissieux,1,1,10,10,0,0,20220523,16,FR
+Returning Visitor,trafficplus.me,/,desktop,France,Paris,1,1,10,10,0,0,20220523,16,FR
+Returning Visitor,trafficplus.me,/,mobile,France,(not set),1,1,10,10,0,0,20220523,16,FR
+Returning Visitor,trafficplus.me,/,mobile,France,Lyon,1,1,11,11,0,0,20220523,16,FR
+New Visitor,trafficplus.me,/,desktop,France,(not set),3,3,27,27,0,0,20220523,17,FR
+New Visitor,trafficplus.me,/,mobile,France,Dijon,1,1,11,11,0,0,20220523,17,FR
+New Visitor,trafficplus.me,/,mobile,France,Paris,1,1,9,9,0,0,20220523,17,FR
+Returning Visitor,trafficplus.me,/,desktop,France,(not set),2,2,20,20,0,0,20220523,17,FR
+Returning Visitor,trafficplus.me,/,desktop,France,Paris,1,1,9,9,0,0,20220523,17,FR
+Returning Visitor,trafficplus.me,/,desktop,France,Ploemeur,1,1,10,10,0,0,20220523,17,FR
+Returning Visitor,trafficplus.me,/,mobile,France,(not set),2,2,13,13,0,0,20220523,17,FR
 New Visitor,google,/blog/mopidy-muse,mobile,France,Paris,1,1,0,0,0,1,20220523,23,FR
-New Visitor,google,/blog/analytics-google,mobile,Ireland,Dublin,1,1,42,42,0,0,20220516,19,IE
+Returning Visitor,google,/blog/image-rotation-opencv,desktop,France,Collonges-sous-Saleve,1,1,0,0,0,1,20220524,10,FR
+Returning Visitor,google,/,desktop,France,Nice,1,0,0,0,0,0,20220524,14,FR
+Returning Visitor,google,/about,desktop,France,Nice,1,1,1,1,0,0,20220524,14,FR
+New Visitor,google,/blog/ssd-yolo,desktop,Canada,Ottawa,1,1,508,508,0,0,20220517,19,CA
+New Visitor,google,/blog/music-voice-cotrol,desktop,Canada,(not set),1,1,0,0,0,1,20220518,17,CA
+New Visitor,google,/blog/vimwiki-hugo,desktop,Canada,Toronto,1,1,0,0,0,1,20220520,20,CA
+New Visitor,trafficplus.me,/,desktop,Canada,Gatineau,1,1,10,10,0,0,20220523,16,CA
+New Visitor,trafficplus.me,/,desktop,Canada,Montreal,1,1,10,10,0,0,20220523,16,CA
+New Visitor,trafficplus.me,/,mobile,Canada,Guelph,1,1,10,10,0,0,20220523,16,CA
+New Visitor,trafficplus.me,/,mobile,Canada,Highlands East,1,1,10,10,0,0,20220523,16,CA
+Returning Visitor,trafficplus.me,/,desktop,Canada,Gatineau,1,1,10,10,0,0,20220523,16,CA
+New Visitor,trafficplus.me,/,mobile,Canada,Bathurst,1,1,9,9,0,0,20220523,17,CA
+New Visitor,trafficplus.me,/,mobile,Canada,Drummondville,1,1,10,10,0,0,20220523,17,CA
+New Visitor,trafficplus.me,/,mobile,Canada,Montreal,1,1,10,10,0,0,20220523,17,CA
+New Visitor,trafficplus.me,/,mobile,Canada,Pont-Rouge,1,1,10,10,0,0,20220523,17,CA
+New Visitor,trafficplus.me,/,mobile,Canada,Toronto,2,2,21,21,0,0,20220523,17,CA
+Returning Visitor,trafficplus.me,/,desktop,Canada,Calgary,1,1,10,10,0,0,20220523,17,CA
+Returning Visitor,trafficplus.me,/,tablet,Canada,Levis,1,1,10,10,0,0,20220523,17,CA
+New Visitor,google,/blog/traefik-goaccess,desktop,Canada,Toronto,1,1,0,0,0,1,20220524,13,CA
+New Visitor,google,/about,desktop,Tunisia,Tunis,1,1,3,3,0,0,20220517,20,TN
+New Visitor,google,/blog/raspberry-video-stream,desktop,Tunisia,Tunis,1,1,0,0,0,1,20220518,12,TN
+Returning Visitor,(direct),/blog/traefik-goaccess,mobile,Germany,Schmallenberg,1,1,0,0,0,1,20220517,21,DE
+New Visitor,ecosia.org,/blog/motion-monitor-opencv,mobile,Germany,Ohringen,1,1,0,0,0,1,20220518,13,DE
+New Visitor,google,/blog/monitoring-grafana,desktop,Germany,Frankfurt,1,1,0,0,0,1,20220518,13,DE
+New Visitor,google,/blog/grafana-dashboard,desktop,Germany,Dortmund,1,1,0,0,0,1,20220519,19,DE
+New Visitor,google,/blog/image-processing-using-serverless-architecture,desktop,Germany,Berlin,1,1,0,0,0,1,20220520,12,DE
+New Visitor,google,/blog/image-rotation-opencv,desktop,Germany,Aachen,1,1,0,0,0,1,20220520,14,DE
+New Visitor,google,/blog/ssd-yolo,desktop,Germany,Munich,1,1,0,0,0,1,20220521,12,DE
+New Visitor,google,/blog/traefik-goaccess,desktop,Germany,Frankfurt,1,1,0,0,0,1,20220522,15,DE
+New Visitor,google,/blog/image-processing-using-serverless-architecture,desktop,Germany,Berlin,1,1,0,0,0,1,20220522,22,DE
+New Visitor,(direct),/blog/image-rotation-opencv,desktop,Germany,(not set),1,1,0,0,0,1,20220523,7,DE
+New Visitor,trafficplus.me,/,desktop,Germany,Worms,1,1,9,9,0,0,20220523,16,DE
+New Visitor,trafficplus.me,/,mobile,Germany,Annaberg-Buchholz,1,1,10,10,0,0,20220523,16,DE
+New Visitor,trafficplus.me,/,mobile,Germany,Berlin,1,1,10,10,0,0,20220523,16,DE
+New Visitor,trafficplus.me,/,mobile,Germany,Dresden,1,1,10,10,0,0,20220523,16,DE
+New Visitor,trafficplus.me,/,mobile,Germany,Konstanz,1,1,11,11,0,0,20220523,16,DE
+New Visitor,google,/blog/serverless-api-lambda,desktop,Germany,Mannheim,1,1,0,0,0,1,20220523,17,DE
+New Visitor,trafficplus.me,/,desktop,Germany,Bad Kissingen,1,1,10,10,0,0,20220523,17,DE
+New Visitor,trafficplus.me,/,desktop,Germany,Buren,1,1,10,10,0,0,20220523,17,DE
+New Visitor,trafficplus.me,/,desktop,Germany,Cloppenburg,1,1,9,9,0,0,20220523,17,DE
+New Visitor,trafficplus.me,/,desktop,Germany,Karlsruhe,1,1,10,10,0,0,20220523,17,DE
+New Visitor,trafficplus.me,/,mobile,Germany,(not set),1,1,10,10,0,0,20220523,17,DE
+New Visitor,trafficplus.me,/,mobile,Germany,Essen,1,1,7,7,0,0,20220523,17,DE
+New Visitor,trafficplus.me,/,mobile,Germany,Munich,1,1,10,10,0,0,20220523,17,DE
+Returning Visitor,trafficplus.me,/,desktop,Germany,Nossen,1,1,10,10,0,0,20220523,17,DE
+Returning Visitor,trafficplus.me,/,mobile,Germany,Julich,1,1,10,10,0,0,20220523,17,DE
+New Visitor,google,/blog/traefik-goaccess,tablet,Germany,Cologne,1,1,0,0,0,1,20220524,2,DE
+New Visitor,google,/blog/monitoring-grafana,desktop,Germany,Berlin,1,1,0,0,0,1,20220524,8,DE
+Returning Visitor,google,/,tablet,Germany,Cologne,1,0,0,23,0,0,20220524,8,DE
+Returning Visitor,google,/blog,tablet,Germany,Cologne,1,0,0,0,0,0,20220524,8,DE
+Returning Visitor,google,/blog/traefik-goaccess,tablet,Germany,Cologne,1,2,48,25,0,1,20220524,8,DE
+New Visitor,google,/blog/image-rotation-opencv,desktop,Germany,Seevetal,1,1,0,0,0,1,20220524,11,DE
+Returning Visitor,google,/blog/monitoring-grafana,desktop,Germany,Berlin,1,1,0,0,0,1,20220524,11,DE
+New Visitor,google,/blog/vimwiki-hugo,desktop,Germany,Gottingen,1,1,0,0,0,1,20220524,13,DE
+New Visitor,google,/blog/image-processing-using-serverless-architecture,mobile,Germany,Potsdam,1,1,0,0,0,1,20220524,22,DE
+New Visitor,google,/blog/ssd-yolo,desktop,Romania,(not set),1,1,0,0,0,1,20220518,7,RO
+New Visitor,google,/blog/ssd-yolo,mobile,Romania,Bucharest,1,1,1446,1446,0,0,20220522,15,RO
+New Visitor,google,/blog/ssd-yolo,desktop,Romania,Bucharest,1,1,0,0,0,1,20220522,21,RO
+New Visitor,google,/blog/ssd-yolo,mobile,Egypt,El-Mahalla El-Kubra,1,1,0,0,0,1,20220518,7,EG
+New Visitor,trafficplus.me,/,desktop,Egypt,(not set),1,1,10,10,0,0,20220523,16,EG
+New Visitor,trafficplus.me,/,desktop,Egypt,Cairo,1,1,10,10,0,0,20220523,16,EG
+New Visitor,trafficplus.me,/,desktop,Egypt,New Cairo City,2,2,21,21,0,0,20220523,16,EG
+New Visitor,trafficplus.me,/,desktop,Egypt,Asyut,1,1,10,10,0,0,20220523,17,EG
+New Visitor,trafficplus.me,/,desktop,Egypt,New Cairo City,1,1,9,9,0,0,20220523,17,EG
+New Visitor,trafficplus.me,/,mobile,Egypt,Cairo,1,1,11,11,0,0,20220523,17,EG
+New Visitor,trafficplus.me,/,mobile,Egypt,Giza,1,1,10,10,0,0,20220523,17,EG
+New Visitor,trafficplus.me,/,mobile,Egypt,New Cairo City,1,1,10,10,0,0,20220523,17,EG
+Returning Visitor,trafficplus.me,/,desktop,Egypt,(not set),1,2,20,20,0,0,20220523,17,EG
+Returning Visitor,trafficplus.me,/,desktop,Egypt,Cairo,1,1,10,10,0,0,20220523,17,EG
+Returning Visitor,trafficplus.me,/,mobile,Egypt,Giza,1,1,10,10,0,0,20220523,17,EG
+New Visitor,(direct),/blog/ssd-yolo,mobile,China,Guangzhou,1,1,181,180,0,0,20220518,13,CN
+New Visitor,link.csdn.net,/blog/image-rotation-opencv,desktop,China,(not set),1,1,369,369,0,0,20220520,6,CN
+New Visitor,link.csdn.net,/blog/image-rotation-opencv ↩︎ ↩︎,desktop,China,(not set),1,0,0,0,0,0,20220520,6,CN
+Returning Visitor,(direct),/blog/ssd-yolo,desktop,China,(not set),1,1,0,0,0,1,20220520,10,CN
+New Visitor,(direct),/blog/ssd-yolo,desktop,China,(not set),1,1,0,0,0,1,20220521,4,CN
+New Visitor,(direct),/blog/ssd-yolo,desktop,China,(not set),1,1,0,0,0,1,20220521,5,CN
+Returning Visitor,(direct),/blog/ssd-yolo,desktop,China,(not set),1,1,0,0,0,1,20220521,5,CN
+New Visitor,google,/blog/ssd-yolo,desktop,China,(not set),1,1,0,0,0,1,20220521,14,CN
+New Visitor,google,/blog/ssd-yolo,desktop,China,(not set),1,1,0,0,0,1,20220521,16,CN
+New Visitor,www4.bing.com,/blog/ssd-yolo,desktop,China,(not set),1,1,759,759,0,0,20220522,14,CN
+New Visitor,trafficplus.me,/,desktop,China,(not set),7,7,68,68,0,0,20220523,16,CN
+New Visitor,trafficplus.me,/,mobile,China,(not set),5,5,43,43,0,0,20220523,16,CN
+Returning Visitor,trafficplus.me,/,desktop,China,(not set),3,4,39,39,0,0,20220523,16,CN
+Returning Visitor,trafficplus.me,/,mobile,China,(not set),3,3,31,31,0,0,20220523,16,CN
+New Visitor,trafficplus.me,/,desktop,China,(not set),2,2,20,20,0,0,20220523,17,CN
+New Visitor,trafficplus.me,/,mobile,China,(not set),2,2,20,20,0,0,20220523,17,CN
+Returning Visitor,trafficplus.me,/,desktop,China,(not set),6,8,82,82,0,0,20220523,17,CN
+Returning Visitor,trafficplus.me,/,mobile,China,(not set),7,7,70,70,0,0,20220523,17,CN
+Returning Visitor,trafficplus.me,/,tablet,China,(not set),1,1,7,7,0,0,20220523,17,CN
+New Visitor,(direct),/blog/image-rotation-opencv,desktop,China,(not set),1,1,0,0,0,1,20220524,14,CN
+New Visitor,google,/blog/ssd-yolo,desktop,Pakistan,Attock,1,1,0,0,0,1,20220518,14,PK
+Returning Visitor,google,/blog/ssd-yolo,desktop,Pakistan,Attock,1,1,0,0,0,1,20220520,18,PK
+New Visitor,google,/blog/ssd-yolo,mobile,Pakistan,(not set),1,1,0,0,0,1,20220523,8,PK
+Returning Visitor,google,/blog/ssd-yolo,desktop,Pakistan,Attock,1,1,0,0,0,1,20220523,15,PK
+New Visitor,trafficplus.me,/,desktop,Pakistan,Karachi,1,1,10,10,0,0,20220523,16,PK
+New Visitor,trafficplus.me,/,mobile,Pakistan,Faisalabad,1,1,11,11,0,0,20220523,17,PK
+New Visitor,trafficplus.me,/,mobile,Pakistan,Karachi,1,1,10,10,0,0,20220523,17,PK
+Returning Visitor,trafficplus.me,/,desktop,Pakistan,Karachi,1,1,10,10,0,0,20220523,17,PK
+Returning Visitor,trafficplus.me,/,mobile,Pakistan,Islamabad,1,1,11,11,0,0,20220523,17,PK
+New Visitor,google,/blog/ssd-yolo,desktop,Netherlands,Delft,1,1,0,0,0,1,20220518,16,NL
+New Visitor,google,/blog,tablet,Netherlands,'s-Hertogenbosch,1,1,0,0,0,1,20220519,23,NL
+New Visitor,google,/blog/monitoring-grafana,desktop,Netherlands,Vlaardingen,1,1,0,0,0,1,20220523,9,NL
+New Visitor,trafficplus.me,/,desktop,Netherlands,(not set),2,2,20,20,0,0,20220523,17,NL
+New Visitor,trafficplus.me,/,desktop,Netherlands,Amsterdam,1,1,10,10,0,0,20220523,17,NL
+New Visitor,trafficplus.me,/,mobile,Netherlands,3991,1,1,10,10,0,0,20220523,17,NL
+New Visitor,trafficplus.me,/,mobile,Netherlands,Oldenzaal,1,1,10,10,0,0,20220523,17,NL
+Returning Visitor,trafficplus.me,/,mobile,Netherlands,6161,1,1,10,10,0,0,20220523,17,NL
+Returning Visitor,trafficplus.me,/,mobile,Netherlands,Oldenzaal,1,1,10,10,0,0,20220523,17,NL
+New Visitor,google,/blog/motion-monitor-opencv,mobile,Netherlands,Hoogeveen,1,1,0,0,0,1,20220524,0,NL
+New Visitor,google,/blog/amp-search-jekyll,desktop,Cambodia,(not set),1,1,0,0,0,1,20220518,18,KH
+New Visitor,google,/blog/amp-search-jekyll,desktop,Cambodia,(not set),1,1,0,0,0,1,20220520,16,KH
+New Visitor,trafficplus.me,/,desktop,Cambodia,Phnom Penh,1,1,10,10,0,0,20220523,16,KH
+New Visitor,google,/blog/serverless-api-lambda,desktop,Australia,Brisbane,1,1,0,0,0,1,20220519,3,AU
+New Visitor,google,/blog/mopidy-muse,desktop,Australia,Sydney,1,1,0,0,0,1,20220519,4,AU
+New Visitor,trafficplus.me,/,desktop,Australia,Sydney,1,1,9,9,0,0,20220523,16,AU
+New Visitor,trafficplus.me,/,mobile,Australia,Launceston,1,1,10,10,0,0,20220523,16,AU
+New Visitor,trafficplus.me,/,desktop,Australia,Melbourne,1,1,10,10,0,0,20220523,17,AU
+New Visitor,trafficplus.me,/,mobile,Australia,(not set),1,1,10,10,0,0,20220523,17,AU
+Returning Visitor,trafficplus.me,/,desktop,Australia,Melbourne,1,2,20,20,0,0,20220523,17,AU
+New Visitor,google,/blog/arduino-mkr-fox,mobile,Brazil,Goiania,1,1,0,0,0,1,20220519,4,BR
+Returning Visitor,google,/blog/arduino-mkr-fox,mobile,Brazil,Goiania,1,1,0,0,0,1,20220519,13,BR
+New Visitor,trafficplus.me,/,desktop,Brazil,Americana,1,1,9,9,0,0,20220523,16,BR
+New Visitor,trafficplus.me,/,desktop,Brazil,Brasilia,1,1,10,10,0,0,20220523,16,BR
+New Visitor,trafficplus.me,/,desktop,Brazil,Pocos de Caldas,1,1,10,10,0,0,20220523,16,BR
+New Visitor,trafficplus.me,/,desktop,Brazil,Recife,2,2,20,20,0,0,20220523,16,BR
+New Visitor,trafficplus.me,/,desktop,Brazil,Sao Paulo,2,2,20,20,0,0,20220523,16,BR
+New Visitor,trafficplus.me,/,mobile,Brazil,(not set),1,1,10,10,0,0,20220523,16,BR
+New Visitor,trafficplus.me,/,mobile,Brazil,Novo Gama,1,1,9,9,0,0,20220523,16,BR
+New Visitor,trafficplus.me,/,tablet,Brazil,Jau,1,1,10,10,0,0,20220523,16,BR
+Returning Visitor,trafficplus.me,/,desktop,Brazil,Americana,1,1,10,10,0,0,20220523,16,BR
+Returning Visitor,trafficplus.me,/,desktop,Brazil,Belo Horizonte,1,1,10,10,0,0,20220523,16,BR
+Returning Visitor,trafficplus.me,/,desktop,Brazil,Itajai,1,1,10,10,0,0,20220523,16,BR
+Returning Visitor,trafficplus.me,/,desktop,Brazil,Rio de Janeiro,1,1,10,10,0,0,20220523,16,BR
+Returning Visitor,trafficplus.me,/,mobile,Brazil,Sao Paulo,2,2,20,20,0,0,20220523,16,BR
+Returning Visitor,trafficplus.me,/,tablet,Brazil,Salvador,1,1,10,10,0,0,20220523,16,BR
+New Visitor,trafficplus.me,/,desktop,Brazil,Camboriu,1,1,10,10,0,0,20220523,17,BR
+New Visitor,trafficplus.me,/,desktop,Brazil,Curitiba,1,1,10,10,0,0,20220523,17,BR
+New Visitor,trafficplus.me,/,desktop,Brazil,Redencao,1,1,11,11,0,0,20220523,17,BR
+New Visitor,trafficplus.me,/,desktop,Brazil,Rio de Janeiro,2,2,20,20,0,0,20220523,17,BR
+New Visitor,trafficplus.me,/,desktop,Brazil,Sao Luis,1,1,10,10,0,0,20220523,17,BR
+New Visitor,trafficplus.me,/,desktop,Brazil,Sao Paulo,1,1,10,10,0,0,20220523,17,BR
+New Visitor,trafficplus.me,/,mobile,Brazil,Congonhas,1,1,10,10,0,0,20220523,17,BR
+New Visitor,trafficplus.me,/,mobile,Brazil,Joao Pessoa,1,1,10,10,0,0,20220523,17,BR
+New Visitor,trafficplus.me,/,tablet,Brazil,Goiania,1,1,10,10,0,0,20220523,17,BR
+Returning Visitor,trafficplus.me,/,mobile,Brazil,Mesquita,1,1,10,10,0,0,20220523,17,BR
+New Visitor,reddit.com,/blog/grafana-dashboard,desktop,Colombia,Bogota,1,1,0,0,0,1,20220519,5,CO
+New Visitor,trafficplus.me,/,mobile,Colombia,Bogota,1,1,10,10,0,0,20220523,16,CO
+New Visitor,trafficplus.me,/,desktop,Colombia,Ibague,1,1,10,10,0,0,20220523,17,CO
+New Visitor,trafficplus.me,/,desktop,Colombia,Monteria,1,1,10,10,0,0,20220523,17,CO
+Returning Visitor,trafficplus.me,/,desktop,Colombia,Floridablanca,1,1,10,10,0,0,20220523,17,CO
+Returning Visitor,trafficplus.me,/,mobile,Colombia,Bogota,1,1,10,10,0,0,20220523,17,CO
 New Visitor,google,/blog/vimwiki-hugo,desktop,Ireland,Dublin,1,1,0,0,0,1,20220519,10,IE
 Returning Visitor,google,/about,desktop,Ireland,Dublin,1,1,72,51,0,0,20220519,12,IE
 Returning Visitor,google,/blog,desktop,Ireland,Dublin,1,0,0,21,0,0,20220519,12,IE
@@ -386,396 +483,286 @@ Returning Visitor,google,/blog/vim-plugins,desktop,Ireland,Dublin,1,0,0,0,0,0,20
 Returning Visitor,google,/blog/vimwiki-hugo,desktop,Ireland,Dublin,1,1,0,0,0,1,20220521,21,IE
 Returning Visitor,google,/,desktop,Ireland,Dublin,1,1,0,0,0,1,20220521,23,IE
 New Visitor,google,/blog/image-rotation-opencv,desktop,Ireland,Dublin,1,1,0,0,0,1,20220523,13,IE
-New Visitor,trafficplus.me,/,mobile,Ireland,Dublin,1,1,27,27,0,0,20220523,17,IE
-New Visitor,google,/blog/ssd-yolo,desktop,Italy,Milan,1,1,0,0,0,1,20220517,1,IT
-New Visitor,google,/blog/ssd-yolo,desktop,Italy,Turin,1,1,0,0,0,1,20220517,14,IT
-New Visitor,google,/blog/monitoring-grafana,desktop,Italy,San Giovanni in Persiceto,1,1,0,0,0,1,20220523,14,IT
-New Visitor,trafficplus.me,/,desktop,Italy,Bologna,1,1,20,20,0,0,20220523,16,IT
-New Visitor,trafficplus.me,/,desktop,Italy,Rome,1,1,20,20,0,0,20220523,16,IT
-New Visitor,trafficplus.me,/,mobile,Italy,Milan,1,1,20,10,0,0,20220523,16,IT
-New Visitor,trafficplus.me,/,desktop,Italy,Milan,1,1,20,20,0,0,20220523,17,IT
-New Visitor,trafficplus.me,/,mobile,Italy,(not set),2,2,40,40,0,0,20220523,17,IT
-New Visitor,trafficplus.me,/,mobile,Italy,Milan,2,1,20,30,0,0,20220523,17,IT
-New Visitor,trafficplus.me,/,mobile,Italy,Padua,1,1,20,20,0,0,20220523,17,IT
-New Visitor,trafficplus.me,/,tablet,Italy,Taranto,1,1,20,20,0,0,20220523,17,IT
-Returning Visitor,trafficplus.me,/,desktop,Italy,(not set),1,1,13,13,0,0,20220523,17,IT
-Returning Visitor,trafficplus.me,/,desktop,Italy,Bologna,1,1,21,20,0,0,20220523,17,IT
-Returning Visitor,trafficplus.me,/,mobile,Italy,(not set),1,1,20,20,0,0,20220523,17,IT
-Returning Visitor,trafficplus.me,/,mobile,Italy,Padua,1,1,20,20,0,0,20220523,17,IT
-Returning Visitor,trafficplus.me,/,mobile,Italy,Ponte Galeria,1,1,20,20,0,0,20220523,17,IT
-Returning Visitor,trafficplus.me,/,mobile,Italy,Turin,1,1,20,20,0,0,20220523,17,IT
-New Visitor,google,/blog/ssd-yolo,desktop,Chile,Santiago,1,1,0,0,0,1,20220517,4,CL
-New Visitor,trafficplus.me,/,desktop,Chile,(not set),1,1,27,27,0,0,20220523,16,CL
-New Visitor,trafficplus.me,/,desktop,Chile,Santiago,1,1,20,20,0,0,20220523,16,CL
-New Visitor,trafficplus.me,/,mobile,Chile,(not set),1,1,20,20,0,0,20220523,16,CL
-New Visitor,trafficplus.me,/,desktop,Chile,Santiago,1,1,20,20,0,0,20220523,17,CL
-New Visitor,trafficplus.me,/,mobile,Chile,Los Angeles,1,1,20,20,0,0,20220523,17,CL
-Returning Visitor,trafficplus.me,/,desktop,Chile,Santiago,1,1,20,20,0,0,20220523,17,CL
-Returning Visitor,google,/blog/ssd-yolo,desktop,Chile,Santiago,1,1,0,0,0,1,20220523,22,CL
-Returning Visitor,(direct),/blog/vimwiki-hugo,desktop,Hong Kong,(not set),1,1,0,0,0,1,20220517,4,HK
-New Visitor,trafficplus.me,/,mobile,Hong Kong,(not set),2,2,41,41,0,0,20220523,16,HK
-Returning Visitor,trafficplus.me,/,mobile,Hong Kong,(not set),1,1,20,20,0,0,20220523,16,HK
-New Visitor,trafficplus.me,/,desktop,Hong Kong,(not set),1,1,20,20,0,0,20220523,17,HK
-New Visitor,trafficplus.me,/,mobile,Hong Kong,(not set),2,2,40,40,0,0,20220523,17,HK
-Returning Visitor,trafficplus.me,/,mobile,Hong Kong,(not set),3,3,53,53,0,0,20220523,17,HK
-New Visitor,(direct),/blog/image-rotation-opencv,desktop,Malaysia,Subang Jaya,1,1,0,0,0,1,20220517,7,MY
-New Visitor,google,/blog/ssd-yolo,desktop,Malaysia,Kuala Lumpur,1,1,0,0,0,1,20220522,17,MY
-New Visitor,trafficplus.me,/,desktop,Malaysia,Taiping,1,1,20,20,0,0,20220523,16,MY
-Returning Visitor,trafficplus.me,/,desktop,Malaysia,Johor Bahru,1,1,21,21,0,0,20220523,16,MY
-New Visitor,trafficplus.me,/,desktop,Malaysia,George Town,1,1,20,20,0,0,20220523,17,MY
-New Visitor,trafficplus.me,/,desktop,Malaysia,Kota Kinabalu,1,1,20,20,0,0,20220523,17,MY
-New Visitor,trafficplus.me,/,desktop,Malaysia,Shah Alam,1,1,20,20,0,0,20220523,17,MY
-New Visitor,trafficplus.me,/,mobile,Malaysia,Kunak,1,1,20,20,0,0,20220523,17,MY
-Returning Visitor,trafficplus.me,/,desktop,Malaysia,Taiping,1,3,60,60,0,0,20220523,17,MY
-New Visitor,google,/blog/ssd-yolo,mobile,Philippines,Quezon City,1,1,0,0,0,1,20220517,9,PH
-New Visitor,google,/blog/ssd-yolo,mobile,Philippines,Antipolo,1,1,0,0,0,1,20220517,16,PH
-New Visitor,trafficplus.me,/,desktop,Philippines,(not set),1,1,23,23,0,0,20220523,16,PH
-New Visitor,trafficplus.me,/,desktop,Philippines,Bacolod,1,1,20,10,0,0,20220523,16,PH
-New Visitor,trafficplus.me,/,desktop,Philippines,Quezon City,1,1,21,21,0,0,20220523,16,PH
-New Visitor,trafficplus.me,/,mobile,Philippines,Pasig,1,1,20,20,0,0,20220523,16,PH
-Returning Visitor,trafficplus.me,/,desktop,Philippines,Quezon City,1,1,20,20,0,0,20220523,16,PH
-New Visitor,trafficplus.me,/,desktop,Philippines,Bacolod,1,0,0,10,0,0,20220523,17,PH
-New Visitor,trafficplus.me,/,desktop,Philippines,Makati,1,1,20,20,0,0,20220523,17,PH
-New Visitor,trafficplus.me,/,desktop,Philippines,Manila,1,1,27,27,0,0,20220523,17,PH
-New Visitor,trafficplus.me,/,desktop,Philippines,Taguig,1,1,20,20,0,0,20220523,17,PH
-New Visitor,trafficplus.me,/,mobile,Philippines,(not set),1,1,20,20,0,0,20220523,17,PH
-New Visitor,trafficplus.me,/,mobile,Philippines,Davao City,1,1,20,20,0,0,20220523,17,PH
-New Visitor,trafficplus.me,/,mobile,Philippines,Manila,2,2,43,43,0,0,20220523,17,PH
-Returning Visitor,trafficplus.me,/,desktop,Philippines,(not set),2,2,40,40,0,0,20220523,17,PH
-Returning Visitor,trafficplus.me,/,mobile,Philippines,Pasig,1,1,20,20,0,0,20220523,17,PH
-New Visitor,google,/blog/ssd-yolo,desktop,Switzerland,Geneva,1,1,0,0,0,1,20220517,10,CH
-New Visitor,google,/blog/traefik-goaccess,desktop,Switzerland,Zurich,1,1,0,0,0,1,20220519,13,CH
-New Visitor,google,/blog/ssd-yolo,desktop,Switzerland,Muttenz,1,1,0,0,0,1,20220519,14,CH
-New Visitor,trafficplus.me,/,desktop,Switzerland,Zurich,1,1,20,20,0,0,20220523,17,CH
-New Visitor,google,/blog/ssd-yolo,desktop,Turkey,Izmir,1,1,0,0,0,1,20220517,11,TR
-New Visitor,google,/blog/motion-monitor-opencv,desktop,Turkey,Ankara,1,1,0,0,0,1,20220522,20,TR
-New Visitor,trafficplus.me,/,desktop,Turkey,(not set),1,1,20,20,0,0,20220523,16,TR
-New Visitor,trafficplus.me,/,desktop,Turkey,Adana,1,1,17,17,0,0,20220523,16,TR
-New Visitor,trafficplus.me,/,desktop,Turkey,Ankara,1,1,20,20,0,0,20220523,16,TR
-New Visitor,trafficplus.me,/,desktop,Turkey,Istanbul,1,1,20,20,0,0,20220523,16,TR
-New Visitor,trafficplus.me,/,mobile,Turkey,Diyarbakir,1,1,20,20,0,0,20220523,16,TR
-New Visitor,trafficplus.me,/,mobile,Turkey,Istanbul,1,1,20,20,0,0,20220523,16,TR
-New Visitor,trafficplus.me,/,mobile,Turkey,Rize,1,1,17,17,0,0,20220523,16,TR
-New Visitor,trafficplus.me,/,tablet,Turkey,Samsun,1,1,20,20,0,0,20220523,16,TR
-New Visitor,trafficplus.me,/,desktop,Turkey,(not set),1,1,20,20,0,0,20220523,17,TR
-New Visitor,trafficplus.me,/,desktop,Turkey,Istanbul,1,1,21,21,0,0,20220523,17,TR
-New Visitor,trafficplus.me,/,mobile,Turkey,Istanbul,1,1,20,20,0,0,20220523,17,TR
-New Visitor,trafficplus.me,/,mobile,Turkey,Kutahya,1,1,21,21,0,0,20220523,17,TR
-New Visitor,trafficplus.me,/,mobile,Turkey,Salihli,1,1,20,20,0,0,20220523,17,TR
-Returning Visitor,trafficplus.me,/,desktop,Turkey,(not set),1,1,20,20,0,0,20220523,17,TR
-Returning Visitor,trafficplus.me,/,mobile,Turkey,Istanbul,1,1,20,20,0,0,20220523,17,TR
-New Visitor,google,/blog/traefik-goaccess,desktop,Spain,Madrid,1,1,0,0,0,1,20220517,15,ES
-New Visitor,google,/blog/motion-monitor-opencv,mobile,Spain,Santander,1,1,0,0,0,1,20220521,16,ES
-New Visitor,duckduckgo,/blog/vimwiki-hugo,mobile,Spain,(not set),1,1,0,0,0,1,20220522,11,ES
-New Visitor,trafficplus.me,/,desktop,Spain,Cordoba,1,1,20,20,0,0,20220523,16,ES
-New Visitor,trafficplus.me,/,desktop,Spain,Seville,2,2,40,40,0,0,20220523,16,ES
-New Visitor,trafficplus.me,/,mobile,Spain,(not set),1,1,20,20,0,0,20220523,16,ES
-New Visitor,trafficplus.me,/,mobile,Spain,Madrid,1,1,20,20,0,0,20220523,16,ES
-New Visitor,trafficplus.me,/,mobile,Spain,Santa Cruz de Tenerife,1,1,20,20,0,0,20220523,16,ES
-New Visitor,trafficplus.me,/,mobile,Spain,Seville,2,2,41,41,0,0,20220523,16,ES
-Returning Visitor,trafficplus.me,/,desktop,Spain,Seville,1,1,21,21,0,0,20220523,16,ES
-New Visitor,trafficplus.me,/,desktop,Spain,(not set),2,2,40,40,0,0,20220523,17,ES
-New Visitor,trafficplus.me,/,desktop,Spain,Cordoba,1,1,20,20,0,0,20220523,17,ES
-New Visitor,trafficplus.me,/,desktop,Spain,Seville,4,4,80,80,0,0,20220523,17,ES
-New Visitor,trafficplus.me,/,mobile,Spain,Alcala de Guadaira,1,1,20,20,0,0,20220523,17,ES
-New Visitor,trafficplus.me,/,mobile,Spain,Bailen,1,1,20,20,0,0,20220523,17,ES
-New Visitor,trafficplus.me,/,mobile,Spain,Getafe,1,1,20,20,0,0,20220523,17,ES
-New Visitor,trafficplus.me,/,mobile,Spain,Ourense,1,1,20,20,0,0,20220523,17,ES
-New Visitor,trafficplus.me,/,mobile,Spain,Seville,1,1,20,20,0,0,20220523,17,ES
-New Visitor,trafficplus.me,/,tablet,Spain,Seville,1,1,19,19,0,0,20220523,17,ES
-Returning Visitor,trafficplus.me,/,desktop,Spain,Seville,1,1,20,20,0,0,20220523,17,ES
-Returning Visitor,trafficplus.me,/,mobile,Spain,Alcala de Guadaira,1,1,20,20,0,0,20220523,17,ES
-Returning Visitor,trafficplus.me,/,mobile,Spain,Barcelona,1,1,20,20,0,0,20220523,17,ES
-Returning Visitor,trafficplus.me,/,mobile,Spain,Ourense,1,2,37,37,0,0,20220523,17,ES
-Returning Visitor,trafficplus.me,/,tablet,Spain,Seville,1,1,20,20,0,0,20220523,17,ES
-New Visitor,google,/blog/ssd-yolo,desktop,Canada,Ottawa,1,1,508,508,0,0,20220517,19,CA
-New Visitor,google,/blog/music-voice-cotrol,desktop,Canada,(not set),1,1,0,0,0,1,20220518,17,CA
-New Visitor,google,/blog/vimwiki-hugo,desktop,Canada,Toronto,1,1,0,0,0,1,20220520,20,CA
-New Visitor,trafficplus.me,/,desktop,Canada,Gatineau,1,1,20,20,0,0,20220523,16,CA
-New Visitor,trafficplus.me,/,desktop,Canada,Montreal,1,1,19,19,0,0,20220523,16,CA
-New Visitor,trafficplus.me,/,mobile,Canada,Guelph,1,1,20,20,0,0,20220523,16,CA
-New Visitor,trafficplus.me,/,mobile,Canada,Highlands East,1,1,20,20,0,0,20220523,16,CA
-Returning Visitor,trafficplus.me,/,desktop,Canada,Gatineau,1,1,20,20,0,0,20220523,16,CA
-New Visitor,trafficplus.me,/,mobile,Canada,Bathurst,1,1,20,20,0,0,20220523,17,CA
-New Visitor,trafficplus.me,/,mobile,Canada,Drummondville,1,1,20,20,0,0,20220523,17,CA
-New Visitor,trafficplus.me,/,mobile,Canada,Montreal,1,1,20,20,0,0,20220523,17,CA
-New Visitor,trafficplus.me,/,mobile,Canada,Pont-Rouge,1,1,20,20,0,0,20220523,17,CA
-New Visitor,trafficplus.me,/,mobile,Canada,Toronto,2,2,41,41,0,0,20220523,17,CA
-Returning Visitor,trafficplus.me,/,desktop,Canada,Calgary,1,1,20,20,0,0,20220523,17,CA
-Returning Visitor,trafficplus.me,/,tablet,Canada,Levis,1,1,20,20,0,0,20220523,17,CA
-New Visitor,google,/blog/ssd-yolo,mobile,Egypt,El-Mahalla El-Kubra,1,1,0,0,0,1,20220518,7,EG
-New Visitor,trafficplus.me,/,desktop,Egypt,(not set),1,1,19,19,0,0,20220523,16,EG
-New Visitor,trafficplus.me,/,desktop,Egypt,Cairo,1,1,20,20,0,0,20220523,16,EG
-New Visitor,trafficplus.me,/,desktop,Egypt,New Cairo City,3,3,61,52,0,0,20220523,16,EG
-New Visitor,trafficplus.me,/,desktop,Egypt,Asyut,1,1,20,20,0,0,20220523,17,EG
-New Visitor,trafficplus.me,/,desktop,Egypt,New Cairo City,1,0,0,9,0,0,20220523,17,EG
-New Visitor,trafficplus.me,/,mobile,Egypt,Cairo,1,1,21,21,0,0,20220523,17,EG
-New Visitor,trafficplus.me,/,mobile,Egypt,Giza,1,1,20,20,0,0,20220523,17,EG
-New Visitor,trafficplus.me,/,mobile,Egypt,New Cairo City,1,1,19,19,0,0,20220523,17,EG
-Returning Visitor,trafficplus.me,/,desktop,Egypt,(not set),1,2,40,40,0,0,20220523,17,EG
-Returning Visitor,trafficplus.me,/,desktop,Egypt,Cairo,1,1,20,20,0,0,20220523,17,EG
-Returning Visitor,trafficplus.me,/,mobile,Egypt,Giza,1,1,20,20,0,0,20220523,17,EG
-New Visitor,google,/blog/ssd-yolo,desktop,Pakistan,Attock,1,1,0,0,0,1,20220518,14,PK
-Returning Visitor,google,/blog/ssd-yolo,desktop,Pakistan,Attock,1,1,0,0,0,1,20220520,18,PK
-New Visitor,google,/blog/ssd-yolo,mobile,Pakistan,(not set),1,1,0,0,0,1,20220523,8,PK
-Returning Visitor,google,/blog/ssd-yolo,desktop,Pakistan,Attock,1,1,0,0,0,1,20220523,15,PK
-New Visitor,trafficplus.me,/,desktop,Pakistan,Karachi,1,1,20,20,0,0,20220523,16,PK
-New Visitor,trafficplus.me,/,mobile,Pakistan,Faisalabad,1,1,20,20,0,0,20220523,17,PK
-New Visitor,trafficplus.me,/,mobile,Pakistan,Karachi,1,1,20,20,0,0,20220523,17,PK
-Returning Visitor,trafficplus.me,/,desktop,Pakistan,Karachi,1,1,20,20,0,0,20220523,17,PK
-Returning Visitor,trafficplus.me,/,mobile,Pakistan,Islamabad,1,1,22,22,0,0,20220523,17,PK
-New Visitor,google,/blog/amp-search-jekyll,desktop,Cambodia,(not set),1,1,0,0,0,1,20220518,18,KH
-New Visitor,google,/blog/amp-search-jekyll,desktop,Cambodia,(not set),1,1,0,0,0,1,20220520,16,KH
-New Visitor,trafficplus.me,/,desktop,Cambodia,Phnom Penh,1,1,20,20,0,0,20220523,16,KH
-New Visitor,google,/blog/serverless-api-lambda,desktop,Australia,Brisbane,1,1,0,0,0,1,20220519,3,AU
-New Visitor,google,/blog/mopidy-muse,desktop,Australia,Sydney,1,1,0,0,0,1,20220519,4,AU
-New Visitor,trafficplus.me,/,desktop,Australia,Sydney,1,1,20,20,0,0,20220523,16,AU
-New Visitor,trafficplus.me,/,mobile,Australia,Launceston,1,1,20,20,0,0,20220523,16,AU
-New Visitor,trafficplus.me,/,desktop,Australia,Melbourne,1,1,20,20,0,0,20220523,17,AU
-New Visitor,trafficplus.me,/,mobile,Australia,(not set),1,1,20,20,0,0,20220523,17,AU
-Returning Visitor,trafficplus.me,/,desktop,Australia,Melbourne,1,2,40,40,0,0,20220523,17,AU
-New Visitor,google,/blog/arduino-mkr-fox,mobile,Brazil,Goiania,1,1,0,0,0,1,20220519,4,BR
-Returning Visitor,google,/blog/arduino-mkr-fox,mobile,Brazil,Goiania,1,1,0,0,0,1,20220519,13,BR
-New Visitor,trafficplus.me,/,desktop,Brazil,Americana,1,1,20,20,0,0,20220523,16,BR
-New Visitor,trafficplus.me,/,desktop,Brazil,Brasilia,1,1,20,20,0,0,20220523,16,BR
-New Visitor,trafficplus.me,/,desktop,Brazil,Pocos de Caldas,1,1,20,20,0,0,20220523,16,BR
-New Visitor,trafficplus.me,/,desktop,Brazil,Recife,2,2,33,33,0,0,20220523,16,BR
-New Visitor,trafficplus.me,/,desktop,Brazil,Sao Paulo,2,2,40,40,0,0,20220523,16,BR
-New Visitor,trafficplus.me,/,mobile,Brazil,(not set),1,1,20,19,0,0,20220523,16,BR
-New Visitor,trafficplus.me,/,mobile,Brazil,Novo Gama,1,1,20,20,0,0,20220523,16,BR
-New Visitor,trafficplus.me,/,tablet,Brazil,Jau,1,1,20,20,0,0,20220523,16,BR
-Returning Visitor,trafficplus.me,/,desktop,Brazil,Americana,1,1,20,20,0,0,20220523,16,BR
-Returning Visitor,trafficplus.me,/,desktop,Brazil,Belo Horizonte,1,1,20,20,0,0,20220523,16,BR
-Returning Visitor,trafficplus.me,/,desktop,Brazil,Itajai,1,1,17,17,0,0,20220523,16,BR
-Returning Visitor,trafficplus.me,/,desktop,Brazil,Rio de Janeiro,1,1,20,20,0,0,20220523,16,BR
-Returning Visitor,trafficplus.me,/,mobile,Brazil,Sao Paulo,2,2,40,40,0,0,20220523,16,BR
-Returning Visitor,trafficplus.me,/,tablet,Brazil,Salvador,1,1,20,20,0,0,20220523,16,BR
-New Visitor,trafficplus.me,/,desktop,Brazil,Camboriu,1,1,20,20,0,0,20220523,17,BR
-New Visitor,trafficplus.me,/,desktop,Brazil,Curitiba,1,1,20,20,0,0,20220523,17,BR
-New Visitor,trafficplus.me,/,desktop,Brazil,Redencao,1,1,18,18,0,0,20220523,17,BR
-New Visitor,trafficplus.me,/,desktop,Brazil,Rio de Janeiro,2,2,40,40,0,0,20220523,17,BR
-New Visitor,trafficplus.me,/,desktop,Brazil,Sao Luis,1,1,19,19,0,0,20220523,17,BR
-New Visitor,trafficplus.me,/,desktop,Brazil,Sao Paulo,1,1,20,20,0,0,20220523,17,BR
-New Visitor,trafficplus.me,/,mobile,Brazil,Congonhas,1,1,20,20,0,0,20220523,17,BR
-New Visitor,trafficplus.me,/,mobile,Brazil,Joao Pessoa,1,1,20,20,0,0,20220523,17,BR
-New Visitor,trafficplus.me,/,tablet,Brazil,Goiania,1,1,20,20,0,0,20220523,17,BR
-Returning Visitor,trafficplus.me,/,mobile,Brazil,Mesquita,1,1,20,20,0,0,20220523,17,BR
-New Visitor,reddit.com,/blog/grafana-dashboard,desktop,Colombia,Bogota,1,1,0,0,0,1,20220519,5,CO
-New Visitor,trafficplus.me,/,mobile,Colombia,Bogota,1,1,20,20,0,0,20220523,16,CO
-New Visitor,trafficplus.me,/,desktop,Colombia,Ibague,1,1,20,20,0,0,20220523,17,CO
-New Visitor,trafficplus.me,/,desktop,Colombia,Monteria,1,1,20,20,0,0,20220523,17,CO
-Returning Visitor,trafficplus.me,/,desktop,Colombia,Floridablanca,1,1,20,20,0,0,20220523,17,CO
-Returning Visitor,trafficplus.me,/,mobile,Colombia,Bogota,1,1,20,20,0,0,20220523,17,CO
+New Visitor,trafficplus.me,/,mobile,Ireland,Dublin,1,1,17,17,0,0,20220523,17,IE
+New Visitor,google,/blog/ssd-yolo,desktop,Indonesia,Bandung,1,1,0,0,0,1,20220519,13,ID
+New Visitor,google,/blog/image-rotation-opencv,desktop,Indonesia,Mataram,1,1,0,0,0,1,20220520,14,ID
+New Visitor,google,/blog/motion-monitor-opencv,desktop,Indonesia,Surabaya,1,1,303,303,0,0,20220523,16,ID
+New Visitor,trafficplus.me,/,desktop,Indonesia,Banjarmasin,1,1,10,10,0,0,20220523,16,ID
+New Visitor,trafficplus.me,/,desktop,Indonesia,Bogor,1,1,3,3,0,0,20220523,16,ID
+New Visitor,trafficplus.me,/,desktop,Indonesia,Depok,1,1,10,10,0,0,20220523,16,ID
+New Visitor,trafficplus.me,/,desktop,Indonesia,Kebasen,1,1,10,10,0,0,20220523,16,ID
+New Visitor,trafficplus.me,/,mobile,Indonesia,Bandung,1,1,10,10,0,0,20220523,16,ID
+New Visitor,trafficplus.me,/,mobile,Indonesia,Cikande,1,1,10,10,0,0,20220523,16,ID
+New Visitor,trafficplus.me,/,mobile,Indonesia,Depok,1,1,10,10,0,0,20220523,16,ID
+Returning Visitor,trafficplus.me,/,mobile,Indonesia,Makassar,1,1,10,10,0,0,20220523,16,ID
+New Visitor,trafficplus.me,/,desktop,Indonesia,Bekasi,1,1,10,10,0,0,20220523,17,ID
+New Visitor,trafficplus.me,/,desktop,Indonesia,Denpasar,1,1,10,10,0,0,20220523,17,ID
+New Visitor,trafficplus.me,/,desktop,Indonesia,Depok,1,1,10,10,0,0,20220523,17,ID
+New Visitor,trafficplus.me,/,desktop,Indonesia,Kuta Selatan,1,1,10,10,0,0,20220523,17,ID
+New Visitor,trafficplus.me,/,mobile,Indonesia,Jakarta,1,1,11,11,0,0,20220523,17,ID
+Returning Visitor,trafficplus.me,/,desktop,Indonesia,Medan,1,1,10,10,0,0,20220523,17,ID
+Returning Visitor,trafficplus.me,/,desktop,Indonesia,Surabaya,1,2,20,20,0,0,20220523,17,ID
+Returning Visitor,trafficplus.me,/,mobile,Indonesia,Gorontalo,1,1,10,10,0,0,20220523,17,ID
+Returning Visitor,trafficplus.me,/,mobile,Indonesia,Jakarta,1,2,20,20,0,0,20220523,17,ID
 New Visitor,google,/blog/vimwiki-hugo,desktop,Belgium,Leuven,1,1,0,0,0,1,20220519,15,BE
-New Visitor,trafficplus.me,/,mobile,Belgium,Brussels,1,1,23,23,0,0,20220523,16,BE
-New Visitor,trafficplus.me,/,desktop,Belgium,Middelkerke,1,1,20,20,0,0,20220523,17,BE
-New Visitor,trafficplus.me,/,mobile,Belgium,Charleroi,1,1,20,20,0,0,20220523,17,BE
-Returning Visitor,trafficplus.me,/,mobile,Belgium,Brussels,1,1,20,20,0,0,20220523,17,BE
+New Visitor,trafficplus.me,/,mobile,Belgium,Brussels,1,1,13,13,0,0,20220523,16,BE
+New Visitor,trafficplus.me,/,desktop,Belgium,Middelkerke,1,1,10,10,0,0,20220523,17,BE
+New Visitor,trafficplus.me,/,mobile,Belgium,Charleroi,1,1,10,10,0,0,20220523,17,BE
+Returning Visitor,trafficplus.me,/,mobile,Belgium,Brussels,1,1,10,10,0,0,20220523,17,BE
 New Visitor,google,/blog/monitoring-grafana,desktop,Portugal,Lisbon,1,1,0,0,0,1,20220519,17,PT
-New Visitor,trafficplus.me,/,desktop,Portugal,Queluz,1,1,20,20,0,0,20220523,16,PT
+New Visitor,trafficplus.me,/,desktop,Portugal,Queluz,1,1,10,10,0,0,20220523,16,PT
 New Visitor,google,/blog/ssd-yolo,desktop,Singapore,Singapore,1,1,0,0,0,1,20220520,6,SG
 New Visitor,(direct),/blog/image-rotation-opencv,desktop,Singapore,Singapore,1,1,0,0,0,1,20220520,14,SG
 New Visitor,(direct),/blog/image-rotation-opencv,mobile,Singapore,Singapore,1,1,48,48,0,0,20220520,14,SG
 New Visitor,google,/blog/music-voice-cotrol,mobile,Singapore,Singapore,1,1,0,0,0,1,20220521,2,SG
-Returning Visitor,trafficplus.me,/,desktop,Singapore,(not set),1,1,20,20,0,0,20220523,16,SG
+Returning Visitor,trafficplus.me,/,desktop,Singapore,(not set),1,1,7,7,0,0,20220523,16,SG
 New Visitor,google,/blog/serverless-api-lambda,desktop,Bulgaria,Sofia,1,1,0,0,0,1,20220520,13,BG
-New Visitor,trafficplus.me,/,mobile,Bulgaria,Plovdiv,1,1,20,11,0,0,20220523,16,BG
-New Visitor,trafficplus.me,/,tablet,Bulgaria,Vidin,1,1,20,20,0,0,20220523,16,BG
-New Visitor,trafficplus.me,/,desktop,Bulgaria,(not set),2,2,40,40,0,0,20220523,17,BG
-New Visitor,trafficplus.me,/,mobile,Bulgaria,Plovdiv,1,0,0,9,0,0,20220523,17,BG
-Returning Visitor,trafficplus.me,/,desktop,Bulgaria,(not set),1,1,20,20,0,0,20220523,17,BG
+New Visitor,trafficplus.me,/,tablet,Bulgaria,Vidin,1,1,10,10,0,0,20220523,16,BG
+New Visitor,trafficplus.me,/,desktop,Bulgaria,(not set),2,2,20,20,0,0,20220523,17,BG
+New Visitor,trafficplus.me,/,mobile,Bulgaria,Plovdiv,1,1,9,9,0,0,20220523,17,BG
+Returning Visitor,trafficplus.me,/,desktop,Bulgaria,(not set),1,1,10,10,0,0,20220523,17,BG
 New Visitor,google,/blog/grafana-dashboard,desktop,Sri Lanka,(not set),1,1,0,0,0,1,20220520,15,LK
 New Visitor,google,/blog/ssd-yolo,desktop,Sri Lanka,Kandy,1,1,0,0,0,1,20220520,18,LK
 New Visitor,google,/blog/ssd-yolo,desktop,Sri Lanka,Colombo,1,1,0,0,0,1,20220522,14,LK
-New Visitor,trafficplus.me,/,desktop,Sri Lanka,Colombo,1,1,19,19,0,0,20220523,16,LK
+New Visitor,trafficplus.me,/,desktop,Sri Lanka,Colombo,1,1,10,10,0,0,20220523,16,LK
+New Visitor,google,/blog/motion-monitor-opencv,desktop,Sri Lanka,Colombo,1,1,0,0,0,1,20220524,19,LK
 New Visitor,google,/blog/gnuplot-electrode,desktop,Croatia,Zagreb,1,1,0,0,0,1,20220521,2,HR
 New Visitor,s3arch.page,/blog/ssd-yolo,desktop,South Africa,(not set),1,1,0,0,0,1,20220521,14,ZA
 New Visitor,google,/blog/ssd-yolo,desktop,South Africa,Durban,1,1,0,0,0,1,20220523,15,ZA
-New Visitor,trafficplus.me,/,desktop,South Africa,Pretoria,1,1,20,20,0,0,20220523,16,ZA
-New Visitor,trafficplus.me,/,mobile,South Africa,Gqeberha,1,1,20,20,0,0,20220523,16,ZA
-Returning Visitor,trafficplus.me,/,desktop,South Africa,Durban,1,1,20,20,0,0,20220523,16,ZA
-New Visitor,trafficplus.me,/,desktop,South Africa,Johannesburg,1,1,20,20,0,0,20220523,17,ZA
-New Visitor,trafficplus.me,/,desktop,South Africa,Phoenix,1,1,20,20,0,0,20220523,17,ZA
-Returning Visitor,trafficplus.me,/,desktop,South Africa,Johannesburg,1,1,20,20,0,0,20220523,17,ZA
+New Visitor,trafficplus.me,/,desktop,South Africa,Pretoria,1,1,10,10,0,0,20220523,16,ZA
+New Visitor,trafficplus.me,/,mobile,South Africa,Gqeberha,1,1,10,10,0,0,20220523,16,ZA
+Returning Visitor,trafficplus.me,/,desktop,South Africa,Durban,1,1,10,10,0,0,20220523,16,ZA
+New Visitor,trafficplus.me,/,desktop,South Africa,Johannesburg,1,1,10,10,0,0,20220523,17,ZA
+New Visitor,trafficplus.me,/,desktop,South Africa,Phoenix,1,1,10,10,0,0,20220523,17,ZA
+Returning Visitor,trafficplus.me,/,desktop,South Africa,Johannesburg,1,1,10,10,0,0,20220523,17,ZA
 New Visitor,google,/blog/ssd-yolo,desktop,Israel,Herzliya,1,1,0,0,0,1,20220521,22,IL
 New Visitor,google,/blog/ssd-yolo,desktop,Israel,Jerusalem,1,1,103,103,0,0,20220522,23,IL
-New Visitor,trafficplus.me,/,desktop,Israel,Netanya,1,1,19,19,0,0,20220523,16,IL
-New Visitor,trafficplus.me,/,desktop,Israel,Be'er Sheva,1,1,20,20,0,0,20220523,17,IL
-New Visitor,trafficplus.me,/,desktop,Israel,Netanya,1,1,20,20,0,0,20220523,17,IL
-Returning Visitor,trafficplus.me,/,desktop,Israel,Netanya,1,1,20,20,0,0,20220523,17,IL
-Returning Visitor,trafficplus.me,/,mobile,Israel,Haifa,1,1,20,20,0,0,20220523,17,IL
+New Visitor,trafficplus.me,/,desktop,Israel,Netanya,1,1,10,10,0,0,20220523,16,IL
+New Visitor,trafficplus.me,/,desktop,Israel,Be'er Sheva,1,1,10,10,0,0,20220523,17,IL
+New Visitor,trafficplus.me,/,desktop,Israel,Netanya,1,1,10,10,0,0,20220523,17,IL
+Returning Visitor,trafficplus.me,/,desktop,Israel,Netanya,1,1,10,10,0,0,20220523,17,IL
+Returning Visitor,trafficplus.me,/,mobile,Israel,Haifa,1,1,10,10,0,0,20220523,17,IL
 New Visitor,google,/blog/analytics-google,desktop,Mexico,Hermosillo,1,1,34,34,0,0,20220522,0,MX
-New Visitor,trafficplus.me,/,desktop,Mexico,Guadalajara,1,1,20,20,0,0,20220523,16,MX
-New Visitor,trafficplus.me,/,mobile,Mexico,(not set),1,1,20,20,0,0,20220523,16,MX
-New Visitor,trafficplus.me,/,mobile,Mexico,Ciudad Apodaca,1,1,20,20,0,0,20220523,16,MX
-New Visitor,trafficplus.me,/,mobile,Mexico,Mexico City,1,1,20,20,0,0,20220523,16,MX
-New Visitor,trafficplus.me,/,mobile,Mexico,San Luis Rio Colorado,1,1,20,20,0,0,20220523,16,MX
-New Visitor,trafficplus.me,/,mobile,Mexico,Uman,1,1,20,20,0,0,20220523,16,MX
-Returning Visitor,trafficplus.me,/,mobile,Mexico,(not set),1,1,20,20,0,0,20220523,16,MX
-Returning Visitor,trafficplus.me,/,mobile,Mexico,Cancun,1,1,20,20,0,0,20220523,16,MX
-Returning Visitor,trafficplus.me,/,mobile,Mexico,Mexico City,1,1,19,19,0,0,20220523,16,MX
-New Visitor,trafficplus.me,/,desktop,Mexico,(not set),1,1,21,21,0,0,20220523,17,MX
-New Visitor,trafficplus.me,/,desktop,Mexico,Tlalnepantla de Baz,1,1,21,21,0,0,20220523,17,MX
-New Visitor,trafficplus.me,/,mobile,Mexico,(not set),2,2,40,40,0,0,20220523,17,MX
-New Visitor,trafficplus.me,/,mobile,Mexico,Manzanillo,1,1,20,20,0,0,20220523,17,MX
-Returning Visitor,trafficplus.me,/,desktop,Mexico,Lazaro Cardenas,1,1,20,20,0,0,20220523,17,MX
-Returning Visitor,trafficplus.me,/,mobile,Mexico,(not set),1,1,20,20,0,0,20220523,17,MX
-Returning Visitor,trafficplus.me,/,mobile,Mexico,Cancun,1,1,20,20,0,0,20220523,17,MX
-Returning Visitor,trafficplus.me,/,mobile,Mexico,Mexico City,2,2,40,40,0,0,20220523,17,MX
+New Visitor,trafficplus.me,/,desktop,Mexico,Guadalajara,1,1,9,9,0,0,20220523,16,MX
+New Visitor,trafficplus.me,/,mobile,Mexico,(not set),1,1,10,10,0,0,20220523,16,MX
+New Visitor,trafficplus.me,/,mobile,Mexico,Ciudad Apodaca,1,1,10,10,0,0,20220523,16,MX
+New Visitor,trafficplus.me,/,mobile,Mexico,Mexico City,1,1,10,10,0,0,20220523,16,MX
+New Visitor,trafficplus.me,/,mobile,Mexico,San Luis Rio Colorado,1,1,10,10,0,0,20220523,16,MX
+New Visitor,trafficplus.me,/,mobile,Mexico,Uman,1,1,10,10,0,0,20220523,16,MX
+Returning Visitor,trafficplus.me,/,mobile,Mexico,(not set),1,1,7,7,0,0,20220523,16,MX
+Returning Visitor,trafficplus.me,/,mobile,Mexico,Cancun,1,1,10,10,0,0,20220523,16,MX
+Returning Visitor,trafficplus.me,/,mobile,Mexico,Mexico City,1,1,10,10,0,0,20220523,16,MX
+New Visitor,trafficplus.me,/,desktop,Mexico,(not set),1,1,11,11,0,0,20220523,17,MX
+New Visitor,trafficplus.me,/,desktop,Mexico,Tlalnepantla de Baz,1,1,10,10,0,0,20220523,17,MX
+New Visitor,trafficplus.me,/,mobile,Mexico,(not set),2,2,20,20,0,0,20220523,17,MX
+New Visitor,trafficplus.me,/,mobile,Mexico,Manzanillo,1,1,10,10,0,0,20220523,17,MX
+Returning Visitor,trafficplus.me,/,desktop,Mexico,Lazaro Cardenas,1,1,10,10,0,0,20220523,17,MX
+Returning Visitor,trafficplus.me,/,mobile,Mexico,(not set),1,1,10,10,0,0,20220523,17,MX
+Returning Visitor,trafficplus.me,/,mobile,Mexico,Cancun,1,1,10,10,0,0,20220523,17,MX
+Returning Visitor,trafficplus.me,/,mobile,Mexico,Mexico City,2,2,20,20,0,0,20220523,17,MX
+New Visitor,(direct),/blog/ssd-yolo,desktop,Japan,Yokohama,1,1,0,0,0,1,20220522,16,JP
+New Visitor,trafficplus.me,/,desktop,Japan,(not set),1,1,10,10,0,0,20220523,16,JP
+New Visitor,trafficplus.me,/,desktop,Japan,Kochi,1,1,10,10,0,0,20220523,16,JP
+New Visitor,trafficplus.me,/,desktop,Japan,Nagano,1,1,10,10,0,0,20220523,16,JP
+New Visitor,trafficplus.me,/,desktop,Japan,Saitama,1,1,10,10,0,0,20220523,16,JP
+New Visitor,trafficplus.me,/,mobile,Japan,(not set),4,4,39,39,0,0,20220523,16,JP
+New Visitor,trafficplus.me,/,mobile,Japan,Chiba,1,1,11,11,0,0,20220523,16,JP
+New Visitor,trafficplus.me,/,mobile,Japan,Koriyama,1,1,10,10,0,0,20220523,16,JP
+New Visitor,trafficplus.me,/,mobile,Japan,Nara,1,1,10,10,0,0,20220523,16,JP
+New Visitor,trafficplus.me,/,mobile,Japan,Okayama,1,1,10,10,0,0,20220523,16,JP
+New Visitor,trafficplus.me,/,mobile,Japan,Okazaki,1,1,11,11,0,0,20220523,16,JP
+Returning Visitor,trafficplus.me,/,mobile,Japan,Okazaki,1,1,10,10,0,0,20220523,16,JP
+New Visitor,trafficplus.me,/,desktop,Japan,(not set),1,1,10,10,0,0,20220523,17,JP
+New Visitor,trafficplus.me,/,desktop,Japan,Gifu,1,1,10,10,0,0,20220523,17,JP
+New Visitor,trafficplus.me,/,desktop,Japan,Kyoto,1,1,10,10,0,0,20220523,17,JP
+New Visitor,trafficplus.me,/,desktop,Japan,Nara,1,1,10,10,0,0,20220523,17,JP
+New Visitor,trafficplus.me,/,desktop,Japan,Osaka,1,1,10,10,0,0,20220523,17,JP
+New Visitor,trafficplus.me,/,desktop,Japan,Sapporo,1,1,10,10,0,0,20220523,17,JP
+New Visitor,trafficplus.me,/,mobile,Japan,Fukuoka,1,1,10,10,0,0,20220523,17,JP
+New Visitor,trafficplus.me,/,mobile,Japan,Minato City,1,1,10,10,0,0,20220523,17,JP
+New Visitor,trafficplus.me,/,mobile,Japan,Yokohama,1,1,10,10,0,0,20220523,17,JP
+New Visitor,trafficplus.me,/,tablet,Japan,Setagaya City,1,1,10,10,0,0,20220523,17,JP
+Returning Visitor,trafficplus.me,/,desktop,Japan,(not set),2,2,19,19,0,0,20220523,17,JP
+Returning Visitor,trafficplus.me,/,desktop,Japan,Kobe,1,1,10,10,0,0,20220523,17,JP
+Returning Visitor,trafficplus.me,/,desktop,Japan,Kochi,1,1,10,10,0,0,20220523,17,JP
+Returning Visitor,trafficplus.me,/,desktop,Japan,Saitama,1,2,20,20,0,0,20220523,17,JP
+Returning Visitor,trafficplus.me,/,mobile,Japan,(not set),2,2,20,20,0,0,20220523,17,JP
+Returning Visitor,trafficplus.me,/,mobile,Japan,Fukuoka,1,1,10,10,0,0,20220523,17,JP
+Returning Visitor,trafficplus.me,/,mobile,Japan,Nagano,1,1,11,11,0,0,20220523,17,JP
+Returning Visitor,trafficplus.me,/,mobile,Japan,Nara,1,1,10,10,0,0,20220523,17,JP
+Returning Visitor,trafficplus.me,/,mobile,Japan,Okayama,1,2,19,19,0,0,20220523,17,JP
+Returning Visitor,trafficplus.me,/,mobile,Japan,Toda,1,1,10,10,0,0,20220523,17,JP
 New Visitor,google,/blog/analytics-google,mobile,Serbia,Belgrade,1,1,5,5,0,0,20220523,1,RS
-Returning Visitor,trafficplus.me,/,mobile,Serbia,(not set),1,2,41,41,0,0,20220523,17,RS
+Returning Visitor,trafficplus.me,/,mobile,Serbia,(not set),1,2,21,21,0,0,20220523,17,RS
 New Visitor,google,/blog/ssd-yolo,desktop,Thailand,Koh Samui,1,1,0,0,0,1,20220523,1,TH
 Returning Visitor,google,/blog/ssd-yolo,desktop,Thailand,Koh Samui,1,1,0,0,0,1,20220523,7,TH
 Returning Visitor,google,/blog/motion-monitor-opencv,desktop,Thailand,Koh Samui,1,1,0,0,0,1,20220523,10,TH
-New Visitor,trafficplus.me,/,mobile,Thailand,(not set),1,1,20,20,0,0,20220523,16,TH
-New Visitor,trafficplus.me,/,mobile,Thailand,Bangkok,1,1,21,21,0,0,20220523,16,TH
-New Visitor,trafficplus.me,/,mobile,Thailand,Khon Kaen,1,1,21,21,0,0,20220523,16,TH
-New Visitor,trafficplus.me,/,tablet,Thailand,Bangkok,1,1,21,21,0,0,20220523,16,TH
-Returning Visitor,trafficplus.me,/,mobile,Thailand,(not set),1,1,20,20,0,0,20220523,16,TH
-Returning Visitor,trafficplus.me,/,mobile,Thailand,Khon Kaen,1,2,40,40,0,0,20220523,16,TH
-New Visitor,trafficplus.me,/,mobile,Thailand,Pattaya City,1,1,20,20,0,0,20220523,17,TH
-Returning Visitor,trafficplus.me,/,mobile,Thailand,Bangkok,1,1,20,20,0,0,20220523,17,TH
+New Visitor,trafficplus.me,/,mobile,Thailand,(not set),1,1,10,10,0,0,20220523,16,TH
+New Visitor,trafficplus.me,/,mobile,Thailand,Bangkok,1,1,11,11,0,0,20220523,16,TH
+New Visitor,trafficplus.me,/,mobile,Thailand,Khon Kaen,1,1,8,8,0,0,20220523,16,TH
+New Visitor,trafficplus.me,/,tablet,Thailand,Bangkok,1,1,11,11,0,0,20220523,16,TH
+Returning Visitor,trafficplus.me,/,mobile,Thailand,(not set),1,1,10,10,0,0,20220523,16,TH
+Returning Visitor,trafficplus.me,/,mobile,Thailand,Khon Kaen,1,2,20,20,0,0,20220523,16,TH
+New Visitor,trafficplus.me,/,mobile,Thailand,Pattaya City,1,1,10,10,0,0,20220523,17,TH
+Returning Visitor,trafficplus.me,/,mobile,Thailand,Bangkok,1,1,10,10,0,0,20220523,17,TH
 New Visitor,google,/blog/motion-monitor-opencv,desktop,Morocco,Fes,1,1,0,0,0,1,20220523,16,MA
-New Visitor,trafficplus.me,/,desktop,Morocco,Casablanca,1,1,20,20,0,0,20220523,16,MA
-New Visitor,trafficplus.me,/,mobile,Morocco,Casablanca,2,2,40,40,0,0,20220523,16,MA
-New Visitor,trafficplus.me,/,mobile,Morocco,Kenitra,1,1,20,20,0,0,20220523,16,MA
+New Visitor,trafficplus.me,/,desktop,Morocco,Casablanca,1,1,10,10,0,0,20220523,16,MA
+New Visitor,trafficplus.me,/,mobile,Morocco,Casablanca,2,2,20,20,0,0,20220523,16,MA
+New Visitor,trafficplus.me,/,mobile,Morocco,Kenitra,1,1,10,10,0,0,20220523,16,MA
 New Visitor,google,/blog/grafana-dashboard,desktop,Morocco,Casablanca,1,1,3,3,0,0,20220523,17,MA
-Returning Visitor,trafficplus.me,/,mobile,Morocco,Casablanca,2,2,40,40,0,0,20220523,17,MA
-New Visitor,trafficplus.me,/,desktop,Afghanistan,Kabul,1,1,21,21,0,0,20220523,16,AF
-New Visitor,trafficplus.me,/,tablet,Afghanistan,(not set),1,1,20,20,0,0,20220523,16,AF
-Returning Visitor,trafficplus.me,/,mobile,Afghanistan,Kabul,1,1,20,20,0,0,20220523,16,AF
-Returning Visitor,trafficplus.me,/,mobile,Afghanistan,Kabul,1,1,20,20,0,0,20220523,17,AF
-New Visitor,trafficplus.me,/,desktop,Algeria,(not set),1,1,20,20,0,0,20220523,16,DZ
-New Visitor,trafficplus.me,/,desktop,Algeria,Batna,1,1,20,20,0,0,20220523,16,DZ
-New Visitor,trafficplus.me,/,mobile,Algeria,Constantine,1,1,20,20,0,0,20220523,16,DZ
-Returning Visitor,trafficplus.me,/,desktop,Algeria,(not set),1,1,20,20,0,0,20220523,16,DZ
-Returning Visitor,trafficplus.me,/,mobile,Algeria,(not set),1,1,19,19,0,0,20220523,16,DZ
-New Visitor,trafficplus.me,/,mobile,Algeria,Batna,1,1,20,20,0,0,20220523,17,DZ
-New Visitor,trafficplus.me,/,mobile,Algeria,Oran,1,1,20,20,0,0,20220523,17,DZ
-Returning Visitor,trafficplus.me,/,mobile,Algeria,(not set),1,1,20,20,0,0,20220523,17,DZ
-Returning Visitor,trafficplus.me,/,mobile,Algeria,Batna,1,2,23,23,0,1,20220523,17,DZ
-New Visitor,trafficplus.me,/,desktop,Azerbaijan,Sumqayit,1,1,21,21,0,0,20220523,16,AZ
-New Visitor,trafficplus.me,/,tablet,Azerbaijan,Sumqayit,1,1,20,20,0,0,20220523,16,AZ
-New Visitor,trafficplus.me,/,mobile,Azerbaijan,Baku,1,1,19,19,0,0,20220523,17,AZ
-Returning Visitor,trafficplus.me,/,desktop,Azerbaijan,Sumqayit,1,1,20,20,0,0,20220523,17,AZ
-Returning Visitor,trafficplus.me,/,tablet,Azerbaijan,Sumqayit,1,1,19,19,0,0,20220523,17,AZ
-New Visitor,trafficplus.me,/,desktop,Bangladesh,Dhaka,3,3,60,60,0,0,20220523,16,BD
-New Visitor,trafficplus.me,/,mobile,Bangladesh,(not set),1,1,20,20,0,0,20220523,16,BD
-New Visitor,trafficplus.me,/,mobile,Bangladesh,Dhaka,2,2,43,43,0,0,20220523,16,BD
-New Visitor,trafficplus.me,/,tablet,Bangladesh,(not set),1,1,20,20,0,0,20220523,16,BD
-New Visitor,trafficplus.me,/,desktop,Bangladesh,Barishal,1,1,20,20,0,0,20220523,17,BD
-New Visitor,trafficplus.me,/,desktop,Bangladesh,Dhaka,3,3,75,75,0,0,20220523,17,BD
-New Visitor,trafficplus.me,/,mobile,Bangladesh,Cox's Bazar,1,1,21,21,0,0,20220523,17,BD
-New Visitor,trafficplus.me,/,mobile,Bangladesh,Dhaka,1,1,20,20,0,0,20220523,17,BD
-Returning Visitor,trafficplus.me,/,desktop,Bangladesh,(not set),1,1,20,20,0,0,20220523,17,BD
-Returning Visitor,trafficplus.me,/,desktop,Bangladesh,Dhaka,2,2,40,40,0,0,20220523,17,BD
-Returning Visitor,trafficplus.me,/,mobile,Bangladesh,(not set),1,1,20,20,0,0,20220523,17,BD
-Returning Visitor,trafficplus.me,/,mobile,Bangladesh,Dhaka,2,3,59,60,0,0,20220523,17,BD
-New Visitor,trafficplus.me,/,desktop,Benin,Cotonou,1,1,20,20,0,0,20220523,16,BJ
-New Visitor,trafficplus.me,/,desktop,Ethiopia,Addis Ababa,1,1,20,20,0,0,20220523,16,ET
-Returning Visitor,trafficplus.me,/,desktop,Ethiopia,Addis Ababa,1,1,20,20,0,0,20220523,16,ET
-New Visitor,trafficplus.me,/,desktop,Ethiopia,Addis Ababa,2,2,41,41,0,0,20220523,17,ET
-New Visitor,trafficplus.me,/,mobile,Ethiopia,Addis Ababa,2,2,41,41,0,0,20220523,17,ET
-Returning Visitor,trafficplus.me,/,desktop,Ethiopia,(not set),1,1,20,20,0,0,20220523,17,ET
-Returning Visitor,trafficplus.me,/,desktop,Ethiopia,Addis Ababa,2,2,40,40,0,0,20220523,17,ET
-Returning Visitor,trafficplus.me,/,mobile,Ethiopia,Addis Ababa,1,1,20,20,0,0,20220523,17,ET
-New Visitor,trafficplus.me,/,desktop,Fiji,Suva,1,1,20,20,0,0,20220523,16,FJ
-New Visitor,trafficplus.me,/,desktop,Finland,Vaasa,1,1,23,23,0,0,20220523,16,FI
-New Visitor,trafficplus.me,/,mobile,Finland,Vantaa,1,1,20,20,0,0,20220523,16,FI
-Returning Visitor,trafficplus.me,/,desktop,Finland,Vaasa,1,1,20,20,0,0,20220523,16,FI
-Returning Visitor,trafficplus.me,/,desktop,Finland,Vaasa,1,1,21,21,0,0,20220523,17,FI
-Returning Visitor,trafficplus.me,/,mobile,Finland,Vantaa,1,2,40,40,0,0,20220523,17,FI
-New Visitor,trafficplus.me,/,desktop,Greece,(not set),1,1,20,20,0,0,20220523,16,GR
-New Visitor,trafficplus.me,/,desktop,Greece,Athens,1,1,20,20,0,0,20220523,16,GR
-New Visitor,trafficplus.me,/,desktop,Honduras,(not set),1,1,20,20,0,0,20220523,16,HN
-New Visitor,trafficplus.me,/,mobile,Honduras,Tegucigalpa,1,1,20,20,0,0,20220523,17,HN
-Returning Visitor,trafficplus.me,/,desktop,Honduras,(not set),1,1,21,21,0,0,20220523,17,HN
-New Visitor,trafficplus.me,/,desktop,Nigeria,(not set),1,1,21,21,0,0,20220523,16,NG
-New Visitor,trafficplus.me,/,desktop,Nigeria,Yenagoa,1,1,20,20,0,0,20220523,16,NG
-New Visitor,trafficplus.me,/,mobile,Nigeria,Lagos,1,1,20,20,0,0,20220523,16,NG
-Returning Visitor,trafficplus.me,/,desktop,Nigeria,Lagos,1,1,20,20,0,0,20220523,16,NG
-New Visitor,trafficplus.me,/,desktop,Nigeria,Lagos,2,2,40,40,0,0,20220523,17,NG
-New Visitor,trafficplus.me,/,desktop,Nigeria,Uyo,1,1,13,13,0,0,20220523,17,NG
-New Visitor,trafficplus.me,/,mobile,Nigeria,Lagos,1,1,21,21,0,0,20220523,17,NG
-New Visitor,trafficplus.me,/,tablet,Nigeria,Lagos,1,1,19,19,0,0,20220523,17,NG
-Returning Visitor,trafficplus.me,/,desktop,Nigeria,Lagos,1,2,40,40,0,0,20220523,17,NG
-Returning Visitor,trafficplus.me,/,mobile,Nigeria,Sagamu,1,1,20,20,0,0,20220523,17,NG
-New Visitor,trafficplus.me,/,desktop,Saudi Arabia,(not set),2,2,40,40,0,0,20220523,16,SA
-New Visitor,trafficplus.me,/,desktop,Saudi Arabia,Riyadh,1,1,20,20,0,0,20220523,16,SA
-Returning Visitor,trafficplus.me,/,desktop,Saudi Arabia,Riyadh,1,1,20,20,0,0,20220523,16,SA
-Returning Visitor,trafficplus.me,/,mobile,Saudi Arabia,Riyadh,1,1,20,20,0,0,20220523,16,SA
-Returning Visitor,trafficplus.me,/,desktop,Saudi Arabia,Riyadh,2,2,40,40,0,0,20220523,17,SA
-New Visitor,trafficplus.me,/,desktop,Uganda,Kampala,1,1,20,20,0,0,20220523,16,UG
-Returning Visitor,trafficplus.me,/,desktop,Uganda,Kampala,1,1,20,20,0,0,20220523,16,UG
-New Visitor,trafficplus.me,/,tablet,Uganda,Kampala,1,1,23,23,0,0,20220523,17,UG
-New Visitor,trafficplus.me,/,desktop,Ukraine,Kyiv,1,1,20,20,0,0,20220523,16,UA
-New Visitor,trafficplus.me,/,mobile,Ukraine,Chuhuiv,1,1,20,20,0,0,20220523,16,UA
-New Visitor,trafficplus.me,/,desktop,Ukraine,(not set),1,1,20,20,0,0,20220523,17,UA
-Returning Visitor,trafficplus.me,/,desktop,Ukraine,Kyiv,2,2,41,40,0,0,20220523,17,UA
-New Visitor,trafficplus.me,/,desktop,United Arab Emirates,Fujairah,1,1,20,20,0,0,20220523,16,AE
-New Visitor,trafficplus.me,/,desktop,Uruguay,Montevideo,1,1,20,20,0,0,20220523,16,UY
-New Visitor,trafficplus.me,/,desktop,Uzbekistan,Urgench,1,1,20,20,0,0,20220523,16,UZ
-New Visitor,trafficplus.me,/,desktop,Uzbekistan,Urgench,1,1,20,20,0,0,20220523,17,UZ
-New Visitor,trafficplus.me,/,desktop,Zambia,Lusaka,1,1,20,20,0,0,20220523,16,ZM
-Returning Visitor,trafficplus.me,/,mobile,Zambia,Lusaka,1,2,41,41,0,0,20220523,17,ZM
-New Visitor,trafficplus.me,/,mobile,Albania,(not set),1,1,20,20,0,0,20220523,16,AL
-New Visitor,trafficplus.me,/,mobile,Albania,(not set),1,1,20,19,0,0,20220523,17,AL
-Returning Visitor,trafficplus.me,/,mobile,Albania,(not set),1,1,17,17,0,0,20220523,17,AL
-New Visitor,trafficplus.me,/,mobile,Austria,Wiener Neustadt,1,1,20,20,0,0,20220523,16,AT
-New Visitor,trafficplus.me,/,desktop,Austria,(not set),1,1,20,20,0,0,20220523,17,AT
-New Visitor,trafficplus.me,/,desktop,Austria,Salzburg,1,1,10,10,0,0,20220523,17,AT
-New Visitor,trafficplus.me,/,mobile,Cuba,Havana,2,2,40,40,0,0,20220523,16,CU
-New Visitor,trafficplus.me,/,mobile,Haiti,Port-au-Prince,1,1,20,20,0,0,20220523,16,HT
-Returning Visitor,trafficplus.me,/,mobile,Haiti,Port-au-Prince,1,1,20,20,0,0,20220523,17,HT
-New Visitor,trafficplus.me,/,mobile,Kazakhstan,Pavlodar,1,1,20,20,0,0,20220523,16,KZ
-New Visitor,trafficplus.me,/,desktop,Kazakhstan,Karagandy,1,1,20,20,0,0,20220523,17,KZ
-New Visitor,trafficplus.me,/,mobile,Kazakhstan,Kyzylorda,1,1,20,20,0,0,20220523,17,KZ
-New Visitor,trafficplus.me,/,mobile,Kuwait,(not set),1,1,20,20,0,0,20220523,16,KW
-New Visitor,trafficplus.me,/,tablet,Kuwait,(not set),1,1,17,17,0,0,20220523,16,KW
-Returning Visitor,trafficplus.me,/,mobile,Kuwait,(not set),1,1,20,20,0,0,20220523,16,KW
-New Visitor,trafficplus.me,/,mobile,Madagascar,Antananarivo,1,1,20,20,0,0,20220523,16,MG
-New Visitor,trafficplus.me,/,mobile,Madagascar,Antananarivo,1,1,20,20,0,0,20220523,17,MG
-Returning Visitor,trafficplus.me,/,mobile,Madagascar,Antananarivo,2,2,40,41,0,0,20220523,17,MG
-New Visitor,trafficplus.me,/,mobile,Oman,(not set),1,1,19,19,0,0,20220523,16,OM
-Returning Visitor,trafficplus.me,/,mobile,Oman,(not set),1,1,19,19,0,0,20220523,16,OM
-New Visitor,trafficplus.me,/,mobile,Sierra Leone,Freetown,1,1,20,20,0,0,20220523,16,SL
-Returning Visitor,trafficplus.me,/,mobile,Sierra Leone,Freetown,1,1,20,20,0,0,20220523,16,SL
-New Visitor,trafficplus.me,/,mobile,Sudan,Khartoum,1,1,20,20,0,0,20220523,16,SD
-Returning Visitor,trafficplus.me,/,mobile,Sudan,Khartoum,1,1,20,20,0,0,20220523,17,SD
-New Visitor,trafficplus.me,/,mobile,Yemen,Sana'a,1,1,17,17,0,0,20220523,16,YE
-New Visitor,trafficplus.me,/,desktop,Yemen,Sana'a,1,1,20,20,0,0,20220523,17,YE
-Returning Visitor,trafficplus.me,/,mobile,Yemen,Sana'a,1,1,20,20,0,0,20220523,17,YE
-New Visitor,trafficplus.me,/,tablet,Ghana,Accra,1,1,20,20,0,0,20220523,16,GH
-New Visitor,trafficplus.me,/,mobile,Ghana,Accra,1,1,20,20,0,0,20220523,17,GH
-Returning Visitor,trafficplus.me,/,desktop,Burkina Faso,Ouagadougou,1,2,40,40,0,0,20220523,16,BF
-Returning Visitor,trafficplus.me,/,mobile,Burkina Faso,Ouagadougou,1,1,19,19,0,0,20220523,16,BF
-Returning Visitor,trafficplus.me,/,desktop,Ecuador,Ibarra,1,1,21,21,0,0,20220523,16,EC
-New Visitor,trafficplus.me,/,mobile,Ecuador,Quito,1,1,20,20,0,0,20220523,17,EC
-Returning Visitor,trafficplus.me,/,desktop,Nepal,(not set),1,2,41,41,0,0,20220523,16,NP
-New Visitor,trafficplus.me,/,desktop,Nepal,Kathmandu,1,1,20,20,0,0,20220523,17,NP
-New Visitor,trafficplus.me,/,tablet,Nepal,(not set),1,1,21,21,0,0,20220523,17,NP
-Returning Visitor,trafficplus.me,/,mobile,Peru,(not set),1,1,20,11,0,0,20220523,16,PE
-New Visitor,trafficplus.me,/,desktop,Peru,(not set),1,1,20,20,0,0,20220523,17,PE
-Returning Visitor,trafficplus.me,/,mobile,Peru,(not set),1,1,19,28,0,0,20220523,17,PE
-New Visitor,trafficplus.me,/,desktop,Dominican Republic,(not set),1,1,20,20,0,0,20220523,17,DO
-New Visitor,trafficplus.me,/,mobile,Dominican Republic,(not set),1,1,20,20,0,0,20220523,17,DO
-New Visitor,trafficplus.me,/,mobile,Dominican Republic,Santo Domingo,1,1,19,19,0,0,20220523,17,DO
-New Visitor,trafficplus.me,/,desktop,Georgia,(not set),1,1,20,20,0,0,20220523,17,GE
-New Visitor,trafficplus.me,/,desktop,Iraq,Baghdad,1,1,20,20,0,0,20220523,17,IQ
-Returning Visitor,trafficplus.me,/,desktop,Iraq,Baghdad,1,1,20,20,0,0,20220523,17,IQ
-New Visitor,trafficplus.me,/,desktop,Kyrgyzstan,Bishkek,1,1,20,20,0,0,20220523,17,KG
-New Visitor,trafficplus.me,/,desktop,New Zealand,Palmerston North,1,1,20,20,0,0,20220523,17,NZ
-New Visitor,trafficplus.me,/,desktop,Nicaragua,Managua,1,1,20,20,0,0,20220523,17,NI
-Returning Visitor,trafficplus.me,/,desktop,Nicaragua,Managua,1,1,20,20,0,0,20220523,17,NI
-Returning Visitor,trafficplus.me,/,mobile,Nicaragua,Managua,1,1,20,20,0,0,20220523,17,NI
-New Visitor,trafficplus.me,/,desktop,Togo,(not set),1,1,20,20,0,0,20220523,17,TG
-New Visitor,trafficplus.me,/,mobile,Cameroon,Douala,1,1,23,23,0,0,20220523,17,CM
-New Visitor,trafficplus.me,/,mobile,Costa Rica,(not set),1,1,20,20,0,0,20220523,17,CR
-New Visitor,trafficplus.me,/,mobile,Rwanda,Kigali,1,1,20,20,0,0,20220523,17,RW
-New Visitor,trafficplus.me,/,tablet,Namibia,(not set),1,1,17,17,0,0,20220523,17,
-Returning Visitor,trafficplus.me,/,desktop,Guinea,(not set),1,1,20,20,0,0,20220523,17,GN
-Returning Visitor,trafficplus.me,/,desktop,Senegal,Dakar,1,3,57,57,0,0,20220523,17,SN
-Returning Visitor,trafficplus.me,/,mobile,Cyprus,(not set),1,1,20,20,0,0,20220523,17,CY
-Returning Visitor,trafficplus.me,/,mobile,Lithuania,(not set),1,1,20,20,0,0,20220523,17,LT
-Returning Visitor,trafficplus.me,/,mobile,Mozambique,(not set),1,2,41,41,0,0,20220523,17,MZ
-Returning Visitor,trafficplus.me,/,mobile,Panama,Panama City,1,1,20,20,0,0,20220523,17,PA
+Returning Visitor,trafficplus.me,/,mobile,Morocco,Casablanca,2,2,20,20,0,0,20220523,17,MA
+New Visitor,trafficplus.me,/,desktop,Afghanistan,Kabul,1,1,8,8,0,0,20220523,16,AF
+New Visitor,trafficplus.me,/,tablet,Afghanistan,(not set),1,1,9,9,0,0,20220523,16,AF
+Returning Visitor,trafficplus.me,/,mobile,Afghanistan,Kabul,1,1,10,10,0,0,20220523,16,AF
+Returning Visitor,trafficplus.me,/,mobile,Afghanistan,Kabul,1,1,10,10,0,0,20220523,17,AF
+New Visitor,trafficplus.me,/,desktop,Algeria,(not set),1,1,10,10,0,0,20220523,16,DZ
+New Visitor,trafficplus.me,/,desktop,Algeria,Batna,1,1,9,9,0,0,20220523,16,DZ
+New Visitor,trafficplus.me,/,mobile,Algeria,Constantine,1,1,10,10,0,0,20220523,16,DZ
+Returning Visitor,trafficplus.me,/,desktop,Algeria,(not set),1,1,10,10,0,0,20220523,16,DZ
+Returning Visitor,trafficplus.me,/,mobile,Algeria,(not set),1,1,10,10,0,0,20220523,16,DZ
+New Visitor,trafficplus.me,/,mobile,Algeria,Batna,1,1,0,0,0,1,20220523,17,DZ
+New Visitor,trafficplus.me,/,mobile,Algeria,Oran,1,1,10,10,0,0,20220523,17,DZ
+Returning Visitor,trafficplus.me,/,mobile,Algeria,(not set),1,1,10,10,0,0,20220523,17,DZ
+Returning Visitor,trafficplus.me,/,mobile,Algeria,Batna,1,2,13,13,0,1,20220523,17,DZ
+New Visitor,trafficplus.me,/,desktop,Argentina,Villa Lynch,1,1,10,10,0,0,20220523,16,AR
+New Visitor,trafficplus.me,/,tablet,Argentina,Santiago del Estero,1,1,10,10,0,0,20220523,16,AR
+Returning Visitor,trafficplus.me,/,desktop,Argentina,Ciudadela,1,1,11,11,0,0,20220523,16,AR
+Returning Visitor,trafficplus.me,/,mobile,Argentina,(not set),1,1,9,9,0,0,20220523,16,AR
+New Visitor,trafficplus.me,/,desktop,Argentina,Buenos Aires,1,1,10,10,0,0,20220523,17,AR
+New Visitor,trafficplus.me,/,desktop,Argentina,San Miguel de Tucuman,1,1,10,10,0,0,20220523,17,AR
+New Visitor,trafficplus.me,/,mobile,Argentina,Ciudadela,1,1,9,9,0,0,20220523,17,AR
+Returning Visitor,trafficplus.me,/,mobile,Argentina,Buenos Aires,1,1,10,10,0,0,20220523,17,AR
+New Visitor,trafficplus.me,/,desktop,Azerbaijan,Sumqayit,1,1,11,11,0,0,20220523,16,AZ
+New Visitor,trafficplus.me,/,tablet,Azerbaijan,Sumqayit,1,1,10,10,0,0,20220523,16,AZ
+New Visitor,trafficplus.me,/,mobile,Azerbaijan,Baku,1,1,11,11,0,0,20220523,17,AZ
+Returning Visitor,trafficplus.me,/,desktop,Azerbaijan,Sumqayit,1,1,10,10,0,0,20220523,17,AZ
+Returning Visitor,trafficplus.me,/,tablet,Azerbaijan,Sumqayit,1,1,10,10,0,0,20220523,17,AZ
+New Visitor,trafficplus.me,/,desktop,Bangladesh,Dhaka,3,3,30,30,0,0,20220523,16,BD
+New Visitor,trafficplus.me,/,mobile,Bangladesh,(not set),1,1,10,10,0,0,20220523,16,BD
+New Visitor,trafficplus.me,/,mobile,Bangladesh,Dhaka,2,2,23,23,0,0,20220523,16,BD
+New Visitor,trafficplus.me,/,tablet,Bangladesh,(not set),1,1,10,10,0,0,20220523,16,BD
+New Visitor,trafficplus.me,/,desktop,Bangladesh,Barishal,1,1,9,9,0,0,20220523,17,BD
+New Visitor,trafficplus.me,/,desktop,Bangladesh,Dhaka,3,3,45,45,0,0,20220523,17,BD
+New Visitor,trafficplus.me,/,mobile,Bangladesh,Cox's Bazar,1,1,11,11,0,0,20220523,17,BD
+New Visitor,trafficplus.me,/,mobile,Bangladesh,Dhaka,1,1,10,10,0,0,20220523,17,BD
+Returning Visitor,trafficplus.me,/,desktop,Bangladesh,(not set),1,1,10,10,0,0,20220523,17,BD
+Returning Visitor,trafficplus.me,/,desktop,Bangladesh,Dhaka,2,2,20,20,0,0,20220523,17,BD
+Returning Visitor,trafficplus.me,/,mobile,Bangladesh,(not set),1,1,10,10,0,0,20220523,17,BD
+Returning Visitor,trafficplus.me,/,mobile,Bangladesh,Dhaka,2,3,30,30,0,0,20220523,17,BD
+New Visitor,trafficplus.me,/,desktop,Benin,Cotonou,1,1,10,10,0,0,20220523,16,BJ
+New Visitor,trafficplus.me,/,desktop,Ethiopia,Addis Ababa,1,1,10,10,0,0,20220523,16,ET
+Returning Visitor,trafficplus.me,/,desktop,Ethiopia,Addis Ababa,1,1,10,10,0,0,20220523,16,ET
+New Visitor,trafficplus.me,/,desktop,Ethiopia,Addis Ababa,2,2,21,21,0,0,20220523,17,ET
+New Visitor,trafficplus.me,/,mobile,Ethiopia,Addis Ababa,2,2,21,21,0,0,20220523,17,ET
+Returning Visitor,trafficplus.me,/,desktop,Ethiopia,(not set),1,1,10,10,0,0,20220523,17,ET
+Returning Visitor,trafficplus.me,/,desktop,Ethiopia,Addis Ababa,2,2,20,20,0,0,20220523,17,ET
+Returning Visitor,trafficplus.me,/,mobile,Ethiopia,Addis Ababa,1,1,3,3,0,0,20220523,17,ET
+New Visitor,trafficplus.me,/,desktop,Fiji,Suva,1,1,10,10,0,0,20220523,16,FJ
+New Visitor,trafficplus.me,/,desktop,Finland,Vaasa,1,1,13,13,0,0,20220523,16,FI
+New Visitor,trafficplus.me,/,mobile,Finland,Vantaa,1,1,10,10,0,0,20220523,16,FI
+Returning Visitor,trafficplus.me,/,desktop,Finland,Vaasa,1,1,10,10,0,0,20220523,16,FI
+Returning Visitor,trafficplus.me,/,desktop,Finland,Vaasa,1,1,10,10,0,0,20220523,17,FI
+Returning Visitor,trafficplus.me,/,mobile,Finland,Vantaa,1,2,20,20,0,0,20220523,17,FI
+New Visitor,trafficplus.me,/,desktop,Greece,(not set),1,1,10,10,0,0,20220523,16,GR
+New Visitor,trafficplus.me,/,desktop,Greece,Athens,1,1,10,10,0,0,20220523,16,GR
+New Visitor,google,/blog/ssd-yolo,desktop,Greece,Thessaloniki,1,1,0,0,0,1,20220524,14,GR
+New Visitor,trafficplus.me,/,desktop,Honduras,(not set),1,1,10,10,0,0,20220523,16,HN
+New Visitor,trafficplus.me,/,mobile,Honduras,Tegucigalpa,1,1,10,10,0,0,20220523,17,HN
+Returning Visitor,trafficplus.me,/,desktop,Honduras,(not set),1,1,11,11,0,0,20220523,17,HN
+New Visitor,trafficplus.me,/,desktop,Nigeria,(not set),1,1,11,11,0,0,20220523,16,NG
+New Visitor,trafficplus.me,/,desktop,Nigeria,Yenagoa,1,1,10,10,0,0,20220523,16,NG
+New Visitor,trafficplus.me,/,mobile,Nigeria,Lagos,1,1,10,10,0,0,20220523,16,NG
+Returning Visitor,trafficplus.me,/,desktop,Nigeria,Lagos,1,1,10,10,0,0,20220523,16,NG
+New Visitor,trafficplus.me,/,desktop,Nigeria,Lagos,2,2,20,20,0,0,20220523,17,NG
+New Visitor,trafficplus.me,/,desktop,Nigeria,Uyo,1,1,10,10,0,0,20220523,17,NG
+New Visitor,trafficplus.me,/,mobile,Nigeria,Lagos,1,1,11,11,0,0,20220523,17,NG
+New Visitor,trafficplus.me,/,tablet,Nigeria,Lagos,1,1,10,10,0,0,20220523,17,NG
+Returning Visitor,trafficplus.me,/,desktop,Nigeria,Lagos,1,2,20,20,0,0,20220523,17,NG
+Returning Visitor,trafficplus.me,/,mobile,Nigeria,Sagamu,1,1,10,10,0,0,20220523,17,NG
+New Visitor,google,/blog/serverless-api-lambda,desktop,Nigeria,Lagos,1,1,0,0,0,1,20220524,0,NG
+Returning Visitor,google,/blog/serverless-api-lambda,desktop,Nigeria,Lagos,1,1,0,0,0,1,20220524,17,NG
+New Visitor,trafficplus.me,/,desktop,Saudi Arabia,(not set),2,2,19,19,0,0,20220523,16,SA
+New Visitor,trafficplus.me,/,desktop,Saudi Arabia,Riyadh,1,1,10,10,0,0,20220523,16,SA
+Returning Visitor,trafficplus.me,/,desktop,Saudi Arabia,Riyadh,1,1,10,10,0,0,20220523,16,SA
+Returning Visitor,trafficplus.me,/,mobile,Saudi Arabia,Riyadh,1,1,3,3,0,0,20220523,16,SA
+Returning Visitor,trafficplus.me,/,desktop,Saudi Arabia,Riyadh,2,2,20,20,0,0,20220523,17,SA
+New Visitor,trafficplus.me,/,desktop,Uganda,Kampala,1,1,10,10,0,0,20220523,16,UG
+Returning Visitor,trafficplus.me,/,desktop,Uganda,Kampala,1,1,10,10,0,0,20220523,16,UG
+New Visitor,trafficplus.me,/,tablet,Uganda,Kampala,1,1,13,13,0,0,20220523,17,UG
+New Visitor,trafficplus.me,/,desktop,Ukraine,Kyiv,1,1,10,10,0,0,20220523,16,UA
+New Visitor,trafficplus.me,/,mobile,Ukraine,Chuhuiv,1,1,10,10,0,0,20220523,16,UA
+New Visitor,trafficplus.me,/,desktop,Ukraine,(not set),1,1,10,10,0,0,20220523,17,UA
+Returning Visitor,trafficplus.me,/,desktop,Ukraine,Kyiv,2,2,20,20,0,0,20220523,17,UA
+New Visitor,trafficplus.me,/,desktop,United Arab Emirates,Fujairah,1,1,10,10,0,0,20220523,16,AE
+New Visitor,trafficplus.me,/,desktop,Uruguay,Montevideo,1,1,10,10,0,0,20220523,16,UY
+New Visitor,trafficplus.me,/,desktop,Uzbekistan,Urgench,1,1,10,10,0,0,20220523,16,UZ
+New Visitor,trafficplus.me,/,desktop,Uzbekistan,Urgench,1,1,10,10,0,0,20220523,17,UZ
+New Visitor,trafficplus.me,/,desktop,Zambia,Lusaka,1,1,10,10,0,0,20220523,16,ZM
+Returning Visitor,trafficplus.me,/,mobile,Zambia,Lusaka,1,2,21,21,0,0,20220523,17,ZM
+New Visitor,trafficplus.me,/,mobile,Albania,(not set),1,1,10,10,0,0,20220523,16,AL
+New Visitor,trafficplus.me,/,mobile,Albania,(not set),1,1,10,10,0,0,20220523,17,AL
+Returning Visitor,trafficplus.me,/,mobile,Albania,(not set),1,1,10,10,0,0,20220523,17,AL
+New Visitor,trafficplus.me,/,mobile,Austria,Wiener Neustadt,1,1,10,10,0,0,20220523,16,AT
+New Visitor,trafficplus.me,/,desktop,Austria,(not set),1,1,10,10,0,0,20220523,17,AT
+New Visitor,trafficplus.me,/,desktop,Austria,Salzburg,1,1,0,0,0,1,20220523,17,AT
+New Visitor,trafficplus.me,/,mobile,Cuba,Havana,2,2,20,20,0,0,20220523,16,CU
+New Visitor,trafficplus.me,/,mobile,Haiti,Port-au-Prince,1,1,10,10,0,0,20220523,16,HT
+Returning Visitor,trafficplus.me,/,mobile,Haiti,Port-au-Prince,1,1,10,10,0,0,20220523,17,HT
+New Visitor,trafficplus.me,/,mobile,Kazakhstan,Pavlodar,1,1,10,10,0,0,20220523,16,KZ
+New Visitor,trafficplus.me,/,desktop,Kazakhstan,Karagandy,1,1,10,10,0,0,20220523,17,KZ
+New Visitor,trafficplus.me,/,mobile,Kazakhstan,Kyzylorda,1,1,10,10,0,0,20220523,17,KZ
+New Visitor,trafficplus.me,/,mobile,Kuwait,(not set),1,1,10,10,0,0,20220523,16,KW
+New Visitor,trafficplus.me,/,tablet,Kuwait,(not set),1,1,10,10,0,0,20220523,16,KW
+Returning Visitor,trafficplus.me,/,mobile,Kuwait,(not set),1,1,10,10,0,0,20220523,16,KW
+New Visitor,trafficplus.me,/,mobile,Madagascar,Antananarivo,1,1,9,9,0,0,20220523,16,MG
+New Visitor,trafficplus.me,/,mobile,Madagascar,Antananarivo,1,1,10,10,0,0,20220523,17,MG
+Returning Visitor,trafficplus.me,/,mobile,Madagascar,Antananarivo,2,2,20,20,0,0,20220523,17,MG
+New Visitor,trafficplus.me,/,mobile,Norway,Baerum,1,1,10,10,0,0,20220523,16,NO
+Returning Visitor,trafficplus.me,/,mobile,Norway,(not set),1,1,10,10,0,0,20220523,16,NO
+Returning Visitor,trafficplus.me,/,mobile,Norway,(not set),1,1,10,10,0,0,20220523,17,NO
+New Visitor,trafficplus.me,/,mobile,Oman,(not set),1,1,10,10,0,0,20220523,16,OM
+Returning Visitor,trafficplus.me,/,mobile,Oman,(not set),1,1,10,10,0,0,20220523,16,OM
+New Visitor,trafficplus.me,/,mobile,Sierra Leone,Freetown,1,1,10,10,0,0,20220523,16,SL
+Returning Visitor,trafficplus.me,/,mobile,Sierra Leone,Freetown,1,1,10,10,0,0,20220523,16,SL
+New Visitor,trafficplus.me,/,mobile,Sudan,Khartoum,1,1,9,9,0,0,20220523,16,SD
+Returning Visitor,trafficplus.me,/,mobile,Sudan,Khartoum,1,1,10,10,0,0,20220523,17,SD
+New Visitor,trafficplus.me,/,mobile,Yemen,Sana'a,1,1,9,9,0,0,20220523,16,YE
+New Visitor,trafficplus.me,/,desktop,Yemen,Sana'a,1,1,10,10,0,0,20220523,17,YE
+Returning Visitor,trafficplus.me,/,mobile,Yemen,Sana'a,1,1,9,9,0,0,20220523,17,YE
+New Visitor,trafficplus.me,/,tablet,Ghana,Accra,1,1,10,10,0,0,20220523,16,GH
+New Visitor,trafficplus.me,/,mobile,Ghana,Accra,1,1,9,9,0,0,20220523,17,GH
+Returning Visitor,trafficplus.me,/,desktop,Burkina Faso,Ouagadougou,1,2,20,20,0,0,20220523,16,BF
+Returning Visitor,trafficplus.me,/,mobile,Burkina Faso,Ouagadougou,1,1,10,10,0,0,20220523,16,BF
+Returning Visitor,trafficplus.me,/,desktop,Ecuador,Ibarra,1,1,11,11,0,0,20220523,16,EC
+New Visitor,trafficplus.me,/,mobile,Ecuador,Quito,1,1,10,10,0,0,20220523,17,EC
+Returning Visitor,trafficplus.me,/,desktop,Nepal,(not set),1,2,21,21,0,0,20220523,16,NP
+New Visitor,trafficplus.me,/,desktop,Nepal,Kathmandu,1,1,3,3,0,0,20220523,17,NP
+New Visitor,trafficplus.me,/,tablet,Nepal,(not set),1,1,11,11,0,0,20220523,17,NP
+Returning Visitor,trafficplus.me,/,mobile,Hungary,Kecskemet,1,1,10,10,0,0,20220523,16,HU
+New Visitor,trafficplus.me,/,desktop,Hungary,Miskolc,1,1,10,10,0,0,20220523,17,HU
+New Visitor,trafficplus.me,/,mobile,Hungary,(not set),1,1,10,10,0,0,20220523,17,HU
+New Visitor,trafficplus.me,/,desktop,Dominican Republic,(not set),1,1,10,10,0,0,20220523,17,DO
+New Visitor,trafficplus.me,/,mobile,Dominican Republic,(not set),1,1,10,10,0,0,20220523,17,DO
+New Visitor,trafficplus.me,/,mobile,Dominican Republic,Santo Domingo,1,1,10,10,0,0,20220523,17,DO
+New Visitor,trafficplus.me,/,desktop,Georgia,(not set),1,1,10,10,0,0,20220523,17,GE
+New Visitor,trafficplus.me,/,desktop,Iraq,Baghdad,1,1,10,10,0,0,20220523,17,IQ
+Returning Visitor,trafficplus.me,/,desktop,Iraq,Baghdad,1,1,10,10,0,0,20220523,17,IQ
+New Visitor,trafficplus.me,/,desktop,Kyrgyzstan,Bishkek,1,1,10,10,0,0,20220523,17,KG
+New Visitor,trafficplus.me,/,desktop,New Zealand,Palmerston North,1,1,10,10,0,0,20220523,17,NZ
+New Visitor,trafficplus.me,/,desktop,Nicaragua,Managua,1,1,10,10,0,0,20220523,17,NI
+Returning Visitor,trafficplus.me,/,desktop,Nicaragua,Managua,1,1,10,10,0,0,20220523,17,NI
+Returning Visitor,trafficplus.me,/,mobile,Nicaragua,Managua,1,1,10,10,0,0,20220523,17,NI
+New Visitor,trafficplus.me,/,desktop,Peru,(not set),1,1,10,10,0,0,20220523,17,PE
+Returning Visitor,trafficplus.me,/,mobile,Peru,(not set),1,2,19,19,0,0,20220523,17,PE
+New Visitor,trafficplus.me,/,desktop,Togo,(not set),1,1,10,10,0,0,20220523,17,TG
+New Visitor,trafficplus.me,/,mobile,Cameroon,Douala,1,1,13,13,0,0,20220523,17,CM
+New Visitor,trafficplus.me,/,mobile,Costa Rica,(not set),1,1,10,10,0,0,20220523,17,CR
+New Visitor,trafficplus.me,/,mobile,Rwanda,Kigali,1,1,10,10,0,0,20220523,17,RW
+New Visitor,trafficplus.me,/,tablet,Namibia,(not set),1,1,10,10,0,0,20220523,17,
+Returning Visitor,trafficplus.me,/,desktop,Guinea,(not set),1,1,10,10,0,0,20220523,17,GN
+Returning Visitor,trafficplus.me,/,desktop,Senegal,Dakar,1,3,31,31,0,0,20220523,17,SN
+Returning Visitor,trafficplus.me,/,mobile,Cyprus,(not set),1,1,10,10,0,0,20220523,17,CY
+Returning Visitor,trafficplus.me,/,mobile,Lithuania,(not set),1,1,10,10,0,0,20220523,17,LT
+Returning Visitor,trafficplus.me,/,mobile,Mozambique,(not set),1,2,20,20,0,0,20220523,17,MZ
+Returning Visitor,trafficplus.me,/,mobile,Panama,Panama City,1,1,10,10,0,0,20220523,17,PA
+New Visitor,google,/blog/image-rotation-opencv,desktop,Slovakia,Bratislava,1,1,0,0,0,1,20220524,12,SK
