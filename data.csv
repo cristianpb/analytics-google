@@ -1,9 +1,4 @@
 userType,source,pagePath,deviceCategory,country,city,users,sessions,sessionDuration,timeOnPage,pageLoadTime,bounces,date,hour,countryIsoCode
-New Visitor,(direct),/blog/mopidy-muse,desktop,United States,Kansas City,1,1,0,0,0,1,20220628,2,US
-New Visitor,google,/blog/serverless-api-lambda,desktop,United States,Los Angeles,1,1,0,0,0,1,20220628,3,US
-New Visitor,google,/blog/motion-monitor-opencv,desktop,United States,Seattle,1,1,0,0,0,1,20220628,21,US
-New Visitor,google,/blog/serverless-api-lambda,desktop,United States,Malden,1,1,0,0,0,1,20220628,22,US
-Returning Visitor,google,/blog/ssd-yolo,desktop,United States,Ann Arbor,1,1,0,0,0,1,20220628,22,US
 New Visitor,google,/blog/image-rotation-opencv,desktop,United States,Sunnyvale,1,1,0,0,0,1,20220629,5,US
 New Visitor,google,/,desktop,United States,Greenville,1,0,0,12,0,0,20220629,18,US
 New Visitor,google,/about,desktop,United States,Greenville,1,0,0,0,0,0,20220629,18,US
@@ -84,16 +79,14 @@ New Visitor,google,/blog/ssd-yolo,desktop,United States,Kennewick,1,1,405,405,0,
 New Visitor,(direct),/,desktop,United States,(not set),1,1,0,0,0,1,20220705,2,US
 New Visitor,google,/blog/motion-monitor-opencv,mobile,United States,(not set),1,1,0,0,0,1,20220705,14,US
 New Visitor,reddit.com,/blog/grafana-dashboard,desktop,United States,Phoenix,1,1,0,0,0,1,20220705,22,US
-New Visitor,google,/blog/image-rotation-opencv,desktop,India,Hyderabad,1,1,0,0,0,1,20220628,7,IN
-New Visitor,google,/blog/vimwiki-hugo,desktop,India,Pune,1,1,0,0,0,1,20220628,9,IN
-New Visitor,keep.google.com,/blog/document-detection,desktop,India,Asansol,1,1,0,0,0,1,20220628,9,IN
-Returning Visitor,blog.paperspace.com,/blog/image-rotation-opencv,desktop,India,Palakkad,1,1,0,0,0,1,20220628,11,IN
-New Visitor,google,/blog/image-rotation-opencv,desktop,India,Kolkata,1,1,0,0,0,1,20220628,12,IN
-New Visitor,google,/blog/monitoring-grafana,desktop,India,Udaipur,1,1,136,135,0,0,20220628,13,IN
-New Visitor,google,/blog/monitoring-grafana,desktop,India,Bengaluru,1,1,1218,1218,0,0,20220628,18,IN
-New Visitor,google,/blog/ssd-yolo,mobile,India,Bengaluru,1,1,0,0,0,1,20220628,18,IN
-New Visitor,google,/blog/marathon-mirabelle,desktop,India,Pune,1,1,0,0,0,1,20220628,19,IN
-New Visitor,google,/blog/monitoring-grafana,desktop,India,Bengaluru,1,0,0,0,0,0,20220628,19,IN
+New Visitor,blog.paperspace.com,/blog/image-rotation-opencv,desktop,United States,San Francisco,1,1,0,0,0,1,20220706,3,US
+New Visitor,google,/blog/music-voice-cotrol,mobile,United States,(not set),1,1,0,0,0,1,20220706,21,US
+New Visitor,google,/blog/image-rotation-opencv,desktop,Hong Kong,(not set),1,1,0,0,0,1,20220629,6,HK
+Returning Visitor,google,/blog/image-rotation-opencv,desktop,Hong Kong,(not set),1,1,0,0,0,1,20220629,9,HK
+New Visitor,google,/blog/raspberry-video-stream,desktop,Hong Kong,(not set),1,1,0,0,0,1,20220701,9,HK
+New Visitor,(direct),/blog/image-rotation-opencv,desktop,Hong Kong,(not set),1,1,0,0,0,1,20220701,12,HK
+New Visitor,protraffic.shop,/,desktop,Hong Kong,(not set),5,5,1583,1583,0,0,20220704,15,HK
+New Visitor,google,/blog/image-processing-using-serverless-architecture,desktop,Hong Kong,(not set),1,1,0,0,0,1,20220705,4,HK
 New Visitor,google,/blog/image-rotation-opencv,desktop,India,Kolkata,1,1,0,0,0,1,20220629,7,IN
 Returning Visitor,google,/blog/image-rotation-opencv,desktop,India,Kolkata,1,1,0,0,0,1,20220629,8,IN
 Returning Visitor,google,/blog/image-rotation-opencv,desktop,India,Kolkata,1,1,0,0,0,1,20220629,10,IN
@@ -155,237 +148,12 @@ Returning Visitor,protraffic.shop,/,mobile,India,Sonipat,1,3,256,256,0,2,2022070
 Returning Visitor,protraffic.shop,/,tablet,India,Siliguri,1,2,309,309,0,1,20220704,15,IN
 New Visitor,google,/blog/ssd-yolo,mobile,India,Chennai,1,1,0,0,0,1,20220705,10,IN
 New Visitor,bing,/blog/serverless-api-lambda,desktop,India,Chennai,1,1,0,0,0,1,20220705,16,IN
-New Visitor,google,/blog/traefik-goaccess,desktop,Malaysia,Cheras,1,1,0,0,0,1,20220628,7,MY
-New Visitor,google,/blog/ssd-yolo,desktop,Malaysia,Kluang,1,1,0,0,0,1,20220702,10,MY
-New Visitor,protraffic.shop,/,tablet,Malaysia,Kuala Lumpur,1,1,319,319,0,0,20220704,15,MY
-Returning Visitor,protraffic.shop,/,desktop,Malaysia,Johor Bahru,1,1,319,319,0,0,20220704,15,MY
-Returning Visitor,protraffic.shop,/,desktop,Malaysia,Kota Kinabalu,1,1,315,315,0,0,20220704,15,MY
-Returning Visitor,protraffic.shop,/,desktop,Malaysia,Shah Alam,1,3,249,249,0,2,20220704,15,MY
-Returning Visitor,protraffic.shop,/,mobile,Malaysia,Lahad Datu,1,1,304,304,0,0,20220704,15,MY
-Returning Visitor,protraffic.shop,/,mobile,Malaysia,Puchong,1,1,315,315,0,0,20220704,15,MY
-New Visitor,google,/blog/analytics-google,desktop,Tunisia,(not set),1,1,139,139,0,0,20220628,9,TN
-New Visitor,protraffic.shop,/,desktop,Tunisia,(not set),2,2,639,639,0,0,20220704,15,TN
-New Visitor,google,/blog/image-rotation-opencv,desktop,Japan,Saga,1,1,0,0,0,1,20220628,9,JP
-Returning Visitor,(direct),/blog/image-rotation-opencv,desktop,Japan,Taito City,1,1,0,0,0,1,20220630,10,JP
-Returning Visitor,(direct),/blog/image-rotation-opencv,desktop,Japan,Taito City,1,1,0,0,0,1,20220701,3,JP
-New Visitor,bing,/blog/ssd-yolo,desktop,Japan,(not set),1,1,0,0,0,1,20220701,7,JP
-New Visitor,google,/blog/ssd-yolo,desktop,Japan,Chuo City,1,1,0,0,0,1,20220701,7,JP
-New Visitor,bing,/blog/grafana-dashboard,desktop,Japan,Nagoya,1,1,0,0,0,1,20220701,11,JP
-New Visitor,protraffic.shop,/,desktop,Japan,(not set),1,1,314,315,0,0,20220704,15,JP
-New Visitor,protraffic.shop,/,desktop,Japan,Hiroshima,1,1,316,317,0,0,20220704,15,JP
-New Visitor,protraffic.shop,/,desktop,Japan,Kasama,1,1,0,0,0,1,20220704,15,JP
-New Visitor,protraffic.shop,/,desktop,Japan,Koto City,1,1,313,312,0,0,20220704,15,JP
-New Visitor,protraffic.shop,/,desktop,Japan,Matsubara,1,1,313,313,0,0,20220704,15,JP
-New Visitor,protraffic.shop,/,desktop,Japan,Nishinomiya,1,1,313,313,0,0,20220704,15,JP
-New Visitor,protraffic.shop,/,desktop,Japan,Osaka,1,1,315,316,0,0,20220704,15,JP
-New Visitor,protraffic.shop,/,desktop,Japan,Shinagawa City,1,1,0,0,0,1,20220704,15,JP
-New Visitor,protraffic.shop,/,desktop,Japan,Toyonaka,1,1,318,318,0,0,20220704,15,JP
-New Visitor,protraffic.shop,/,desktop,Japan,Yokohama,1,1,0,0,0,1,20220704,15,JP
-New Visitor,protraffic.shop,/,mobile,Japan,(not set),3,3,943,945,0,0,20220704,15,JP
-New Visitor,protraffic.shop,/,mobile,Japan,Adachi City,1,1,320,319,0,0,20220704,15,JP
-New Visitor,protraffic.shop,/,mobile,Japan,Itabashi City,1,1,312,313,0,0,20220704,15,JP
-New Visitor,protraffic.shop,/,mobile,Japan,Nagasaki,1,1,318,318,0,0,20220704,15,JP
-New Visitor,protraffic.shop,/,mobile,Japan,Nagoya,2,2,634,634,0,0,20220704,15,JP
-New Visitor,protraffic.shop,/,mobile,Japan,Utsunomiya,1,1,318,318,0,0,20220704,15,JP
-Returning Visitor,protraffic.shop,/,desktop,Japan,(not set),2,2,638,638,0,0,20220704,15,JP
-Returning Visitor,protraffic.shop,/,desktop,Japan,Kasama,1,2,275,276,0,1,20220704,15,JP
-Returning Visitor,protraffic.shop,/,desktop,Japan,Kochi,1,1,314,314,0,0,20220704,15,JP
-Returning Visitor,protraffic.shop,/,desktop,Japan,Okayama,1,1,315,315,0,0,20220704,15,JP
-Returning Visitor,protraffic.shop,/,desktop,Japan,Shinagawa City,1,2,285,285,0,1,20220704,15,JP
-Returning Visitor,protraffic.shop,/,desktop,Japan,Yokohama,1,2,289,289,0,1,20220704,15,JP
-Returning Visitor,protraffic.shop,/,mobile,Japan,(not set),2,2,626,627,0,0,20220704,15,JP
-Returning Visitor,protraffic.shop,/,mobile,Japan,Ichinoseki,1,1,316,317,0,0,20220704,15,JP
-Returning Visitor,protraffic.shop,/,mobile,Japan,Minato City,1,1,316,317,0,0,20220704,15,JP
-Returning Visitor,protraffic.shop,/,mobile,Japan,Nagano,1,1,320,320,0,0,20220704,15,JP
-New Visitor,google,/blog/monitoring-grafana,desktop,Sweden,Sodertalje,1,1,113,113,0,0,20220628,9,SE
-New Visitor,google,/blog/ssd-yolo,desktop,Sweden,Sundsvall,1,1,0,0,0,1,20220630,21,SE
-New Visitor,protraffic.shop,/,desktop,Sweden,Gothenburg,1,1,314,314,0,0,20220704,15,SE
-Returning Visitor,protraffic.shop,/,mobile,Sweden,(not set),1,1,319,318,0,0,20220704,15,SE
-New Visitor,google,/blog/ssd-yolo,desktop,Belgium,Keerbergen,1,1,0,0,0,1,20220628,9,BE
-New Visitor,(direct),/blog/arduino-mkr-fox,desktop,Belgium,Antwerp,1,1,292,292,0,0,20220628,22,BE
-New Visitor,mopidy.com,/blog/mopidy-muse,desktop,Belgium,Brussels,1,1,17,17,0,0,20220701,0,BE
-New Visitor,protraffic.shop,/,desktop,Belgium,(not set),1,1,312,313,0,0,20220704,15,BE
-New Visitor,protraffic.shop,/,desktop,Belgium,Brussels,1,1,320,319,0,0,20220704,15,BE
-New Visitor,protraffic.shop,/,desktop,Belgium,Wavre,1,1,320,320,0,0,20220704,15,BE
-New Visitor,google,/blog/image-rotation-opencv,desktop,Belgium,Soignies,1,1,0,0,0,1,20220704,17,BE
-Returning Visitor,duckduckgo,/blog/vimwiki-hugo,desktop,United Kingdom,Bristol,1,1,0,0,0,1,20220628,9,GB
-Returning Visitor,reddit.com,/blog/vimwiki-hugo,desktop,United Kingdom,Bristol,1,1,0,0,0,1,20220628,9,GB
-New Visitor,google,/blog/magic-wand,desktop,United Kingdom,London,1,1,0,0,0,1,20220628,10,GB
-New Visitor,google,/blog/image-preprocessing,mobile,United Kingdom,Ilkley,1,1,0,0,0,1,20220701,1,GB
-New Visitor,google,/blog/mopidy-muse,desktop,United Kingdom,Bristol,1,1,0,0,0,1,20220702,16,GB
-New Visitor,google,/blog/music-voice-cotrol,desktop,United Kingdom,Belfast,1,1,0,0,0,1,20220702,19,GB
-New Visitor,google,/blog/magic-wand,desktop,United Kingdom,Staines-upon-Thames,1,1,0,0,0,1,20220703,10,GB
-Returning Visitor,google,/blog/magic-wand,desktop,United Kingdom,London,1,1,0,0,0,1,20220704,12,GB
-New Visitor,protraffic.shop,/,desktop,United Kingdom,Birmingham,1,1,317,317,0,0,20220704,15,GB
-New Visitor,protraffic.shop,/,desktop,United Kingdom,Edinburgh,1,1,0,0,0,1,20220704,15,GB
-New Visitor,protraffic.shop,/,desktop,United Kingdom,London,1,1,315,314,0,0,20220704,15,GB
-New Visitor,protraffic.shop,/,desktop,United Kingdom,Scarborough,1,1,313,313,0,0,20220704,15,GB
-New Visitor,protraffic.shop,/,mobile,United Kingdom,(not set),1,1,313,313,0,0,20220704,15,GB
-New Visitor,protraffic.shop,/,mobile,United Kingdom,London,1,1,312,312,0,0,20220704,15,GB
-New Visitor,protraffic.shop,/,mobile,United Kingdom,Stockport,1,1,321,321,0,0,20220704,15,GB
-New Visitor,protraffic.shop,/,tablet,United Kingdom,London,1,1,314,314,0,0,20220704,15,GB
-Returning Visitor,protraffic.shop,/,desktop,United Kingdom,Edinburgh,1,2,251,250,0,1,20220704,15,GB
-Returning Visitor,protraffic.shop,/,desktop,United Kingdom,London,1,1,312,312,0,0,20220704,15,GB
-Returning Visitor,protraffic.shop,/,desktop,United Kingdom,Norwich,1,1,314,314,0,0,20220704,15,GB
-Returning Visitor,protraffic.shop,/,mobile,United Kingdom,(not set),1,1,319,319,0,0,20220704,15,GB
-Returning Visitor,protraffic.shop,/,mobile,United Kingdom,Beaminster,1,1,313,313,0,0,20220704,15,GB
-Returning Visitor,protraffic.shop,/,mobile,United Kingdom,Doncaster,1,3,282,283,0,2,20220704,15,GB
-Returning Visitor,protraffic.shop,/,mobile,United Kingdom,Skelmersdale,1,1,319,318,0,0,20220704,15,GB
-Returning Visitor,protraffic.shop,/,mobile,United Kingdom,Southampton,1,3,313,314,0,2,20220704,15,GB
-New Visitor,google,/blog/ssd-yolo,mobile,Germany,Berlin,1,1,0,0,0,1,20220628,11,DE
-New Visitor,google,/blog/image-rotation-opencv,desktop,Germany,Erlangen,1,1,0,0,0,1,20220629,16,DE
-New Visitor,google,/blog/ssd-yolo,desktop,Germany,Kunzelsau,1,1,0,0,0,1,20220630,16,DE
-New Visitor,(direct),/blog/magic-wand,desktop,Germany,Emden,1,1,0,0,0,1,20220701,19,DE
-New Visitor,google,/blog/motion-monitor-opencv,mobile,Germany,Berlin,1,1,162,162,0,0,20220703,22,DE
-New Visitor,google,/blog/monitoring-grafana,desktop,Germany,Wetzlar,1,1,230,230,0,0,20220704,13,DE
-New Visitor,google,/blog/grafana-dashboard,desktop,Germany,Wetzlar,1,0,0,0,0,0,20220704,14,DE
-New Visitor,protraffic.shop,/,desktop,Germany,Bremen,1,1,316,316,0,0,20220704,15,DE
-New Visitor,protraffic.shop,/,desktop,Germany,Cologne,1,1,315,315,0,0,20220704,15,DE
-New Visitor,protraffic.shop,/,desktop,Germany,Gelsenkirchen,1,1,318,318,0,0,20220704,15,DE
-New Visitor,protraffic.shop,/,desktop,Germany,Kirchheimbolanden,1,1,318,318,0,0,20220704,15,DE
-New Visitor,protraffic.shop,/,mobile,Germany,Bad Kreuznach,1,1,320,320,0,0,20220704,15,DE
-New Visitor,protraffic.shop,/,mobile,Germany,Berlin,1,1,321,321,0,0,20220704,15,DE
-New Visitor,protraffic.shop,/,mobile,Germany,Forchheim,1,1,312,312,0,0,20220704,15,DE
-New Visitor,protraffic.shop,/,mobile,Germany,Northeim,1,1,0,0,0,1,20220704,15,DE
-Returning Visitor,protraffic.shop,/,desktop,Germany,Berlin,1,3,303,303,0,2,20220704,15,DE
-Returning Visitor,protraffic.shop,/,mobile,Germany,Northeim,1,2,311,311,0,1,20220704,15,DE
-Returning Visitor,protraffic.shop,/,mobile,Germany,Senftenberg,1,1,315,315,0,0,20220704,15,DE
-Returning Visitor,protraffic.shop,/,mobile,Germany,Sommerda,1,3,194,194,0,2,20220704,15,DE
-New Visitor,duckduckgo,/blog/gnuplot-electrode,desktop,Germany,Freiberg,1,1,0,0,0,1,20220705,10,DE
-New Visitor,google,/blog/ssd-yolo,desktop,Germany,Friedrichshafen,1,1,0,0,0,1,20220705,13,DE
-Returning Visitor,presearch.com,/blog/monitoring-grafana,desktop,Netherlands,The Hague,1,1,0,0,0,1,20220628,11,NL
-New Visitor,(direct),/blog/vimwiki-hugo,desktop,Netherlands,Rotterdam,1,1,0,0,0,1,20220630,15,NL
-New Visitor,google,/blog/mopidy-muse,desktop,Netherlands,Groningen,1,1,0,0,0,1,20220630,21,NL
-New Visitor,protraffic.shop,/,desktop,Netherlands,Purmerend,1,1,320,320,0,0,20220704,15,NL
-New Visitor,protraffic.shop,/,mobile,Netherlands,7545,1,1,316,317,0,0,20220704,15,NL
-New Visitor,protraffic.shop,/,mobile,Netherlands,Amsterdam,2,2,318,318,0,1,20220704,15,NL
-New Visitor,protraffic.shop,/,mobile,Netherlands,Emmen,1,1,316,316,0,0,20220704,15,NL
-Returning Visitor,protraffic.shop,/,desktop,Netherlands,(not set),1,1,317,317,0,0,20220704,15,NL
-Returning Visitor,protraffic.shop,/,desktop,Netherlands,Amsterdam,1,1,320,320,0,0,20220704,15,NL
-Returning Visitor,protraffic.shop,/,desktop,Netherlands,Bergen op Zoom,1,3,249,249,0,2,20220704,15,NL
-Returning Visitor,protraffic.shop,/,mobile,Netherlands,Amsterdam,1,4,287,287,0,3,20220704,15,NL
-New Visitor,google,/blog/music-voice-cotrol,desktop,Netherlands,The Hague,1,1,0,0,0,1,20220704,23,NL
-Returning Visitor,google,/blog/mopidy-muse,desktop,Netherlands,Groningen,1,1,0,0,0,1,20220705,19,NL
-New Visitor,(direct),/blog/vimwiki-hugo,desktop,Ireland,Dublin,1,1,0,0,0,1,20220628,13,IE
-New Visitor,protraffic.shop,/,mobile,Ireland,Dublin,1,1,316,317,0,0,20220704,15,IE
-Returning Visitor,protraffic.shop,/,mobile,Ireland,(not set),1,1,318,318,0,0,20220704,15,IE
-New Visitor,medium.com,/blog/monitoring-grafana,desktop,Italy,Milan,1,1,0,0,0,1,20220628,13,IT
-New Visitor,google,/blog/mopidy-muse,desktop,Italy,Arenzano,1,1,0,0,0,1,20220628,15,IT
-New Visitor,google,/blog/ssd-yolo,desktop,Italy,Milan,1,1,0,0,0,1,20220701,15,IT
-New Visitor,google,/blog/motion-monitor-opencv,desktop,Italy,Vicenza,1,1,0,0,0,1,20220703,14,IT
-New Visitor,protraffic.shop,/,desktop,Italy,(not set),1,1,311,311,0,0,20220704,15,IT
-New Visitor,protraffic.shop,/,desktop,Italy,Milan,3,3,628,629,0,1,20220704,15,IT
-New Visitor,protraffic.shop,/,mobile,Italy,Caronno Pertusella,1,1,315,315,0,0,20220704,15,IT
-New Visitor,protraffic.shop,/,mobile,Italy,Milan,1,1,313,312,0,0,20220704,15,IT
-New Visitor,protraffic.shop,/,mobile,Italy,Novara,1,1,318,318,0,0,20220704,15,IT
-Returning Visitor,protraffic.shop,/,desktop,Italy,Milan,1,2,314,314,0,1,20220704,15,IT
-Returning Visitor,protraffic.shop,/,desktop,Italy,Rome,1,1,313,313,0,0,20220704,15,IT
-Returning Visitor,protraffic.shop,/,tablet,Italy,(not set),1,3,249,249,0,2,20220704,15,IT
-New Visitor,google,/blog/image-rotation-opencv,desktop,Italy,Cava de' Tirreni,1,1,0,0,0,1,20220704,16,IT
-New Visitor,duckduckgo,/blog/ssd-yolo,mobile,Italy,Bergamo,1,1,0,0,0,1,20220705,0,IT
-New Visitor,google,/blog/motion-monitor-opencv,desktop,Italy,Rome,1,1,0,0,0,1,20220705,21,IT
-New Visitor,google,/blog/ssd-yolo,mobile,Mexico,Guadalupe,1,1,0,0,0,1,20220628,17,MX
-New Visitor,google,/blog/grafana-dashboard,desktop,Mexico,Mexico City,1,1,0,0,0,1,20220629,21,MX
-New Visitor,protraffic.shop,/,desktop,Mexico,Acapulco,1,1,312,312,0,0,20220704,15,MX
-New Visitor,protraffic.shop,/,desktop,Mexico,Guadalajara,1,1,313,313,0,0,20220704,15,MX
-New Visitor,protraffic.shop,/,desktop,Mexico,Guadalupe,1,1,0,0,0,1,20220704,15,MX
-New Visitor,protraffic.shop,/,desktop,Mexico,Mexico City,1,1,317,317,0,0,20220704,15,MX
-New Visitor,protraffic.shop,/,mobile,Mexico,(not set),2,2,629,629,0,0,20220704,15,MX
-New Visitor,protraffic.shop,/,mobile,Mexico,Cihuatlan,1,1,314,314,0,0,20220704,15,MX
-New Visitor,protraffic.shop,/,mobile,Mexico,Ciudad Juarez,1,1,320,320,0,0,20220704,15,MX
-New Visitor,protraffic.shop,/,mobile,Mexico,Cordoba,1,1,317,318,0,0,20220704,15,MX
-New Visitor,protraffic.shop,/,mobile,Mexico,Mexico City,1,1,315,315,0,0,20220704,15,MX
-New Visitor,protraffic.shop,/,mobile,Mexico,Naucalpan de Juarez,1,1,0,0,0,1,20220704,15,MX
-New Visitor,protraffic.shop,/,mobile,Mexico,Puebla,1,1,315,315,0,0,20220704,15,MX
-New Visitor,protraffic.shop,/,mobile,Mexico,Santiago de Queretaro,1,1,0,0,0,1,20220704,15,MX
-Returning Visitor,protraffic.shop,/,desktop,Mexico,(not set),1,1,317,317,0,0,20220704,15,MX
-Returning Visitor,protraffic.shop,/,desktop,Mexico,Ciudad Lopez Mateos,1,1,313,313,0,0,20220704,15,MX
-Returning Visitor,protraffic.shop,/,desktop,Mexico,Guadalupe,1,2,289,290,0,1,20220704,15,MX
-Returning Visitor,protraffic.shop,/,desktop,Mexico,Monterrey,1,1,320,320,0,0,20220704,15,MX
-Returning Visitor,protraffic.shop,/,mobile,Mexico,(not set),2,2,633,634,0,0,20220704,15,MX
-Returning Visitor,protraffic.shop,/,mobile,Mexico,Ciudad Apodaca,1,1,315,315,0,0,20220704,15,MX
-Returning Visitor,protraffic.shop,/,mobile,Mexico,Cuernavaca,1,1,305,305,0,0,20220704,15,MX
-Returning Visitor,protraffic.shop,/,mobile,Mexico,Naucalpan de Juarez,1,2,266,267,0,1,20220704,15,MX
-Returning Visitor,protraffic.shop,/,mobile,Mexico,Santiago de Queretaro,1,2,282,283,0,1,20220704,15,MX
-Returning Visitor,protraffic.shop,/,mobile,Mexico,Tuxtla Gutierrez,1,1,320,320,0,0,20220704,15,MX
-Returning Visitor,(direct),/,desktop,France,Paris,1,1,0,0,0,1,20220628,17,FR
-New Visitor,google,/blog/magic-wand,desktop,France,Grenoble,1,1,0,0,0,1,20220629,21,FR
-New Visitor,google,/blog/ssd-yolo,desktop,France,Toulouse,1,1,0,0,0,1,20220630,12,FR
-New Visitor,google,/blog/vimwiki-hugo,desktop,France,Auxerre,1,1,0,0,0,1,20220703,22,FR
-New Visitor,google,/blog/ssd-yolo,desktop,France,Toulouse,1,1,0,0,0,1,20220704,14,FR
-New Visitor,protraffic.shop,/,desktop,France,(not set),1,1,312,312,0,0,20220704,15,FR
-New Visitor,protraffic.shop,/,desktop,France,Annecy,1,1,312,313,0,0,20220704,15,FR
-New Visitor,protraffic.shop,/,desktop,France,Saint-Gaudens,1,1,316,317,0,0,20220704,15,FR
-New Visitor,protraffic.shop,/,desktop,France,Suresnes,1,1,320,320,0,0,20220704,15,FR
-New Visitor,protraffic.shop,/,mobile,France,(not set),2,2,638,639,0,0,20220704,15,FR
-New Visitor,protraffic.shop,/,mobile,France,Ales,1,1,314,314,0,0,20220704,15,FR
-New Visitor,protraffic.shop,/,mobile,France,Beaune,1,1,312,313,0,0,20220704,15,FR
-New Visitor,protraffic.shop,/,mobile,France,Lyon,1,1,319,319,0,0,20220704,15,FR
-New Visitor,protraffic.shop,/,mobile,France,Strasbourg,1,1,0,0,0,1,20220704,15,FR
-New Visitor,protraffic.shop,/,mobile,France,Tours,1,1,0,0,0,1,20220704,15,FR
-New Visitor,protraffic.shop,/,tablet,France,Lyon,1,1,321,321,0,0,20220704,15,FR
-Returning Visitor,protraffic.shop,/,desktop,France,(not set),1,1,319,319,0,0,20220704,15,FR
-Returning Visitor,protraffic.shop,/,desktop,France,Paris,1,1,313,313,0,0,20220704,15,FR
-Returning Visitor,protraffic.shop,/,mobile,France,Strasbourg,1,2,313,313,0,1,20220704,15,FR
-Returning Visitor,protraffic.shop,/,mobile,France,Tours,1,2,217,218,0,1,20220704,15,FR
-Returning Visitor,protraffic.shop,/,mobile,France,Venissieux,1,1,315,315,0,0,20220704,15,FR
-New Visitor,google,/blog/analytics-google,desktop,France,Lyon,1,1,0,0,0,1,20220705,20,FR
-New Visitor,google,/blog/raspberry-video-stream,desktop,Canada,Montreal,1,1,0,0,0,1,20220628,18,CA
-New Visitor,protraffic.shop,/,desktop,Canada,Quebec City,1,1,320,320,0,0,20220704,15,CA
-New Visitor,protraffic.shop,/,desktop,Canada,Toronto,2,2,639,639,0,0,20220704,15,CA
-New Visitor,protraffic.shop,/,mobile,Canada,Montreal,2,2,313,313,0,1,20220704,15,CA
-Returning Visitor,protraffic.shop,/,desktop,Canada,Calgary,1,3,281,281,0,2,20220704,15,CA
-Returning Visitor,protraffic.shop,/,desktop,Canada,Montreal,1,1,317,318,0,0,20220704,15,CA
-Returning Visitor,protraffic.shop,/,mobile,Canada,Montreal,1,4,256,256,0,3,20220704,15,CA
-Returning Visitor,protraffic.shop,/,tablet,Canada,Chateau-Richer,1,1,316,316,0,0,20220704,15,CA
-New Visitor,cn.bing.com,/blog/document-detection,desktop,China,(not set),1,1,0,0,0,1,20220628,20,CN
-New Visitor,google,/blog/ssd-yolo,desktop,China,Guangzhou,1,1,0,0,0,1,20220703,16,CN
-New Visitor,protraffic.shop,/,desktop,China,(not set),5,5,1265,1266,0,1,20220704,15,CN
-New Visitor,protraffic.shop,/,desktop,China,Zhengzhou,1,1,312,312,0,0,20220704,15,CN
-New Visitor,protraffic.shop,/,mobile,China,(not set),1,1,317,317,0,0,20220704,15,CN
-New Visitor,protraffic.shop,/,mobile,China,Beijing,1,1,315,315,0,0,20220704,15,CN
-Returning Visitor,protraffic.shop,/,desktop,China,(not set),6,7,1834,1834,0,1,20220704,15,CN
-Returning Visitor,protraffic.shop,/,desktop,China,Fuzhou,1,1,315,315,0,0,20220704,15,CN
-Returning Visitor,protraffic.shop,/,mobile,China,(not set),6,8,1881,1882,0,2,20220704,15,CN
-Returning Visitor,google,/blog/amp-search-jekyll,mobile,Indonesia,Palangkaraya,1,1,0,0,0,1,20220628,20,ID
-New Visitor,google,/blog/monitoring-grafana,desktop,Indonesia,Jakarta,1,1,0,0,0,1,20220701,0,ID
-New Visitor,google,/blog/ssd-yolo,mobile,Indonesia,Medan,1,1,0,0,0,1,20220701,21,ID
-New Visitor,google,/blog/monitoring-grafana,desktop,Indonesia,Jakarta,1,1,0,0,0,1,20220704,7,ID
-New Visitor,protraffic.shop,/,desktop,Indonesia,(not set),1,1,320,320,0,0,20220704,15,ID
-New Visitor,protraffic.shop,/,desktop,Indonesia,Bogor,1,1,0,0,0,1,20220704,15,ID
-New Visitor,protraffic.shop,/,desktop,Indonesia,Jakarta,3,3,950,951,0,0,20220704,15,ID
-New Visitor,protraffic.shop,/,desktop,Indonesia,Semarang,1,1,315,315,0,0,20220704,15,ID
-New Visitor,protraffic.shop,/,tablet,Indonesia,Jakarta,1,1,0,0,0,1,20220704,15,ID
-Returning Visitor,protraffic.shop,/,desktop,Indonesia,Banjarmasin,1,1,320,319,0,0,20220704,15,ID
-Returning Visitor,protraffic.shop,/,desktop,Indonesia,Bogor,1,2,224,223,0,1,20220704,15,ID
-Returning Visitor,protraffic.shop,/,desktop,Indonesia,Jakarta,1,3,258,258,0,2,20220704,15,ID
-Returning Visitor,protraffic.shop,/,desktop,Indonesia,Kebasen,1,1,315,315,0,0,20220704,15,ID
-Returning Visitor,protraffic.shop,/,desktop,Indonesia,South Tangerang,1,1,320,320,0,0,20220704,15,ID
-Returning Visitor,protraffic.shop,/,desktop,Indonesia,Surabaya,1,1,312,312,0,0,20220704,15,ID
-Returning Visitor,protraffic.shop,/,mobile,Indonesia,(not set),2,2,633,633,0,0,20220704,15,ID
-Returning Visitor,protraffic.shop,/,mobile,Indonesia,Gorontalo,1,1,314,314,0,0,20220704,15,ID
-Returning Visitor,protraffic.shop,/,mobile,Indonesia,Jakarta,1,1,320,319,0,0,20220704,15,ID
-Returning Visitor,protraffic.shop,/,mobile,Indonesia,Purworejo,1,3,277,277,0,2,20220704,15,ID
-Returning Visitor,protraffic.shop,/,mobile,Indonesia,Surabaya,1,3,230,229,0,2,20220704,15,ID
-Returning Visitor,protraffic.shop,/,tablet,Indonesia,Jakarta,1,2,219,218,0,1,20220704,15,ID
-New Visitor,google,/blog/ssd-yolo,desktop,Indonesia,Surabaya,1,1,0,0,0,1,20220704,17,ID
-New Visitor,google,/,desktop,Indonesia,Jakarta,1,0,0,0,0,0,20220705,6,ID
-New Visitor,google,/blog/amp-search-jekyll,desktop,Indonesia,Jakarta,1,1,68,68,0,0,20220705,6,ID
-New Visitor,duckduckgo,/blog/vimwiki-hugo,desktop,Austria,Vienna,1,1,0,0,0,1,20220628,23,AT
-New Visitor,google,/blog/serverless-api-lambda,desktop,Austria,Vienna,1,1,0,0,0,1,20220704,12,AT
-New Visitor,protraffic.shop,/,mobile,Austria,(not set),1,1,319,319,0,0,20220704,15,AT
-New Visitor,protraffic.shop,/,mobile,Austria,Vosendorf,1,1,316,315,0,0,20220704,15,AT
-Returning Visitor,protraffic.shop,/,desktop,Austria,Dornbirn,1,1,319,318,0,0,20220704,15,AT
-Returning Visitor,protraffic.shop,/,mobile,Austria,Wiener Neustadt,1,1,319,319,0,0,20220704,15,AT
-New Visitor,google,/blog/image-rotation-opencv,desktop,Hong Kong,(not set),1,1,0,0,0,1,20220629,6,HK
-Returning Visitor,google,/blog/image-rotation-opencv,desktop,Hong Kong,(not set),1,1,0,0,0,1,20220629,9,HK
-New Visitor,google,/blog/raspberry-video-stream,desktop,Hong Kong,(not set),1,1,0,0,0,1,20220701,9,HK
-New Visitor,(direct),/blog/image-rotation-opencv,desktop,Hong Kong,(not set),1,1,0,0,0,1,20220701,12,HK
-New Visitor,protraffic.shop,/,desktop,Hong Kong,(not set),5,5,1583,1583,0,0,20220704,15,HK
-New Visitor,google,/blog/image-processing-using-serverless-architecture,desktop,Hong Kong,(not set),1,1,0,0,0,1,20220705,4,HK
+New Visitor,google,/blog/marathon-mirabelle,mobile,India,Chennai,1,1,0,0,0,1,20220706,8,IN
 New Visitor,google,/blog/raspberry-video-stream,mobile,Singapore,(not set),1,1,0,0,0,1,20220629,7,SG
 New Visitor,google,/blog/ssd-yolo,desktop,Singapore,Singapore,1,1,0,0,0,1,20220629,12,SG
 New Visitor,duckduckgo,/blog/ssd-yolo,desktop,Singapore,Singapore,1,1,0,0,0,1,20220704,9,SG
+New Visitor,google,/blog/raspberry-video-stream,desktop,Singapore,Singapore,1,0,0,0,0,0,20220706,8,SG
+New Visitor,google,/blog/ssd-yolo,desktop,Singapore,Singapore,1,1,160,160,0,0,20220706,8,SG
 New Visitor,google,/blog/ssd-yolo,mobile,Algeria,Constantine,1,1,0,0,0,1,20220629,8,DZ
 New Visitor,protraffic.shop,/,desktop,Algeria,Constantine,1,1,319,318,0,0,20220704,15,DZ
 New Visitor,google,/blog/vimwiki-hugo,desktop,Israel,Jerusalem,1,1,0,0,0,1,20220629,9,IL
@@ -393,6 +161,7 @@ New Visitor,google,/blog/motion-monitor-opencv,desktop,Israel,Haifa,1,1,0,0,0,1,
 New Visitor,protraffic.shop,/,desktop,Israel,Nahariyya,1,1,320,319,0,0,20220704,15,IL
 New Visitor,protraffic.shop,/,mobile,Israel,Kefar Sava,1,1,319,319,0,0,20220704,15,IL
 Returning Visitor,protraffic.shop,/,desktop,Israel,Netanya,2,2,631,631,0,0,20220704,15,IL
+New Visitor,google,/blog/ssd-yolo,desktop,Israel,Bnei Brak,1,1,0,0,0,1,20220706,14,IL
 New Visitor,google,/blog/ssd-yolo,desktop,Spain,Madrid,1,1,202,202,0,0,20220629,15,ES
 New Visitor,google,/blog/ssd-yolo,desktop,Spain,Madrid,1,0,0,0,0,0,20220629,16,ES
 New Visitor,google,/blog/image-rotation-opencv,desktop,Spain,(not set),1,1,0,0,0,1,20220630,17,ES
@@ -441,12 +210,86 @@ Returning Visitor,protraffic.shop,/,mobile,Brazil,Novo Gama,1,1,315,315,0,0,2022
 Returning Visitor,protraffic.shop,/,mobile,Brazil,Rio de Janeiro,1,1,319,319,0,0,20220704,15,BR
 Returning Visitor,protraffic.shop,/,mobile,Brazil,Sao Paulo,2,3,568,567,0,1,20220704,15,BR
 Returning Visitor,protraffic.shop,/,tablet,Brazil,Sao Jose do Rio Preto,1,1,314,313,0,0,20220704,15,BR
+New Visitor,google,/blog/motion-monitor-opencv,desktop,Brazil,Sao Carlos,1,0,0,0,0,0,20220706,15,BR
+New Visitor,google,/blog/ssd-yolo,desktop,Brazil,Sao Carlos,1,1,189,189,0,0,20220706,15,BR
+New Visitor,google,/blog/traefik-goaccess,desktop,Brazil,Rio de Janeiro,1,1,0,0,0,1,20220706,20,BR
+New Visitor,google,/blog/image-rotation-opencv,desktop,Germany,Erlangen,1,1,0,0,0,1,20220629,16,DE
+New Visitor,google,/blog/ssd-yolo,desktop,Germany,Kunzelsau,1,1,0,0,0,1,20220630,16,DE
+New Visitor,(direct),/blog/magic-wand,desktop,Germany,Emden,1,1,0,0,0,1,20220701,19,DE
+New Visitor,google,/blog/motion-monitor-opencv,mobile,Germany,Berlin,1,1,162,162,0,0,20220703,22,DE
+New Visitor,google,/blog/monitoring-grafana,desktop,Germany,Wetzlar,1,1,230,230,0,0,20220704,13,DE
+New Visitor,google,/blog/grafana-dashboard,desktop,Germany,Wetzlar,1,0,0,0,0,0,20220704,14,DE
+New Visitor,protraffic.shop,/,desktop,Germany,Bremen,1,1,316,316,0,0,20220704,15,DE
+New Visitor,protraffic.shop,/,desktop,Germany,Cologne,1,1,315,315,0,0,20220704,15,DE
+New Visitor,protraffic.shop,/,desktop,Germany,Gelsenkirchen,1,1,318,318,0,0,20220704,15,DE
+New Visitor,protraffic.shop,/,desktop,Germany,Kirchheimbolanden,1,1,318,318,0,0,20220704,15,DE
+New Visitor,protraffic.shop,/,mobile,Germany,Bad Kreuznach,1,1,320,320,0,0,20220704,15,DE
+New Visitor,protraffic.shop,/,mobile,Germany,Berlin,1,1,321,321,0,0,20220704,15,DE
+New Visitor,protraffic.shop,/,mobile,Germany,Forchheim,1,1,312,312,0,0,20220704,15,DE
+New Visitor,protraffic.shop,/,mobile,Germany,Northeim,1,1,0,0,0,1,20220704,15,DE
+Returning Visitor,protraffic.shop,/,desktop,Germany,Berlin,1,3,303,303,0,2,20220704,15,DE
+Returning Visitor,protraffic.shop,/,mobile,Germany,Northeim,1,2,311,311,0,1,20220704,15,DE
+Returning Visitor,protraffic.shop,/,mobile,Germany,Senftenberg,1,1,315,315,0,0,20220704,15,DE
+Returning Visitor,protraffic.shop,/,mobile,Germany,Sommerda,1,3,194,194,0,2,20220704,15,DE
+New Visitor,duckduckgo,/blog/gnuplot-electrode,desktop,Germany,Freiberg,1,1,0,0,0,1,20220705,10,DE
+New Visitor,google,/blog/ssd-yolo,desktop,Germany,Friedrichshafen,1,1,0,0,0,1,20220705,13,DE
+Returning Visitor,duckduckgo,/blog/gnuplot-electrode,desktop,Germany,Freiberg,1,1,0,0,0,1,20220706,18,DE
+New Visitor,google,/blog/document-detection,desktop,Germany,Berlin,1,1,0,0,0,1,20220706,23,DE
 New Visitor,google,/blog/ssd-yolo,desktop,Georgia,Tbilisi,1,1,0,0,0,1,20220629,17,GE
 Returning Visitor,google,/blog/ssd-yolo,desktop,Georgia,Tbilisi,1,1,0,0,0,1,20220703,14,GE
 New Visitor,protraffic.shop,/,desktop,Georgia,Tbilisi,1,1,317,317,0,0,20220704,15,GE
 Returning Visitor,protraffic.shop,/,desktop,Georgia,(not set),1,1,319,319,0,0,20220704,15,GE
 New Visitor,google,/blog/arduino-mkr-fox,desktop,Portugal,Evora,1,1,0,0,0,1,20220629,18,PT
 New Visitor,google,/blog/ssd-yolo,desktop,Portugal,Lisbon,1,1,0,0,0,1,20220703,15,PT
+New Visitor,google,/blog/grafana-dashboard,desktop,Mexico,Mexico City,1,1,0,0,0,1,20220629,21,MX
+New Visitor,protraffic.shop,/,desktop,Mexico,Acapulco,1,1,312,312,0,0,20220704,15,MX
+New Visitor,protraffic.shop,/,desktop,Mexico,Guadalajara,1,1,313,313,0,0,20220704,15,MX
+New Visitor,protraffic.shop,/,desktop,Mexico,Guadalupe,1,1,0,0,0,1,20220704,15,MX
+New Visitor,protraffic.shop,/,desktop,Mexico,Mexico City,1,1,317,317,0,0,20220704,15,MX
+New Visitor,protraffic.shop,/,mobile,Mexico,(not set),2,2,629,629,0,0,20220704,15,MX
+New Visitor,protraffic.shop,/,mobile,Mexico,Cihuatlan,1,1,314,314,0,0,20220704,15,MX
+New Visitor,protraffic.shop,/,mobile,Mexico,Ciudad Juarez,1,1,320,320,0,0,20220704,15,MX
+New Visitor,protraffic.shop,/,mobile,Mexico,Cordoba,1,1,317,318,0,0,20220704,15,MX
+New Visitor,protraffic.shop,/,mobile,Mexico,Mexico City,1,1,315,315,0,0,20220704,15,MX
+New Visitor,protraffic.shop,/,mobile,Mexico,Naucalpan de Juarez,1,1,0,0,0,1,20220704,15,MX
+New Visitor,protraffic.shop,/,mobile,Mexico,Puebla,1,1,315,315,0,0,20220704,15,MX
+New Visitor,protraffic.shop,/,mobile,Mexico,Santiago de Queretaro,1,1,0,0,0,1,20220704,15,MX
+Returning Visitor,protraffic.shop,/,desktop,Mexico,(not set),1,1,317,317,0,0,20220704,15,MX
+Returning Visitor,protraffic.shop,/,desktop,Mexico,Ciudad Lopez Mateos,1,1,313,313,0,0,20220704,15,MX
+Returning Visitor,protraffic.shop,/,desktop,Mexico,Guadalupe,1,2,289,290,0,1,20220704,15,MX
+Returning Visitor,protraffic.shop,/,desktop,Mexico,Monterrey,1,1,320,320,0,0,20220704,15,MX
+Returning Visitor,protraffic.shop,/,mobile,Mexico,(not set),2,2,633,634,0,0,20220704,15,MX
+Returning Visitor,protraffic.shop,/,mobile,Mexico,Ciudad Apodaca,1,1,315,315,0,0,20220704,15,MX
+Returning Visitor,protraffic.shop,/,mobile,Mexico,Cuernavaca,1,1,305,305,0,0,20220704,15,MX
+Returning Visitor,protraffic.shop,/,mobile,Mexico,Naucalpan de Juarez,1,2,266,267,0,1,20220704,15,MX
+Returning Visitor,protraffic.shop,/,mobile,Mexico,Santiago de Queretaro,1,2,282,283,0,1,20220704,15,MX
+Returning Visitor,protraffic.shop,/,mobile,Mexico,Tuxtla Gutierrez,1,1,320,320,0,0,20220704,15,MX
+New Visitor,google,/blog/ssd-yolo,desktop,Mexico,Yurecuaro,1,1,0,0,10863,1,20220706,22,MX
+New Visitor,google,/blog/magic-wand,desktop,France,Grenoble,1,1,0,0,0,1,20220629,21,FR
+New Visitor,google,/blog/ssd-yolo,desktop,France,Toulouse,1,1,0,0,0,1,20220630,12,FR
+New Visitor,google,/blog/vimwiki-hugo,desktop,France,Auxerre,1,1,0,0,0,1,20220703,22,FR
+New Visitor,google,/blog/ssd-yolo,desktop,France,Toulouse,1,1,0,0,0,1,20220704,14,FR
+New Visitor,protraffic.shop,/,desktop,France,(not set),1,1,312,312,0,0,20220704,15,FR
+New Visitor,protraffic.shop,/,desktop,France,Annecy,1,1,312,313,0,0,20220704,15,FR
+New Visitor,protraffic.shop,/,desktop,France,Saint-Gaudens,1,1,316,317,0,0,20220704,15,FR
+New Visitor,protraffic.shop,/,desktop,France,Suresnes,1,1,320,320,0,0,20220704,15,FR
+New Visitor,protraffic.shop,/,mobile,France,(not set),2,2,638,639,0,0,20220704,15,FR
+New Visitor,protraffic.shop,/,mobile,France,Ales,1,1,314,314,0,0,20220704,15,FR
+New Visitor,protraffic.shop,/,mobile,France,Beaune,1,1,312,313,0,0,20220704,15,FR
+New Visitor,protraffic.shop,/,mobile,France,Lyon,1,1,319,319,0,0,20220704,15,FR
+New Visitor,protraffic.shop,/,mobile,France,Strasbourg,1,1,0,0,0,1,20220704,15,FR
+New Visitor,protraffic.shop,/,mobile,France,Tours,1,1,0,0,0,1,20220704,15,FR
+New Visitor,protraffic.shop,/,tablet,France,Lyon,1,1,321,321,0,0,20220704,15,FR
+Returning Visitor,protraffic.shop,/,desktop,France,(not set),1,1,319,319,0,0,20220704,15,FR
+Returning Visitor,protraffic.shop,/,desktop,France,Paris,1,1,313,313,0,0,20220704,15,FR
+Returning Visitor,protraffic.shop,/,mobile,France,Strasbourg,1,2,313,313,0,1,20220704,15,FR
+Returning Visitor,protraffic.shop,/,mobile,France,Tours,1,2,217,218,0,1,20220704,15,FR
+Returning Visitor,protraffic.shop,/,mobile,France,Venissieux,1,1,315,315,0,0,20220704,15,FR
+New Visitor,google,/blog/analytics-google,desktop,France,Lyon,1,1,0,0,0,1,20220705,20,FR
+New Visitor,google,/blog/vimwiki-hugo,desktop,France,(not set),1,1,0,0,0,1,20220706,9,FR
+New Visitor,google,/blog/monitoring-grafana,desktop,France,Paris,1,1,0,0,0,1,20220706,18,FR
+New Visitor,(direct),/,desktop,France,Paris,1,1,4,4,0,0,20220706,23,FR
+New Visitor,(direct),/blog/ssd-yolo,desktop,France,Paris,1,0,0,0,0,0,20220706,23,FR
 New Visitor,google,/blog/serverless-api-lambda,desktop,Australia,Sydney,1,1,0,0,0,1,20220630,3,AU
 New Visitor,google,/blog/motion-monitor-opencv,desktop,Australia,Wollongong,1,1,0,0,0,1,20220630,6,AU
 New Visitor,(direct),/blog/magic-wand,mobile,Australia,Gold Coast,1,1,0,0,0,1,20220630,16,AU
@@ -474,6 +317,7 @@ Returning Visitor,protraffic.shop,/,mobile,Philippines,Quezon City,1,3,229,229,0
 Returning Visitor,protraffic.shop,/,mobile,Philippines,Tacloban City,1,2,313,314,0,1,20220704,15,PH
 Returning Visitor,protraffic.shop,/,mobile,Philippines,Taguig,1,1,312,312,0,0,20220704,15,PH
 Returning Visitor,protraffic.shop,/,tablet,Philippines,Cabanatuan City,1,1,320,319,0,0,20220704,15,PH
+New Visitor,google,/blog/ssd-yolo,desktop,Philippines,Manila,1,1,0,0,0,1,20220706,3,PH
 New Visitor,google,/blog/data-withings,desktop,Pakistan,(not set),1,1,0,0,0,1,20220630,9,PK
 New Visitor,google,/blog/ssd-yolo,desktop,Pakistan,(not set),1,1,0,0,0,1,20220704,9,PK
 New Visitor,google,/blog/ssd-yolo,desktop,Pakistan,Rawalpindi,1,1,0,0,0,1,20220704,9,PK
@@ -487,6 +331,124 @@ New Visitor,protraffic.shop,/,desktop,Hungary,Tahitotfalu,1,1,318,318,0,0,202207
 Returning Visitor,protraffic.shop,/,mobile,Hungary,Kecskemet,1,1,316,317,0,0,20220704,15,HU
 New Visitor,google,/blog/serverless-api-lambda,desktop,Hungary,Budapest,1,1,0,0,0,1,20220705,8,HU
 New Visitor,google,/blog/ssd-yolo,desktop,Hungary,Szazhalombatta,1,1,0,0,0,1,20220705,8,HU
+Returning Visitor,(direct),/blog/image-rotation-opencv,desktop,Japan,Taito City,1,1,0,0,0,1,20220630,10,JP
+Returning Visitor,(direct),/blog/image-rotation-opencv,desktop,Japan,Taito City,1,1,0,0,0,1,20220701,3,JP
+New Visitor,bing,/blog/ssd-yolo,desktop,Japan,(not set),1,1,0,0,0,1,20220701,7,JP
+New Visitor,google,/blog/ssd-yolo,desktop,Japan,Chuo City,1,1,0,0,0,1,20220701,7,JP
+New Visitor,bing,/blog/grafana-dashboard,desktop,Japan,Nagoya,1,1,0,0,0,1,20220701,11,JP
+New Visitor,protraffic.shop,/,desktop,Japan,(not set),1,1,314,315,0,0,20220704,15,JP
+New Visitor,protraffic.shop,/,desktop,Japan,Hiroshima,1,1,316,317,0,0,20220704,15,JP
+New Visitor,protraffic.shop,/,desktop,Japan,Kasama,1,1,0,0,0,1,20220704,15,JP
+New Visitor,protraffic.shop,/,desktop,Japan,Koto City,1,1,313,312,0,0,20220704,15,JP
+New Visitor,protraffic.shop,/,desktop,Japan,Matsubara,1,1,313,313,0,0,20220704,15,JP
+New Visitor,protraffic.shop,/,desktop,Japan,Nishinomiya,1,1,313,313,0,0,20220704,15,JP
+New Visitor,protraffic.shop,/,desktop,Japan,Osaka,1,1,315,316,0,0,20220704,15,JP
+New Visitor,protraffic.shop,/,desktop,Japan,Shinagawa City,1,1,0,0,0,1,20220704,15,JP
+New Visitor,protraffic.shop,/,desktop,Japan,Toyonaka,1,1,318,318,0,0,20220704,15,JP
+New Visitor,protraffic.shop,/,desktop,Japan,Yokohama,1,1,0,0,0,1,20220704,15,JP
+New Visitor,protraffic.shop,/,mobile,Japan,(not set),3,3,943,945,0,0,20220704,15,JP
+New Visitor,protraffic.shop,/,mobile,Japan,Adachi City,1,1,320,319,0,0,20220704,15,JP
+New Visitor,protraffic.shop,/,mobile,Japan,Itabashi City,1,1,312,313,0,0,20220704,15,JP
+New Visitor,protraffic.shop,/,mobile,Japan,Nagasaki,1,1,318,318,0,0,20220704,15,JP
+New Visitor,protraffic.shop,/,mobile,Japan,Nagoya,2,2,634,634,0,0,20220704,15,JP
+New Visitor,protraffic.shop,/,mobile,Japan,Utsunomiya,1,1,318,318,0,0,20220704,15,JP
+Returning Visitor,protraffic.shop,/,desktop,Japan,(not set),2,2,638,638,0,0,20220704,15,JP
+Returning Visitor,protraffic.shop,/,desktop,Japan,Kasama,1,2,275,276,0,1,20220704,15,JP
+Returning Visitor,protraffic.shop,/,desktop,Japan,Kochi,1,1,314,314,0,0,20220704,15,JP
+Returning Visitor,protraffic.shop,/,desktop,Japan,Okayama,1,1,315,315,0,0,20220704,15,JP
+Returning Visitor,protraffic.shop,/,desktop,Japan,Shinagawa City,1,2,285,285,0,1,20220704,15,JP
+Returning Visitor,protraffic.shop,/,desktop,Japan,Yokohama,1,2,289,289,0,1,20220704,15,JP
+Returning Visitor,protraffic.shop,/,mobile,Japan,(not set),2,2,626,627,0,0,20220704,15,JP
+Returning Visitor,protraffic.shop,/,mobile,Japan,Ichinoseki,1,1,316,317,0,0,20220704,15,JP
+Returning Visitor,protraffic.shop,/,mobile,Japan,Minato City,1,1,316,317,0,0,20220704,15,JP
+Returning Visitor,protraffic.shop,/,mobile,Japan,Nagano,1,1,320,320,0,0,20220704,15,JP
+New Visitor,(direct),/blog/vimwiki-hugo,desktop,Netherlands,Rotterdam,1,1,0,0,0,1,20220630,15,NL
+New Visitor,google,/blog/mopidy-muse,desktop,Netherlands,Groningen,1,1,0,0,0,1,20220630,21,NL
+New Visitor,protraffic.shop,/,desktop,Netherlands,Purmerend,1,1,320,320,0,0,20220704,15,NL
+New Visitor,protraffic.shop,/,mobile,Netherlands,7545,1,1,316,317,0,0,20220704,15,NL
+New Visitor,protraffic.shop,/,mobile,Netherlands,Amsterdam,2,2,318,318,0,1,20220704,15,NL
+New Visitor,protraffic.shop,/,mobile,Netherlands,Emmen,1,1,316,316,0,0,20220704,15,NL
+Returning Visitor,protraffic.shop,/,desktop,Netherlands,(not set),1,1,317,317,0,0,20220704,15,NL
+Returning Visitor,protraffic.shop,/,desktop,Netherlands,Amsterdam,1,1,320,320,0,0,20220704,15,NL
+Returning Visitor,protraffic.shop,/,desktop,Netherlands,Bergen op Zoom,1,3,249,249,0,2,20220704,15,NL
+Returning Visitor,protraffic.shop,/,mobile,Netherlands,Amsterdam,1,4,287,287,0,3,20220704,15,NL
+New Visitor,google,/blog/music-voice-cotrol,desktop,Netherlands,The Hague,1,1,0,0,0,1,20220704,23,NL
+Returning Visitor,google,/blog/mopidy-muse,desktop,Netherlands,Groningen,1,1,0,0,0,1,20220705,19,NL
+New Visitor,duckduckgo,/blog/vimwiki-hugo,desktop,Netherlands,Amsterdam,1,1,0,0,0,1,20220706,16,NL
+Returning Visitor,presearch.com,/blog/monitoring-grafana,desktop,Netherlands,The Hague,1,1,0,0,0,1,20220706,21,NL
+New Visitor,google,/blog/ssd-yolo,desktop,Sweden,Sundsvall,1,1,0,0,0,1,20220630,21,SE
+New Visitor,protraffic.shop,/,desktop,Sweden,Gothenburg,1,1,314,314,0,0,20220704,15,SE
+Returning Visitor,protraffic.shop,/,mobile,Sweden,(not set),1,1,319,318,0,0,20220704,15,SE
+New Visitor,google,/blog/monitoring-grafana,desktop,Indonesia,Jakarta,1,1,0,0,0,1,20220701,0,ID
+New Visitor,google,/blog/ssd-yolo,mobile,Indonesia,Medan,1,1,0,0,0,1,20220701,21,ID
+New Visitor,google,/blog/monitoring-grafana,desktop,Indonesia,Jakarta,1,1,0,0,0,1,20220704,7,ID
+New Visitor,protraffic.shop,/,desktop,Indonesia,(not set),1,1,320,320,0,0,20220704,15,ID
+New Visitor,protraffic.shop,/,desktop,Indonesia,Bogor,1,1,0,0,0,1,20220704,15,ID
+New Visitor,protraffic.shop,/,desktop,Indonesia,Jakarta,3,3,950,951,0,0,20220704,15,ID
+New Visitor,protraffic.shop,/,desktop,Indonesia,Semarang,1,1,315,315,0,0,20220704,15,ID
+New Visitor,protraffic.shop,/,tablet,Indonesia,Jakarta,1,1,0,0,0,1,20220704,15,ID
+Returning Visitor,protraffic.shop,/,desktop,Indonesia,Banjarmasin,1,1,320,319,0,0,20220704,15,ID
+Returning Visitor,protraffic.shop,/,desktop,Indonesia,Bogor,1,2,224,223,0,1,20220704,15,ID
+Returning Visitor,protraffic.shop,/,desktop,Indonesia,Jakarta,1,3,258,258,0,2,20220704,15,ID
+Returning Visitor,protraffic.shop,/,desktop,Indonesia,Kebasen,1,1,315,315,0,0,20220704,15,ID
+Returning Visitor,protraffic.shop,/,desktop,Indonesia,South Tangerang,1,1,320,320,0,0,20220704,15,ID
+Returning Visitor,protraffic.shop,/,desktop,Indonesia,Surabaya,1,1,312,312,0,0,20220704,15,ID
+Returning Visitor,protraffic.shop,/,mobile,Indonesia,(not set),2,2,633,633,0,0,20220704,15,ID
+Returning Visitor,protraffic.shop,/,mobile,Indonesia,Gorontalo,1,1,314,314,0,0,20220704,15,ID
+Returning Visitor,protraffic.shop,/,mobile,Indonesia,Jakarta,1,1,320,319,0,0,20220704,15,ID
+Returning Visitor,protraffic.shop,/,mobile,Indonesia,Purworejo,1,3,277,277,0,2,20220704,15,ID
+Returning Visitor,protraffic.shop,/,mobile,Indonesia,Surabaya,1,3,230,229,0,2,20220704,15,ID
+Returning Visitor,protraffic.shop,/,tablet,Indonesia,Jakarta,1,2,219,218,0,1,20220704,15,ID
+New Visitor,google,/blog/ssd-yolo,desktop,Indonesia,Surabaya,1,1,0,0,0,1,20220704,17,ID
+New Visitor,google,/,desktop,Indonesia,Jakarta,1,0,0,0,0,0,20220705,6,ID
+New Visitor,google,/blog/amp-search-jekyll,desktop,Indonesia,Jakarta,1,1,68,68,0,0,20220705,6,ID
+New Visitor,google,/,desktop,Indonesia,Pontianak,1,0,0,9,0,0,20220706,15,ID
+New Visitor,google,/blog,desktop,Indonesia,Pontianak,1,0,0,241,0,0,20220706,15,ID
+New Visitor,google,/blog/amp-search-jekyll,desktop,Indonesia,Pontianak,1,1,408,158,0,0,20220706,15,ID
+New Visitor,google,/blog/motion-monitor-opencv,desktop,Indonesia,Bandung,1,0,0,0,0,0,20220706,18,ID
+New Visitor,google,/blog/raspberry-video-stream,desktop,Indonesia,Bandung,1,0,0,947,0,0,20220706,18,ID
+New Visitor,google,/blog/ssd-yolo,desktop,Indonesia,Bandung,1,1,1076,129,0,0,20220706,18,ID
+New Visitor,mopidy.com,/blog/mopidy-muse,desktop,Belgium,Brussels,1,1,17,17,0,0,20220701,0,BE
+New Visitor,protraffic.shop,/,desktop,Belgium,(not set),1,1,312,313,0,0,20220704,15,BE
+New Visitor,protraffic.shop,/,desktop,Belgium,Brussels,1,1,320,319,0,0,20220704,15,BE
+New Visitor,protraffic.shop,/,desktop,Belgium,Wavre,1,1,320,320,0,0,20220704,15,BE
+New Visitor,google,/blog/image-rotation-opencv,desktop,Belgium,Soignies,1,1,0,0,0,1,20220704,17,BE
+New Visitor,google,/blog/image-preprocessing,mobile,United Kingdom,Ilkley,1,1,0,0,0,1,20220701,1,GB
+New Visitor,google,/blog/mopidy-muse,desktop,United Kingdom,Bristol,1,1,0,0,0,1,20220702,16,GB
+New Visitor,google,/blog/music-voice-cotrol,desktop,United Kingdom,Belfast,1,1,0,0,0,1,20220702,19,GB
+New Visitor,google,/blog/magic-wand,desktop,United Kingdom,Staines-upon-Thames,1,1,0,0,0,1,20220703,10,GB
+Returning Visitor,google,/blog/magic-wand,desktop,United Kingdom,London,1,1,0,0,0,1,20220704,12,GB
+New Visitor,protraffic.shop,/,desktop,United Kingdom,Birmingham,1,1,317,317,0,0,20220704,15,GB
+New Visitor,protraffic.shop,/,desktop,United Kingdom,Edinburgh,1,1,0,0,0,1,20220704,15,GB
+New Visitor,protraffic.shop,/,desktop,United Kingdom,London,1,1,315,314,0,0,20220704,15,GB
+New Visitor,protraffic.shop,/,desktop,United Kingdom,Scarborough,1,1,313,313,0,0,20220704,15,GB
+New Visitor,protraffic.shop,/,mobile,United Kingdom,(not set),1,1,313,313,0,0,20220704,15,GB
+New Visitor,protraffic.shop,/,mobile,United Kingdom,London,1,1,312,312,0,0,20220704,15,GB
+New Visitor,protraffic.shop,/,mobile,United Kingdom,Stockport,1,1,321,321,0,0,20220704,15,GB
+New Visitor,protraffic.shop,/,tablet,United Kingdom,London,1,1,314,314,0,0,20220704,15,GB
+Returning Visitor,protraffic.shop,/,desktop,United Kingdom,Edinburgh,1,2,251,250,0,1,20220704,15,GB
+Returning Visitor,protraffic.shop,/,desktop,United Kingdom,London,1,1,312,312,0,0,20220704,15,GB
+Returning Visitor,protraffic.shop,/,desktop,United Kingdom,Norwich,1,1,314,314,0,0,20220704,15,GB
+Returning Visitor,protraffic.shop,/,mobile,United Kingdom,(not set),1,1,319,319,0,0,20220704,15,GB
+Returning Visitor,protraffic.shop,/,mobile,United Kingdom,Beaminster,1,1,313,313,0,0,20220704,15,GB
+Returning Visitor,protraffic.shop,/,mobile,United Kingdom,Doncaster,1,3,282,283,0,2,20220704,15,GB
+Returning Visitor,protraffic.shop,/,mobile,United Kingdom,Skelmersdale,1,1,319,318,0,0,20220704,15,GB
+Returning Visitor,protraffic.shop,/,mobile,United Kingdom,Southampton,1,3,313,314,0,2,20220704,15,GB
+New Visitor,duckduckgo,/blog/vimwiki-hugo,desktop,United Kingdom,Dudley,1,1,0,0,0,1,20220706,21,GB
+New Visitor,google,/blog/ssd-yolo,desktop,Italy,Milan,1,1,0,0,0,1,20220701,15,IT
+New Visitor,google,/blog/motion-monitor-opencv,desktop,Italy,Vicenza,1,1,0,0,0,1,20220703,14,IT
+New Visitor,protraffic.shop,/,desktop,Italy,(not set),1,1,311,311,0,0,20220704,15,IT
+New Visitor,protraffic.shop,/,desktop,Italy,Milan,3,3,628,629,0,1,20220704,15,IT
+New Visitor,protraffic.shop,/,mobile,Italy,Caronno Pertusella,1,1,315,315,0,0,20220704,15,IT
+New Visitor,protraffic.shop,/,mobile,Italy,Milan,1,1,313,312,0,0,20220704,15,IT
+New Visitor,protraffic.shop,/,mobile,Italy,Novara,1,1,318,318,0,0,20220704,15,IT
+Returning Visitor,protraffic.shop,/,desktop,Italy,Milan,1,2,314,314,0,1,20220704,15,IT
+Returning Visitor,protraffic.shop,/,desktop,Italy,Rome,1,1,313,313,0,0,20220704,15,IT
+Returning Visitor,protraffic.shop,/,tablet,Italy,(not set),1,3,249,249,0,2,20220704,15,IT
+New Visitor,google,/blog/image-rotation-opencv,desktop,Italy,Cava de' Tirreni,1,1,0,0,0,1,20220704,16,IT
+New Visitor,duckduckgo,/blog/ssd-yolo,mobile,Italy,Bergamo,1,1,0,0,0,1,20220705,0,IT
+New Visitor,google,/blog/motion-monitor-opencv,desktop,Italy,Rome,1,1,0,0,0,1,20220705,21,IT
+New Visitor,google,/blog/document-detection,desktop,Italy,Genoa,1,1,0,0,0,1,20220706,14,IT
 New Visitor,google,/blog/motion-monitor-opencv,mobile,South Africa,Cape Town,1,1,0,0,0,1,20220701,19,ZA
 Returning Visitor,google,/blog/motion-monitor-opencv,mobile,South Africa,Cape Town,1,1,0,0,0,1,20220702,0,ZA
 Returning Visitor,google,/blog/motion-monitor-opencv,mobile,South Africa,Cape Town,1,1,0,0,0,1,20220702,8,ZA
@@ -516,6 +478,13 @@ New Visitor,google,/blog/serverless-api-lambda,desktop,New Zealand,Auckland,1,1,
 New Visitor,protraffic.shop,/,desktop,New Zealand,(not set),1,1,318,318,0,0,20220704,15,NZ
 New Visitor,protraffic.shop,/,mobile,New Zealand,(not set),1,1,0,0,0,1,20220704,15,NZ
 Returning Visitor,protraffic.shop,/,mobile,New Zealand,(not set),1,2,222,221,0,1,20220704,15,NZ
+New Visitor,google,/blog/ssd-yolo,desktop,Malaysia,Kluang,1,1,0,0,0,1,20220702,10,MY
+New Visitor,protraffic.shop,/,tablet,Malaysia,Kuala Lumpur,1,1,319,319,0,0,20220704,15,MY
+Returning Visitor,protraffic.shop,/,desktop,Malaysia,Johor Bahru,1,1,319,319,0,0,20220704,15,MY
+Returning Visitor,protraffic.shop,/,desktop,Malaysia,Kota Kinabalu,1,1,315,315,0,0,20220704,15,MY
+Returning Visitor,protraffic.shop,/,desktop,Malaysia,Shah Alam,1,3,249,249,0,2,20220704,15,MY
+Returning Visitor,protraffic.shop,/,mobile,Malaysia,Lahad Datu,1,1,304,304,0,0,20220704,15,MY
+Returning Visitor,protraffic.shop,/,mobile,Malaysia,Puchong,1,1,315,315,0,0,20220704,15,MY
 New Visitor,google,/blog/motion-monitor-opencv,desktop,Turkey,Talas,1,0,0,0,0,0,20220703,14,TR
 New Visitor,google,/blog/ssd-yolo,desktop,Turkey,Talas,1,1,783,783,0,0,20220703,14,TR
 New Visitor,protraffic.shop,/,desktop,Turkey,(not set),1,1,312,312,0,0,20220704,15,TR
@@ -532,6 +501,16 @@ Returning Visitor,protraffic.shop,/,mobile,Turkey,Istanbul,1,1,322,321,0,0,20220
 Returning Visitor,protraffic.shop,/,mobile,Turkey,Salihli,1,1,319,319,0,0,20220704,15,TR
 Returning Visitor,protraffic.shop,/,mobile,Turkey,Samsun,1,1,313,312,0,0,20220704,15,TR
 Returning Visitor,protraffic.shop,/,tablet,Turkey,Samsun,1,3,292,292,0,2,20220704,15,TR
+New Visitor,google,/blog/ssd-yolo,desktop,China,Guangzhou,1,1,0,0,0,1,20220703,16,CN
+New Visitor,protraffic.shop,/,desktop,China,(not set),5,5,1265,1266,0,1,20220704,15,CN
+New Visitor,protraffic.shop,/,desktop,China,Zhengzhou,1,1,312,312,0,0,20220704,15,CN
+New Visitor,protraffic.shop,/,mobile,China,(not set),1,1,317,317,0,0,20220704,15,CN
+New Visitor,protraffic.shop,/,mobile,China,Beijing,1,1,315,315,0,0,20220704,15,CN
+Returning Visitor,protraffic.shop,/,desktop,China,(not set),6,7,1834,1834,0,1,20220704,15,CN
+Returning Visitor,protraffic.shop,/,desktop,China,Fuzhou,1,1,315,315,0,0,20220704,15,CN
+Returning Visitor,protraffic.shop,/,mobile,China,(not set),6,8,1881,1882,0,2,20220704,15,CN
+New Visitor,(direct),/blog/magic-wand,desktop,China,(not set),1,1,0,0,0,1,20220706,4,CN
+Returning Visitor,cn.bing.com,/blog/document-detection,desktop,China,(not set),1,1,0,0,0,1,20220706,14,CN
 New Visitor,google,/blog/motion-monitor-opencv,mobile,Ukraine,(not set),1,1,94,94,0,0,20220703,21,UA
 New Visitor,protraffic.shop,/,desktop,Ukraine,Simferopol,1,1,319,318,0,0,20220704,15,UA
 Returning Visitor,protraffic.shop,/,desktop,Ukraine,(not set),1,1,313,313,0,0,20220704,15,UA
@@ -549,6 +528,11 @@ Returning Visitor,protraffic.shop,/,desktop,Thailand,Nakhon Ratchasima,1,1,316,3
 Returning Visitor,protraffic.shop,/,mobile,Thailand,(not set),1,1,318,318,0,0,20220704,15,TH
 Returning Visitor,protraffic.shop,/,mobile,Thailand,Bangkok,2,3,571,571,0,1,20220704,15,TH
 New Visitor,google,/blog/serverless-api-lambda,desktop,Thailand,Bangkok,1,1,0,0,0,1,20220705,12,TH
+New Visitor,google,/blog/serverless-api-lambda,desktop,Austria,Vienna,1,1,0,0,0,1,20220704,12,AT
+New Visitor,protraffic.shop,/,mobile,Austria,(not set),1,1,319,319,0,0,20220704,15,AT
+New Visitor,protraffic.shop,/,mobile,Austria,Vosendorf,1,1,316,315,0,0,20220704,15,AT
+Returning Visitor,protraffic.shop,/,desktop,Austria,Dornbirn,1,1,319,318,0,0,20220704,15,AT
+Returning Visitor,protraffic.shop,/,mobile,Austria,Wiener Neustadt,1,1,319,319,0,0,20220704,15,AT
 New Visitor,google,/blog/vimwiki-hugo,desktop,Argentina,Buenos Aires,1,1,0,0,0,1,20220704,15,AR
 New Visitor,protraffic.shop,/,desktop,Argentina,(not set),1,1,0,0,0,1,20220704,15,AR
 New Visitor,protraffic.shop,/,desktop,Argentina,Gregorio de Laferrere,1,1,315,315,0,0,20220704,15,AR
@@ -580,6 +564,13 @@ Returning Visitor,protraffic.shop,/,desktop,Bulgaria,Nessebar,1,4,216,217,0,3,20
 Returning Visitor,protraffic.shop,/,tablet,Bulgaria,Vidin,1,1,315,315,0,0,20220704,15,BG
 New Visitor,protraffic.shop,/,desktop,Cambodia,(not set),1,1,318,318,0,0,20220704,15,KH
 Returning Visitor,protraffic.shop,/,desktop,Cambodia,Phnom Penh,1,1,312,311,0,0,20220704,15,KH
+New Visitor,protraffic.shop,/,desktop,Canada,Quebec City,1,1,320,320,0,0,20220704,15,CA
+New Visitor,protraffic.shop,/,desktop,Canada,Toronto,2,2,639,639,0,0,20220704,15,CA
+New Visitor,protraffic.shop,/,mobile,Canada,Montreal,2,2,313,313,0,1,20220704,15,CA
+Returning Visitor,protraffic.shop,/,desktop,Canada,Calgary,1,3,281,281,0,2,20220704,15,CA
+Returning Visitor,protraffic.shop,/,desktop,Canada,Montreal,1,1,317,318,0,0,20220704,15,CA
+Returning Visitor,protraffic.shop,/,mobile,Canada,Montreal,1,4,256,256,0,3,20220704,15,CA
+Returning Visitor,protraffic.shop,/,tablet,Canada,Chateau-Richer,1,1,316,316,0,0,20220704,15,CA
 New Visitor,protraffic.shop,/,desktop,Colombia,(not set),1,1,311,311,0,0,20220704,15,CO
 New Visitor,protraffic.shop,/,desktop,Colombia,Barranquilla,1,1,319,318,0,0,20220704,15,CO
 New Visitor,protraffic.shop,/,desktop,Colombia,Medellin,1,1,318,318,0,0,20220704,15,CO
@@ -655,6 +646,8 @@ New Visitor,protraffic.shop,/,mobile,Sri Lanka,Colombo,1,1,313,313,0,0,20220704,
 Returning Visitor,protraffic.shop,/,desktop,Sri Lanka,Colombo,1,1,312,312,0,0,20220704,15,LK
 New Visitor,google,/blog/image-rotation-opencv,desktop,Sri Lanka,Colombo,1,1,0,0,0,1,20220705,3,LK
 Returning Visitor,google,/blog/image-rotation-opencv,desktop,Sri Lanka,Colombo,1,1,0,0,0,1,20220705,16,LK
+Returning Visitor,google,/blog/image-rotation-opencv,desktop,Sri Lanka,Colombo,1,1,0,0,0,1,20220706,3,LK
+New Visitor,protraffic.shop,/,desktop,Tunisia,(not set),2,2,639,639,0,0,20220704,15,TN
 New Visitor,protraffic.shop,/,desktop,Uganda,Kampala,1,1,317,317,0,0,20220704,15,UG
 New Visitor,protraffic.shop,/,mobile,Uganda,(not set),1,1,311,311,0,0,20220704,15,UG
 New Visitor,protraffic.shop,/,desktop,Uzbekistan,Tashkent,1,1,317,317,0,0,20220704,15,UZ
@@ -686,6 +679,8 @@ Returning Visitor,protraffic.shop,/,mobile,Ethiopia,Addis Ababa,1,1,314,314,0,0,
 New Visitor,protraffic.shop,/,mobile,Guam,(not set),1,1,320,320,0,0,20220704,15,GU
 New Visitor,protraffic.shop,/,mobile,Honduras,Tegucigalpa,1,1,318,318,0,0,20220704,15,HN
 Returning Visitor,protraffic.shop,/,desktop,Honduras,(not set),1,1,316,317,0,0,20220704,15,HN
+New Visitor,protraffic.shop,/,mobile,Ireland,Dublin,1,1,316,317,0,0,20220704,15,IE
+Returning Visitor,protraffic.shop,/,mobile,Ireland,(not set),1,1,318,318,0,0,20220704,15,IE
 New Visitor,protraffic.shop,/,mobile,Mali,(not set),1,1,313,313,0,0,20220704,15,ML
 New Visitor,protraffic.shop,/,mobile,New Caledonia,Noumea,1,1,0,0,0,1,20220704,15,NC
 Returning Visitor,protraffic.shop,/,mobile,New Caledonia,Noumea,1,2,283,283,0,1,20220704,15,NC
@@ -709,3 +704,5 @@ Returning Visitor,protraffic.shop,/,mobile,Zambia,Lusaka,1,1,320,320,0,0,2022070
 Returning Visitor,protraffic.shop,/,tablet,Kuwait,(not set),1,1,319,319,0,0,20220704,15,KW
 Returning Visitor,protraffic.shop,/,tablet,Namibia,(not set),1,1,315,315,0,0,20220704,15,
 New Visitor,google,/blog/image-rotation-opencv,desktop,Armenia,Yerevan,1,1,0,0,0,1,20220704,18,AM
+New Visitor,google,/blog/mopidy-muse,mobile,Denmark,Copenhagen,1,1,0,0,0,1,20220706,11,DK
+New Visitor,google,/blog/monitoring-grafana,desktop,Belarus,Minsk,1,1,0,0,0,1,20220706,14,BY
