@@ -38,10 +38,10 @@
   const unsubscribe = results.subscribe(myData => {
     if (myData.length > 0 && provenancesChart) {
       provenances = myData.reduce((total, s) => {
-        if (s.source in total) {
-          total[s.source] += s.sessions;
+        if (s.pageReferrer in total) {
+          total[s.pageReferrer] += s.sessions;
         } else {
-          total[s.source] = s.sessions;
+          total[s.pageReferrer] = s.sessions;
         }
         return total
       }, {})
@@ -58,7 +58,7 @@
         return b.data - a.data;
       })
       .reduce((total, s, idx) => {
-        if (idx > 10) {
+        if ((idx > 10) || (s.label == "")) {
           if ('Others' in total) {
             total.Others += s.data
           } else {
@@ -82,8 +82,8 @@
     if (activePoints[0]) {
       const idx = activePoints[0]['_index'];
       const provenance = Object.keys(provenances)[idx]
-      $results = $dataCsv.filter(x => x.source === provenance)
-      $lastWeekTemp = $lastWeek.filter(x => x.source === provenance)
+      $results = $dataCsv.filter(x => x.pageReferrer === provenance)
+      $lastWeekTemp = $lastWeek.filter(x => x.pageReferrer === provenance)
     }
   }
 

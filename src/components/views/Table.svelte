@@ -8,7 +8,7 @@
           <th>City</th>
           <th>Page path</th>
           <th>Devices</th>
-          <th>Sources</th>
+          <th>Referrer</th>
           <th>Sessions</th>
           <th>Users</th>
         </tr>
@@ -21,9 +21,9 @@
             <td>{row.city}</td>
             <td>{row.pagePath}</td>
             <td>{row.device}</td>
-            <td>{row.source}</td>
+            <td>{row.pageReferrer}</td>
             <td>{row.sessions}</td>
-            <td>{row.users}</td>
+            <td>{row.totalUsers}</td>
           </tr>
         {/each}
       </tbody>

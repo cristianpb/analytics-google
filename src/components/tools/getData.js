@@ -8,12 +8,12 @@ function processCsv(text) {
       headers.forEach((key, idx) => readRow[key] = row[idx]) 
       return {
         userType: readRow.userType,
-        source: readRow.source,
+        pageReferrer: readRow.pageReferrer,
         pagePath: readRow.pagePath,
         device: readRow.deviceCategory ? readRow.deviceCategory : readRow.device ? readRow.device : 'not available',
         country: readRow.country === '(not set)' ? '' : readRow.country,
         city: readRow.city === '(not set)' ? '': readRow.city,
-        users: +readRow.users,
+        totalUsers: +readRow.totalUsers,
         sessions: +readRow.sessions,
         sessionDuration: +readRow.sessionDuration,
         timeOnPage: +readRow.timeOnPage,
