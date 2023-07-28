@@ -27,9 +27,11 @@ jobs:
       - name: get data
         run: |
           make public/data
+          echo $TOKEN > token.json
           python analytics.py
         env:
           TOKEN: ${{ secrets.TOKEN }}
+          PROPERTY_ID: ${{ secrets.PROPERTY_ID }}
       - name: deploy to github pages
         if: success()
         uses: peaceiris/actions-gh-pages@v3
