@@ -1,13 +1,14 @@
 # [Google analytics dashboard](https://cristianpb.github.io/analytics-google/)
 
 Customized dashboard which:
+
 - connect to the google analytics api to fetch your analytics data ;
 - make interactive charts using the popular javascript library d3.js and dc.js ;
 - deploy your dashboard automatically in github pages serveless architecture by using github actions.
 
 More details are included in [my article](https://cristianpb.github.io/blog/analytics-google)
 
-![google analytics dashboard](https://cristianpb.github.io/assets/img/analytics-google/main.jpg "google analytics dashboard")
+![google analytics dashboard](https://cristianpb.github.io/assets/img/analytics-google/main.jpg 'google analytics dashboard')
 
 ## Installation
 
@@ -34,4 +35,4 @@ to update the data.
 
 - `python`
 - You need to have enable google api credentials in order to obtain a token and fetch google analytics data instructions can be found in [my article](https://cristianpb.github.io/blog/analytics-google).
-- I name the credentials as `token.json`.  If you want to name it different, you have to change the name in `analytics.py` file.
+- I name the credentials as `token.json`. If you want to name it different, you have to change the name in `analytics.py` file.

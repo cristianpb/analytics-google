@@ -3,9 +3,6 @@ venv:
 	python3 -m venv venv
 	venv/bin/pip install -U -r requirements.txt
 
-node_modules:
-	npm ci
-
 public/data:
 	mkdir -p public/data
 

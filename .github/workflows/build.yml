@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
         with:
-          node-version: '12.x'
+          node-version: '18.x'
       - name: Extract branch name
         shell: bash
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
@@ -24,17 +24,17 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
       - name: install node requirements
-        run: make node_modules
+        run: npm ci
       - name: 🏗 Build html
-        run: NODE_ENV=production npm run export
-        env:
-          BASEURL: '/analytics-google'
+        run: NODE_ENV=production npm run build
+        env: 
+          PUBLIC_BASEURL: '/analytics-google'
       - name: 🚀 Deploy to GitHub pages
         if: success() && steps.extract_branch.outputs.branch == 'master'
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
-          publish_dir: ./__sapper__/export/analytics-google
+          publish_dir: ./build
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
