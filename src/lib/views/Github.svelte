@@ -1,6 +1,6 @@
 <script>
 	import { onMount } from 'svelte';
-	import { fetchGithub } from '../../components/tools/getData.js';
+	import { fetchGithub } from '../tools/getData.js';
 	import Chart from 'chart.js';
 	let visitChart;
 	let clonesChart;
@@ -166,8 +166,6 @@
 		clonesChart.update();
 	});
 </script>
-
-<p class="is-size-3 has-text-centered">Github</p>
 
 <div class="columns">
 	<div class="column is-6">
