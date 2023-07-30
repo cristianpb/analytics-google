@@ -1,10 +1,56 @@
-userType,source,pagePath,deviceCategory,country,city,users,sessions,sessionDuration,timeOnPage,pageLoadTime,bounces,date,hour,countryIsoCode
-New Visitor,bing,/blog/ssd-yolo,desktop,China,(not set),1,1,0,0,0,1,20230716,10,CN
-New Visitor,bing,/blog/ssd-yolo,desktop,India,Nashik,1,1,0,0,0,1,20230716,11,IN
-New Visitor,google,/blog/magic-wand,desktop,India,Hyderabad,1,1,0,0,0,1,20230716,14,IN
-New Visitor,google,/about,mobile,France,Paris,1,1,0,0,0,1,20230716,12,FR
-New Visitor,google,/blog/traefik-goaccess,desktop,Libya,Janzur,1,1,0,0,0,1,20230716,12,LY
-New Visitor,google,/blog/raspberry-video-stream,desktop,Hong Kong,(not set),1,1,0,0,0,1,20230716,13,HK
-New Visitor,(direct),/blog/monitoring-grafana,mobile,United States,Sioux Rapids,1,1,1396,1396,0,0,20230716,15,US
-Returning Visitor,google,/blog/monitoring-grafana,desktop,United States,(not set),1,1,0,0,0,1,20230716,17,US
-Returning Visitor,(direct),/blog/monitoring-grafana,mobile,United States,La Crosse,1,1,0,0,0,1,20230716,19,US
+pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
+/,desktop,,,France,Vitry-sur-Seine,1,1,0,0,0,20230725,22,FR
+/,mobile,,,France,Vitry-sur-Seine,1,1,46.600211,0,1,20230725,22,FR
+/about,desktop,https://cristianpb.github.io/,,France,Vitry-sur-Seine,1,1,113.006025,0,1,20230725,22,FR
+/about,desktop,https://cristianpb.github.io/blog,,France,Vitry-sur-Seine,1,1,1.055792,0,1,20230725,22,FR
+/blog,desktop,https://cristianpb.github.io/about,,France,Vitry-sur-Seine,1,1,5.453665,1,1,20230725,22,FR
+/about,mobile,https://cristianpb.github.io/blog,,France,Vitry-sur-Seine,1,1,100.868164,12,0,20230725,23,FR
+/blog,mobile,https://cristianpb.github.io/about,,France,Vitry-sur-Seine,1,1,8.515336,2,1,20230725,23,FR
+/blog/magic-wand,mobile,https://cristianpb.github.io/blog,,France,Vitry-sur-Seine,1,1,2.148759,1,1,20230725,23,FR
+/blog/image-rotation-opencv,desktop,,,Thailand,Bangkok,1,1,0,2,1,20230726,2,TH
+/blog/vimwiki-hugo,desktop,,,Argentina,Buenos Aires,1,1,0,0,1,20230726,3,AR
+/about,desktop,https://cristianpb.github.io/blog,,Argentina,Buenos Aires,1,1,0,0,1,20230726,4,AR
+/blog,desktop,,,Argentina,Buenos Aires,1,1,0,2,1,20230726,4,AR
+/blog/analytics-google,desktop,https://www.google.com/,,India,Hosur,1,1,0,1,1,20230726,4,IN
+/blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,United States,Brentwood,1,1,0,1,1,20230726,8,US
+/blog/music-voice-cotrol,desktop,https://www.google.com/,,Austria,Vienna,1,1,0,1,1,20230726,8,AT
+/blog,desktop,,,France,(not set),1,1,7.725462,1,0,20230726,11,FR
+/blog/bulma-amp,desktop,https://cristianpb.github.io/blog,,France,(not set),1,1,11.828981,0,1,20230726,11,FR
+/blog/image-rotation-opencv,desktop,https://medium0.com/@coding-otter/image-and-bounding-box-rotation-using-opencv-python-2def6c39453,,Vietnam,Ho Chi Minh City,1,1,0,1,1,20230726,11,VN
+/blog/tags,desktop,https://cristianpb.github.io/blog,,France,(not set),1,1,7.384631,0,1,20230726,11,FR
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Taiwan,(not set),1,1,0,0,1,20230726,14,TW
+/blog/image-processing-using-serverless-architecture,desktop,https://in.search.yahoo.com/,,India,Navi Mumbai,1,1,0,1,1,20230726,17,IN
+/blog/document-detection,desktop,https://www.google.com/,,Spain,Zaragoza,1,1,0,0,1,20230726,18,ES
+/blog/ssd-yolo,desktop,,,Romania,Focsani,1,1,0,1,1,20230726,18,RO
+/blog/gnuplot-electrode,desktop,https://www.google.com/,,United States,Los Alamos,1,1,0,0,1,20230726,19,US
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Germany,Leipzig,1,1,0,0,1,20230726,22,DE
+/blog/mopidy-muse,desktop,https://mopidy.com/,,Canada,Calgary,1,1,0,1,1,20230726,23,CA
+/blog/serverless-api-lambda,desktop,https://www.google.com/,,United States,Anderson,1,1,0,1,0,20230727,6,US
+/blog/serverless-api-lambda,desktop,https://www.google.com/,,United States,Mount Vernon,1,1,1326.074291,1,1,20230727,6,US
+/blog/magic-wand,desktop,https://www.google.com/,,India,Shertha,1,1,0,1,1,20230727,7,IN
+/blog/monitoring-grafana,desktop,https://www.google.com/,,India,Bengaluru,1,1,0,2,1,20230727,10,IN
+/blog/grafana-dashboard,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,2,1,20230727,11,RU
+/blog/monitoring-grafana,desktop,https://www.google.com/,,India,Chennai,1,1,0,1,1,20230727,13,IN
+/blog/amp-search-jekyll,desktop,https://cristianpb.github.io/blog/bulma-amp,,Japan,Higashiosaka,1,1,44.469938,0,1,20230727,14,JP
+/blog/bulma-amp,desktop,https://t.co/,,Japan,Higashiosaka,1,1,82.896315,0,0,20230727,14,JP
+/blog/mopidy-muse,desktop,https://mopidy.com/,,Canada,Calgary,1,1,0,1,1,20230727,15,CA
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United States,Richmond,1,1,0,0,1,20230727,18,US
+/blog,desktop,https://www.google.com/,,France,Chelles,1,1,10.208047,2,0,20230727,19,FR
+/blog/motion-monitor-opencv,mobile,https://www.google.com/,,Austria,Pressbaum,1,1,0,0,1,20230727,19,AT
+/blog/ssd-yolo,desktop,,,United States,Bridgeton,1,1,0,2,1,20230728,1,US
+/blog/magic-wand,desktop,https://cn.bing.com/,,China,(not set),1,1,0,3,1,20230728,6,CN
+/blog/monitoring-grafana,mobile,,,United States,Minden,1,1,0,0,1,20230728,6,US
+/,desktop,https://cristianpb.github.io/blog/vimwiki-hugo,,Hungary,8790,1,1,183.505341,0,1,20230728,7,HU
+/blog/vimwiki-hugo,desktop,https://duckduckgo.com/,,Hungary,8790,1,1,13.14832,1,0,20230728,7,HU
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Taiwan,(not set),1,1,0,1,1,20230728,11,TW
+/blog/vimwiki-hugo,mobile,https://www.google.com,,Poland,Poznan,1,1,0,2,1,20230728,11,PL
+/blog/vimwiki-hugo,mobile,https://www.google.com/,,Poland,Poznan,1,1,0,1,1,20230728,11,PL
+/blog/image-preprocessing,desktop,https://www.google.com/,,United States,San Diego,1,1,0,1,1,20230728,17,US
+/blog/monitoring-grafana,desktop,,,Finland,Helsinki,1,1,0,1,1,20230728,17,FI
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Brazil,Belo Horizonte,1,1,0,0,1,20230728,18,BR
+/blog/motion-monitor-opencv,mobile,android-app://com.google.android.googlequicksearchbox/,,United Kingdom,Livingston,1,1,0,0,1,20230728,18,GB
+/blog/image-rotation-opencv,desktop,https://in.search.yahoo.com/,,India,Mumbai,1,1,0,1,1,20230728,19,IN
+/blog/vimwiki-hugo,mobile,https://www.google.com/,,India,New Delhi,1,1,0,1,1,20230728,22,IN
+/blog/mopidy-muse,desktop,https://mopidy.com/,,United States,Philadelphia,1,1,0,0,1,20230729,4,US
+/blog/ssd-yolo,mobile,https://yandex.by/,,Belarus,Gomel,1,1,0,0,1,20230729,11,BY
+/blog/vimwiki-hugo,mobile,https://www.google.com/,,Brazil,Taboao da Serra,1,1,0,1,1,20230730,2,BR
