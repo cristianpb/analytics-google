@@ -11,7 +11,7 @@
 	import { data as dataCsv } from '../tools/stores.js';
 </script>
 
-<section class="px-8">
+<section class="px-8 dark:bg-gray-900 dark:text-gray-300">
 	<div class="w-full">
 		{#if $dataCsv.length === 0}
     <div role="status" class="absolute -translate-x-1/2 -translate-y-1/2 top-2/4 left-1/2">

@@ -19,7 +19,7 @@
 	<title>Analytics - Cristian Perez Brokate</title>
 </svelte:head>
 
-<div class="app">
+<div class="app dark:bg-gray-900 dark:text-gray-300">
 	<Charts />
 	<Footer />
 </div>

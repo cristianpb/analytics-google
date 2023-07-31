@@ -1,4 +1,4 @@
-<footer class="m-4 bg-white rounded-lg shadow dark:bg-gray-900">
+<footer class="m-4 bg-white rounded-lg shadow dark:bg-gray-900 dark:text-gray-300">
     <div class="w-full p-4 mx-auto max-w-screen-xl md:py-8">
         <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
 

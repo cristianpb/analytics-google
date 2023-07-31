@@ -11,10 +11,10 @@
 </script>
 
 {#if tableRows}
-	<div class="overflow-x-auto">
+	<div class="overflow-x-auto ">
 		<table class="w-full table-auto">
 			<thead>
-				<tr class="bg-gray-100">
+				<tr class="bg-gray-100 dark:bg-gray-800 ">
 					<th>Day</th>
 					<th>Country</th>
 					<th>City</th>
@@ -27,7 +27,7 @@
 			</thead>
 			<tbody>
 				{#each Object.values(tableRows) as row}
-					<tr class="hover:bg-blue-100">
+					<tr class="hover:bg-blue-100 dark:hover:bg-blue-800">
 						<td>{row.day.substring(6, 8)}/{row.day.substring(4, 6)}/{row.day.substring(0, 4)}</td>
 						<td>{row.country}</td>
 						<td>{row.city}</td>
