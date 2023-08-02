@@ -1,12 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,France,Vitry-sur-Seine,1,1,0,0,0,20230725,22,FR
-/,mobile,,,France,Vitry-sur-Seine,1,1,46.600211,0,1,20230725,22,FR
-/about,desktop,https://cristianpb.github.io/,,France,Vitry-sur-Seine,1,1,113.006025,0,1,20230725,22,FR
-/about,desktop,https://cristianpb.github.io/blog,,France,Vitry-sur-Seine,1,1,1.055792,0,1,20230725,22,FR
-/blog,desktop,https://cristianpb.github.io/about,,France,Vitry-sur-Seine,1,1,5.453665,1,1,20230725,22,FR
-/about,mobile,https://cristianpb.github.io/blog,,France,Vitry-sur-Seine,1,1,100.868164,12,0,20230725,23,FR
-/blog,mobile,https://cristianpb.github.io/about,,France,Vitry-sur-Seine,1,1,8.515336,2,1,20230725,23,FR
-/blog/magic-wand,mobile,https://cristianpb.github.io/blog,,France,Vitry-sur-Seine,1,1,2.148759,1,1,20230725,23,FR
 /blog/image-rotation-opencv,desktop,,,Thailand,Bangkok,1,1,0,2,1,20230726,2,TH
 /blog/vimwiki-hugo,desktop,,,Argentina,Buenos Aires,1,1,0,0,1,20230726,3,AR
 /about,desktop,https://cristianpb.github.io/blog,,Argentina,Buenos Aires,1,1,0,0,1,20230726,4,AR
@@ -83,3 +75,9 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/monitoring-grafana,desktop,https://medium.com/@cristianpb/system-monitoring-with-grafana-influxdb-et-collectd-7827969e1fe,,United States,Lancaster,1,1,0,0,1,20230731,23,US
 /,mobile,,,France,Vitry-sur-Seine,1,1,0,0,1,20230801,6,FR
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,United States,Lewisville,1,1,0,0,1,20230801,6,US
+/blog/ssd-yolo,mobile,android-app://com.google.android.googlequicksearchbox/,,India,Delhi,1,1,18.88067,1,0,20230801,11,IN
+/blog/ssd-yolo,desktop,https://br.search.yahoo.com/,,Brazil,(not set),1,1,0,0,1,20230801,17,BR
+/blog/analytics-google,desktop,https://www.google.com/,,United States,Portland,1,1,0,0,1,20230801,22,US
+/blog/traefik-goaccess,desktop,https://www.bing.com/,,India,Mumbai,1,1,0,0,1,20230801,22,IN
+/blog/ssd-yolo,desktop,https://www.google.com/,,Russia,Moscow,1,1,0,1,1,20230802,7,RU
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Vietnam,Bien Hoa,1,1,0,2,1,20230802,8,VN
