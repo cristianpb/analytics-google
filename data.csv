@@ -1,21 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/motion-monitor-opencv,mobile,https://www.google.com/,,United States,Englewood,1,1,0,1,1,20230731,1,US
-/,desktop,,,Hong Kong,(not set),1,1,0,0,0,20230731,5,HK
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Hong Kong,(not set),1,1,12.647504,1,1,20230731,5,HK
-/blog/image-processing-using-serverless-architecture,mobile,https://www.google.com/,,Spain,San Fernando,1,1,0,1,1,20230731,10,ES
-/blog/ssd-yolo,desktop,https://www.google.com/,,United Kingdom,Kingston upon Hull,1,1,0,1,1,20230731,11,GB
-/blog/vimwiki-hugo,mobile,https://www.google.com/,,Canada,Whitchurch-Stouffville,1,1,0,1,1,20230731,11,CA
-/blog/document-detection,desktop,https://www.google.com/,,Türkiye,Istanbul,1,1,0,0,1,20230731,12,
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Belgium,Gembloux,1,1,0,0,1,20230731,12,BE
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Switzerland,Burgdorf,1,1,0,0,1,20230731,13,CH
-/blog/ssd-yolo,desktop,,,India,Chennai,1,1,221.975804,0,1,20230731,13,IN
-/blog/ssd-yolo,desktop,https://www.google.com/,,India,Chennai,1,1,0,1,0,20230731,13,IN
-/blog/jekyll-algolia,desktop,https://www.google.com/,,United States,Glenmont,1,1,0,0,1,20230731,18,US
-/blog/serverless-api-lambda,desktop,https://www.google.com/,,United States,(not set),1,1,0,0,1,20230731,19,US
-/blog/vimwiki-hugo,desktop,https://www.bing.com/,,United States,Salinas,1,1,0,0,1,20230731,21,US
-/blog/document-detection,desktop,https://www.google.com/,,Netherlands,Enschede,1,1,0,0,1,20230731,22,NL
-/blog/mopidy-muse,mobile,https://www.google.ie/,,Ireland,Dublin,1,1,0,0,1,20230731,22,IE
-/blog/monitoring-grafana,desktop,https://medium.com/@cristianpb/system-monitoring-with-grafana-influxdb-et-collectd-7827969e1fe,,United States,Lancaster,1,1,0,0,1,20230731,23,US
 /,mobile,,,France,Vitry-sur-Seine,1,1,0,0,1,20230801,6,FR
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,United States,Lewisville,1,1,0,0,1,20230801,6,US
 /blog/ssd-yolo,mobile,android-app://com.google.android.googlequicksearchbox/,,India,Delhi,1,1,18.88067,1,0,20230801,11,IN
@@ -99,8 +82,25 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/raspberry-video-stream,mobile,https://www.google.com,,Cyprus,Strovolos,1,1,0,1,1,20230806,22,CY
 /blog/raspberry-video-stream,desktop,https://www.google.com/,,United States,Conway,1,1,302.463546,0,0,20230806,23,US
 /blog/image-rotation-opencv,desktop,https://medium.com/@coding-otter/image-and-bounding-box-rotation-using-opencv-python-2def6c39453,,Brazil,Fortaleza,1,1,0,0,1,20230807,0,BR
-/blog/grafana-dashboard,desktop,https://www.google.com/,,South Korea,,1,1,0,0,1,20230807,2,
+/blog/grafana-dashboard,desktop,https://www.google.com/,,South Korea,(not set),1,1,0,0,1,20230807,2,
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,Japan,Fukuoka,1,1,0,2,1,20230807,3,JP
 /blog/vimwiki-hugo,desktop,https://duckduckgo.com/,,United States,Barre Town,1,1,0,1,1,20230807,3,US
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Taiwan,(not set),1,1,6.056819,0,1,20230807,4,TW
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Taiwan,(not set),1,1,0,0,0,20230807,4,TW
 /blog/image-processing-using-serverless-architecture,mobile,android-app://com.google.android.googlequicksearchbox/,,India,Lucknow,1,1,0,0,1,20230807,6,IN
 /blog/vimwiki-hugo,desktop,https://duckduckgo.com/,,United States,Barre Town,1,1,0,1,1,20230807,6,US
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Taiwan,(not set),1,1,0,0,1,20230807,7,TW
+/blog/marathon-mirabelle,desktop,https://www.google.com/,,India,Hyderabad,1,1,0,0,1,20230807,8,IN
+/blog/image-rotation-opencv,desktop,,,Australia,Brisbane,1,1,0,1,1,20230807,11,AU
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,Magdeburg,1,1,0,0,1,20230807,11,DE
+/about,desktop,https://www.bing.com/,,France,Paris,1,1,0,0,1,20230807,12,FR
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Iran,Tehran,1,1,0,1,1,20230807,13,
+/blog/analytics-google,desktop,https://www.google.com/,,Poland,Warsaw,1,1,0,0,1,20230807,14,PL
+/blog/monitoring-grafana,desktop,https://www.google.com/,,India,Pimpri-Chinchwad,1,1,0,0,1,20230807,14,IN
+/blog/document-detection,desktop,https://www.google.com/,,Thailand,Bangkok,1,1,0,3,1,20230807,16,TH
+/blog/motion-monitor-opencv,mobile,https://duckduckgo.com/,,United Kingdom,London,1,1,0,0,1,20230807,20,GB
+/,desktop,,,Indonesia,Bekasi,1,1,0,1,0,20230807,21,ID
+/blog,desktop,https://cristianpb.github.io/,,Indonesia,Bekasi,1,1,9.845685,2,1,20230807,21,ID
+/blog/serverless-api-lambda,mobile,https://www.google.com/,,India,Bengaluru,1,1,0,1,1,20230808,2,IN
+/blog/traefik-goaccess,mobile,,,United States,Sioux Falls,1,1,0,0,1,20230808,3,US
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Taiwan,,1,1,0,0,1,20230808,5,TW
