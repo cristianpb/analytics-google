@@ -1,14 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/ssd-yolo,desktop,https://www.google.com/,,Russia,Moscow,1,1,0,1,1,20230802,7,RU
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Vietnam,Bien Hoa,1,1,0,2,1,20230802,8,VN
-/blog/grafana-dashboard,desktop,https://www.google.com/,,India,Pune,1,1,0,2,1,20230802,11,IN
-/blog/document-detection,desktop,https://www.google.com/,,Slovakia,Bratislava,1,1,0,0,1,20230802,12,SK
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Ukraine,Brovary,1,1,0,1,1,20230802,12,UA
-/blog/data-withings,mobile,android-app://com.google.android.googlequicksearchbox/,,India,Hyderabad,1,1,0,1,1,20230802,13,IN
-/blog/monitoring-grafana,desktop,https://www.google.com/,,United States,Levittown,1,1,500.125439,0,0,20230802,16,US
-/blog/image-rotation-opencv,desktop,,,Bangladesh,Dhaka,1,1,0,1,1,20230802,19,BD
-/blog/motion-monitor-opencv,mobile,https://ya.ru/,,Russia,Balashikha,1,1,0,0,1,20230802,22,RU
-/blog/dashboard-dc-js,mobile,https://www.google.com/,,Türkiye,Ankara,1,1,0,1,1,20230802,23,
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Taiwan,(not set),1,1,0,1,1,20230803,3,TW
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,United States,Los Angeles,1,1,0,1,1,20230803,7,US
 /blog/serverless-api-lambda,desktop,https://www.google.com/,,Germany,Unterfohring,1,1,0,1,1,20230803,11,DE
@@ -115,14 +105,25 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,https://www.facebook.com/,,United States,Fort Worth,1,1,0,0,1,20230808,23,US
 /blog/document-detection,desktop,https://www.google.com/,,Serbia,Belgrade,1,1,0,0,1,20230809,0,RS
 /blog/magic-wand,mobile,https://www.google.com/,,Canada,Richmond Hill,1,1,0,0,1,20230809,0,CA
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Russia,,1,1,0,0,1,20230809,1,RU
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Russia,(not set),1,1,0,0,1,20230809,1,RU
 /blog/grafana-dashboard,desktop,https://kuttsun.blogspot.com/,,Japan,Shinagawa City,1,1,0,1,1,20230809,3,JP
 /blog/grafana-dashboard,desktop,https://kuttsun.blogspot.com/,,Japan,Shinjuku City,1,1,0,2,1,20230809,3,JP
-/blog/categories,desktop,https://cristianpb.github.io/blog/marathon-mirabelle,,New Zealand,Auckland,1,1,0,1,1,20230809,4,NZ
-/blog/marathon-mirabelle,desktop,https://www.google.com/,,New Zealand,Auckland,1,1,0,3,1,20230809,4,NZ
+/blog/categories,desktop,https://cristianpb.github.io/blog/marathon-mirabelle,,New Zealand,Auckland,1,1,5.610117,1,1,20230809,4,NZ
+/blog/marathon-mirabelle,desktop,https://www.google.com/,,New Zealand,Auckland,1,1,0,3,0,20230809,4,NZ
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Canada,Markham,1,1,0,0,1,20230809,5,CA
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,United States,Winston-Salem,1,1,0,2,1,20230809,6,US
 /blog/ssd-yolo,desktop,https://www.google.com/,,France,20147,1,1,0,1,1,20230809,9,FR
+/blog/traefik-goaccess,desktop,https://www.bing.com/,,Belgium,Maldegem,1,1,0,1,1,20230809,9,BE
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,South Korea,Goyang-si,1,1,0,0,1,20230809,10,
-/blog/grafana-dashboard,desktop,https://www.reddit.com/,,Czechia,Prague,1,1,25.044855,0,1,20230809,12,
+/blog/vimwiki-hugo,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,0,1,20230809,10,GB
+/blog/grafana-dashboard,desktop,https://www.reddit.com/,,Czechia,Prague,1,1,25.044855,0,0,20230809,12,
+/blog/serverless-api-lambda,desktop,https://www.google.com/,,India,Delhi,1,1,0,0,1,20230809,13,IN
 /blog/image-rotation-opencv,desktop,https://medium.com/@coding-otter/image-and-bounding-box-rotation-using-opencv-python-2def6c39453,,India,Indore,1,1,0,1,1,20230809,14,IN
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Brazil,Sao Bernardo do Campo,1,1,0,1,1,20230809,14,BR
+/blog/document-detection,mobile,android-app://com.google.android.googlequicksearchbox/,,Poland,Lezajsk,1,1,0,0,1,20230809,17,PL
+/blog/gnuplot-electrode,desktop,https://www.google.com/,,Spain,Benidorm,1,1,0,1,1,20230809,19,ES
+/blog/music-voice-cotrol,mobile,https://www.google.com/,,Germany,Wiesbaden,1,1,0,1,1,20230809,21,DE
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Japan,Osaka,1,1,0,0,1,20230810,3,JP
+/blog/magic-wand,tablet,https://www.google.com/,,India,Mambakkam,1,1,0,1,1,20230810,5,IN
+/blog/serverless-api-lambda,desktop,https://www.google.com/,,North Macedonia,,1,1,0,1,1,20230810,6,
+/blog/analytics-google,desktop,https://www.google.com/,,Spain,,1,1,0,0,1,20230810,8,ES
