@@ -1,13 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Brazil,Varginha,1,1,0,0,1,20230815,0,BR
-/blog/ssd-yolo,desktop,https://www.google.com/,,Indonesia,Semarang,1,1,0,1,1,20230815,1,ID
-/blog/grafana-dashboard,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,1,1,20230815,8,RU
-/blog/mopidy-muse,desktop,https://mopidy.com/,,United States,Chattanooga,1,1,0,1,1,20230815,9,US
-/blog/mopidy-muse,desktop,https://mopidy.com/,,Türkiye,Antalya,1,1,107.165007,2,0,20230815,11,
-/blog/vimwiki-hugo,mobile,https://www.google.com/,,Singapore,Singapore,1,1,0,1,1,20230815,18,SG
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,India,Lucknow,1,1,0,0,1,20230815,20,IN
-/blog/motion-monitor-opencv,desktop,https://search.yahoo.com/,,United States,Castro Valley,1,1,0,0,1,20230815,22,US
-/blog/ssd-yolo,desktop,https://www.google.com/,,Brazil,Campo Grande,1,1,0,1,1,20230815,22,BR
+/blog/magic-wand,mobile,,,United States,(not set),2,2,0,2,1,20230822,11,US
 /blog/ssd-yolo,desktop,https://www.google.com/,,Hungary,Jaszfenyszaru,1,1,0,3,1,20230816,9,HU
 /blog/analytics-google,desktop,,,Russia,Moscow,1,1,168.83395,0,1,20230816,11,RU
 /blog/analytics-google,desktop,https://www.google.com/,,Russia,Moscow,1,1,0,1,0,20230816,11,RU
@@ -97,6 +89,30 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,Pakistan,Karachi,1,1,0,0,0,20230821,22,PK
 /about,desktop,https://cristianpb.github.io/,,Pakistan,Karachi,1,1,33.804817,0,1,20230821,22,PK
 /blog/ssd-yolo,desktop,https://www.google.com/,,Spain,Naron,1,1,0,1,1,20230821,23,ES
-/blog/vimwiki-hugo,mobile,https://www.google.com/,,United States,,1,1,0,0,1,20230822,3,US
+/blog/vimwiki-hugo,mobile,https://www.google.com/,,United States,(not set),1,1,0,0,1,20230822,3,US
 /blog/serverless-api-lambda,desktop,https://www.google.com/,,Kazakhstan,Almaty,1,1,0,1,1,20230822,4,KZ
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Vietnam,Bac Ninh,1,1,0,1,1,20230822,6,VN
+/blog/ssd-yolo,desktop,https://www.bing.com/,,Belgium,Sint-Truiden,1,1,0,0,1,20230822,8,BE
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Taiwan,(not set),1,1,0,1,1,20230822,9,TW
 /blog/ssd-yolo,desktop,https://www.google.com/,,Australia,Sydney,1,1,0,2,1,20230822,9,AU
+/blog/ssd-yolo,desktop,https://www.google.com/,,Czechia,Mlada Boleslav,1,1,0,1,1,20230822,9,
+/blog,desktop,,,France,Paris,1,1,94.321581,1,1,20230822,10,FR
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United Kingdom,Glastonbury,1,1,0,0,1,20230822,10,GB
+/blog/vimwiki-hugo,desktop,,,France,Paris,1,1,14.677053,0,1,20230822,10,FR
+/blog/vimwiki-hugo,desktop,https://www.google.com/,,France,Paris,1,1,0,1,0,20230822,10,FR
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Ukraine,Korostyshiv,1,1,0,0,1,20230822,11,UA
+/blog/magic-wand,desktop,,,United States,(not set),1,1,0,0,1,20230822,11,US
+/blog/monitoring-grafana,desktop,https://www.google.ch/,,Switzerland,Zurich,1,1,0,1,1,20230822,12,CH
+/blog/monitoring-grafana,desktop,,,Switzerland,Zurich,1,1,7.680554,0,1,20230822,13,CH
+/blog/monitoring-grafanav,desktop,,,Switzerland,Zurich,1,1,0,0,0,20230822,13,CH
+/blog/velib-folium,desktop,https://www.google.com/,,Netherlands,Delft,1,1,0,1,0,20230822,13,NL
+/blog/monitoring-grafanav,desktop,,,Switzerland,Zurich,1,1,0,0,1,20230822,14,CH
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Philippines,Quezon City,1,1,0,1,1,20230822,14,PH
+/blog/velib-folium,desktop,https://www.google.com/,,Netherlands,Delft,1,1,1469.428309,1,1,20230822,14,NL
+/blog/traefik-goaccess,desktop,https://www.reddit.com/,,United States,Columbus,1,1,0,1,1,20230822,15,US
+/blog/magic-wand,desktop,https://www.google.com/,,India,Pune,1,1,0,1,1,20230822,16,IN
+/blog/serverless-api-lambda,desktop,https://www.google.com/,,Japan,Minami-Alps,1,1,0,0,1,20230823,3,JP
+/blog/serverless-api-lambda,desktop,https://www.google.com/,,Panama,Panama City,1,1,0,0,1,20230823,4,PA
+/blog/image-rotation-opencv,desktop,https://blog.paperspace.com/data-augmentation-for-object-detection-rotation-and-shearing/,,India,Coimbatore,1,1,0,1,1,20230823,9,IN
+/blog/magic-wand,desktop,https://sso.st.com/,,Italy,Milan,1,1,0,0,1,20230823,9,IT
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Italy,Rome,1,1,0,2,1,20230823,9,IT
