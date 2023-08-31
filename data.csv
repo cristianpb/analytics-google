@@ -1,23 +1,6 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/vimwiki-hugo,mobile,,,Germany,Cologne,2,2,0,0,1,20230823,16,DE
 /about,mobile,https://www.google.com/,,Colombia,Bogota,2,2,0,1,1,20230827,14,CO
-/blog/serverless-api-lambda,desktop,https://www.google.com/,,Japan,Minami-Alps,1,1,0,0,1,20230823,3,JP
-/blog/serverless-api-lambda,desktop,https://www.google.com/,,Panama,Panama City,1,1,0,0,1,20230823,4,PA
-/blog/grafana-dashboard,desktop,,,Taiwan,(not set),1,1,0,0,1,20230823,6,TW
-/blog/image-rotation-opencv,desktop,https://blog.paperspace.com/data-augmentation-for-object-detection-rotation-and-shearing/,,India,Coimbatore,1,1,0,1,1,20230823,9,IN
-/blog/magic-wand,desktop,https://sso.st.com/,,Italy,Milan,1,1,0,0,1,20230823,9,IT
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Italy,Rome,1,1,0,2,1,20230823,9,IT
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Brunei,Bandar Seri Begawan,1,1,0,0,1,20230823,14,
-/blog/image-rotation-opencv,desktop,https://blog.paperspace.com/data-augmentation-for-object-detection-rotation-and-shearing/,,South Africa,Berea,1,1,0,1,1,20230823,15,ZA
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Thailand,Bangkok,1,1,0,1,1,20230823,15,TH
-/blog/ssd-yolo,desktop,https://www.google.com/,,France,(not set),1,1,0,0,1,20230823,16,FR
-/blog/magic-wand,desktop,,,United States,Boardman,1,1,0,0,1,20230823,17,US
-/blog/vimwiki-hugo,desktop,https://www.google.com/,,Canada,Toronto,1,1,0,1,1,20230823,17,CA
-/blog/vimwiki-hugo,mobile,,,Germany,Cologne,1,1,179.683095,0,0,20230823,17,DE
-/blog/vimwiki-hugo,mobile,,,Germany,Cologne,1,1,0,0,1,20230823,18,DE
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Colombia,Bogota,1,1,0,0,1,20230823,19,CO
-/blog/motion-monitor-opencv,desktop,https://r.search.yahoo.com/_ylt=Awr.QhKfbuZkebkE11lfCwx.;_ylu=Y29sbwMEcG9zAzIEdnRpZAMEc2VjA3Ny/RV=2/RE=1692851999/RO=10/RU=https%3a%2f%2fcristianpb.github.io%2fblog%2fmotion-monitor-opencv/RK=2/RS=7.puAGb3o0syAGeUqiS3kwIdnKo-,,Germany,Heidelberg,1,1,0,1,1,20230823,22,DE
-/blog/vimwiki-hugo,mobile,,,Germany,Cologne,1,1,0,0,1,20230823,22,DE
+/,desktop,,,United States,(not set),2,2,0,4,1,20230830,11,US
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,United States,Urbana,1,1,0,1,1,20230824,3,US
 /blog/ssd-yolo,desktop,https://cristianpb.github.io/blog/motion-monitor-opencv,,United States,Urbana,1,1,0,3,1,20230824,4,US
 /blog/magic-wand,desktop,https://www.google.com/,,South Korea,Seoul,1,1,0,1,1,20230824,5,
@@ -108,3 +91,18 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/image-processing-using-serverless-architecture,desktop,https://www.yandex.ru/,,Russia,(not set),1,1,0,0,1,20230829,23,RU
 /blog/image-rotation-opencv,desktop,https://blog.paperspace.com/data-augmentation-for-object-detection-rotation-and-shearing/,,South Korea,Seoul,1,1,0,1,1,20230830,4,
 /blog/monitoring-grafana,desktop,https://www.google.com/,,United States,Rockville Centre,1,1,0,0,1,20230830,8,US
+/blog/mopidy-muse,desktop,https://mopidy.com/,,Sweden,Gislaved,1,1,0,1,1,20230830,10,SE
+/about,desktop,,,United States,(not set),1,1,0,1,1,20230830,11,US
+/blog/ssd-yolo,desktop,https://www.google.com/,,India,Meiyur,1,1,0,2,1,20230830,11,IN
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Indonesia,Tangerang,1,1,0,1,1,20230830,12,ID
+/blog/mopidy-muse,desktop,https://mopidy.com/,,Germany,Grafenwohr,1,1,0,1,1,20230830,12,DE
+/blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Munich,1,1,0,1,1,20230830,12,DE
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Taiwan,Yangmei District,1,1,0,0,1,20230830,14,TW
+/blog/vimwiki-hugo,desktop,https://lens.google.com/,,India,Hyderabad,1,1,0,1,1,20230830,14,IN
+/blog/analytics-google,desktop,https://www.google.com/,,Netherlands,Amsterdam,1,1,0,0,1,20230830,15,NL
+/blog/document-detection,mobile,https://lens.google.com/,,New Zealand,(not set),1,1,0,0,1,20230830,19,NZ
+/blog/image-rotation-opencv,tablet,https://www.google.com/,,Netherlands,Rotterdam,1,1,0,1,1,20230830,21,NL
+/blog/ssd-yolo,desktop,https://www.google.com/,,India,Ahmedabad,1,1,0,1,1,20230831,6,IN
+/blog/magic-wand,desktop,https://www.google.com/,,Netherlands,Haarlem,1,1,0,1,1,20230831,8,NL
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Israel,Ashdod,1,1,0,2,0,20230831,11,IL
+/blog/image-processing-using-serverless-architecture,desktop,https://cristianpb.github.io/blog/serverless-api-lambda,,Israel,Ashdod,1,1,41.640494,0,1,20230831,11,IL
