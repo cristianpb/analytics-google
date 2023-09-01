@@ -1,19 +1,6 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /about,mobile,https://www.google.com/,,Colombia,Bogota,2,2,0,1,1,20230827,14,CO
 /,desktop,,,United States,(not set),2,2,0,4,1,20230830,11,US
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United States,Urbana,1,1,0,1,1,20230824,3,US
-/blog/ssd-yolo,desktop,https://cristianpb.github.io/blog/motion-monitor-opencv,,United States,Urbana,1,1,0,3,1,20230824,4,US
-/blog/magic-wand,desktop,https://www.google.com/,,South Korea,Seoul,1,1,0,1,1,20230824,5,
-/blog/image-rotation-opencv,mobile,https://www.google.com/,,Taiwan,(not set),1,1,0,1,1,20230824,6,TW
-/blog/image-rotation-opencv,desktop,,,Vietnam,Ho Chi Minh City,1,1,0,1,1,20230824,7,VN
-/blog/vimwiki-hugo,desktop,https://www.google.se/,,Sweden,Saffle,1,1,0,1,1,20230824,8,SE
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Germany,Hamburg,1,1,0,1,1,20230824,12,DE
-/blog/image-rotation-opencv,mobile,https://www.google.com/,,India,Hyderabad,1,1,0,2,0,20230824,16,IN
-/blog/traefik-goaccess,desktop,https://www.google.com/,,France,Paris,1,1,0,1,1,20230824,16,FR
-/blog/image-rotation-opencv,mobile,https://www.google.com/,,India,Hyderabad,1,1,606.768115,2,1,20230824,17,IN
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,India,Hyderabad,1,1,0,1,1,20230824,20,IN
-/blog/serverless-api-lambda,desktop,https://www.google.com/,,Brazil,Sao Luis,1,1,0,0,1,20230824,22,BR
-/blog/mopidy-muse,desktop,https://www.google.com/,,Switzerland,(not set),1,1,60.039136,0,0,20230824,23,CH
 /blog/ssd-yolo,desktop,https://www.google.com/,,India,Kolkata,1,1,0,0,1,20230825,5,IN
 /blog/ssd-yolo,desktop,https://www.google.com/,,India,Kurmalguda,1,1,0,1,1,20230825,6,IN
 /blog/image-rotation-opencv,desktop,,,India,Thane,1,1,0,1,1,20230825,8,IN
@@ -105,4 +92,16 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/ssd-yolo,desktop,https://www.google.com/,,India,Ahmedabad,1,1,0,1,1,20230831,6,IN
 /blog/magic-wand,desktop,https://www.google.com/,,Netherlands,Haarlem,1,1,0,1,1,20230831,8,NL
 /blog/grafana-dashboard,desktop,https://www.google.com/,,Israel,Ashdod,1,1,0,2,0,20230831,11,IL
-/blog/image-processing-using-serverless-architecture,desktop,https://cristianpb.github.io/blog/serverless-api-lambda,,Israel,Ashdod,1,1,41.640494,0,1,20230831,11,IL
+/blog/image-processing-using-serverless-architecture,desktop,https://cristianpb.github.io/blog/serverless-api-lambda,,Israel,Ashdod,1,1,20.268538,0,1,20230831,11,IL
+/blog/serverless-api-lambda,desktop,https://cristianpb.github.io/blog/grafana-dashboard,,Israel,Ashdod,1,1,21.371956,0,1,20230831,11,IL
+/blog/ssd-yolo,desktop,https://www.google.com/,,India,Indore,1,1,0,1,1,20230831,11,IN
+/blog/grafana-dashboard,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,0,1,20230831,14,GB
+/blog/image-rotation-opencv,mobile,https://www.google.com/,,Thailand,Bangkok,1,1,0,2,1,20230831,18,TH
+/blog/data-withings,mobile,,,Germany,Greifswald,1,1,0,0,1,20230831,21,DE
+/blog/raspberry-video-stream,desktop,https://www.google.com/,,South Korea,Seoul,1,1,0,0,1,20230901,4,
+/,desktop,,,United States,,1,1,0,0,1,20230901,9,US
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Kazakhstan,Almaty,1,1,0,1,1,20230901,9,KZ
+/blog/motion-monitor-opencv,desktop,https://cristianpb.github.io/blog/motion-monitor-opencv,,United States,Champaign,1,1,578.159708,1,1,20230901,9,US
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United States,Champaign,1,1,0,1,1,20230901,9,US
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Thailand,Mueang Chiang Rai,1,1,0,0,1,20230901,10,TH
+/blog/motion-monitor-opencv,desktop,,,United States,Champaign,1,1,0,1,1,20230901,10,US
