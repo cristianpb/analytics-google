@@ -1,17 +1,6 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /about,mobile,https://www.google.com/,,Colombia,Bogota,2,2,0,1,1,20230827,14,CO
 /,desktop,,,United States,(not set),2,2,0,4,1,20230830,11,US
-/blog/ssd-yolo,desktop,https://www.google.com/,,India,Kolkata,1,1,0,0,1,20230825,5,IN
-/blog/ssd-yolo,desktop,https://www.google.com/,,India,Kurmalguda,1,1,0,1,1,20230825,6,IN
-/blog/image-rotation-opencv,desktop,,,India,Thane,1,1,0,1,1,20230825,8,IN
-/blog/traefik-goaccess,desktop,,,Sweden,Helsingborg,1,1,0,1,1,20230825,9,SE
-/,desktop,https://www.data.gouv.fr/,,Germany,02794,1,1,0,1,0,20230825,12,DE
-/about,desktop,https://cristianpb.github.io/,,Germany,02794,1,1,19.339837,1,1,20230825,12,DE
-/about,desktop,,,United Kingdom,London,1,1,28.549548,0,1,20230825,15,GB
-/about,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,0,0,20230825,15,GB
-/blog/raspberry-video-stream,desktop,https://www.google.com/,,Italy,Milan,1,1,0,0,1,20230825,15,IT
-/blog/monitoring-grafana,desktop,https://www.google.com/,,United States,New York,1,1,0,0,1,20230825,19,US
-/blog/motion-monitor-opencv,mobile,https://www.google.fr/,,France,(not set),1,1,0,1,1,20230825,21,FR
 /blog/image-rotation-opencv,mobile,https://www.google.co.kr/,,South Korea,Seoul,1,1,0,1,1,20230826,5,
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,India,Hyderabad,1,1,0,1,1,20230826,10,IN
 /blog/traefik-goaccess,desktop,https://www.google.com/,,India,Mumbai,1,1,0,1,1,20230826,10,IN
@@ -99,9 +88,27 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/image-rotation-opencv,mobile,https://www.google.com/,,Thailand,Bangkok,1,1,0,2,1,20230831,18,TH
 /blog/data-withings,mobile,,,Germany,Greifswald,1,1,0,0,1,20230831,21,DE
 /blog/raspberry-video-stream,desktop,https://www.google.com/,,South Korea,Seoul,1,1,0,0,1,20230901,4,
-/,desktop,,,United States,,1,1,0,0,1,20230901,9,US
+/,desktop,,,United States,(not set),1,1,0,0,1,20230901,9,US
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Kazakhstan,Almaty,1,1,0,1,1,20230901,9,KZ
 /blog/motion-monitor-opencv,desktop,https://cristianpb.github.io/blog/motion-monitor-opencv,,United States,Champaign,1,1,578.159708,1,1,20230901,9,US
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United States,Champaign,1,1,0,1,1,20230901,9,US
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United States,Champaign,1,1,0,1,0,20230901,9,US
+/blog/analytics-google,desktop,https://www.google.com/,,Bulgaria,Varna,1,1,0,0,1,20230901,10,BG
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Thailand,Mueang Chiang Rai,1,1,0,0,1,20230901,10,TH
 /blog/motion-monitor-opencv,desktop,,,United States,Champaign,1,1,0,1,1,20230901,10,US
+/blog/monitoring-grafana,desktop,,,Italy,Como,1,1,0,0,1,20230901,14,IT
+/blog/monitoring-grafana,desktop,https://trello.com/,,Italy,Como,1,1,0,0,1,20230901,14,IT
+/blog/ssd-yolo,desktop,https://www.google.com/,,Denmark,Copenhagen,1,1,0,0,1,20230901,14,DK
+/blog/ssd-yolo,desktop,https://www.google.com/,,India,New Delhi,1,1,0,1,1,20230901,14,IN
+/blog/monitoring-grafana,desktop,https://www.google.com/,,South Korea,Gangneung-si,1,1,0,1,1,20230901,15,
+/blog/traefik-goaccess,mobile,https://www.google.com/,,United Kingdom,Edinburgh,1,1,0,0,1,20230901,16,GB
+/blog/marathon-mirabelle,mobile,https://www.google.com/,,India,Coimbatore,1,1,0,1,1,20230901,18,IN
+/blog/image-rotation-opencv,mobile,https://www.google.com/,,Italy,(not set),1,1,0,2,1,20230901,22,IT
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Serbia,Nis,1,1,0,0,1,20230901,22,RS
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Serbia,Nis,1,1,0,1,1,20230902,1,RS
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United States,Jesup,1,1,0,0,1,20230902,1,US
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Serbia,Nis,1,1,0,2,1,20230902,2,RS
+/blog/mopidy-muse,desktop,https://www.google.com/,,Germany,Berlin,1,1,0,1,1,20230902,2,DE
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Serbia,Nis,1,1,1107.350219,1,1,20230902,3,RS
+/blog/mopidy-muse,desktop,https://mopidy.com/,,Australia,Melbourne,1,1,0,0,1,20230902,5,AU
+/blog/monitoring-grafana,desktop,,,Mexico,Zapopan,1,1,0,0,1,20230902,8,MX
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Austria,Bezau,1,1,0,0,1,20230902,9,AT
