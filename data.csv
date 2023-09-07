@@ -1,18 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,United States,(not set),2,2,0,4,1,20230830,11,US
-/blog/image-rotation-opencv,desktop,https://blog.paperspace.com/data-augmentation-for-object-detection-rotation-and-shearing/,,South Korea,Seoul,1,1,0,1,1,20230830,4,
-/blog/monitoring-grafana,desktop,https://www.google.com/,,United States,Rockville Centre,1,1,0,0,1,20230830,8,US
-/blog/mopidy-muse,desktop,https://mopidy.com/,,Sweden,Gislaved,1,1,0,1,1,20230830,10,SE
-/about,desktop,,,United States,(not set),1,1,0,1,1,20230830,11,US
-/blog/ssd-yolo,desktop,https://www.google.com/,,India,Meiyur,1,1,0,2,1,20230830,11,IN
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Indonesia,Tangerang,1,1,0,1,1,20230830,12,ID
-/blog/mopidy-muse,desktop,https://mopidy.com/,,Germany,Grafenwohr,1,1,0,1,1,20230830,12,DE
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Munich,1,1,0,1,1,20230830,12,DE
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Taiwan,Yangmei District,1,1,0,0,1,20230830,14,TW
-/blog/vimwiki-hugo,desktop,https://lens.google.com/,,India,Hyderabad,1,1,0,1,1,20230830,14,IN
-/blog/analytics-google,desktop,https://www.google.com/,,Netherlands,Amsterdam,1,1,0,0,1,20230830,15,NL
-/blog/document-detection,mobile,https://lens.google.com/,,New Zealand,(not set),1,1,0,0,1,20230830,19,NZ
-/blog/image-rotation-opencv,tablet,https://www.google.com/,,Netherlands,Rotterdam,1,1,0,1,1,20230830,21,NL
+/blog/magic-wand,desktop,https://www.google.com/,,India,Sahibzada Ajit Singh Nagar,2,2,0,2,1,20230906,11,IN
 /blog/ssd-yolo,desktop,https://www.google.com/,,India,Ahmedabad,1,1,0,1,1,20230831,6,IN
 /blog/magic-wand,desktop,https://www.google.com/,,Netherlands,Haarlem,1,1,0,1,1,20230831,8,NL
 /blog/grafana-dashboard,desktop,https://www.google.com/,,Israel,Ashdod,1,1,0,2,0,20230831,11,IL
@@ -82,9 +69,25 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/document-detection,desktop,https://www.google.com/,,Mexico,Morelia,1,1,0,1,1,20230905,19,MX
 /blog/serverless-api-lambda,desktop,https://www.google.com/,,United States,Durango,1,1,0,0,1,20230905,19,US
 /blog/grafana-dashboard,desktop,https://www.google.com/,,Spain,Madrid,1,1,0,1,1,20230905,20,ES
-/blog/raspberry-video-stream,mobile,https://cristianpb.github.io/blog/ssd-yolo,,Russia,Krasnodar,1,1,0,0,1,20230906,0,RU
+/blog/raspberry-video-stream,mobile,https://cristianpb.github.io/blog/ssd-yolo,,Russia,Krasnodar,1,1,53.059064,0,1,20230906,0,RU
+/blog/ssd-yolo,mobile,https://yandex.ru/,,Russia,Krasnodar,1,1,0,1,0,20230906,0,RU
+/blog/vimwiki-hugo,desktop,https://www.google.com/,,Türkiye,Alanya,1,1,0,1,1,20230906,0,
 /blog/raspberry-video-stream,desktop,https://cristianpb.github.io/blog/ssd-yolo,,Japan,Morioka,1,1,89.12809,1,1,20230906,2,JP
 /blog/ssd-yolo,desktop,https://www.google.com/,,Japan,Morioka,1,1,0,1,0,20230906,2,JP
 /blog/grafana-dashboard,desktop,https://cristianpb.github.io/blog/monitoring-grafana,,Vietnam,Ho Chi Minh City,1,1,0,1,1,20230906,5,VN
 /blog/ssd-yolo,desktop,https://www.google.com/,,United States,Los Angeles,1,1,0,0,1,20230906,5,US
 /blog/marathon-mirabelle,mobile,https://www.google.com/,,India,Delhi,1,1,0,1,1,20230906,6,IN
+/blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,United Kingdom,Attleborough,1,1,0,0,1,20230906,9,GB
+/about,desktop,https://www.google.com/,,France,Paris,1,1,0,0,1,20230906,10,FR
+/blog/gnuplot-electrode,desktop,https://www.google.com/,,Australia,Perth,1,1,0,0,1,20230906,10,AU
+/blog,desktop,https://cristianpb.github.io/blog/grafana-dashboard,,Spain,Madrid,1,1,0,1,0,20230906,15,ES
+/blog,desktop,https://cristianpb.github.io/blog/monitoring-grafana,,Spain,Madrid,1,1,245.248067,0,1,20230906,15,ES
+/blog/monitoring-grafana,desktop,https://cristianpb.github.io/blog,,Spain,Madrid,1,1,12.730848,0,1,20230906,15,ES
+/blog/ssd-yolo,desktop,https://www.google.com/,,Morocco,Casablanca,1,1,0,0,1,20230906,16,MA
+/blog/grafana-dashboard,desktop,https://www.google.com.mx/,,El Salvador,Santa Tecla,1,1,0,0,1,20230906,17,SV
+/blog/vimwiki-hugo,mobile,https://www.google.com/,,United States,(not set),1,1,0,1,1,20230906,17,US
+/blog/document-detection,desktop,https://www.google.com/,,Côte d’Ivoire,Abidjan,1,1,0,3,1,20230906,18,
+/blog/motion-monitor-opencv,mobile,https://www.google.com/,,India,Hyderabad,1,1,0,0,1,20230906,18,IN
+/blog/mopidy-muse,mobile,https://www.google.com/,,Czechia,Prague,1,1,0,1,1,20230906,23,
+/blog/grafana-dashboard,desktop,https://cristianpb.github.io/blog/monitoring-grafana,,Vietnam,Ho Chi Minh City,1,1,0,1,1,20230907,5,VN
+/blog/data-withings,mobile,https://www.google.com/,,India,Bengaluru,1,1,0,1,1,20230907,7,IN
