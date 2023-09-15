@@ -1,22 +1,7 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /blog/traefik-goaccess,desktop,,,United States,Des Moines,2,2,0,2,1,20230911,10,US
 /blog/magic-wand,desktop,https://www.google.com/,,India,Sahibzada Ajit Singh Nagar,2,2,0,2,1,20230913,11,IN
-/about,desktop,,,United States,,2,2,0,1,1,20230914,2,US
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,Australia,Perth,1,1,0,0,1,20230907,4,AU
-/blog/grafana-dashboard,desktop,https://cristianpb.github.io/blog/monitoring-grafana,,Vietnam,Ho Chi Minh City,1,1,4.454346,1,1,20230907,5,VN
-/blog/monitoring-grafana,desktop,,,Vietnam,Ho Chi Minh City,1,1,0,1,0,20230907,5,VN
-/blog/data-withings,mobile,https://www.google.com/,,India,Bengaluru,1,1,0,1,1,20230907,7,IN
-/blog/ssd-yolo,desktop,https://www.google.com/,,Thailand,Ubon Ratchathani,1,1,0,1,1,20230907,10,TH
-/blog/document-detection,desktop,https://www.google.com/,,Côte d’Ivoire,Abidjan,1,1,0,1,1,20230907,12,
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,Finland,Kitee,1,1,0,0,1,20230907,12,FI
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Russia,Moscow,1,1,0,1,1,20230907,13,RU
-/blog/vimwiki-hugo,desktop,https://www.google.com/,,Germany,Burgwedel,1,1,0,1,1,20230907,13,DE
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Russia,Moscow,1,1,0,1,1,20230907,14,RU
-/blog/document-detection,desktop,,,Côte d’Ivoire,Abidjan,1,1,0,1,1,20230907,16,
-/blog/velib-folium,desktop,https://www.bing.com/,,United Kingdom,(not set),1,1,0,0,1,20230907,17,GB
-/blog/monitoring-grafana,desktop,https://www.google.com/,,India,Delhi,1,1,0,0,1,20230907,19,IN
-/blog/mopidy-muse,desktop,https://mopidy.com/,,United States,Vancouver,1,1,0,0,1,20230907,19,US
-/blog/traefik-goaccess,desktop,https://www.google.com/,,United States,Stacy,1,1,0,1,1,20230907,19,US
+/about,desktop,,,United States,(not set),2,2,0,1,1,20230914,2,US
 /blog/monitoring-grafana,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,0,1,20230908,0,GB
 /blog/grafana-dashboard,desktop,https://www.google.com/,,India,Delhi,1,1,0,0,1,20230908,4,IN
 /blog/monitoring-grafana,desktop,https://www.google.com/,,United Kingdom,Saint Ives,1,1,0,0,1,20230908,7,GB
@@ -118,4 +103,32 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/image-processing-using-serverless-architecture,mobile,https://www.google.com/,,India,Bengaluru,1,1,0,1,1,20230913,19,IN
 /blog/grafana-dashboard,desktop,https://www.reddit.com/,,United States,San Mateo,1,1,0,0,1,20230913,21,US
 /blog/image-preprocessing,desktop,https://www.google.com/,,United States,Hawthorne,1,1,0,1,1,20230914,0,US
-/,desktop,,,United States,,1,1,0,0,1,20230914,2,US
+/,desktop,,,United States,(not set),1,1,0,0,1,20230914,2,US
+/blog/motion-monitor-opencv,desktop,,,United States,Olathe,1,1,0,0,0,20230914,5,US
+/blog/raspberry-video-stream,desktop,https://cristianpb.github.io/blog/motion-monitor-opencv,,United States,Olathe,1,1,355.536931,1,0,20230914,5,US
+/blog/document-detection,desktop,https://www.google.com/,,India,Mumbai,1,1,0,0,1,20230914,8,IN
+/blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,India,Hyderabad,1,1,0,1,1,20230914,8,IN
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Israel,Herzliya,1,1,0,1,1,20230914,10,IL
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Italy,Potenza,1,1,0,0,1,20230914,11,IT
+/blog/mopidy-muse,desktop,,,Taiwan,(not set),1,1,0,1,0,20230914,11,TW
+/blog/ssd-yolo,desktop,https://www.google.com/,,Congo - Kinshasa,Kinshasa,1,1,0,17,1,20230914,11,
+/blog/mopidy-muse,desktop,,,Taiwan,(not set),1,1,848.324566,5,0,20230914,12,TW
+/blog/mopidy-muse,desktop,https://github.com/cristianpb/muse,,Taiwan,(not set),1,1,18.963639,1,0,20230914,12,TW
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,India,Patna,1,1,0,2,0,20230914,12,IN
+/blog/raspberry-video-stream,desktop,https://cristianpb.github.io/blog/motion-monitor-opencv,,India,Patna,1,1,4.627022,2,0,20230914,12,IN
+/blog/ssd-yolo,desktop,https://cristianpb.github.io/blog/motion-monitor-opencv,,India,Patna,1,1,103.154029,3,0,20230914,12,IN
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Argentina,Villa Elvira,1,1,0,2,1,20230914,13,AR
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Argentina,Villa Elvira,1,1,432.26529,2,0,20230914,14,AR
+/blog/magic-wand,desktop,,,Ireland,Shannon,1,1,203.130664,1,0,20230914,15,IE
+/blog/magic-wand,desktop,https://www.google.com/,,Ireland,Shannon,1,1,0,0,0,20230914,15,IE
+/blog/traefik-goaccess,desktop,,,Hungary,(not set),1,1,0,1,1,20230914,15,HU
+/blog/fluentbit-elasticsearch-kibana,desktop,,,United States,Austin,1,1,0,0,1,20230914,17,US
+/blog/image-rotation-opencv,desktop,,,South Korea,Seoul,1,1,0,1,1,20230914,19,
+/blog/grafana-dashboard,desktop,https://www.reddit.com/,,United States,San Mateo,1,1,0,0,1,20230914,20,US
+/blog/image-rotation-opencv,desktop,https://yandex.ru/,,Ukraine,Sevastopol,1,1,0,1,1,20230914,20,UA
+/blog/analytics-google,desktop,https://www.google.com/,,Brazil,Vila Velha,1,1,0,0,1,20230914,22,BR
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Brazil,Sao Paulo,1,1,0,0,1,20230914,22,BR
+/blog/document-detection,desktop,https://www.google.com/,,Canada,Guelph,1,1,0,0,1,20230914,23,CA
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Japan,Chuo City,1,1,139.595827,1,1,20230915,5,JP
+/blog/monitoring-grafana,desktop,https://www.google.com/,,India,Bengaluru,1,1,0,0,1,20230915,8,IN
+/blog/traefik-goaccess,desktop,https://www.google.com/,,Georgia,Tbilisi,1,1,0,2,1,20230915,9,GE
