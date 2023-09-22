@@ -1,32 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/about,desktop,,,United States,(not set),2,2,0,1,1,20230914,2,US
-/blog/image-preprocessing,desktop,https://www.google.com/,,United States,Hawthorne,1,1,0,1,1,20230914,0,US
-/,desktop,,,United States,(not set),1,1,0,0,1,20230914,2,US
-/blog/motion-monitor-opencv,desktop,,,United States,Olathe,1,1,0,0,0,20230914,5,US
-/blog/raspberry-video-stream,desktop,https://cristianpb.github.io/blog/motion-monitor-opencv,,United States,Olathe,1,1,355.536931,1,0,20230914,5,US
-/blog/document-detection,desktop,https://www.google.com/,,India,Mumbai,1,1,0,0,1,20230914,8,IN
-/blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,India,Hyderabad,1,1,0,1,1,20230914,8,IN
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Israel,Herzliya,1,1,0,1,1,20230914,10,IL
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Italy,Potenza,1,1,0,0,1,20230914,11,IT
-/blog/mopidy-muse,desktop,,,Taiwan,(not set),1,1,0,1,0,20230914,11,TW
-/blog/ssd-yolo,desktop,https://www.google.com/,,Congo - Kinshasa,Kinshasa,1,1,0,17,1,20230914,11,
-/blog/mopidy-muse,desktop,,,Taiwan,(not set),1,1,848.324566,5,0,20230914,12,TW
-/blog/mopidy-muse,desktop,https://github.com/cristianpb/muse,,Taiwan,(not set),1,1,18.963639,1,0,20230914,12,TW
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,India,Patna,1,1,0,2,0,20230914,12,IN
-/blog/raspberry-video-stream,desktop,https://cristianpb.github.io/blog/motion-monitor-opencv,,India,Patna,1,1,4.627022,2,0,20230914,12,IN
-/blog/ssd-yolo,desktop,https://cristianpb.github.io/blog/motion-monitor-opencv,,India,Patna,1,1,103.154029,3,0,20230914,12,IN
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Argentina,Villa Elvira,1,1,0,2,1,20230914,13,AR
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Argentina,Villa Elvira,1,1,432.26529,2,0,20230914,14,AR
-/blog/magic-wand,desktop,,,Ireland,Shannon,1,1,203.130664,1,0,20230914,15,IE
-/blog/magic-wand,desktop,https://www.google.com/,,Ireland,Shannon,1,1,0,0,0,20230914,15,IE
-/blog/traefik-goaccess,desktop,,,Hungary,(not set),1,1,0,1,1,20230914,15,HU
-/blog/fluentbit-elasticsearch-kibana,desktop,,,United States,Austin,1,1,0,0,1,20230914,17,US
-/blog/image-rotation-opencv,desktop,,,South Korea,Seoul,1,1,0,1,1,20230914,19,
-/blog/grafana-dashboard,desktop,https://www.reddit.com/,,United States,San Mateo,1,1,0,0,1,20230914,20,US
-/blog/image-rotation-opencv,desktop,https://yandex.ru/,,Ukraine,Sevastopol,1,1,0,1,1,20230914,20,UA
-/blog/analytics-google,desktop,https://www.google.com/,,Brazil,Vila Velha,1,1,0,0,1,20230914,22,BR
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Brazil,Sao Paulo,1,1,0,0,1,20230914,22,BR
-/blog/document-detection,desktop,https://www.google.com/,,Canada,Guelph,1,1,0,0,1,20230914,23,CA
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Japan,Chuo City,1,1,139.595827,1,0,20230915,5,JP
 /blog/monitoring-grafana,desktop,https://www.google.com/,,India,Bengaluru,1,1,0,0,1,20230915,8,IN
 /blog/traefik-goaccess,desktop,https://www.google.com/,,Georgia,Tbilisi,1,1,0,2,1,20230915,9,GE
@@ -132,4 +104,21 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/traefik-goaccess,desktop,https://duckduckgo.com/,,Italy,Savigliano,1,1,0,1,0,20230920,23,IT
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,South Korea,Jeonju-si,1,1,0,1,1,20230921,8,
 /blog/magic-wand,desktop,https://www.google.com/,,Singapore,Singapore,1,1,0,0,1,20230921,8,SG
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Spain,,1,1,0,0,1,20230921,9,ES
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Spain,(not set),1,1,0,0,1,20230921,9,ES
+/blog/ssd-yolo,desktop,https://www.google.com/,,China,(not set),1,1,0,1,1,20230921,12,CN
+/blog,desktop,http://be4.free.fr/,,Switzerland,Saint-Blaise,1,1,0,1,0,20230921,13,CH
+/blog/amp-search-jekyll,desktop,https://cristianpb.github.io/blog,,Switzerland,Saint-Blaise,1,1,216.912998,0,0,20230921,13,CH
+/blog/jekyll-algolia,desktop,https://cristianpb.github.io/blog/amp-search-jekyll,,Switzerland,Saint-Blaise,1,1,287.620183,0,0,20230921,13,CH
+/blog/monitoring-grafana,desktop,https://www.google.com/,,India,Hyderabad,1,1,0,2,1,20230921,13,IN
+/blog/ssd-yolo,desktop,https://www.google.com/,,India,Bengaluru,1,1,0,1,1,20230921,14,IN
+/blog/document-detection,desktop,https://lens.google.com/,,India,Kolkata,1,1,0,0,1,20230921,15,IN
+/blog/image-rotation-opencv,desktop,,,Indonesia,Bandung,1,1,0,1,1,20230921,16,ID
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Germany,Freudenberg,1,1,0,1,1,20230921,16,DE
+/blog/arduino-mkr-fox,desktop,https://www.google.es/,,Spain,Barcelona,1,1,0,1,1,20230921,18,ES
+/blog/dashboard-dc-js,desktop,https://www.google.com/,,United States,Pittsburgh,1,1,0,0,1,20230921,19,US
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Tunisia,Sfax,1,1,0,2,1,20230921,20,TN
+/blog/image-rotation-opencv,desktop,,,Germany,Mainz,1,1,0,1,1,20230921,22,DE
+/blog/motion-monitor-opencv,desktop,https://www.bing.com/,,United States,Delcambre,1,1,0,0,1,20230921,22,US
+/blog/motion-monitor-opencv,desktop,https://www.bing.com/,,United States,Delcambre,1,1,0,0,1,20230921,23,US
+/,mobile,http://baidu.com/,,China,,1,1,0,0,1,20230922,3,CN
+/blog/monitoring-grafana,mobile,http://baidu.com/,,China,,1,1,0,1,1,20230922,3,CN
