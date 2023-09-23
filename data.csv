@@ -1,18 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Japan,Chuo City,1,1,139.595827,1,0,20230915,5,JP
-/blog/monitoring-grafana,desktop,https://www.google.com/,,India,Bengaluru,1,1,0,0,1,20230915,8,IN
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Georgia,Tbilisi,1,1,0,2,1,20230915,9,GE
-/,desktop,,,United States,Ashburn,1,1,0,0,1,20230915,10,US
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Japan,Chuo City,1,1,0,0,1,20230915,10,JP
-/blog/mopidy-muse,desktop,https://www.google.com/,,Saudi Arabia,Riyadh,1,1,0,1,1,20230915,12,SA
-/blog/ssd-yolo,desktop,https://www.google.com/,,India,Panaji,1,1,0,2,1,20230915,12,IN
-/blog/ssd-yolo,desktop,https://www.google.com/,,United Kingdom,Kidlington,1,1,0,1,1,20230915,13,GB
-/blog/ssd-yolo,desktop,https://www.google.com/,,Brazil,Braganca Paulista,1,1,0,0,1,20230915,17,BR
-/blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,Colombia,Bogota,1,1,0,1,1,20230915,18,CO
-/blog/raspberry-video-stream,desktop,https://www.google.com/,,United States,Arvada,1,1,0,1,1,20230915,18,US
-/blog/analytics-google,desktop,https://www.google.com/,,Netherlands,Delft,1,1,0,1,1,20230915,19,NL
-/blog/grafana-dashboard,desktop,https://www.google.com/,,United Kingdom,Reading,1,1,0,0,1,20230915,22,GB
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,France,Antibes,1,1,0,0,1,20230915,23,FR
 /,desktop,,,United States,(not set),1,1,0,0,1,20230916,2,US
 /blog/motion-monitor-opencv,mobile,android-app://com.google.android.googlequicksearchbox/,,United States,Portland,1,1,0,0,1,20230916,4,US
 /blog/ssd-yolo,tablet,https://www.google.com/,,Brazil,Blumenau,1,1,0,1,1,20230916,4,BR
@@ -120,5 +106,22 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/image-rotation-opencv,desktop,,,Germany,Mainz,1,1,0,1,1,20230921,22,DE
 /blog/motion-monitor-opencv,desktop,https://www.bing.com/,,United States,Delcambre,1,1,0,0,1,20230921,22,US
 /blog/motion-monitor-opencv,desktop,https://www.bing.com/,,United States,Delcambre,1,1,0,0,1,20230921,23,US
-/,mobile,http://baidu.com/,,China,,1,1,0,0,1,20230922,3,CN
-/blog/monitoring-grafana,mobile,http://baidu.com/,,China,,1,1,0,1,1,20230922,3,CN
+/,mobile,http://baidu.com/,,China,(not set),1,1,0,0,1,20230922,3,CN
+/blog/monitoring-grafana,mobile,http://baidu.com/,,China,(not set),1,1,0,1,1,20230922,3,CN
+/blog/marathon-mirabelle,desktop,https://www.google.com/,,Thailand,Khao Mai Kaeo,1,1,0,0,1,20230922,4,TH
+/blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,India,Ghaziabad,1,1,0,0,1,20230922,6,IN
+/blog/data-withings,desktop,https://www.google.com/,,India,Hyderabad,1,1,0,0,1,20230922,8,IN
+/blog/magic-wand,desktop,https://www.sparkfun.com/,,Spain,(not set),1,1,0,1,1,20230922,9,ES
+/blog/magic-wand,mobile,,,Sweden,Kalix,1,1,0,0,1,20230922,9,SE
+/blog/document-detection,desktop,https://www.google.com/,,Romania,Galati,1,1,0,0,0,20230922,10,RO
+/blog/serverless-api-lambda,desktop,https://www.google.com/,,Italy,(not set),1,1,0,1,1,20230922,10,IT
+/blog/tags,desktop,https://cristianpb.github.io/blog/document-detection,,Romania,Galati,1,1,55.086163,0,0,20230922,10,RO
+/blog/motion-monitor-opencv,mobile,https://www.bing.com/,,India,Veiloor,1,1,0,0,1,20230922,14,IN
+/blog/jekyll-algolia,desktop,https://www.google.com/,,Japan,Chiyoda City,1,1,0,0,1,20230922,16,JP
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Morocco,Casablanca,1,1,0,1,1,20230922,21,MA
+/blog/grafana-dashboard,desktop,,,China,(not set),1,1,0,1,1,20230922,23,CN
+/blog/grafana-dashboard,mobile,,,China,(not set),1,1,0,0,1,20230922,23,CN
+/blog/magic-wand,desktop,https://www.sparkfun.com/,,New Zealand,Auckland,1,1,0,1,1,20230923,1,NZ
+/blog/magic-wand,desktop,,,United States,Warren,1,1,0,1,1,20230923,2,US
+/blog/magic-wand,desktop,https://www.sparkfun.com/,,Spain,Las Palmas de Gran Canaria,1,1,0,0,1,20230923,8,ES
+/blog/bulma-amp,desktop,https://www.google.com/,,Türkiye,Corlu,1,1,0,1,1,20230923,14,
