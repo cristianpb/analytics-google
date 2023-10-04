@@ -1,20 +1,6 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /blog/fluentbit-elasticsearch-kibana,desktop,,,China,(not set),2,2,0,1,1,20230928,5,CN
 /blog/fluentbit-elasticsearch-kibana,mobile,,,China,(not set),2,2,0,0,1,20230928,5,CN
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Japan,Osaka,1,1,0,0,1,20230926,1,JP
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United States,Richardson,1,1,0,0,1,20230926,2,US
-/blog/serverless-api-lambda,desktop,https://www.google.com/,,Brazil,Para de Minas,1,1,0,1,1,20230926,3,BR
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Philippines,Mabalacat,1,1,0,0,1,20230926,5,PH
-/blog/mopidy-muse,mobile,https://www.google.com/,,Canada,Vancouver,1,1,0,0,1,20230926,6,CA
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,United States,Mountain View,1,1,0,1,1,20230926,8,US
-/blog/marathon-mirabelle,desktop,https://www.google.com/,,Poland,Warsaw,1,1,0,0,1,20230926,9,PL
-/blog/raspberry-video-stream,mobile,https://www.google.com/,,Indonesia,Jakarta,1,1,43.350923,1,0,20230926,9,ID
-/blog/ssd-yolo,mobile,https://www.google.com/,,Indonesia,Jakarta,1,1,0,1,1,20230926,9,ID
-/blog/document-detection,desktop,https://www.google.com/,,India,Jatni,1,1,0,1,1,20230926,10,IN
-/,desktop,,,United States,(not set),1,1,0,0,1,20230926,12,US
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,South Korea,Suwon-si,1,1,0,1,1,20230926,12,
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Thailand,Bangkok,1,1,0,1,1,20230926,15,TH
-/blog/magic-wand,desktop,https://www.google.co.jp/,,Japan,Tateyama,1,1,0,1,1,20230926,16,JP
 /blog/traefik-goaccess,desktop,https://www.google.com/,,United States,Celina,1,1,0,1,1,20230927,2,US
 /blog/motion-monitor-opencv,mobile,https://www.facebook.com/,,Ireland,Dublin,1,1,0,1,1,20230927,3,IE
 /blog/motion-monitor-opencv,mobile,https://www.facebook.com/,,United States,Ashburn,1,1,0,1,1,20230927,3,US
@@ -101,10 +87,31 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/traefik-goaccess,desktop,,,France,Antibes,1,1,0,1,1,20231002,19,FR
 /blog/image-rotation-opencv,desktop,,,New Zealand,Auckland,1,1,0,1,1,20231002,23,NZ
 /blog/magic-wand,desktop,https://www.google.com/,,United States,New York,1,1,0,1,1,20231003,0,US
+/blog/music-voice-cotrol,desktop,https://www.google.com/,,New Zealand,Dunedin,1,1,0,1,1,20231003,0,NZ
 /blog/raspberry-video-stream,mobile,https://www.google.com/,,United Kingdom,Beeston,1,1,0,0,1,20231003,1,GB
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Singapore,Singapore,1,1,0,1,1,20231003,3,SG
-/blog/amp-search-jekyll,desktop,https://www.google.com/,,Brazil,Porto Alegre,1,1,0,2,1,20231003,4,BR
+/blog/amp-search-jekyll,desktop,https://www.google.com/,,Brazil,Porto Alegre,1,1,0,1,1,20231003,4,BR
 /blog/document-detection,desktop,https://www.yandex.ru/,,Uzbekistan,Tashkent,1,1,0,1,1,20231003,6,UZ
 /blog/ssd-yolo,mobile,https://www.google.com/,,Romania,Bucharest,1,1,0,2,1,20231003,6,RO
 /blog/traefik-goaccess,mobile,https://www.google.com/,,France,Montauban,1,1,0,0,1,20231003,7,FR
-/blog/image-rotation-opencv,mobile,https://www.google.com/,,United Kingdom,London,1,1,0,2,1,20231003,10,GB
+/blog/image-rotation-opencv,mobile,https://www.google.com,,United Kingdom,London,1,1,0,2,0,20231003,10,GB
+/blog/image-rotation-opencv,mobile,https://www.google.com/,,United Kingdom,London,1,1,275.974805,2,0,20231003,10,GB
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Belarus,Minsk,1,1,0,0,1,20231003,10,BY
+/blog/image-rotation-opencv,desktop,https://yandex.by/,,Belarus,Polatsk,1,1,0,1,1,20231003,11,BY
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Belarus,Minsk,1,1,0,0,1,20231003,11,BY
+/blog/ssd-yolo,mobile,https://yandex.ru/,,Russia,Saint Petersburg,1,1,0,0,1,20231003,11,RU
+/blog/traefik-goaccess,mobile,,,Germany,(not set),1,1,0,0,1,20231003,11,DE
+/,desktop,,,United States,(not set),1,1,0,0,1,20231003,13,US
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Switzerland,Nottwil,1,1,0,0,1,20231003,13,CH
+/blog/music-voice-cotrol,desktop,https://www.google.com/,,United Kingdom,Leicester,1,1,0,1,1,20231003,13,GB
+/blog/image-rotation-opencv,desktop,https://yandex.kz/,,Kazakhstan,Almaty,1,1,0,1,1,20231003,14,KZ
+/blog/marathon-mirabelle,desktop,https://www.google.com/,,Netherlands,Amsterdam,1,1,0,0,1,20231003,14,NL
+/blog/grafana-dashboard,desktop,https://www.google.com/,,France,Paris,1,1,0,0,1,20231003,16,FR
+/blog/motion-monitor-opencv,desktop,https://cristianpb.github.io/blog/ssd-yolo,,United States,West Lafayette,1,1,72.586473,0,0,20231003,16,US
+/blog/ssd-yolo,desktop,https://www.google.com/,,United States,West Lafayette,1,1,0,0,0,20231003,16,US
+/blog/traefik-goaccess,desktop,https://www.google.com/,,United States,Aurora,1,1,0,1,1,20231003,16,US
+/blog/mopidy-muse,desktop,https://github.com/cristianpb/muse,,United States,Cooper City,1,1,0,0,1,20231003,21,US
+/blog/motion-monitor-opencv,mobile,https://www.google.com/,,United States,Corvallis,1,1,0,0,1,20231004,3,US
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Belarus,Minsk,1,1,0,1,1,20231004,8,BY
+/blog/document-detection,desktop,https://www.google.com/,,South Korea,Seoul,1,1,0,0,1,20231004,9,
+/blog/ssd-yolo,desktop,https://www.google.com/,,Serbia,Belgrade,1,1,0,1,1,20231004,12,RS
