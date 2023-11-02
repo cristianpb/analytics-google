@@ -1,15 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,United States,Austin,1,1,0,2,1,20231025,2,US
-/blog/document-detection,desktop,https://www.google.com/,,United States,Franklin,1,1,0,2,1,20231025,7,US
-/blog/document-detection,desktop,https://www.google.com/,,India,Hyderabad,1,1,0,0,1,20231025,8,IN
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,France,Palaiseau,1,1,0,1,1,20231025,11,FR
-/blog/ssd-yolo,desktop,https://www.google.com/,,France,(not set),1,1,0,1,1,20231025,15,FR
-/blog/fluentbit-elasticsearch-kibana,desktop,https://cristianpb.github.io/blog/monitoring-grafana,,Germany,Beelitz,1,1,48.776343,1,0,20231025,16,DE
-/blog/monitoring-grafana,desktop,https://cristianpb.github.io/blog/tags,,Germany,Beelitz,1,1,6.397061,0,0,20231025,16,DE
-/blog/tags,desktop,https://cristianpb.github.io/blog/traefik-goaccess,,Germany,Beelitz,1,1,278.233551,0,0,20231025,16,DE
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Beelitz,1,1,0,1,0,20231025,16,DE
-/blog/monitoring-grafana,mobile,https://ya.ru/,,Tajikistan,Dushanbe,1,1,0,1,1,20231025,21,TJ
-/blog/grafana-dashboard,desktop,,,Russia,Moscow,1,1,0,6,1,20231025,22,RU
 /blog/traefik-goaccess,desktop,https://www.reddit.com/,,Argentina,(not set),1,1,0,1,1,20231026,1,AR
 /blog/traefik-goaccess,desktop,https://www.google.com/,,China,(not set),1,1,0,2,1,20231026,5,CN
 /blog/motion-monitor-opencv,desktop,https://www.bing.com/,,Vietnam,Hanoi,1,1,0,0,1,20231026,6,VN
@@ -91,7 +80,35 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/fluentbit-elasticsearch-kibana,desktop,https://www.bing.com/,,United States,Charlotte,1,1,0,0,1,20231031,16,US
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,India,Kochi,1,1,0,0,1,20231031,16,IN
 /blog/ssd-yolo,mobile,https://www.google.ro/,,Romania,Drobeta-Turnu Severin,1,1,0,0,1,20231031,18,RO
+/blog/fluentbit-elasticsearch-kibana,desktop,https://www.bing.com/,,United States,Charlotte,1,1,0,0,1,20231101,0,US
+/blog/ssd-yolo,mobile,https://www.google.com/,,United Kingdom,Belfast,1,1,0,0,1,20231101,1,GB
 /blog/ssd-yolo,desktop,https://www.google.com/,,South Korea,Seoul,1,1,0,0,1,20231101,7,
-/blog/categories,desktop,https://cristianpb.github.io/blog/ssd-yolo,,South Korea,Seoul,1,1,0,0,1,20231101,8,
+/blog/categories,desktop,https://cristianpb.github.io/blog/ssd-yolo,,South Korea,Seoul,1,1,0,0,0,20231101,8,
 /blog/grafana-dashboard,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,1,1,20231101,8,RU
-/blog/magic-wand,desktop,https://cristianpb.github.io/blog/categories,,South Korea,Seoul,1,1,2.105499,0,1,20231101,8,
+/blog/magic-wand,desktop,https://cristianpb.github.io/blog/categories,,South Korea,Seoul,1,1,2.105499,0,0,20231101,8,
+/blog/mopidy-muse,desktop,https://www.google.com/,,Hong Kong,(not set),1,1,0,0,1,20231101,9,HK
+/,desktop,,,United States,(not set),1,1,0,0,1,20231101,10,US
+/blog/document-detection,desktop,https://lens.google.com/,,United Kingdom,London,1,1,0,0,1,20231101,11,GB
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Bosnia & Herzegovina,Mostar,1,1,0,0,0,20231101,12,
+/blog/monitoring-grafana,desktop,https://cristianpb.github.io/blog/grafana-dashboard,,Bosnia & Herzegovina,Mostar,1,1,624.591004,1,0,20231101,12,
+/blog/grafana-dashboard,desktop,https://www.reddit.com/,,India,Mumbai,1,1,0,0,1,20231101,13,IN
+/blog/mopidy-muse,mobile,https://www.google.com/,,Hungary,3651,1,1,0,1,1,20231101,13,HU
+/blog/traefik-goaccess,desktop,https://www.google.com/,,Armenia,Yerevan,1,1,0,1,1,20231101,13,AM
+/blog/serverless-api-lambda,desktop,https://www.google.com/,,United States,Reston,1,1,0,0,1,20231101,14,US
+/blog/image-rotation-opencv,desktop,,,United Kingdom,Wakefield,1,1,0,3,1,20231101,16,GB
+/blog/serverless-api-lambda,mobile,https://www.google.com/,,Finland,Espoo,1,1,0,0,1,20231101,16,FI
+/blog/monitoring-grafana,desktop,https://www.google.com/,,United States,Boydton,1,1,0,6,1,20231101,17,US
+/blog/document-detection,desktop,https://www.google.com/,,Germany,Sulingen,1,1,0,3,1,20231101,18,DE
+/blog/vim-plugins,desktop,https://www.google.com/,,Iran,Shiraz,1,1,0,3,1,20231101,19,
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Taiwan,(not set),1,1,0,3,1,20231101,20,TW
+/blog/monitoring-grafana,desktop,https://ya.ru/,,Russia,Khimki,1,1,0,0,1,20231101,21,RU
+/blog/fluentbit-elasticsearch-kibana,desktop,,,Russia,Ryazan,1,1,28.418553,0,0,20231101,22,RU
+/blog/monitoring-grafana,desktop,,,Russia,Ryazan,1,1,0,3,0,20231101,22,RU
+/blog/magic-wand,desktop,https://www.google.com/,,United States,New York,1,1,0,2,1,20231102,0,US
+/blog/traefik-goaccess,desktop,https://www.google.com/,,Puerto Rico,San Juan,1,1,0,3,1,20231102,0,PR
+/blog/traefik-goaccess,mobile,https://cn.bing.com/,,China,,1,1,0,6,1,20231102,1,CN
+/blog/traefik-goaccess,desktop,https://www.google.com/,,Peru,,1,1,0,3,1,20231102,2,PE
+/blog/raspberry-video-stream,desktop,https://www.google.com/,,Germany,Kiel,1,1,0,0,1,20231102,8,DE
+/blog/serverless-api-lambda,desktop,https://www.google.com/,,Finland,Helsinki,1,1,0,0,1,20231102,8,FI
+/,desktop,,,United States,,1,1,0,0,1,20231102,12,US
+/blog/ssd-yolo,desktop,https://www.google.com/,,India,Chennai,1,1,128.111199,0,0,20231102,13,IN
