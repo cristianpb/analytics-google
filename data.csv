@@ -1,19 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/image-rotation-opencv,desktop,,,Cyprus,Limassol,1,1,0,1,1,20231030,0,CY
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Singapore,Singapore,1,1,0,1,1,20231030,4,SG
-/blog/image-rotation-opencv,mobile,https://www.google.com/,,Vietnam,Hai Duong,1,1,0,2,1,20231030,5,VN
-/blog/document-detection,desktop,https://www.google.com/,,Romania,Alba Iulia,1,1,0,1,1,20231030,6,RO
-/blog/image-rotation-opencv,mobile,https://www.google.com/,,Vietnam,Hue,1,1,0,0,1,20231030,6,VN
-/blog/ssd-yolo,desktop,https://www.google.com.hk/,,China,Guangzhou,1,1,0,1,1,20231030,9,CN
-/blog/image-rotation-opencv,desktop,,,United Kingdom,London,1,1,0,2,1,20231030,11,GB
-/blog/image-rotation-opencv,desktop,,,Cyprus,Limassol,1,1,0,0,1,20231030,13,CY
-/blog/motion-monitor-opencv,desktop,https://www.google.ru/,,Russia,Saint Petersburg,1,1,0,1,1,20231030,16,RU
-/blog/grafana-dashboard,desktop,https://cristianpb.github.io/blog/monitoring-grafana,,Ukraine,Vinnytsia,1,1,32.962528,0,0,20231030,17,UA
-/blog/image-rotation-opencv,desktop,,,Russia,Moscow,1,1,0,0,1,20231030,17,RU
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Ukraine,Vinnytsia,1,1,0,0,0,20231030,17,UA
-/blog/image-rotation-opencv,desktop,,,Russia,Moscow,1,1,0,1,1,20231030,18,RU
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,United States,San Jose,1,1,0,1,1,20231030,19,US
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Greece,Acharnes,1,1,0,1,1,20231030,20,GR
 /blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,Mexico,Guadalajara,1,1,0,0,1,20231031,1,MX
 /blog/traefik-goaccess,desktop,https://www.google.com/,,United States,Benton,1,1,0,1,1,20231031,4,US
 /blog/amp-search-jekyll,desktop,https://www.google.com/,,Indonesia,Jakarta,1,1,0,1,1,20231031,5,ID
@@ -111,5 +96,27 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Ukraine,Vyshneve,1,1,0,0,1,20231105,22,UA
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,Colombia,Bogota,1,1,0,3,1,20231105,23,CO
 /blog/vimwiki-hugo,desktop,https://www.google.com/,,Vietnam,Da Nang,1,1,0,3,1,20231106,6,VN
-/blog/motion-monitor-opencv,desktop,,,Vietnam,Hanoi,1,1,0,2,1,20231106,8,VN
-/blog/ssd-yolo,desktop,https://cristianpb.github.io/blog/motion-monitor-opencv,,Vietnam,Hanoi,1,1,0,1,1,20231106,8,VN
+/blog/motion-monitor-opencv,desktop,,,Vietnam,Hanoi,1,1,0,2,0,20231106,8,VN
+/blog/ssd-yolo,desktop,https://cristianpb.github.io/blog/motion-monitor-opencv,,Vietnam,Hanoi,1,1,250.447066,1,0,20231106,8,VN
+/blog/document-detection,desktop,https://www.google.com/,,France,Figeac,1,1,0,0,1,20231106,9,FR
+/blog/ssd-yolo,desktop,https://vn.search.yahoo.com/,,Vietnam,Da Nang,1,1,0,3,1,20231106,9,VN
+/blog/document-detection,desktop,https://www.google.com/,,France,Figeac,1,1,0,0,1,20231106,11,FR
+/blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,Australia,Sydney,1,1,0,0,1,20231106,11,AU
+/blog/ssd-yolo,desktop,https://www.google.com/,,South Korea,Goyang-si,1,1,0,0,1,20231106,11,
+/blog/ssd-yolo,desktop,https://www.google.com/,,Spain,Santa Cruz de Tenerife,1,1,0,3,1,20231106,11,ES
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Czechia,Prague,1,1,0,3,1,20231106,15,
+/blog/motion-monitor-opencv,smart tv,https://cristianpb.github.io/blog/ssd-yolo,,India,Hyderabad,1,1,28.135983,0,0,20231106,15,IN
+/blog/ssd-yolo,desktop,https://www.google.com/,,Indonesia,Depok,1,1,0,6,1,20231106,15,ID
+/blog/ssd-yolo,smart tv,https://www.google.com/,,India,Hyderabad,1,1,0,3,0,20231106,15,IN
+/blog/fluentbit-elasticsearch-kibana,desktop,https://www.bing.com/,,United States,(not set),1,1,0,2,1,20231106,16,US
+/blog/image-rotation-opencv,mobile,https://www.google.co.uk/,,United Kingdom,London,1,1,0,3,1,20231106,18,GB
+/blog/ssd-yolo,mobile,https://yandex.ru/,,Sweden,Stockholm,1,1,0,0,1,20231106,18,SE
+/,desktop,https://cristianpb.github.io/blog/image-preprocessing,,India,Dombivli,1,1,4.479062,0,0,20231106,20,IN
+/blog/image-preprocessing,desktop,https://www.bing.com/,,India,Dombivli,1,1,0,0,0,20231106,20,IN
+/blog/magic-wand,desktop,https://www.google.com/,,United States,Kent,1,1,0,0,1,20231106,20,US
+/blog/marathon-mirabelle,desktop,https://www.google.com/,,United Kingdom,(not set),1,1,0,0,1,20231106,20,GB
+/blog/vimwiki-hugo,desktop,https://www.reddit.com/,,Norway,Oslo Municipality,1,1,0,0,1,20231106,22,NO
+/blog/ssd-yolo,desktop,https://www.google.com/,,Indonesia,Bandung,1,1,0,0,1,20231107,2,ID
+/blog/ssd-yolo,desktop,https://www.google.com/,,South Korea,Suwon-si,1,1,0,0,1,20231107,7,
+/blog/traefik-goaccess,mobile,https://www.google.com/,,France,Tourcoing,1,1,0,0,1,20231107,7,FR
+/blog/traefik-goaccess,mobile,https://cristianpb.github.io/blog/traefik-goaccess,,France,Tourcoing,1,1,0,0,1,20231107,8,FR
