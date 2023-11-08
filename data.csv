@@ -1,25 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,Mexico,Guadalajara,1,1,0,0,1,20231031,1,MX
-/blog/traefik-goaccess,desktop,https://www.google.com/,,United States,Benton,1,1,0,1,1,20231031,4,US
-/blog/amp-search-jekyll,desktop,https://www.google.com/,,Indonesia,Jakarta,1,1,0,1,1,20231031,5,ID
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Hong Kong,(not set),1,1,0,0,1,20231031,5,HK
-/,desktop,,,United States,(not set),1,1,0,0,1,20231031,6,US
-/blog/image-rotation-opencv,mobile,https://www.google.com/,,Switzerland,Zurich,1,1,0,1,1,20231031,6,CH
-/blog/monitoring-grafana,desktop,,,Hong Kong,(not set),1,1,0,0,1,20231031,6,HK
-/blog/ssd-yolo,desktop,https://www.google.com/,,Indonesia,Pekanbaru,1,1,0,1,1,20231031,6,ID
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Türkiye,Ankara,1,1,0,1,1,20231031,7,
-/blog/gnuplot-electrode,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,1,1,20231031,9,RU
-/blog/ssd-yolo,desktop,https://www.google.com/,,France,(not set),1,1,0,1,1,20231031,9,FR
-/blog/marathon-mirabelle,desktop,https://www.google.com/,,France,Colombes,1,1,0,0,1,20231031,10,FR
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,Chemnitz,1,1,0,0,1,20231031,10,DE
-/blog/serverless-api-lambda,desktop,https://www.google.com/,,Finland,Helsinki,1,1,0,0,1,20231031,10,FI
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,India,Thiruvananthapuram,1,1,0,1,1,20231031,13,IN
-/blog/vimwiki-hugo,mobile,https://www.google.com/,,Germany,Freudenberg,1,1,0,1,1,20231031,14,DE
-/blog/vimwiki-hugo,desktop,https://www.google.com/,,United Kingdom,(not set),1,1,0,1,1,20231031,15,GB
-/blog/document-detection,desktop,https://yandex.ru/,,Germany,(not set),1,1,0,1,1,20231031,16,DE
-/blog/fluentbit-elasticsearch-kibana,desktop,https://www.bing.com/,,United States,Charlotte,1,1,0,0,1,20231031,16,US
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,India,Kochi,1,1,0,0,1,20231031,16,IN
-/blog/ssd-yolo,mobile,https://www.google.ro/,,Romania,Drobeta-Turnu Severin,1,1,0,0,1,20231031,18,RO
 /blog/fluentbit-elasticsearch-kibana,desktop,https://www.bing.com/,,United States,Charlotte,1,1,0,0,1,20231101,0,US
 /blog/ssd-yolo,mobile,https://www.google.com/,,United Kingdom,Belfast,1,1,0,0,1,20231101,1,GB
 /blog/ssd-yolo,desktop,https://www.google.com/,,South Korea,Seoul,1,1,0,0,1,20231101,7,
@@ -118,5 +97,22 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/vimwiki-hugo,desktop,https://www.reddit.com/,,Norway,Oslo Municipality,1,1,0,0,1,20231106,22,NO
 /blog/ssd-yolo,desktop,https://www.google.com/,,Indonesia,Bandung,1,1,0,0,1,20231107,2,ID
 /blog/ssd-yolo,desktop,https://www.google.com/,,South Korea,Suwon-si,1,1,0,0,1,20231107,7,
-/blog/traefik-goaccess,mobile,https://www.google.com/,,France,Tourcoing,1,1,0,0,1,20231107,7,FR
-/blog/traefik-goaccess,mobile,https://cristianpb.github.io/blog/traefik-goaccess,,France,Tourcoing,1,1,0,0,1,20231107,8,FR
+/blog/traefik-goaccess,mobile,https://www.google.com/,,France,Tourcoing,1,1,0,0,0,20231107,7,FR
+/blog/document-detection,mobile,https://www.google.com/,,Germany,Frankfurt,1,1,0,0,1,20231107,8,DE
+/blog/traefik-goaccess,mobile,https://cristianpb.github.io/blog/traefik-goaccess,,France,Tourcoing,1,1,44.581172,0,0,20231107,8,FR
+/blog/traefik-goaccess,desktop,https://www.google.com/,,Greece,Athens,1,1,0,3,1,20231107,11,GR
+/blog/ssd-yolo,desktop,https://www.google.com/,,Finland,Rovaniemi,1,1,0,3,1,20231107,12,FI
+/,desktop,,,United States,(not set),1,1,0,0,1,20231107,13,US
+/,desktop,,,United States,(not set),1,1,0,3,1,20231107,14,US
+/blog/image-processing-using-serverless-architecture,mobile,https://www.google.com/,,India,Karaikudi,1,1,0,3,1,20231107,16,IN
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Portugal,(not set),1,1,0,3,1,20231107,16,PT
+/blog/mopidy-muse,desktop,,,Russia,Krasnoyarsk,1,1,0,3,1,20231107,16,RU
+/blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,India,Palakkad,1,1,0,0,1,20231107,17,IN
+/blog/ssd-yolo,desktop,https://www.google.com/,,Indonesia,Jakarta,1,1,0,3,1,20231107,17,ID
+/blog/ssd-yolo,desktop,https://www.google.com/,,Germany,(not set),1,1,0,6,1,20231107,20,DE
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Argentina,Buenos Aires,1,1,0,0,1,20231107,23,AR
+/blog/vimwiki-hugo,mobile,android-app://com.google.android.googlequicksearchbox/,,United States,Raleigh,1,1,0,3,1,20231108,1,US
+/blog/music-voice-cotrol,desktop,https://www.google.com/,,Malaysia,Kuala Lumpur,1,1,0,3,0,20231108,4,MY
+/blog/traefik-goaccess,tablet,https://www.google.com/,,Italy,Rome,1,1,0,0,1,20231108,6,IT
+/blog/ssd-yolo,desktop,https://www.google.com/,,India,Chennai,1,1,0,0,1,20231108,12,IN
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Argentina,Buenos Aires,1,1,0,3,1,20231108,14,AR
