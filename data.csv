@@ -1,26 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,United States,,2,2,0,3,1,20231113,1,US
-/blog/vimwiki-hugo,desktop,https://www.google.com/,,Vietnam,Da Nang,1,1,0,3,1,20231106,6,VN
-/blog/motion-monitor-opencv,desktop,,,Vietnam,Hanoi,1,1,0,2,0,20231106,8,VN
-/blog/ssd-yolo,desktop,https://cristianpb.github.io/blog/motion-monitor-opencv,,Vietnam,Hanoi,1,1,250.447066,1,0,20231106,8,VN
-/blog/document-detection,desktop,https://www.google.com/,,France,Figeac,1,1,0,0,1,20231106,9,FR
-/blog/ssd-yolo,desktop,https://vn.search.yahoo.com/,,Vietnam,Da Nang,1,1,0,3,1,20231106,9,VN
-/blog/document-detection,desktop,https://www.google.com/,,France,Figeac,1,1,0,0,1,20231106,11,FR
-/blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,Australia,Sydney,1,1,0,0,1,20231106,11,AU
-/blog/ssd-yolo,desktop,https://www.google.com/,,South Korea,Goyang-si,1,1,0,0,1,20231106,11,
-/blog/ssd-yolo,desktop,https://www.google.com/,,Spain,Santa Cruz de Tenerife,1,1,0,3,1,20231106,11,ES
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Czechia,Prague,1,1,0,3,1,20231106,15,
-/blog/motion-monitor-opencv,smart tv,https://cristianpb.github.io/blog/ssd-yolo,,India,Hyderabad,1,1,28.135983,0,0,20231106,15,IN
-/blog/ssd-yolo,desktop,https://www.google.com/,,Indonesia,Depok,1,1,0,6,1,20231106,15,ID
-/blog/ssd-yolo,smart tv,https://www.google.com/,,India,Hyderabad,1,1,0,3,0,20231106,15,IN
-/blog/fluentbit-elasticsearch-kibana,desktop,https://www.bing.com/,,United States,(not set),1,1,0,2,1,20231106,16,US
-/blog/image-rotation-opencv,mobile,https://www.google.co.uk/,,United Kingdom,London,1,1,0,3,1,20231106,18,GB
-/blog/ssd-yolo,mobile,https://yandex.ru/,,Sweden,Stockholm,1,1,0,0,1,20231106,18,SE
-/,desktop,https://cristianpb.github.io/blog/image-preprocessing,,India,Dombivli,1,1,4.479062,0,0,20231106,20,IN
-/blog/image-preprocessing,desktop,https://www.bing.com/,,India,Dombivli,1,1,0,0,0,20231106,20,IN
-/blog/magic-wand,desktop,https://www.google.com/,,United States,Kent,1,1,0,0,1,20231106,20,US
-/blog/marathon-mirabelle,desktop,https://www.google.com/,,United Kingdom,(not set),1,1,0,0,1,20231106,20,GB
-/blog/vimwiki-hugo,desktop,https://www.reddit.com/,,Norway,Oslo Municipality,1,1,0,0,1,20231106,22,NO
+/,desktop,,,United States,(not set),2,2,0,3,1,20231113,1,US
 /blog/ssd-yolo,desktop,https://www.google.com/,,Indonesia,Bandung,1,1,0,0,1,20231107,2,ID
 /blog/ssd-yolo,desktop,https://www.google.com/,,South Korea,Suwon-si,1,1,0,0,1,20231107,7,
 /blog/traefik-goaccess,mobile,https://www.google.com/,,France,Tourcoing,1,1,0,0,0,20231107,7,FR
@@ -107,3 +86,19 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,Poland,Warsaw,1,1,0,3,1,20231112,23,PL
 /blog/document-detection,desktop,https://www.google.com/,,United States,Providence,1,1,0,0,1,20231113,3,US
 /blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,India,New Delhi,1,1,0,0,1,20231113,8,IN
+/blog/monitoring-grafana,desktop,https://medium.com/@cristianpb/system-monitoring-with-grafana-influxdb-et-collectd-7827969e1fe,,China,(not set),1,1,0,0,1,20231113,8,CN
+/blog/marathon-mirabelle,desktop,https://www.google.com/,,France,Paris,1,1,0,3,1,20231113,13,FR
+/blog/marathon-mirabelle,desktop,,,France,Paris,1,1,0,1,1,20231113,14,FR
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Czechia,Prague,1,1,0,0,1,20231113,15,
+/blog/fluentbit-elasticsearch-kibana,desktop,https://www.bing.com/,,United States,Charlotte,1,1,0,0,1,20231113,17,US
+/blog/magic-wand,mobile,,,United Kingdom,London,1,1,0,0,1,20231113,17,GB
+/blog/monitoring-grafana,desktop,https://www.google.com/,,United Kingdom,Norwich,1,1,0,3,1,20231113,19,GB
+/blog/traefik-goaccess,mobile,,,Poland,Pruszkow,1,1,0,0,1,20231113,19,PL
+/blog/velib-folium,desktop,https://www.google.com/,,France,Paris,1,1,0,0,1,20231113,22,FR
+/blog/traefik-goaccess,desktop,,,Belarus,Brest,1,1,0,3,1,20231113,23,BY
+/blog/traefik-goaccess,mobile,,,Spain,Madrid,1,1,0,3,1,20231113,23,ES
+/blog/vimwiki-hugo,mobile,,,United States,Beaverton,1,1,0,3,1,20231113,23,US
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Vietnam,Hanoi,1,1,0,3,1,20231114,5,VN
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Czechia,Prague,1,1,0,0,1,20231114,7,
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Vietnam,Hanoi,1,1,0,2,1,20231114,8,VN
+/blog/dashboard-dc-js,mobile,android-app://com.google.android.googlequicksearchbox/,,India,Chennai,1,1,0,0,1,20231114,14,IN
