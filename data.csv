@@ -1,17 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,United States,(not set),2,2,0,3,1,20231113,1,US
-/blog/ssd-yolo,desktop,https://www.google.com/,,South Korea,Gwangju,1,1,0,3,1,20231110,5,
-/blog/motion-monitor-opencv,mobile,https://www.bing.com/,,Singapore,Singapore,1,1,0,0,0,20231110,7,SG
-/blog/ssd-yolo,mobile,https://www.bing.com/,,Singapore,Singapore,1,1,108.940422,0,0,20231110,7,SG
-/blog/grafana-dashboard,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,3,1,20231110,9,RU
-/blog/fluentbit-elasticsearch-kibana,desktop,https://duckduckgo.com/,,Netherlands,Eindhoven,1,1,0,0,1,20231110,10,NL
-/blog/image-rotation-opencv,desktop,,,India,Hyderabad,1,1,0,3,1,20231110,10,IN
-/blog/ssd-yolo,desktop,https://www.google.com/,,India,Jammu,1,1,0,3,1,20231110,10,IN
-/blog/traefik-goaccess,desktop,https://www.google.com/,,France,Paris,1,1,0,2,1,20231110,10,FR
-/blog/magic-wand,mobile,https://www.google.co.in/,,India,Kochi,1,1,0,3,1,20231110,14,IN
-/blog/document-detection,desktop,https://www.google.com/,,El Salvador,San Salvador,1,1,0,6,1,20231110,17,SV
-/blog/image-rotation-opencv,desktop,,,United Kingdom,Wakefield,1,1,0,3,1,20231110,17,GB
-/blog/ssd-yolo,mobile,https://www.google.com/,,India,Visakhapatnam,1,1,0,3,1,20231110,20,IN
 /,desktop,,,United States,(not set),1,1,0,0,1,20231111,3,US
 /,desktop,,,United States,Detroit,1,1,0,3,1,20231111,3,US
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,India,Ahmedabad,1,1,55.805192,0,0,20231111,7,IN
@@ -90,10 +78,24 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/dashboard-dc-js,desktop,https://cristianpb.github.io/blog/categories,,Türkiye,Istanbul,1,1,118.853548,1,0,20231116,23,
 /blog/document-detection,desktop,https://cristianpb.github.io/blog/document-detection,,Türkiye,Istanbul,1,1,3.011596,0,0,20231116,23,
 /blog/document-detection,desktop,https://www.google.com/,,Türkiye,Istanbul,1,1,112.807983,4,0,20231116,23,
-/blog/document-detection,desktop,https://www.google.com/,,Mexico,,1,1,0,0,1,20231117,0,MX
+/blog/document-detection,desktop,https://www.google.com/,,Mexico,(not set),1,1,0,0,1,20231117,0,MX
 /blog/document-detection,mobile,android-app://com.google.android.googlequicksearchbox/,,Bolivia,Santa Cruz de la Sierra,1,1,0,3,1,20231117,3,
 /blog/mopidy-muse,mobile,https://www.google.com/,,Venezuela,Maracaibo,1,1,0,3,1,20231117,3,
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Taiwan,,1,1,0,0,1,20231117,4,TW
+/,desktop,,,United States,(not set),1,1,0,0,1,20231117,4,US
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Taiwan,(not set),1,1,0,0,1,20231117,4,TW
 /blog/ssd-yolo,desktop,https://www.google.com/,,Indonesia,Jakarta,1,1,0,0,1,20231117,4,ID
-/blog/analytics-google,desktop,https://cristianpb.github.io/blog/dashboard-dc-js,,Türkiye,Istanbul,1,1,0,0,1,20231117,7,
-/blog/categories,desktop,https://cristianpb.github.io/blog/analytics-google,,Türkiye,Istanbul,1,1,42.717166,1,1,20231117,7,
+/blog/analytics-google,desktop,https://cristianpb.github.io/blog/dashboard-dc-js,,Türkiye,Istanbul,1,1,0,0,0,20231117,7,
+/blog/categories,desktop,https://cristianpb.github.io/blog/analytics-google,,Türkiye,Istanbul,1,1,42.717166,1,0,20231117,7,
+/blog/image-rotation-opencv,desktop,,,Hong Kong,(not set),1,1,0,6,1,20231117,7,HK
+/blog/ssd-yolo,desktop,https://www.google.com/,,India,Kochi,1,1,0,0,1,20231117,9,IN
+/,desktop,,,United States,(not set),1,1,0,3,1,20231117,10,US
+/blog/gnuplot-electrode,desktop,https://www.google.com/,,Germany,Munich,1,1,0,3,1,20231117,13,DE
+/blog/marathon-mirabelle,desktop,https://www.google.com/,,Austria,Vienna,1,1,0,0,1,20231117,13,AT
+/blog/document-detection,desktop,https://www.google.com/,,Argentina,Resistencia,1,1,0,3,1,20231117,18,AR
+/blog/image-rotation-opencv,desktop,,,Portugal,Vila do Conde,1,1,0,3,1,20231117,20,PT
+/blog/vimwiki-hugo,desktop,,,Mexico,Progreso,1,1,94.914564,1,0,20231117,21,MX
+/blog/vimwiki-hugo,desktop,https://duckduckgo.com/,,Mexico,Progreso,1,1,0,3,0,20231117,21,MX
+/blog/traefik-goaccess,desktop,https://duckduckgo.com/,,Russia,Domodedovo,1,1,0,3,0,20231117,22,RU
+/blog/mopidy-muse,mobile,https://www.google.hu/,,Hungary,Budapest,1,1,0,0,1,20231117,23,HU
+/blog/traefik-goaccess,desktop,,,Russia,Domodedovo,1,1,998.949831,1,0,20231117,23,RU
+/blog/vim-plugins,desktop,https://www.google.com/,,India,Coimbatore,1,1,0,3,1,20231118,7,IN
