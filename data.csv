@@ -1,20 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,United States,(not set),2,2,0,3,1,20231113,1,US
 /,desktop,,,United States,(not set),2,2,0,3,1,20231118,15,US
-/blog/document-detection,desktop,https://www.google.com/,,United States,Providence,1,1,0,0,1,20231113,3,US
-/blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,India,New Delhi,1,1,0,0,1,20231113,8,IN
-/blog/monitoring-grafana,desktop,https://medium.com/@cristianpb/system-monitoring-with-grafana-influxdb-et-collectd-7827969e1fe,,China,(not set),1,1,0,0,1,20231113,8,CN
-/blog/marathon-mirabelle,desktop,https://www.google.com/,,France,Paris,1,1,0,3,1,20231113,13,FR
-/blog/marathon-mirabelle,desktop,,,France,Paris,1,1,0,1,1,20231113,14,FR
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Czechia,Prague,1,1,0,0,1,20231113,15,
-/blog/fluentbit-elasticsearch-kibana,desktop,https://www.bing.com/,,United States,Charlotte,1,1,0,0,1,20231113,17,US
-/blog/magic-wand,mobile,,,United Kingdom,London,1,1,0,0,1,20231113,17,GB
-/blog/monitoring-grafana,desktop,https://www.google.com/,,United Kingdom,Norwich,1,1,0,3,1,20231113,19,GB
-/blog/traefik-goaccess,mobile,,,Poland,Pruszkow,1,1,0,0,1,20231113,19,PL
-/blog/velib-folium,desktop,https://www.google.com/,,France,Paris,1,1,0,0,1,20231113,22,FR
-/blog/traefik-goaccess,desktop,,,Belarus,Brest,1,1,0,3,1,20231113,23,BY
-/blog/traefik-goaccess,mobile,,,Spain,Madrid,1,1,0,3,1,20231113,23,ES
-/blog/vimwiki-hugo,mobile,,,United States,Beaverton,1,1,0,3,1,20231113,23,US
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Vietnam,Hanoi,1,1,0,3,1,20231114,5,VN
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Czechia,Prague,1,1,0,0,1,20231114,7,
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Vietnam,Hanoi,1,1,0,2,1,20231114,8,VN
@@ -113,6 +98,22 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/mopidy-muse,mobile,https://mopidy.com/,,France,(not set),1,1,0,0,1,20231119,21,FR
 /blog/traefik-goaccess,desktop,https://www.google.com/,,Russia,Saint Petersburg,1,1,0,6,1,20231120,0,RU
 /,desktop,,,United States,Coffeyville,1,1,0,6,1,20231120,1,US
-/blog/image-rotation-opencv,desktop,,,United States,Los Angeles,1,1,0,3,1,20231120,2,US
+/blog/image-rotation-opencv,desktop,,,United States,Los Angeles,1,1,714.442566,3,0,20231120,2,US
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,South Korea,Incheon,1,1,0,3,1,20231120,4,
 /blog/raspberry-video-stream,tablet,https://www.google.com/,,United States,Los Angeles,1,1,0,3,1,20231120,6,US
-/blog/mopidy-muse,mobile,https://mopidy.com/,,France,,1,1,0,0,1,20231120,8,FR
+/blog/mopidy-muse,mobile,https://mopidy.com/,,France,(not set),1,1,0,0,1,20231120,8,FR
+/blog/ssd-yolo,mobile,android-app://com.google.android.googlequicksearchbox/,,India,Kochi,1,1,0,21,1,20231120,9,IN
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Germany,Nidda,1,1,0,0,1,20231120,10,DE
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,India,(not set),1,1,0,3,1,20231120,11,IN
+/blog/image-preprocessing,desktop,https://www.bing.com/,,Germany,Mannheim,1,1,0,0,1,20231120,12,DE
+/blog/vimwiki-hugo,mobile,https://www.google.com/,,France,Bordeaux,1,1,0,0,1,20231120,13,FR
+/,desktop,,,United States,(not set),1,1,0,0,1,20231120,16,US
+/,desktop,,,United States,Coffeyville,1,1,0,6,1,20231120,16,US
+/blog/marathon-mirabelle,desktop,https://www.google.com/,,United States,Ashburn,1,1,0,0,1,20231120,17,US
+/blog/document-detection,desktop,https://www.google.com/,,Germany,Gifhorn,1,1,0,0,1,20231120,23,DE
+/blog/monitoring-grafana,desktop,https://www.google.com.hk/,,China,Shenzhen,1,1,0,3,1,20231121,2,CN
+/blog/traefik-goaccess,desktop,https://www.google.co.jp/,,Japan,Moriguchi,1,1,0,3,1,20231121,4,JP
+/blog/document-detection,desktop,https://www.google.com/,,Pakistan,Islamabad,1,1,0,0,1,20231121,7,PK
+/blog/marathon-mirabelle,desktop,https://www.google.com/,,India,Mumbai,1,1,0,0,1,20231121,7,IN
+/blog/marathon-mirabelle,desktop,https://www.google.com/,,Poland,Warsaw,1,1,0,0,0,20231121,13,PL
+/blog/jekyll-algolia,desktop,https://t.co/,,Bahamas,Nassau,1,1,0,0,1,20231121,14,BS
