@@ -1,20 +1,6 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,United States,(not set),3,3,0,6,1,20231130,11,US
 /,desktop,,,United States,(not set),2,2,0,3,1,20231127,10,US
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Japan,Shinagawa City,1,1,0,0,1,20231124,2,JP
-/,desktop,,,United States,Coffeyville,1,1,0,3,1,20231124,5,US
-/blog/document-detection,desktop,https://www.google.com/,,Taiwan,(not set),1,1,0,3,1,20231124,8,TW
-/blog/ssd-yolo,desktop,https://www.google.com/,,Japan,Kawasaki,1,1,0,3,1,20231124,8,JP
-/blog/image-preprocessing,desktop,https://www.google.com/,,Serbia,Nis,1,1,0,0,1,20231124,11,RS
-/blog/magic-wand,desktop,https://www.google.com/,,Czechia,Prostejov,1,1,0,3,1,20231124,12,
-/blog/ssd-yolo,desktop,https://yandex.ru/,,Russia,Saint Petersburg,1,1,0,0,1,20231124,12,RU
-/blog/serverless-api-lambda,desktop,https://www.google.com/,,Philippines,Manila,1,1,0,3,1,20231124,13,PH
-/blog/jekyll-algolia,desktop,https://www.google.com/,,Ireland,(not set),1,1,0,3,1,20231124,17,IE
-/blog/vimwiki-hugo,desktop,https://www.google.com/,,Israel,Tel Aviv-Yafo,1,1,0,3,1,20231124,17,IL
-/blog/analytics-google,mobile,https://www.google.com/,,India,Coimbatore,1,1,0,36,1,20231124,18,IN
-/blog/vimwiki-hugo,mobile,https://www.google.com/,,Germany,(not set),1,1,0,0,1,20231124,18,DE
-/blog/grafana-dashboard,desktop,,,Ecuador,(not set),1,1,0,2,1,20231124,20,EC
-/blog/raspberry-video-stream,desktop,https://www.google.com/,,Indonesia,Homeyo,1,1,0,3,1,20231124,20,ID
 /blog/ssd-yolo,desktop,,,Kenya,Nairobi,1,1,0,2,1,20231125,1,KE
 /blog/grafana-dashboard,desktop,,,Ecuador,(not set),1,1,0,2,1,20231125,3,EC
 /blog/document-detection,desktop,,,Germany,Wolfenbuttel,1,1,0,0,1,20231125,13,DE
@@ -105,11 +91,21 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/vimwiki-hugo,desktop,https://www.google.com/,,Romania,Cluj-Napoca,1,1,0,0,1,20231130,20,RO
 /blog/marathon-mirabelle,mobile,https://www.google.com/,,United States,Atlanta,1,1,0,0,1,20231201,1,US
 /blog/image-rotation-opencv,desktop,,,United States,Princeton,1,1,0,0,1,20231201,3,US
-/blog/image-rotation-ope,desktop,http://localhost:8888/,,Malaysia,Shah Alam,1,1,0,0,1,20231201,5,MY
-/blog/image-rotation-opencv,desktop,http://localhost:8888/,,Malaysia,Shah Alam,1,1,0,0,1,20231201,5,MY
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Malaysia,Shah Alam,1,1,0,0,1,20231201,5,MY
+/blog/image-rotation-ope,desktop,http://localhost:8888/,,Malaysia,Shah Alam,1,1,0,0,0,20231201,5,MY
+/blog/image-rotation-opencv,desktop,http://localhost:8888/,,Malaysia,Shah Alam,1,1,8.659457,0,0,20231201,5,MY
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Malaysia,Shah Alam,1,1,13.447629,0,0,20231201,5,MY
 /blog/image-rotation-opencv,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,3,1,20231201,8,RU
 /blog/image-rotation-opencv,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,4,1,20231201,9,RU
 /blog/image-rotation-opencv,tablet,https://yandex.ru/,,Russia,Moscow,1,1,0,3,1,20231201,9,RU
 /blog/serverless-api-lambda,mobile,https://www.google.com/,,Canada,Longueuil,1,1,0,0,1,20231201,9,CA
 /blog/image-rotation-opencv,desktop,,,Italy,Pordenone,1,1,0,0,1,20231201,10,IT
+/blog/image-rotation-opencv,desktop,,,Russia,Moscow,1,1,0,2,1,20231201,10,RU
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Taiwan,Bade District,1,1,0,0,1,20231201,11,TW
+/blog/vimwiki-hugo,desktop,https://www.google.com/,,Spain,Barcelona,1,1,0,0,1,20231201,15,ES
+/blog/velib-folium,desktop,,,France,Evreux,1,1,283.110552,0,0,20231201,16,FR
+/blog/ssd-yolo,desktop,,,China,(not set),1,1,0,15,1,20231201,17,CN
+/blog/grafana-dashboard,desktop,https://www.reddit.com/,,Spain,(not set),1,1,164.313508,0,0,20231201,18,ES
+/blog/monitoring-grafana,desktop,https://www.google.com/,,United States,Denver,1,1,0,3,1,20231201,18,US
+/,desktop,,,United States,,1,1,0,3,1,20231202,1,US
+/blog/music-voice-cotrol,desktop,https://www.google.com/,,United States,Ithaca,1,1,0,2,1,20231202,7,US
+/blog/magic-wand,desktop,https://www.google.com/,,United States,Stow,1,1,0,3,1,20231202,8,US
