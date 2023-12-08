@@ -1,26 +1,9 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,United States,(not set),3,3,0,6,1,20231130,11,US
 /about,desktop,,,United States,(not set),3,3,0,6,1,20231202,20,US
 /,desktop,,,United States,(not set),2,2,0,9,1,20231202,1,US
 /,desktop,,,United States,(not set),2,2,0,3,1,20231203,9,US
 /,desktop,,,United States,(not set),2,2,0,3,1,20231204,14,US
 /blog/velib-folium,desktop,https://www.google.com/,,France,Palaiseau,2,2,0,2,0.5,20231204,21,FR
-/blog/mopidy-muse,desktop,,,United States,Pawnee City,1,1,0,3,1,20231130,0,US
-/blog/jekyll-algolia,desktop,https://www.google.com/,,United States,Boardman,1,1,0,6,1,20231130,2,US
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United States,Columbia,1,1,67.675059,0,0,20231130,2,US
-/blog/mopidy-muse,desktop,,,Canada,Repentigny,1,1,0,3,1,20231130,3,CA
-/blog/mopidy-muse,desktop,https://duckduckgo.com/,,United States,Kinsley,1,1,55.212326,1,0,20231130,4,US
-/blog/ssd-yolo,desktop,https://yandex.ru/,,Armenia,Yerevan,1,1,0,0,1,20231130,9,AM
-/,desktop,,,United States,Coffeyville,1,1,0,0,1,20231130,11,US
-/blog/ssd-yolo,desktop,https://www.google.com/,,India,Delhi,1,1,0,3,1,20231130,11,IN
-/blog/marathon-mirabelle,desktop,https://www.google.com/,,United Kingdom,Oxford,1,1,0,0,1,20231130,12,GB
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Canada,Montreal,1,1,0,0,1,20231130,14,CA
-/blog/image-rotation-opencv,desktop,,,Italy,Turin,1,1,0,3,1,20231130,16,IT
-/blog/ssd-yolo,desktop,https://yandex.ru/,,Armenia,Yerevan,1,1,0,10,1,20231130,16,AM
-/blog/image-rotation-opencv,desktop,,,Malaysia,Shah Alam,1,1,0,3,1,20231130,17,MY
-/blog/ssd-yolo,desktop,https://www.bing.com/,,Vietnam,Ho Chi Minh City,1,1,0,3,1,20231130,17,VN
-/blog/velib-folium,desktop,https://www.google.com/,,France,Palaiseau,1,1,0,3,1,20231130,19,FR
-/blog/vimwiki-hugo,desktop,https://www.google.com/,,Romania,Cluj-Napoca,1,1,0,0,1,20231130,20,RO
 /blog/marathon-mirabelle,mobile,https://www.google.com/,,United States,Atlanta,1,1,0,0,1,20231201,1,US
 /blog/image-rotation-opencv,desktop,,,United States,Princeton,1,1,0,0,1,20231201,3,US
 /blog/image-rotation-ope,desktop,http://localhost:8888/,,Malaysia,Shah Alam,1,1,0,0,0,20231201,5,MY
@@ -88,6 +71,20 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,United States,(not set),1,1,0,0,1,20231206,23,US
 /,desktop,https://bing.com/,,United States,Coffeyville,1,1,0,3,1,20231206,23,US
 /blog/velib-folium,desktop,https://www.google.com/,,Mexico,Mexico City,1,1,0,3,1,20231207,0,MX
+/blog/mopidy-muse,mobile,,,Netherlands,Genemuiden,1,1,0,0,1,20231207,1,NL
+/blog/mopidy-muse,mobile,https://www.google.com/,,Netherlands,Genemuiden,1,1,0,3,1,20231207,1,NL
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,South Korea,Daejeon,1,1,0,3,1,20231207,6,
 /blog/serverless-api-lambda,desktop,https://www.bing.com/,,India,Chennai,1,1,0,3,1,20231207,6,IN
 /blog/traefik-goaccess,desktop,https://www.google.com/,,Russia,Saint Petersburg,1,1,0,3,1,20231207,7,RU
-/blog/vimwiki-hugo,desktop,https://www.google.com/,,Russia,,1,1,0,3,1,20231207,9,RU
+/blog/vimwiki-hugo,desktop,https://www.google.com/,,Russia,(not set),1,1,0,3,1,20231207,9,RU
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Finland,Turku,1,1,0,0,1,20231207,10,FI
+/blog/image-rotation-opencv,desktop,,,Italy,Treviso,1,1,0,0,1,20231207,12,IT
+/blog/serverless-api-lambda,desktop,https://www.bing.com/,,India,Chennai,1,1,0,0,1,20231207,12,IN
+/blog/gnuplot-electrode,desktop,https://www.google.com/,,Brazil,Campo Grande,1,1,0,3,1,20231207,13,BR
+/blog/image-rotation-opencv,desktop,,,France,Nantes,1,1,0,3,1,20231207,16,FR
+/blog/ssd-yolo,desktop,https://www.google.com/,,France,Amboise,1,1,0,0,1,20231207,17,FR
+/blog/ssd-yolo,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20231207,19,RU
+/blog/vimwiki-hugo,desktop,https://discourse.gohugo.io/,,Germany,Siegen,1,1,0,3,1,20231207,22,DE
+/blog/velib-folium,desktop,,,France,Paris,1,1,0,0,1,20231207,23,FR
+/blog/amp-search-jekyll,mobile,https://www.google.com/,,Cambodia,,1,1,0,0,1,20231208,5,KH
+/blog/monitoring-grafana,desktop,https://cristianpb.github.io/blog/traefik-goaccess,,United States,Dallas,1,1,0,0,1,20231208,7,US
