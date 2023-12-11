@@ -1,10 +1,6 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,United States,(not set),2,2,0,3,1,20231203,9,US
 /,desktop,,,United States,(not set),2,2,0,3,1,20231204,14,US
 /blog/velib-folium,desktop,https://www.google.com/,,France,Palaiseau,2,2,0,2,0.5,20231204,21,FR
-/about,desktop,,,United States,Coffeyville,1,1,0,3,1,20231203,8,US
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Neumunster,1,1,0,0,1,20231203,17,DE
-/blog/music-voice-cotrol,desktop,https://www.google.com/,,United States,Ithaca,1,1,0,0,1,20231203,18,US
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,Taiwan,Zhongli District,1,1,0,0,1,20231204,7,TW
 /blog/velib-folium,desktop,https://www.google.com/,,Germany,Berlin,1,1,0,3,1,20231204,10,DE
 /blog/serverless-api-lambda,desktop,https://www.google.com/,,France,Choisy-le-Roi,1,1,0,3,1,20231204,11,FR
@@ -71,8 +67,22 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/vimwiki-hugo,desktop,,,Germany,Siegen,1,1,0,0,1,20231208,19,DE
 /blog/traefik-goaccess,desktop,https://www.google.com/,,Portugal,Vila Nova de Gaia,1,1,0,3,1,20231208,22,PT
 /blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Everswinkel,1,1,0,0,1,20231209,1,DE
-/blog/image-processing-using-serverless-architecture,desktop,https://cristianpb.github.io/blog/image-processing-using-serverless-architecture,,India,Thoothukudi,1,1,40.442639,0,1,20231209,8,IN
-/blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,India,Thoothukudi,1,1,0,3,1,20231209,8,IN
+/blog/raspberry-video-stream,desktop,https://www.google.com/,,Vietnam,Ho Chi Minh City,1,1,0,3,1,20231209,4,VN
+/blog/image-processing-using-serverless-architecture,desktop,https://cristianpb.github.io/blog/image-processing-using-serverless-architecture,,India,Thoothukudi,1,1,40.442639,0,0,20231209,8,IN
+/blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,India,Thoothukudi,1,1,0,3,0,20231209,8,IN
 /blog/mopidy-muse,desktop,https://duckduckgo.com/,,United Kingdom,Edinburgh,1,1,0,6,1,20231209,12,GB
+/,desktop,,,United States,(not set),1,1,0,0,1,20231209,14,US
+/,desktop,https://bing.com/,,United States,Coffeyville,1,1,0,3,1,20231209,14,US
+/blog/ssd-yolo,desktop,https://www.google.com/,,United States,Boston,1,1,0,0,1,20231209,19,US
 /blog/ssd-yolo,desktop,https://www.google.com/,,United Kingdom,Paisley,1,1,0,0,1,20231210,6,GB
+/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20231210,8,US
+/blog/analytics-google,desktop,https://www.google.com.hk/,,China,Guangzhou,1,1,0,3,1,20231210,13,CN
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Israel,Tel Aviv-Yafo,1,1,0,0,1,20231210,14,IL
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Türkiye,Ankara,1,1,0,0,1,20231210,17,
+/blog,mobile,https://www.google.com/,,Mexico,Puerto Vallarta,1,1,0,3,1,20231210,21,MX
+/blog/ssd-yolo,desktop,https://www.google.com/,,Tunisia,Tunis,1,1,0,0,1,20231210,22,TN
+/blog/grafana-dashboard,desktop,https://cristianpb.github.io/blog/traefik-goaccess,,India,Pune,1,1,756.7771,1,1,20231211,4,IN
+/blog/monitoring-grafana,desktop,https://cristianpb.github.io/blog/traefik-goaccess,,India,Pune,1,1,0,1,1,20231211,4,IN
+/blog/traefik-goaccess,desktop,https://www.google.com/,,India,Pune,1,1,0,2,1,20231211,4,IN
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Iran,,1,1,0,3,1,20231211,7,
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,India,Hyderabad,1,1,0,0,1,20231211,9,IN
