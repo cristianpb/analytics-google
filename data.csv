@@ -1,18 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,United States,(not set),2,2,0,3,1,20231204,14,US
-/blog/velib-folium,desktop,https://www.google.com/,,France,Palaiseau,2,2,0,2,0.5,20231204,21,FR
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Taiwan,Zhongli District,1,1,0,0,1,20231204,7,TW
-/blog/velib-folium,desktop,https://www.google.com/,,Germany,Berlin,1,1,0,3,1,20231204,10,DE
-/blog/serverless-api-lambda,desktop,https://www.google.com/,,France,Choisy-le-Roi,1,1,0,3,1,20231204,11,FR
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Italy,Bra,1,1,0,0,1,20231204,13,IT
-/blog/ssd-yolo,desktop,,,Türkiye,(not set),1,1,0,2,1,20231204,14,
-/blog/snips-relay-lights,mobile,https://www.google.com/,,India,Madurai,1,1,0,3,1,20231204,16,IN
-/blog/categories,desktop,https://cristianpb.github.io/blog/gnuplot-electrode,,Belgium,Brussels,1,1,27.367605,0,0,20231204,18,BE
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,Belgium,Brussels,1,1,40.776805,3,0,20231204,18,BE
-/blog/tags,desktop,https://cristianpb.github.io/blog/gnuplot-electrode,,Belgium,Brussels,1,1,3.197149,0,0,20231204,18,BE
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Ukraine,Dnipro,1,1,0,3,1,20231204,21,UA
-/blog/ssd-yolo,desktop,https://www.google.com/,,Colombia,Bogota,1,1,0,3,1,20231204,21,CO
-/blog/velib-folium,desktop,,,France,Palaiseau,1,1,386.774491,1,0,20231204,21,FR
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,0,1,20231205,6,GB
 /blog/grafana-dashboard,desktop,https://www.google.com/,,South Korea,Seoul,1,1,0,0,1,20231205,8,
 /blog/grafana-dashboard,desktop,https://www.google.com/,,Ukraine,Oleksandriya,1,1,0,3,1,20231205,8,UA
@@ -81,8 +67,29 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,Türkiye,Ankara,1,1,0,0,1,20231210,17,
 /blog,mobile,https://www.google.com/,,Mexico,Puerto Vallarta,1,1,0,3,1,20231210,21,MX
 /blog/ssd-yolo,desktop,https://www.google.com/,,Tunisia,Tunis,1,1,0,0,1,20231210,22,TN
-/blog/grafana-dashboard,desktop,https://cristianpb.github.io/blog/traefik-goaccess,,India,Pune,1,1,756.7771,1,1,20231211,4,IN
-/blog/monitoring-grafana,desktop,https://cristianpb.github.io/blog/traefik-goaccess,,India,Pune,1,1,0,1,1,20231211,4,IN
-/blog/traefik-goaccess,desktop,https://www.google.com/,,India,Pune,1,1,0,2,1,20231211,4,IN
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Iran,,1,1,0,3,1,20231211,7,
+/blog/grafana-dashboard,desktop,https://cristianpb.github.io/blog/traefik-goaccess,,India,Pune,1,1,756.7771,1,0,20231211,4,IN
+/blog/monitoring-grafana,desktop,https://cristianpb.github.io/blog/traefik-goaccess,,India,Pune,1,1,41.122585,1,0,20231211,4,IN
+/blog/traefik-goaccess,desktop,https://www.google.com/,,India,Pune,1,1,0,2,0,20231211,4,IN
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Iran,(not set),1,1,0,3,1,20231211,7,
+/,desktop,,,United States,(not set),1,1,0,0,1,20231211,9,US
+/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20231211,9,US
+/blog/document-detection,desktop,https://yandex.ru/,,Kyrgyzstan,Bishkek,1,1,0,0,1,20231211,9,KG
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,India,Hyderabad,1,1,0,0,1,20231211,9,IN
+/blog/marathon-mirabelle,desktop,https://www.google.com/,,France,Dijon,1,1,0,0,1,20231211,10,FR
+/blog/velib-folium,desktop,https://www.google.com/,,France,Creteil,1,1,0,3,1,20231211,10,FR
+/blog/ssd-yolo,desktop,https://www.google.com/,,Vietnam,Nha Trang,1,1,0,3,1,20231211,11,VN
+/blog/velib-folium,desktop,https://teams.microsoft.com/,,France,Clamart,1,1,0,3,1,20231211,12,FR
+/blog/velib-folium,desktop,https://teams.microsoft.com/,,France,Paris,1,1,0,3,1,20231211,12,FR
+/blog/categories,desktop,https://cristianpb.github.io/blog/velib-folium,,France,Paris,1,1,6.421856,0,0,20231211,13,FR
+/blog/velib-folium,desktop,https://teams.microsoft.com/,,France,Clamart,1,1,0,2,1,20231211,13,FR
+/blog/velib-folium,desktop,https://teams.microsoft.com/,,France,Paris,1,1,15.822708,2,0,20231211,13,FR
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Russia,Saint Petersburg,1,1,0,3,1,20231211,15,RU
+/blog/document-detection,desktop,,,Kyrgyzstan,Bishkek,1,1,0,0,1,20231211,19,KG
+/blog/ssd-yolo,mobile,,,Iran,Tehran,1,1,1020.709972,2,0,20231211,19,
+/blog/ssd-yolo,mobile,,,United States,Ashburn,1,1,0,6,0,20231211,19,US
+/blog/ssd-yolo,mobile,https://www.google.com/,,United States,Ashburn,1,1,0,9,1,20231211,19,US
+/blog/vimwiki-hugo,desktop,https://www.reddit.com/,,Canada,Mississauga,1,1,0,3,1,20231212,1,CA
+/blog/image-rotation-opencv,desktop,https://blog.paperspace.com/data-augmentation-for-object-detection-rotation-and-shearing/,,Vietnam,Hanoi,1,1,0,2,1,20231212,2,VN
+/blog/vimwiki-hugo,mobile,android-app://com.google.android.googlequicksearchbox/,,Canada,Mississauga,1,1,0,3,1,20231212,2,CA
+/blog/vimwiki-hugo,desktop,https://www.google.com/,,Malaysia,Kuala Lumpur,1,1,0,3,1,20231212,4,MY
+/blog/image-processing-using-serverless-architecture,desktop,https://www.bing.com/,,Vietnam,Hanoi,1,1,0,0,1,20231212,9,VN
