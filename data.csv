@@ -1,17 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/vimwiki-hugo,desktop,,,United States,San Diego,1,1,0,3,1,20231206,2,US
-/blog/music-voice-cotrol,desktop,https://www.google.com/,,United States,Ithaca,1,1,0,0,1,20231206,5,US
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Moldova,Chisinau,1,1,0,3,1,20231206,11,
-/blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,Philippines,(not set),1,1,0,3,1,20231206,15,PH
-/blog/grafana-dashboard,desktop,https://www.reddit.com/,,United States,New York,1,1,243.074842,0,0,20231206,16,US
-/blog/vimwiki-hugo,desktop,https://www.google.com/,,United States,Sherman,1,1,0,0,1,20231206,16,US
-/blog/velib-folium,desktop,https://www.google.com/,,France,Palaiseau,1,1,0,3,1,20231206,17,FR
-/blog/velib-folium,desktop,https://www.google.com/,,France,Palaiseau,1,1,0,3,1,20231206,18,FR
-/blog/grafana-dashboard,desktop,https://www.reddit.com/,,South Africa,Cape Town,1,1,0,3,1,20231206,19,ZA
-/blog/magic-wand,mobile,https://www.google.com/,,India,Ghaziabad,1,1,0,3,1,20231206,20,IN
-/blog/ssd-yolo,mobile,https://www.ecosia.org/,,Mexico,Merida,1,1,0,0,1,20231206,22,MX
-/,desktop,,,United States,(not set),1,1,0,0,1,20231206,23,US
-/,desktop,https://bing.com/,,United States,Coffeyville,1,1,0,3,1,20231206,23,US
 /blog/velib-folium,desktop,https://www.google.com/,,Mexico,Mexico City,1,1,0,3,1,20231207,0,MX
 /blog/mopidy-muse,mobile,,,Netherlands,Genemuiden,1,1,0,0,1,20231207,1,NL
 /blog/mopidy-muse,mobile,https://www.google.com/,,Netherlands,Genemuiden,1,1,0,3,1,20231207,1,NL
@@ -96,9 +83,26 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/grafana-dashboard,desktop,https://www.google.com/,,Spain,Madrid,1,1,0,0,1,20231212,22,ES
 /blog/monitoring-grafana,desktop,https://www.google.com/,,France,Paris,1,1,0,0,1,20231212,23,FR
 /blog/image-processing-using-serverless-architecture,mobile,https://www.google.com/,,India,Kochi,1,1,0,0,1,20231213,2,IN
-/blog/motion-monitor-opencv,desktop,,,United States,Long Beach,1,1,0,0,1,20231213,3,US
-/blog/motion-monitor-opencv,desktop,https://duckduckgo.com/,,United States,Long Beach,1,1,0,0,1,20231213,3,US
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Ukraine,Haisyn,1,1,0,0,1,20231213,7,UA
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Hong Kong,,1,1,0,0,1,20231213,9,HK
+/blog/motion-monitor-opencv,desktop,,,United States,Long Beach,1,1,167.870741,0,0,20231213,3,US
+/blog/motion-monitor-opencv,desktop,https://duckduckgo.com/,,United States,Long Beach,1,1,0,0,0,20231213,3,US
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Ukraine,Haisyn,1,1,3.556098,0,0,20231213,7,UA
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Hong Kong,(not set),1,1,0,0,1,20231213,9,HK
 /blog/document-detection,desktop,https://www.google.com/,,Singapore,Singapore,1,1,0,3,1,20231213,10,SG
-/blog/ssd-yolo,desktop,https://yandex.ru/,,Russia,Stavropol,1,1,0,0,1,20231213,11,RU
+/blog/ssd-yolo,desktop,https://yandex.ru/,,Russia,Stavropol,1,1,8.038525,0,0,20231213,11,RU
+/blog/gnuplot-electrode,desktop,https://www.google.com/,,Türkiye,Izmir,1,1,0,3,1,20231213,18,
+/blog/raspberry-video-stream,desktop,https://www.google.com/,,Bangladesh,Dhaka,1,1,0,3,1,20231213,19,BD
+/blog/vimwiki-hugo,desktop,https://www.ecosia.org/,,United States,Austin,1,1,0,0,1,20231213,20,US
+/blog/monitoring-grafana,desktop,,,Hong Kong,,1,1,0,2,1,20231214,3,HK
+/blog/snips-relay-lights,desktop,https://www.google.com/,,Canada,Toronto,1,1,0,0,1,20231214,5,CA
+/blog/raspberry-video-stream,mobile,https://www.google.com/,,Indonesia,Pekanbaru,1,1,0,3,1,20231214,6,ID
+/blog/raspberry-video-stream,mobile,https://www.google.com/,,Sweden,,1,1,0,6,1,20231214,6,SE
+/,desktop,,,United States,,1,1,0,0,1,20231214,7,US
+/,desktop,https://bing.com/,,United States,Albany,1,1,0,3,1,20231214,7,US
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Thailand,Udon Thani,1,1,0,0,1,20231214,8,TH
+/blog/raspberry-video-stream,desktop,https://cristianpb.github.io/blog/ssd-yolo,,Russia,Perm,1,1,12.473379,0,1,20231214,8,RU
+/blog/raspberry-video-stream,mobile,https://www.google.com/,,Indonesia,Pekanbaru,1,1,0,2,1,20231214,8,ID
+/blog/ssd-yolo,desktop,,,Russia,Perm,1,1,0,0,1,20231214,8,RU
+/blog/grafana-dashboard,desktop,,,Switzerland,Veyrier,1,1,0,0,1,20231214,9,CH
+/blog/monitoring-grafana,mobile,https://www.google.com/,,Thailand,Khok Kham,1,1,0,0,1,20231214,9,TH
+/blog/motion-monitor-opencv,desktop,https://cristianpb.github.io/blog/ssd-yolo,,Germany,Berlin,1,1,0,0,0,20231214,12,DE
+/blog/ssd-yolo,desktop,https://www.bing.com/,,Germany,Berlin,1,1,0,0,0,20231214,12,DE
