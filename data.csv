@@ -1,17 +1,7 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /blog/magic-wand,mobile,https://www.google.com/,,Brazil,Igarassu,2,2,0,3,1,20240101,4,BR
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Japan,Osaka,1,1,0,0,1,20231227,2,JP
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Spain,Madrid,1,1,0,3,1,20231227,2,ES
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Argentina,San Miguel de Tucuman,1,1,0,3,1,20231227,3,AR
-/blog/ssd-yolo,desktop,https://www.google.com/,,Indonesia,Gunungkencana,1,1,0,0,1,20231227,5,ID
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Russia,Stavropol,1,1,0,3,1,20231227,8,RU
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Vietnam,Son Tay,1,1,0,3,1,20231227,9,VN
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,(not set),1,1,0,3,1,20231227,10,DE
-/blog/grafana-dashboard,desktop,https://cristianpb.github.io/blog/monitoring-grafana,,Vietnam,Son Tay,1,1,0,0,1,20231227,11,VN
-/blog/ssd-yolo,desktop,https://www.bing.com/,,China,(not set),1,1,217.177591,6,0,20231227,11,CN
-/blog/document-detection,desktop,https://www.google.com/,,Pakistan,Lahore,1,1,0,3,1,20231227,14,PK
-/blog/vimwiki-hugo,desktop,https://www.google.com/,,United Kingdom,Manchester,1,1,0,0,1,20231227,15,GB
-/blog/mopidy-muse,desktop,https://mopidy.com/,,Germany,Bremen,1,1,0,0,1,20231227,22,DE
+/,desktop,https://bing.com/,,United States,Albany,2,2,0,18,1,20240103,20,US
+/about,desktop,,,United States,(not set),2,2,0,6,1,20240103,20,US
 /blog/monitoring-grafana,desktop,,,Hong Kong,(not set),1,1,0,0,1,20231228,2,HK
 /blog/serverless-api-lambda,desktop,https://www.bing.com/,,India,North Dumdum,1,1,0,3,1,20231228,6,IN
 /blog/serverless-api-lambda,desktop,https://www.bing.com/,,India,North Dumdum,1,1,0,0,1,20231228,7,IN
@@ -72,3 +62,20 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/vimwiki-hugo,desktop,https://duckduckgo.com/,,Spain,(not set),1,1,0,3,1,20240102,16,ES
 /blog/marathon-mirabelle,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,3,1,20240102,18,GB
 /blog/mopidy-muse,desktop,https://mopidy.com/,,United Kingdom,Ipswich,1,1,0,0,1,20240102,23,GB
+/blog/raspberry-video-stream,desktop,https://www.google.com/,,South Korea,Daegu,1,1,0,0,0,20240103,9,
+/blog/ssd-yolo,desktop,https://cristianpb.github.io/blog/raspberry-video-stream,,South Korea,Daegu,1,1,660.707717,14,0,20240103,9,
+/blog/vimwiki-hugo,desktop,https://duckduckgo.com/,,Canada,Erin,1,1,0,3,1,20240103,9,CA
+/blog/serverless-api-lambda,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,0,1,20240103,13,GB
+/blog/image-rotation-opencv,desktop,,,India,(not set),1,1,0,3,1,20240103,14,IN
+/,desktop,https://cristianpb.github.io/blog/vimwiki-hugo,,Russia,Mezhdurechensk,1,1,3.035014,0,0,20240103,16,RU
+/blog/vimwiki-hugo,desktop,https://discourse.gohugo.io/,,Russia,Mezhdurechensk,1,1,0,3,0,20240103,16,RU
+/blog/analytics-google,desktop,https://www.bing.com/,,Germany,Leipzig,1,1,0,0,1,20240103,17,DE
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,United States,Reno,1,1,0,3,1,20240103,17,US
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Poland,Warsaw,1,1,0,3,1,20240103,18,PL
+/blog/monitoring-grafana,desktop,,,United States,Boise,1,1,0,0,1,20240103,19,US
+/blog/vimwiki-hugo,desktop,https://www.google.com/,,Serbia,Belgrade,1,1,0,18,1,20240103,19,RS
+/,desktop,,,United States,(not set),1,1,0,0,1,20240103,20,US
+/,desktop,https://bing.com/,,United States,(not set),1,1,0,12,1,20240103,20,US
+/blog/monitoring-grafana,desktop,,,United States,Boise,1,1,0,0,1,20240103,22,US
+/,mobile,,,United States,Boardman,1,1,0,0,1,20240104,2,US
+/blog/ssd-yolo,desktop,https://www.google.com/,,United States,Portland,1,1,0,3,1,20240104,4,US
