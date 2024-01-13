@@ -1,20 +1,8 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,United States,(not set),2,2,0,3,1,20240105,12,US
 /,desktop,,,United States,(not set),2,2,0,15,1,20240108,11,US
 /,desktop,https://bing.com/,,United States,(not set),2,2,0,6,1,20240108,11,US
 /about,desktop,,,United States,(not set),2,2,0,6,1,20240108,11,US
-/blog/jekyll-algolia,desktop,https://www.google.com/,,Singapore,(not set),1,1,0,6,1,20240105,9,SG
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Iran,Tehran,1,1,0,3,1,20240105,10,
-/blog/music-voice-cotrol,desktop,https://www.google.com/,,Germany,Bochum,1,1,0,3,1,20240105,11,DE
-/,desktop,,,France,Paris,1,1,13.031694,1,0,20240105,14,FR
-/about,desktop,,,France,Paris,1,1,61.773853,0,0,20240105,14,FR
-/about,desktop,https://www.google.com/,,France,Paris,1,1,0,0,0,20240105,14,FR
-/blog/dashboard-dc-js,desktop,,,Germany,Cologne,1,1,0,3,1,20240105,16,DE
-/blog/withings-data,desktop,https://www.google.com/,,Germany,Frankfurt,1,1,0,0,1,20240105,16,DE
-/blog/gnuplot-electrode,desktop,,,United States,Richardson,1,1,0,0,1,20240105,18,US
-/blog/vimwiki-hugo,desktop,https://duckduckgo.com/,,United States,Covington,1,1,0,3,1,20240105,18,US
-/blog/monitoring-grafana,desktop,,,United States,Boise,1,1,0,0,1,20240105,22,US
-/blog/motion-monitor-opencv,tablet,,,United States,(not set),1,1,0,0,1,20240105,22,US
+/blog/vimwiki-hugo,mobile,https://www.google.com/,,Hong Kong,(not set),2,2,0,6,1,20240112,10,HK
 /blog/motion-monitor-opencv,desktop,https://www.bing.com/,,United States,Kenwood,1,1,0,0,1,20240106,0,US
 /blog/magic-wand,mobile,https://www.google.com/,,United States,Marysville,1,1,0,3,1,20240106,1,US
 /blog/raspberry-video-stream,tablet,,,United States,Central Point,1,1,0,0,1,20240106,1,US
@@ -72,9 +60,14 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Taiwan,(not set),1,1,0,0,1,20240111,13,TW
 /blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Stuttgart,1,1,0,3,1,20240111,15,DE
 /blog/document-detection,mobile,https://www.google.com/,,United States,Sandersville,1,1,0,0,1,20240112,1,US
-/blog/traefik-goaccess,mobile,https://www.google.com/,,Germany,,1,1,0,0,1,20240112,3,DE
+/blog/traefik-goaccess,mobile,https://www.google.com/,,Germany,(not set),1,1,0,0,1,20240112,3,DE
 /blog/image-rotation-opencv,desktop,https://pypi.org/,,India,Kalyan,1,1,0,0,1,20240112,6,IN
-/blog/traefik-goaccess,mobile,https://www.google.com/,,Germany,,1,1,0,0,1,20240112,7,DE
-/blog/mopidy-muse,mobile,https://github.com/cristianpb/muse?tab=readme-ov-file,,New Zealand,Porirua,1,1,0,0,1,20240112,9,NZ
-/blog/mopidy-muse,mobile,https://mopidy.com/,,New Zealand,Porirua,1,1,0,0,1,20240112,9,NZ
-/blog/velib-folium,desktop,https://teams.microsoft.com/,,France,Paris,1,1,0,2,1,20240112,9,FR
+/blog/traefik-goaccess,mobile,https://www.google.com/,,Germany,(not set),1,1,0,0,1,20240112,7,DE
+/blog/mopidy-muse,mobile,https://github.com/cristianpb/muse?tab=readme-ov-file,,New Zealand,Porirua,1,1,316.445546,0,0,20240112,9,NZ
+/blog/mopidy-muse,mobile,https://mopidy.com/,,New Zealand,Porirua,1,1,2.870101,0,0,20240112,9,NZ
+/blog/velib-folium,desktop,https://cristianpb.github.io/blog/velib-folium,,France,Paris,1,1,13.334866,0,0,20240112,9,FR
+/blog/velib-folium,desktop,https://teams.microsoft.com/,,France,Paris,1,1,0,2,0,20240112,9,FR
+/blog/velib-folium,desktop,https://www.google.com/,,France,Nice,1,1,148.183563,3,0,20240112,14,FR
+/blog/magic-wand,mobile,https://www.google.com/,,Netherlands,Rotterdam,1,1,0,0,1,20240112,18,NL
+/,desktop,,,United States,,1,1,0,0,1,20240113,3,US
+/blog/ssd-yolo,desktop,https://www.google.com/,,Indonesia,Bandar Lampung,1,1,0,3,1,20240113,7,ID
