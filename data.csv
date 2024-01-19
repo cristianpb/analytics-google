@@ -1,13 +1,6 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /blog/vimwiki-hugo,mobile,https://www.google.com/,,Hong Kong,(not set),2,2,0,6,1,20240112,10,HK
-/blog/magic-wand,desktop,https://www.google.com/,,United States,Edison,1,1,0,0,1,20240111,5,US
-/,desktop,,,United States,(not set),1,1,0,0,1,20240111,6,US
-/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240111,6,US
-/blog/document-detection,tablet,https://www.google.com/,,Singapore,Singapore,1,1,0,0,1,20240111,6,SG
-/blog/traefik-goaccess,desktop,,,India,Ludhiana,1,1,0,6,1,20240111,6,IN
-/blog/monitoring-grafana,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240111,12,RU
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Taiwan,(not set),1,1,0,0,1,20240111,13,TW
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Stuttgart,1,1,0,3,1,20240111,15,DE
+/,desktop,,,United States,(not set),2,2,0,0,1,20240118,10,US
 /blog/document-detection,mobile,https://www.google.com/,,United States,Sandersville,1,1,0,0,1,20240112,1,US
 /blog/traefik-goaccess,mobile,https://www.google.com/,,Germany,(not set),1,1,0,0,1,20240112,3,DE
 /blog/image-rotation-opencv,desktop,https://pypi.org/,,India,Kalyan,1,1,0,0,1,20240112,6,IN
@@ -91,8 +84,30 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/traefik-goaccess,desktop,https://www.google.com/,,Poland,Warsaw,1,1,0,3,1,20240117,20,PL
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Japan,Higashiomi,1,1,0,3,1,20240118,3,JP
 /blog/magic-wand,desktop,https://www.bing.com/,,United States,Fremont,1,1,0,6,1,20240118,3,US
-/blog/marathon-mirabelle,desktop,https://www.google.com.hk/,,Hong Kong,,1,1,0,3,1,20240118,3,HK
-/blog/image-rotation-opencv,desktop,,,China,,1,1,243.839158,4,1,20240118,4,CN
-/blog/image-rotation-opencv.,desktop,,,China,,1,1,0,1,1,20240118,4,CN
+/blog/marathon-mirabelle,desktop,https://www.google.com.hk/,,Hong Kong,(not set),1,1,0,3,1,20240118,3,HK
+/blog/image-rotation-opencv,desktop,,,China,(not set),1,1,188.438906,4,0,20240118,4,CN
+/blog/image-rotation-opencv.,desktop,,,China,(not set),1,1,270.417585,1,0,20240118,4,CN
 /blog/ssd-yolo,desktop,https://www.google.com/,,France,Vierzon,1,1,0,0,1,20240118,5,FR
+/blog/ssd-yolo,desktop,https://yandex.ru/,,Russia,Dubna,1,1,0,3,1,20240118,7,RU
 /blog/grafana-dashboard,desktop,https://www.google.com/,,Sweden,Stockholm,1,1,0,0,1,20240118,9,SE
+/blog/monitoring-grafana,desktop,,,Germany,Leipzig,1,1,0,0,1,20240118,9,DE
+/,desktop,https://bing.com/,,United States,Coffeyville,1,1,0,3,1,20240118,10,US
+/blog/marathon-mirabelle,mobile,https://www.google.de/,,Germany,Frankfurt,1,1,0,0,1,20240118,10,DE
+/blog/mopidy-muse,mobile,https://mopidy.com/,,Indonesia,Jakarta,1,1,0,3,1,20240118,11,ID
+/blog/traefik-goaccess,desktop,https://www.google.com/,,United States,Columbus,1,1,0,3,1,20240118,11,US
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Sweden,Stockholm,1,1,0,0,1,20240118,12,SE
+/blog/grafana-dashboard,desktop,https://www.google.com/,,India,Chennai,1,1,1260.666169,3,0,20240118,14,IN
+/blog/document-detection,desktop,https://www.google.com/,,France,Asnieres-sur-Seine,1,2,0,0,1,20240118,15,FR
+/blog/serverless-api-lambda,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,0,1,20240118,15,GB
+/blog/traefik-goaccess,desktop,https://www.google.com/,,Iran,Shiraz,1,1,0,6,1,20240118,15,
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Italy,Vimercate,1,1,0,3,1,20240118,18,IT
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Italy,Bolzano,1,1,0,0,1,20240118,18,IT
+/blog/magic-wand,desktop,https://www.google.es/,,Spain,Madrid,1,1,0,0,1,20240118,19,ES
+/blog/mopidy-muse,desktop,https://mopidy.com/,,United Kingdom,Colchester,1,1,0,0,1,20240118,19,GB
+/blog/ssd-yolo,desktop,https://www.google.com/,,India,Chennai,1,1,0,3,1,20240118,19,IN
+/blog/traefik-goaccess,desktop,,,United States,Medina,1,1,949.907256,0,0,20240118,19,US
+/blog/traefik-goaccess,desktop,https://www.bing.com/,,United States,Medina,1,1,0,3,0,20240118,19,US
+/blog/mopidy-muse,desktop,https://github.com/cristianpb/muse,,Hungary,Debrecen,1,1,0,3,1,20240118,20,HU
+/blog/motion-monitor-opencv,desktop,https://duckduckgo.com/,,Spain,(not set),1,1,0,24,1,20240118,20,ES
+/blog/ssd-yolo,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240118,20,RU
+/blog/motion-monitor-opencv,mobile,https://duckduckgo.com/,,South Africa,Cape Town,1,1,0,3,1,20240118,23,ZA
