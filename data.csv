@@ -1,30 +1,6 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,United States,(not set),2,2,0,0,1,20240118,10,US
-/,desktop,,,United States,(not set),1,1,0,12,1,20240117,2,US
-/,desktop,https://bing.com/,,United States,Coffeyville,1,1,0,3,1,20240117,2,US
-/,mobile,http://baidu.com/,,China,(not set),1,1,0,3,1,20240117,7,CN
-/blog/image-rotation-opencv,desktop,,,China,(not set),1,1,17.803172,2,0,20240117,7,CN
-/blog/image-rotation-opencv,desktop,http://baidu.com/,,China,(not set),1,1,0,3,1,20240117,7,CN
-/blog/image-rotation-opencv,mobile,http://baidu.com/,,Marshall Islands,(not set),1,1,0,9,1,20240117,7,MH
-/blog/image-rotation-opencv.,desktop,http://baidu.com/,,China,(not set),1,1,0,6,1,20240117,7,CN
-/blog/image-rotation-opencv.,mobile,http://baidu.com/,,China,(not set),1,1,0,3,1,20240117,7,CN
-/blog/image-rotation-opencv.%20Scale%20is%201.,desktop,,,China,(not set),1,1,0,3,0,20240117,7,CN
-/blog/image-rotation-opencv.%20Scale%20is%201.,desktop,http://baidu.com/,,Marshall Islands,(not set),1,1,0,3,1,20240117,7,MH
-/blog/image-rotation-opencv.%20Scale%20is%201.,mobile,http://baidu.com/,,Marshall Islands,(not set),1,1,0,3,1,20240117,7,MH
-/blog/monitoring-grafana,mobile,https://www.google.com/,,United States,Methuen,1,1,0,0,1,20240117,7,US
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Sweden,Stockholm,1,1,113.240706,0,0,20240117,10,SE
-/blog/mopidy-muse,desktop,https://mopidy.com/,,India,Pimpri-Chinchwad,1,1,0,3,1,20240117,10,IN
-/blog/ssd-yolo,desktop,https://yandex.ru/,,United States,Washington,1,1,0,0,1,20240117,10,US
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Sweden,Stockholm,1,1,0,0,1,20240117,11,SE
-/blog/marathon-mirabelle,mobile,https://www.google.com/,,Hungary,Budapest,1,1,0,3,1,20240117,11,HU
-/blog/analytics-google,desktop,,,Australia,Sydney,1,1,0,0,1,20240117,12,AU
-/blog/fluentbit-elasticsearch-kibana,mobile,,,Switzerland,Baden,1,1,0,0,1,20240117,13,CH
-/blog/image-rotation-opencv,mobile,https://www.google.com/,,Hong Kong,(not set),1,1,0,3,1,20240117,13,HK
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Sweden,Stockholm,1,1,0,0,1,20240117,14,SE
-/blog/monitoring-grafana,desktop,,,United States,Meridian,1,1,0,2,1,20240117,18,US
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,Berlin,1,1,0,0,1,20240117,19,DE
-/blog/marathon-mirabelle,mobile,https://www.google.de/,,Germany,Bad Mergentheim,1,1,0,0,1,20240117,20,DE
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Poland,Warsaw,1,1,0,3,1,20240117,20,PL
+/blog/ssd-yolo,desktop,,,Germany,Munich,2,2,589.2739005,0,0.5,20240124,14,DE
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Japan,Higashiomi,1,1,0,3,1,20240118,3,JP
 /blog/magic-wand,desktop,https://www.bing.com/,,United States,Fremont,1,1,0,6,1,20240118,3,US
 /blog/marathon-mirabelle,desktop,https://www.google.com.hk/,,Hong Kong,(not set),1,1,0,3,1,20240118,3,HK
@@ -122,8 +98,24 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/mopidy-muse,desktop,https://mopidy.com/,,Netherlands,Nieuw-Vennep,1,1,0,0,1,20240123,19,NL
 /blog/image-rotation-opencv,mobile,https://www.google.com/,,India,Hyderabad,1,1,0,0,1,20240123,21,IN
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,Munich,1,1,0,3,1,20240123,21,DE
-/blog/categories,desktop,https://cristianpb.github.io/blog/ssd-yolo,,Germany,Munich,1,1,12.550188,0,1,20240124,1,DE
-/blog/ssd-yolo,desktop,,,Germany,Munich,1,1,0,0,1,20240124,1,DE
-/blog/ssd-yolo,desktop,https://www.google.com/,,Germany,Munich,1,1,94.278386,0,1,20240124,1,DE
+/blog/categories,desktop,https://cristianpb.github.io/blog/ssd-yolo,,Germany,Munich,1,1,12.550188,0,0,20240124,1,DE
+/blog/ssd-yolo,desktop,,,Germany,Munich,1,1,0,0,0,20240124,1,DE
+/blog/ssd-yolo,desktop,https://www.google.com/,,Germany,Munich,1,1,630.869949,0,0,20240124,1,DE
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,South Korea,Anyang-si,1,1,0,3,1,20240124,4,
 /blog/serverless-api-lambda,desktop,https://www.google.com/,,United States,New York,1,1,0,0,1,20240124,5,US
+/blog/image-rotation-opencv,desktop,,,Taiwan,(not set),1,1,0,6,1,20240124,8,TW
+/blog/grafana-dashboard,desktop,https://www.bing.com/,,Spain,Madrid,1,1,0,0,1,20240124,9,ES
+/blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,Germany,Budelsdorf,1,1,0,0,1,20240124,12,DE
+/blog/marathon-mirabelle,mobile,,,Japan,Saitama,1,1,0,0,1,20240124,13,JP
+/blog/ssd-yolo,desktop,,,Germany,Munich,1,1,0,0,1,20240124,13,DE
+/blog/traefik-goaccess,desktop,https://www.reddit.com/,,India,Pune,1,1,0,15,1,20240124,15,IN
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Spain,Madrid,1,1,1455.561309,0,0,20240124,16,ES
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Spain,Madrid,1,1,21.745807,0,0,20240124,16,ES
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Italy,Padua,1,1,0,3,1,20240124,17,IT
+/blog/traefik-goaccess,desktop,https://www.google.com/,,France,(not set),1,1,0,3,1,20240124,19,FR
+/blog/analytics-google,desktop,https://github.com/,,United States,New York,1,1,844.661396,0,0,20240124,21,US
+/blog/analytics-google,desktop,https://www.google.com/,,United States,New York,1,1,0,0,0,20240124,21,US
+/,desktop,,,United States,(not set),1,1,0,6,1,20240124,23,US
+/,desktop,https://bing.com/,,United States,Coffeyville,1,1,0,6,1,20240124,23,US
+/about,desktop,https://cristianpb.github.io/blog/magic-wand,,Indonesia,Depok,1,1,7.062113,0,1,20240125,3,ID
+/blog/magic-wand,desktop,https://github.com/cristianpb,,Indonesia,Depok,1,1,0,3,1,20240125,3,ID
