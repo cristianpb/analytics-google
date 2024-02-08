@@ -1,18 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,United States,(not set),1,1,0,0,1,20240131,5,US
-/,desktop,https://bing.com/,,United States,Abbeville,1,1,0,3,1,20240131,5,US
-/blog/magic-wand,desktop,https://www.google.com/,,India,Kochi,1,1,0,3,1,20240131,9,IN
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Vietnam,Ho Chi Minh City,1,1,0,3,1,20240131,11,VN
-/blog/traefik-goaccess,desktop,https://www.bing.com/,,United Kingdom,London,1,1,0,3,1,20240131,11,GB
-/blog/image-rotation-opencv,desktop,,,India,Mumbai,1,1,377.223498,3,0,20240131,12,IN
-/blog/mopidy-muse,desktop,https://mopidy.com/,,Netherlands,Zwolle,1,1,0,0,1,20240131,12,NL
-/blog/ssd-yolo,desktop,https://www.google.com/,,Brazil,Rio de Janeiro,1,1,0,0,1,20240131,14,BR
-/blog/analytics-google,desktop,https://www.google.com/,,Canada,Toronto,1,1,0,0,0,20240131,17,CA
-/blog/dashboard-dc-js,desktop,https://cristianpb.github.io/blog/analytics-google,,Canada,Toronto,1,1,14.272466,1,0,20240131,17,CA
-/blog/traefik-goaccess,desktop,https://www.bing.com/,,Switzerland,Villigen,1,1,0,3,1,20240131,19,CH
-/blog/raspberry-video-stream,desktop,https://yandex.ru/,,Russia,(not set),1,1,0,0,1,20240131,21,RU
-/blog/motion-monitor-opencv,desktop,https://www.bing.com/,,United States,Seattle,1,1,0,0,1,20240131,22,US
-/blog/mopidy-muse,desktop,https://mopidy.com/,,Germany,Kassel,1,1,0,0,1,20240131,23,DE
+/blog/music-voice-cotrol,desktop,https://www.google.com/,,United Kingdom,Clacton-on-Sea,2,2,0,6,1,20240207,17,GB
 /blog/analytics-google,desktop,,,Australia,Sydney,1,1,0,0,1,20240201,0,AU
 /blog/document-detection,desktop,https://www.google.com/,,Singapore,Singapore,1,1,0,0,1,20240201,4,SG
 /blog/ssd-yolo,desktop,https://duckduckgo.com/,,Turkmenistan,Ashgabat,1,1,0,15,1,20240201,5,TM
@@ -85,9 +72,21 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/analytics-google,desktop,,,Australia,Canberra,1,1,0,0,1,20240207,0,AU
 /,desktop,https://bing.com/,,United States,Abbeville,1,1,0,6,1,20240207,2,US
 /blog/ssd-yolo,mobile,https://www.google.com/,,Indonesia,Surabaya,1,1,0,6,1,20240207,3,ID
-/blog/tags,desktop,https://cristianpb.github.io/blog/velib-folium,,United States,Berkeley,1,1,0,0,1,20240207,6,US
-/blog/velib-folium,desktop,https://cristianpb.github.io/blog/tags,,United States,Berkeley,1,1,119.589216,0,1,20240207,6,US
-/blog/velib-folium,desktop,https://www.google.com/,,United States,Berkeley,1,1,0,3,1,20240207,6,US
-/blog/analytics-google,desktop,,,Hong Kong,,1,1,0,0,1,20240207,8,HK
-/blog/dashboard-dc-js,desktop,https://cristianpb.github.io/blog/analytics-google,,Hong Kong,,1,1,46.752058,0,1,20240207,8,HK
+/blog/tags,desktop,https://cristianpb.github.io/blog/velib-folium,,United States,Berkeley,1,1,112.829518,0,0,20240207,6,US
+/blog/velib-folium,desktop,https://cristianpb.github.io/blog/tags,,United States,Berkeley,1,1,6.759698,0,0,20240207,6,US
+/blog/velib-folium,desktop,https://www.google.com/,,United States,Berkeley,1,1,0,3,0,20240207,6,US
+/blog/analytics-google,desktop,,,Hong Kong,(not set),1,1,0,0,0,20240207,8,HK
+/blog/dashboard-dc-js,desktop,https://cristianpb.github.io/blog/analytics-google,,Hong Kong,(not set),1,1,46.752058,0,0,20240207,8,HK
+/blog/monitoring-grafana,desktop,https://medium.com/@cristianpb/system-monitoring-with-grafana-influxdb-et-collectd-7827969e1fe,,Hong Kong,(not set),1,1,1148.731434,6,0,20240207,10,HK
+/blog/ssd-yolo,desktop,https://www.google.com/,,India,Kochi,1,1,0,3,1,20240207,12,IN
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Germany,Norderstedt,1,1,0,3,1,20240207,14,DE
+/blog/document-detection,desktop,https://www.google.com/,,Tunisia,Tunis,1,1,0,0,1,20240207,15,TN
+/blog/marathon-mirabelle,mobile,https://www.google.com/,,India,Bengaluru,1,1,0,3,0,20240207,15,IN
+/blog/jekyll-algolia,desktop,https://www.google.com/,,France,Boulogne-Billancourt,1,1,0,6,1,20240207,16,FR
+/blog/marathon-mirabelle,mobile,https://www.google.com/,,India,Bengaluru,1,1,884.068939,2,0,20240207,16,IN
+/blog/amp-search-jekyll,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,3,1,20240207,17,GB
+/blog/magic-wand,desktop,https://www.google.com/,,South Korea,Gimpo-si,1,1,0,6,1,20240207,18,
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,United States,Wilmington,1,1,0,0,1,20240208,2,US
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,New Zealand,Auckland,1,1,0,0,1,20240208,3,NZ
+/blog/serverless-api-lambda,mobile,https://r.search.yahoo.com/_ylt=AwrFEuYtQcRlRHYGnAxx.9w4;_ylu=Y29sbwNiZjEEcG9zAzIEdnRpZAMEc2VjA3Ny/RV=2/RE=1707389357/RO=10/RU=https%3a%2f%2fcristianpb.github.io%2fblog%2fserverless-api-lambda/RK=2/RS=.7.XLss7zNsTl1SItjoXYwXxNxI-,,United States,Charlotte,1,1,0,0,1,20240208,3,US
+/blog/fluentbit-elasticsearch-kibana,desktop,https://www.bing.com/,,United Kingdom,London,1,1,0,6,1,20240208,9,GB
