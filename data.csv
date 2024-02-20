@@ -1,19 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,United States,(not set),2,2,0,3,1,20240217,1,US
-/blog/serverless-api-lambda,desktop,https://www.google.com/,,Mexico,Ecatepec,1,1,0,0,1,20240212,3,MX
-/blog/analytics-google,desktop,https://github.com/,,India,Bardhaman,1,1,0,0,1,20240212,6,IN
-/blog/marathon-mirabelle,desktop,https://www.google.com/,,United States,Dallas,1,1,0,0,1,20240212,6,US
-/blog/ssd-yolo,desktop,https://www.google.com/,,India,Chennai,1,1,0,2,1,20240212,6,IN
-/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240212,8,US
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Netherlands,Rotterdam,1,1,0,3,1,20240212,10,NL
-/blog/velib-folium,desktop,https://www.google.com/,,India,Sahibzada Ajit Singh Nagar,1,1,0,2,1,20240212,10,IN
-/blog/image-preprocessing,desktop,https://www.google.com/,,India,Chennai,1,1,0,0,1,20240212,12,IN
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Italy,Magnago,1,1,0,0,1,20240212,14,IT
-/blog/traefik-goaccess,desktop,https://www.google.com/,,France,Longjumeau,1,1,0,0,1,20240212,14,FR
-/blog/vimwiki-hugo,desktop,,,China,Beijing,1,1,0,2,0,20240212,15,CN
-/blog/vimwiki-hugo,desktop,https://www.google.com/,,China,Beijing,1,1,168.083862,0,0,20240212,15,CN
-/blog/vimwiki-hugo,desktop,https://www.reddit.com/,,China,Beijing,1,1,334.370375,1,0,20240212,15,CN
-/,desktop,,,United States,(not set),1,1,0,0,1,20240212,18,US
 /blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,India,Ahmedabad,1,1,0,3,1,20240213,4,IN
 /blog/analytics-google,desktop,https://github.com/,,India,Bardhaman,1,1,0,2,1,20240213,10,IN
 /,desktop,https://bing.com/,,United States,(not set),1,1,0,12,1,20240213,13,US
@@ -91,5 +77,21 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/snips-relay-lights,mobile,android-app://com.google.android.googlequicksearchbox/,,United States,Sacramento,1,1,9.08908,3,0,20240218,20,US
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,South Korea,Gwangju,1,1,0,3,1,20240219,3,
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,South Korea,Gwangju,1,1,0,2,1,20240219,4,
-/blog/analytics-google,mobile,android-app://com.google.android.googlequicksearchbox/,,Germany,Aachen,1,1,0,0,1,20240219,5,DE
+/blog/analytics-google,mobile,android-app://com.google.android.googlequicksearchbox/,,Germany,Aachen,1,1,0,0,0,20240219,5,DE
+/blog/analytics-google,mobile,https://github.com/cristianpb/analytics-google?tab=readme-ov-file,,Germany,Aachen,1,1,360.750101,0,0,20240219,5,DE
 /blog/grafana-dashboard,desktop,https://www.google.com/,,India,Hyderabad,1,1,0,6,1,20240219,8,IN
+/blog/ssd-yolo,desktop,https://ya.ru/,,Russia,Moscow,1,1,0,3,1,20240219,10,RU
+/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240219,11,US
+/blog/motion-monitor-opencv,desktop,https://www.bing.com/,,Netherlands,Almelo,1,1,0,3,1,20240219,11,NL
+/blog/traefik-goaccess,desktop,https://www.google.com/,,Brazil,Criciuma,1,1,0,2,1,20240219,17,BR
+/blog/image-rotation-opencv,desktop,,,Italy,(not set),1,1,0,0,1,20240219,18,IT
+/blog/traefik-goaccess,desktop,https://www.google.com/,,Brazil,Fortaleza,1,1,0,3,1,20240219,19,BR
+/,desktop,,,Japan,Mito,1,1,0,0,1,20240220,0,JP
+/,desktop,https://cristianpb.github.io/blog/monitoring-grafana,,Indonesia,Surabaya,1,1,0,0,1,20240220,3,ID
+/blog,desktop,https://cristianpb.github.io/,,Indonesia,Surabaya,1,1,56.647631,0,1,20240220,3,ID
+/blog/fluentbit-elasticsearch-kibana,desktop,https://cristianpb.github.io/blog,,Indonesia,Surabaya,1,1,504.844664,0,1,20240220,3,ID
+/blog/monitoring-grafana,desktop,https://medium.com/,,Indonesia,Surabaya,1,1,0,0,1,20240220,3,ID
+/blog/serverless-api-lambda,desktop,https://cristianpb.github.io/blog,,Indonesia,Surabaya,1,1,266.110931,0,1,20240220,3,ID
+/blog/magic-wand,desktop,https://cn.bing.com/,,China,,1,1,0,2,1,20240220,4,CN
+/blog/serverless-api-lambda,desktop,https://www.bing.com/,,United States,Apex,1,1,0,2,1,20240220,5,US
+/blog/vimwiki-hugo,mobile,https://www.google.com/,,United States,Washington,1,1,0,0,1,20240220,7,US
