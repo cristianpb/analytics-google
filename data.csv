@@ -1,19 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,United States,(not set),2,2,0,3,1,20240217,1,US
-/blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,India,Ahmedabad,1,1,0,3,1,20240213,4,IN
-/blog/analytics-google,desktop,https://github.com/,,India,Bardhaman,1,1,0,2,1,20240213,10,IN
-/,desktop,https://bing.com/,,United States,(not set),1,1,0,12,1,20240213,13,US
-/,mobile,https://cristianpb.github.io/muse/,,Italy,Turin,1,1,0,0,1,20240213,13,IT
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Spain,Madrid,1,1,1105.938285,1,0,20240213,15,ES
-/blog/fluentbit-elasticsearch-kibana,desktop,https://yandex.ru/,,Russia,Nizhny Novgorod,1,1,0,0,1,20240213,16,RU
-/blog/velib-folium,desktop,https://www.google.com/,,France,Champs-sur-Marne,1,1,0,4,1,20240213,16,FR
-/blog/image-rotation-opencv,mobile,https://www.google.com/,,Israel,Haifa,1,1,0,0,0,20240213,17,IL
-/blog/image-rotation-opencv,mobile,https://www.google.com/,,Israel,Haifa,1,1,8.828435,1,0,20240213,18,IL
-/blog/ssd-yolo,mobile,https://www.google.com/,,Israel,Rehovot,1,1,190.191813,0,0,20240213,19,IL
-/blog/serverless-api-lambda,desktop,https://www.google.com/,,Canada,Toronto,1,1,0,0,1,20240213,20,CA
-/blog/ssd-yolo,desktop,https://www.yandex.ru/,,Russia,Ryazan,1,1,0,0,1,20240213,21,RU
-/blog/motion-monitor-opencv,desktop,https://www.google.de/,,Germany,Oldenburg,1,1,0,0,1,20240213,22,DE
-/blog/serverless-api-lambda,desktop,https://www.bing.com/,,United States,Apex,1,1,0,0,1,20240213,22,US
 /,desktop,,,United States,(not set),1,1,0,0,1,20240214,0,US
 /blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Dusseldorf,1,1,0,3,1,20240214,9,DE
 /blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Frankfurt,1,1,0,3,1,20240214,9,DE
@@ -87,11 +73,28 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/image-rotation-opencv,desktop,,,Italy,(not set),1,1,0,0,1,20240219,18,IT
 /blog/traefik-goaccess,desktop,https://www.google.com/,,Brazil,Fortaleza,1,1,0,3,1,20240219,19,BR
 /,desktop,,,Japan,Mito,1,1,0,0,1,20240220,0,JP
-/,desktop,https://cristianpb.github.io/blog/monitoring-grafana,,Indonesia,Surabaya,1,1,0,0,1,20240220,3,ID
-/blog,desktop,https://cristianpb.github.io/,,Indonesia,Surabaya,1,1,56.647631,0,1,20240220,3,ID
-/blog/fluentbit-elasticsearch-kibana,desktop,https://cristianpb.github.io/blog,,Indonesia,Surabaya,1,1,504.844664,0,1,20240220,3,ID
-/blog/monitoring-grafana,desktop,https://medium.com/,,Indonesia,Surabaya,1,1,0,0,1,20240220,3,ID
-/blog/serverless-api-lambda,desktop,https://cristianpb.github.io/blog,,Indonesia,Surabaya,1,1,266.110931,0,1,20240220,3,ID
-/blog/magic-wand,desktop,https://cn.bing.com/,,China,,1,1,0,2,1,20240220,4,CN
+/,desktop,https://cristianpb.github.io/blog/monitoring-grafana,,Indonesia,Surabaya,1,1,6.692589,0,0,20240220,3,ID
+/blog,desktop,https://cristianpb.github.io/,,Indonesia,Surabaya,1,1,260.603064,0,0,20240220,3,ID
+/blog/fluentbit-elasticsearch-kibana,desktop,https://cristianpb.github.io/blog,,Indonesia,Surabaya,1,1,383.564198,0,0,20240220,3,ID
+/blog/monitoring-grafana,desktop,https://medium.com/,,Indonesia,Surabaya,1,1,51.020125,0,0,20240220,3,ID
+/blog/monitoring-grafana,desktop,https://medium.com/@cristianpb/system-monitoring-with-grafana-influxdb-et-collectd-7827969e1fe,,Indonesia,Surabaya,1,1,0,0,0,20240220,3,ID
+/blog/serverless-api-lambda,desktop,https://cristianpb.github.io/blog,,Indonesia,Surabaya,1,1,60.047872,0,0,20240220,3,ID
+/blog/magic-wand,desktop,https://cn.bing.com/,,China,(not set),1,1,0,2,0,20240220,4,CN
+/blog/magic-wand,desktop,https://cn.bing.com/,,China,(not set),1,1,475.384347,0,0,20240220,5,CN
 /blog/serverless-api-lambda,desktop,https://www.bing.com/,,United States,Apex,1,1,0,2,1,20240220,5,US
 /blog/vimwiki-hugo,mobile,https://www.google.com/,,United States,Washington,1,1,0,0,1,20240220,7,US
+/blog/document-detection,mobile,https://www.google.com/,,Philippines,Legazpi City,1,1,0,6,1,20240220,14,PH
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Belgium,Wichelen,1,1,0,0,1,20240220,14,BE
+/blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Dinslaken,1,1,0,3,1,20240220,15,DE
+/blog/velib-folium,desktop,https://www.google.com/,,Ireland,Cork,1,1,0,0,1,20240220,15,IE
+/about,desktop,,,United Kingdom,Hertford,1,1,100.221766,0,0,20240220,17,GB
+/blog,desktop,,,United Kingdom,Hertford,1,1,12.069067,1,0,20240220,17,GB
+/blog/ssd-yolo,desktop,https://www.google.com/,,India,Noida,1,1,0,3,1,20240220,17,IN
+/blog/vimwiki-hugo,desktop,https://duckduckgo.com/,,United Kingdom,Hertford,1,1,0,3,0,20240220,17,GB
+/blog/vimwiki-hugo,mobile,https://www.google.com/,,South Korea,Seoul,1,1,0,0,1,20240220,17,
+/blog/magic-wand,desktop,https://www.google.com/,,United States,San Diego,1,1,0,3,1,20240220,18,US
+/blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Cologne,1,1,0,0,1,20240220,18,DE
+/,desktop,,,United States,(not set),1,1,0,0,1,20240220,21,US
+/,desktop,https://bing.com/,,United States,(not set),1,1,0,0,1,20240220,21,US
+/blog/vimwiki-hugo,mobile,https://www.reddit.com/,,United Kingdom,Pontypool,1,1,0,0,1,20240220,21,GB
+/blog/document-detection,mobile,,,Latvia,Riga,1,1,0,3,1,20240220,22,LV
