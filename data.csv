@@ -1,19 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,United States,(not set),2,2,0,3,1,20240217,1,US
-/,desktop,,,United States,(not set),1,1,0,0,1,20240214,0,US
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Dusseldorf,1,1,0,3,1,20240214,9,DE
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Frankfurt,1,1,0,3,1,20240214,9,DE
-/blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,Italy,Quarto,1,1,0,0,1,20240214,10,IT
-/blog/monitoring-grafana,desktop,,,Spain,Madrid,1,1,0,0,1,20240214,10,ES
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Belgium,Brussels,1,1,0,0,1,20240214,12,BE
-/blog/fluentbit-elasticsearch-kibana,desktop,https://yandex.ru/,,Russia,Tyumen,1,1,0,3,1,20240214,13,RU
-/blog/analytics-google,desktop,,,United States,(not set),1,1,0,0,1,20240214,14,US
-/blog/monitoring-grafana,desktop,https://www.yandex.ru/,,Russia,Povarovo,1,1,0,3,1,20240214,14,RU
-/blog/fluentbit-elasticsearch-kibana,desktop,https://yandex.ru/,,Russia,Yekaterinburg,1,1,0,0,1,20240214,15,RU
-/blog/jekyll-algolia,desktop,https://yandex.ru/,,France,Paris,1,1,0,3,1,20240214,15,FR
-/blog/ssd-yolo,desktop,https://www.yandex.ru/,,Russia,Ryazan,1,1,0,2,1,20240214,16,RU
-/blog/traefik-goaccess,mobile,https://www.google.com/,,Czechia,Spindleruv Mlyn,1,1,0,3,1,20240214,17,
-/blog/marathon-mirabelle,tablet,https://www.google.com/,,United States,Boston,1,1,0,0,1,20240214,18,US
 /blog/serverless-api-lambda,mobile,https://www.google.com/,,United States,Atlanta,1,1,0,0,1,20240215,0,US
 /blog/analytics-google,desktop,https://github.com/,,India,Bardhaman,1,1,0,0,1,20240215,7,IN
 /blog/ssd-yolo,desktop,https://www.google.com/,,India,Bhilai,1,1,0,0,1,20240215,8,IN
@@ -98,3 +84,17 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,https://bing.com/,,United States,(not set),1,1,0,0,1,20240220,21,US
 /blog/vimwiki-hugo,mobile,https://www.reddit.com/,,United Kingdom,Pontypool,1,1,0,0,1,20240220,21,GB
 /blog/document-detection,mobile,,,Latvia,Riga,1,1,0,3,1,20240220,22,LV
+/about,desktop,https://cristianpb.github.io/blog/traefik-goaccess,,Germany,Frankfurt,1,1,24.164257,1,0,20240221,9,DE
+/blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Frankfurt,1,1,0,3,0,20240221,9,DE
+/blog/traefik-goaccess,desktop,https://www.reddit.com/,,Hong Kong,(not set),1,1,0,3,1,20240221,10,HK
+/blog/image-rotation-opencv,desktop,,,China,(not set),1,1,0,0,1,20240221,11,CN
+/blog/image-rotation-opencv,mobile,,,China,(not set),1,1,0,0,1,20240221,11,CN
+/blog/vimwiki-hugo,desktop,https://duckduckgo.com/,,Netherlands,Groningen,1,1,0,3,1,20240221,12,NL
+/blog/ssd-yolo,desktop,https://www.google.com/,,India,Patiala,1,1,0,3,1,20240221,18,IN
+/blog/vimwiki-hugo,mobile,,,United Kingdom,London,1,1,0,0,1,20240221,18,GB
+/blog/ssd-yolo,desktop,https://www.yandex.ru/,,Russia,Ryazan,1,1,0,0,1,20240221,19,RU
+/blog/traefik-goaccess,desktop,,,Netherlands,Rotterdam,1,1,0,0,1,20240222,1,NL
+/,desktop,,,United States,,1,1,0,0,1,20240222,3,US
+/,desktop,https://bing.com/,,United States,,1,1,0,3,1,20240222,3,US
+/blog/magic-wand,desktop,https://www.bing.com/,,United States,McDonough,1,1,0,3,1,20240222,7,US
+/blog/ssd-yolo,desktop,https://www.bing.com/,,India,Mumbai,1,1,0,0,1,20240222,9,IN
