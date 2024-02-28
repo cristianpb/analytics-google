@@ -1,30 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,Japan,Mito,1,1,0,0,1,20240220,0,JP
-/,desktop,https://cristianpb.github.io/blog/monitoring-grafana,,Indonesia,Surabaya,1,1,6.692589,0,0,20240220,3,ID
-/blog,desktop,https://cristianpb.github.io/,,Indonesia,Surabaya,1,1,260.603064,0,0,20240220,3,ID
-/blog/fluentbit-elasticsearch-kibana,desktop,https://cristianpb.github.io/blog,,Indonesia,Surabaya,1,1,383.564198,0,0,20240220,3,ID
-/blog/monitoring-grafana,desktop,https://medium.com/,,Indonesia,Surabaya,1,1,51.020125,0,0,20240220,3,ID
-/blog/monitoring-grafana,desktop,https://medium.com/@cristianpb/system-monitoring-with-grafana-influxdb-et-collectd-7827969e1fe,,Indonesia,Surabaya,1,1,0,0,0,20240220,3,ID
-/blog/serverless-api-lambda,desktop,https://cristianpb.github.io/blog,,Indonesia,Surabaya,1,1,60.047872,0,0,20240220,3,ID
-/blog/magic-wand,desktop,https://cn.bing.com/,,China,(not set),1,1,0,2,0,20240220,4,CN
-/blog/magic-wand,desktop,https://cn.bing.com/,,China,(not set),1,1,475.384347,0,0,20240220,5,CN
-/blog/serverless-api-lambda,desktop,https://www.bing.com/,,United States,Apex,1,1,0,2,1,20240220,5,US
-/blog/vimwiki-hugo,mobile,https://www.google.com/,,United States,Washington,1,1,0,0,1,20240220,7,US
-/blog/document-detection,mobile,https://www.google.com/,,Philippines,Legazpi City,1,1,0,6,1,20240220,14,PH
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Belgium,Wichelen,1,1,0,0,1,20240220,14,BE
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Dinslaken,1,1,0,3,1,20240220,15,DE
-/blog/velib-folium,desktop,https://www.google.com/,,Ireland,Cork,1,1,0,0,1,20240220,15,IE
-/about,desktop,,,United Kingdom,Hertford,1,1,100.221766,0,0,20240220,17,GB
-/blog,desktop,,,United Kingdom,Hertford,1,1,12.069067,1,0,20240220,17,GB
-/blog/ssd-yolo,desktop,https://www.google.com/,,India,Noida,1,1,0,3,1,20240220,17,IN
-/blog/vimwiki-hugo,desktop,https://duckduckgo.com/,,United Kingdom,Hertford,1,1,0,3,0,20240220,17,GB
-/blog/vimwiki-hugo,mobile,https://www.google.com/,,South Korea,Seoul,1,1,0,0,1,20240220,17,
-/blog/magic-wand,desktop,https://www.google.com/,,United States,San Diego,1,1,0,3,1,20240220,18,US
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Cologne,1,1,0,0,1,20240220,18,DE
-/,desktop,,,United States,(not set),1,1,0,0,1,20240220,21,US
-/,desktop,https://bing.com/,,United States,(not set),1,1,0,0,1,20240220,21,US
-/blog/vimwiki-hugo,mobile,https://www.reddit.com/,,United Kingdom,Pontypool,1,1,0,0,1,20240220,21,GB
-/blog/document-detection,mobile,,,Latvia,Riga,1,1,0,3,1,20240220,22,LV
 /about,desktop,https://cristianpb.github.io/blog/traefik-goaccess,,Germany,Frankfurt,1,1,24.164257,1,0,20240221,9,DE
 /blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Frankfurt,1,1,0,3,0,20240221,9,DE
 /blog/traefik-goaccess,desktop,https://www.reddit.com/,,Hong Kong,(not set),1,1,0,3,1,20240221,10,HK
@@ -83,13 +57,23 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/tags,mobile,,,China,(not set),1,1,0,0,1,20240226,20,CN
 /blog/ssd-yolo,desktop,https://www.google.com/,,Netherlands,(not set),1,1,0,9,1,20240226,21,NL
 /blog/grafana-dashboard,desktop,https://www.google.com/,,Brazil,83090,1,1,0,0,1,20240226,23,BR
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Norway,Oslo Municipality,1,1,0,0,1,20240227,0,NO
 /blog/gnuplot-electrode,desktop,https://metager.de/,,Germany,Ronnenberg,1,1,0,3,1,20240227,1,DE
-/blog/mopidy-muse,desktop,https://github.com/cristianpb/muse?tab=readme-ov-file,,United States,Elizabethton,1,1,164.137585,0,1,20240227,2,US
-/blog/mopidy-muse,desktop,https://mopidy.com/,,United States,Elizabethton,1,1,0,0,1,20240227,2,US
+/blog/mopidy-muse,desktop,https://github.com/cristianpb/muse?tab=readme-ov-file,,United States,Elizabethton,1,1,164.137585,0,0,20240227,2,US
+/blog/mopidy-muse,desktop,https://mopidy.com/,,United States,Elizabethton,1,1,0,0,0,20240227,2,US
 /blog/image-processing-using-serverless-architecture,desktop,https://www.google.com.pk/,,Pakistan,Karachi,1,1,0,3,1,20240227,3,PK
 /blog/magic-wand,desktop,https://www.google.com/,,United States,Oceanside,1,1,0,6,1,20240227,3,US
-/blog/ssd-yolo,desktop,https://www.google.com/,,Uzbekistan,,1,1,0,3,1,20240227,5,UZ
+/blog/ssd-yolo,desktop,https://www.google.com/,,Uzbekistan,(not set),1,1,0,3,1,20240227,5,UZ
 /blog/magic-wand,mobile,android-app://com.google.android.googlequicksearchbox/,,Russia,Orsk,1,1,0,12,1,20240227,7,RU
-/blog/amp-search-jekyll,desktop,https://www.google.co.in/,,China,,1,1,0,15,1,20240227,8,CN
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Austria,Horitschon,1,1,0,0,1,20240227,8,AT
-/blog/monitoring-grafana,desktop,https://cristianpb.github.io/blog/grafana-dashboard,,Austria,Horitschon,1,1,0,1,1,20240227,8,AT
+/blog/amp-search-jekyll,desktop,https://www.google.co.in/,,China,(not set),1,1,0,15,1,20240227,8,CN
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Austria,Horitschon,1,1,0,0,0,20240227,8,AT
+/blog/monitoring-grafana,desktop,https://cristianpb.github.io/blog/grafana-dashboard,,Austria,Horitschon,1,1,39.047067,1,0,20240227,8,AT
+/blog/grafana-dashboard,desktop,https://www.reddit.com/,,Germany,Munich,1,1,0,3,1,20240227,13,DE
+/blog/magic-wand,mobile,https://www.google.com/,,United States,Cave Junction,1,1,0,0,1,20240227,17,US
+/blog/vimwiki-hugo,desktop,https://www.google.com/,,United States,Hellertown,1,1,0,9,1,20240228,1,US
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,United States,Santa Clara,1,1,0,6,1,20240228,2,US
+/blog/traefik-goaccess,desktop,https://www.google.com/,,United States,Seattle,1,1,0,3,1,20240228,7,US
+/blog/grafana-dashboard,desktop,https://www.bing.com/,,Poland,Warsaw,1,1,0,0,1,20240228,8,PL
+/blog/image-rotation-opencv,mobile,https://blog.paperspace.com/,,Denmark,Copenhagen,1,1,0,3,1,20240228,8,DK
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Philippines,Cagayan de Oro,1,1,0,3,1,20240228,8,PH
+/blog/music-voice-cotrol,desktop,https://www.google.com/,,Norway,Oslo Municipality,1,1,0,3,1,20240228,12,NO
