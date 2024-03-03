@@ -1,8 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/traefik-goaccess,desktop,https://www.google.com/,,France,Lorgues,1,1,0,9,1,20240224,9,FR
-/blog/vimwiki-hugo,mobile,https://www.google.com/,,Italy,Milan,1,1,0,0,1,20240224,13,IT
-/blog/ssd-yolo,desktop,https://www.google.com/,,Switzerland,Fiesch,1,1,0,0,1,20240224,16,CH
-/blog/ssd-yolo,desktop,https://www.google.com/,,Switzerland,Fiesch,1,1,0,0,1,20240224,17,CH
 /blog/magic-wand,mobile,https://www.google.com/,,France,Ivry-sur-Seine,1,1,0,0,1,20240225,6,FR
 /blog/ssd-yolo,desktop,https://www.google.com/,,Spain,Naron,1,1,0,0,1,20240225,14,ES
 /about,desktop,,,Germany,Worth am Rhein,1,1,60.636185,1,0,20240225,19,DE
@@ -104,6 +100,15 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/ssd-yolo,desktop,https://www.bing.com/,,United States,Levittown,1,1,0,0,1,20240302,4,US
 /blog/raspberry-video-stream,desktop,https://www.google.com/,,India,Nagpur,1,1,0,0,1,20240302,5,IN
 /blog/ssd-yolo,desktop,https://www.bing.com/,,United States,Levittown,1,1,0,0,1,20240302,5,US
-/,desktop,,,United States,,1,1,0,3,1,20240302,6,US
+/,desktop,,,United States,(not set),1,1,0,3,1,20240302,6,US
 /,desktop,https://bing.com/,,United States,Coffeyville,1,1,0,3,1,20240302,6,US
 /blog/dashboard-dc-js,desktop,https://www.google.com/,,Türkiye,Ankara,1,1,0,6,1,20240302,12,
+/blog/image-rotation-opencv,desktop,https://yandex.ru/,,Russia,Volgograd,1,1,0,3,1,20240302,17,RU
+/blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,India,Agra,1,1,0,0,1,20240302,19,IN
+/blog/mopidy-muse,desktop,https://github.com/cristianpb/muse?tab=readme-ov-file,,Italy,Carmignano di Brenta,1,1,0,0,1,20240302,19,IT
+/blog/gnuplot-electrode,desktop,https://www.google.com/,,United States,Bloomington,1,1,0,0,1,20240303,0,US
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,South Korea,Yongin-si,1,1,778.917892,4,1,20240303,4,
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Vietnam,Da Nang,1,1,0,3,1,20240303,6,VN
+/blog/serverless-api-lambda,desktop,https://www.bing.com/,,India,Thane,1,1,0,3,1,20240303,9,IN
+/blog/grafana-dashboard,desktop,https://duckduckgo.com/,,Italy,Casale Monferrato,1,1,0,3,1,20240303,11,IT
+/blog/ssd-yolo,mobile,https://www.google.com/,,Philippines,,1,1,605.023496,22,0,20240303,12,PH
