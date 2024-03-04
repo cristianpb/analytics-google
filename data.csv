@@ -1,11 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/magic-wand,mobile,https://www.google.com/,,France,Ivry-sur-Seine,1,1,0,0,1,20240225,6,FR
-/blog/ssd-yolo,desktop,https://www.google.com/,,Spain,Naron,1,1,0,0,1,20240225,14,ES
-/about,desktop,,,Germany,Worth am Rhein,1,1,60.636185,1,0,20240225,19,DE
-/blog/analytics-google,desktop,https://yandex.ru/,,Finland,Helsinki,1,1,0,3,1,20240225,19,FI
-/blog/motion-monitor-opencv,desktop,https://duckduckgo.com/,,Germany,Worth am Rhein,1,1,0,3,0,20240225,19,DE
-/blog/mopidy-muse,desktop,https://mopidy.com/,,Poland,Otwock,1,1,0,3,1,20240225,21,PL
-/blog/vimwiki-hugo,desktop,https://discourse.gohugo.io/,,United States,New York,1,1,0,3,1,20240225,21,US
 /blog/music-voice-cotrol,mobile,https://www.google.com/,,Germany,Tubingen,1,1,0,3,1,20240226,2,DE
 /,desktop,,,United States,(not set),1,1,0,0,1,20240226,4,US
 /,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240226,4,US
@@ -107,8 +100,29 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,India,Agra,1,1,0,0,1,20240302,19,IN
 /blog/mopidy-muse,desktop,https://github.com/cristianpb/muse?tab=readme-ov-file,,Italy,Carmignano di Brenta,1,1,0,0,1,20240302,19,IT
 /blog/gnuplot-electrode,desktop,https://www.google.com/,,United States,Bloomington,1,1,0,0,1,20240303,0,US
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,South Korea,Yongin-si,1,1,778.917892,4,1,20240303,4,
+/blog/magic-wand,desktop,https://www.google.com/,,Canada,Calgary,1,1,0,0,1,20240303,3,CA
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,South Korea,Yongin-si,1,1,778.917892,4,0,20240303,4,
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Vietnam,Da Nang,1,1,0,3,1,20240303,6,VN
 /blog/serverless-api-lambda,desktop,https://www.bing.com/,,India,Thane,1,1,0,3,1,20240303,9,IN
 /blog/grafana-dashboard,desktop,https://duckduckgo.com/,,Italy,Casale Monferrato,1,1,0,3,1,20240303,11,IT
-/blog/ssd-yolo,mobile,https://www.google.com/,,Philippines,,1,1,605.023496,22,0,20240303,12,PH
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,(not set),1,1,0,0,1,20240303,11,DE
+/blog/ssd-yolo,mobile,,,Philippines,(not set),1,1,0,3,1,20240303,12,PH
+/blog/ssd-yolo,mobile,https://www.google.com/,,Philippines,(not set),1,1,605.023496,22,0,20240303,12,PH
+/blog/analytics-google,desktop,https://www.google.com/,,India,Kannur,1,1,0,3,1,20240303,14,IN
+/blog/analytics-google,desktop,https://www.google.com/,,Indonesia,Jakarta,1,1,0,2,0,20240303,15,ID
+/blog/dashboard-dc-js,desktop,https://cristianpb.github.io/blog/analytics-google,,Indonesia,Jakarta,1,1,87.47525,1,0,20240303,15,ID
+/blog/ssd-yolo,desktop,https://www.google.com/,,India,Roorkee,1,1,0,3,1,20240303,17,IN
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Chile,(not set),1,1,0,0,1,20240303,21,CL
+/blog/analytics-google,desktop,https://www.google.com/,,Spain,Motril,1,1,0,0,1,20240303,22,ES
+/blog/magic-wand,mobile,android-app://com.google.android.googlequicksearchbox/,,Brazil,Serra,1,1,0,3,1,20240304,2,BR
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Thailand,Bangkok,1,1,0,3,1,20240304,3,TH
+/blog/analytics-google,desktop,https://www.google.com/,,India,Thiruvananthapuram,1,1,0,0,1,20240304,5,IN
+/blog/analytics-google,desktop,https://www.google.com/,,India,Thiruvananthapuram,1,1,179.060857,0,1,20240304,6,IN
+/blog/magic-wand,desktop,https://www.google.com/,,Taiwan,,1,1,0,3,1,20240304,6,TW
+/blog/serverless-api-lambda,desktop,https://www.google.com/,,Singapore,Singapore,1,1,0,3,1,20240304,6,SG
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Taiwan,,1,1,0,3,1,20240304,7,TW
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Thailand,Bangkok,1,1,0,2,1,20240304,7,TH
+/blog/document-detection,desktop,https://www.google.com/,,Germany,Bonn,1,1,0,0,1,20240304,8,DE
+/blog/traefik-goaccess,desktop,https://www.google.com/,,Sweden,Bengtsfors,1,1,0,0,1,20240304,9,SE
+/,desktop,https://cristianpb.github.io/blog/ssd-yolo,,Macao,,1,1,0,1,0,20240304,11,MO
+/blog/ssd-yolo,desktop,https://cn.bing.com/,,Macao,,1,1,175.808845,3,0,20240304,11,MO
