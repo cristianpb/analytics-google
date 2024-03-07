@@ -1,26 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/vimwiki-hugo,desktop,https://www.google.com/,,United States,Hellertown,1,1,0,9,1,20240228,1,US
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,United States,Santa Clara,1,1,0,6,1,20240228,2,US
-/blog/traefik-goaccess,desktop,https://www.google.com/,,United States,Seattle,1,1,0,3,1,20240228,7,US
-/blog/grafana-dashboard,desktop,https://www.bing.com/,,Poland,Warsaw,1,1,0,0,1,20240228,8,PL
-/blog/image-rotation-opencv,mobile,https://blog.paperspace.com/,,Denmark,Copenhagen,1,1,0,3,1,20240228,8,DK
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Philippines,Cagayan de Oro,1,1,0,3,1,20240228,8,PH
-/blog/monitoring-grafana,desktop,https://www.google.com/,,France,Cesson-Sevigne,1,1,0,0,1,20240228,9,FR
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,Germany,Bergisch Gladbach,1,1,0,0,1,20240228,10,DE
-/blog/dashboard-dc-js,desktop,https://www.google.com/,,Thailand,Saen Suk,1,1,0,3,1,20240228,11,TH
-/blog/music-voice-cotrol,desktop,https://www.google.com/,,Norway,Oslo Municipality,1,1,0,3,1,20240228,12,NO
-/blog/document-detection,desktop,https://www.google.com/,,Brazil,Guarulhos,1,1,0,0,1,20240228,13,BR
-/blog/ssd-yolo,desktop,https://www.google.com/,,Canada,Toronto,1,1,0,3,1,20240228,14,CA
-/blog/motion-monitor-opencv,mobile,android-app://com.google.android.googlequicksearchbox/,,India,Chennai,1,1,0,0,1,20240228,16,IN
-/blog/playlists-dashboard,desktop,https://www.bing.com/,,India,Sri City,1,1,0,0,1,20240228,17,IN
-/,desktop,,,China,(not set),1,1,0,0,1,20240228,18,CN
-/,mobile,,,China,(not set),1,1,0,0,1,20240228,18,CN
-/blog/arduino-mkr-fox,desktop,https://www.google.it/,,Italy,Biella,1,1,0,0,1,20240228,18,IT
-/blog/playlists-dashboard,desktop,,,China,(not set),1,1,0,0,1,20240228,18,CN
-/blog/playlists-dashboard,mobile,,,China,(not set),1,1,0,0,1,20240228,18,CN
-/blog/ssd-yolo,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240228,20,RU
-/blog/grafana-dashboard,mobile,https://www.google.com/,,Poland,Warsaw,1,1,0,0,1,20240228,21,PL
-/blog/traefik-goaccess,desktop,https://www.google.com/,,United States,Medford,1,1,0,2,1,20240228,22,US
 /blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,Argentina,Rosario,1,1,0,3,1,20240229,0,AR
 /,desktop,,,United States,(not set),1,1,0,0,1,20240229,4,US
 /,desktop,https://bing.com/,,United States,Coffeyville,1,1,0,3,1,20240229,4,US
@@ -114,6 +92,20 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/velib-folium,desktop,,,France,Aix-en-Provence,1,1,0,0,1,20240305,20,FR
 /blog/mopidy-muse,desktop,https://github.com/,,United States,Buffalo,1,1,0,0,1,20240306,2,US
 /blog/document-detection,desktop,https://yandex.ru/,,Russia,Izhevsk,1,1,0,0,1,20240306,7,RU
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Germany,Achim,1,1,0,3,1,20240306,11,DE
+/blog/image-rotation-opencv,desktop,,,Germany,Achim,1,1,166.275872,0,0,20240306,11,DE
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Germany,Achim,1,1,0,3,0,20240306,11,DE
+/blog/jekyll-algolia,desktop,https://www.google.com/,,France,Saint-Etienne,1,1,0,6,1,20240306,11,FR
 /blog/analytics-google,desktop,,,Australia,Sydney,1,1,0,0,1,20240306,12,AU
+/blog/traefik-goaccess,mobile,https://www.google.com/,,Chile,Santiago,1,1,0,0,1,20240306,13,CL
 /blog/vimwiki-hugo,desktop,https://www.google.com/,,United Kingdom,Oxford,1,1,0,2,1,20240306,13,GB
+/blog/serverless-api-lambda,desktop,https://www.google.com/,,India,Thane,1,1,0,3,1,20240306,14,IN
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United States,New York,1,1,0,0,1,20240306,16,US
+/blog/serverless-api-lambda,desktop,https://www.google.com/,,India,Thane,1,1,0,6,1,20240306,17,IN
+/blog/monitoring-grafana,desktop,https://www.google.co.uk/,,United Kingdom,London,1,1,0,3,1,20240306,21,GB
+/blog/monitoring-grafana,desktop,https://www.google.co.uk/,,United Kingdom,Belfast,1,1,0,3,1,20240306,23,GB
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United Kingdom,Redhill,1,1,0,0,1,20240307,0,GB
+/,desktop,https://bing.com/,,United States,,1,1,0,3,1,20240307,2,US
+/blog/arduino-mkr-fox,desktop,https://www.google.com/,,South Korea,Yangsan-si,1,1,0,0,1,20240307,2,
+/blog/mopidy-muse,desktop,https://www.google.com/,,Costa Rica,San Jose,1,1,0,0,1,20240307,7,CR
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Russia,Sosnovy Bor,1,1,0,0,1,20240307,8,RU
+/blog/analytics-google,desktop,https://github.com/,,India,Asansol,1,1,0,0,1,20240307,9,IN
