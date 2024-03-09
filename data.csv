@@ -1,24 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /blog/gnuplot-electrode,desktop,https://www.google.com/,,United Kingdom,London,2,2,2.648083,3,0.5,20240307,13,GB
-/blog/grafana-dashboard,desktop,https://cristianpb.github.io/blog/monitoring-grafana,,Thailand,Bangkok,1,1,6.40403,0,0,20240301,5,TH
-/blog/monitoring-grafana,desktop,https://www.google.co.th/,,Thailand,Bangkok,1,1,0,0,0,20240301,5,TH
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,United Kingdom,St Andrews,1,1,0,3,1,20240301,11,GB
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Germany,Herrenberg,1,1,0,0,1,20240301,12,DE
-/blog/grafana-dashboard,desktop,https://www.google.com/,,South Africa,Newlands West,1,1,0,3,1,20240301,12,ZA
-/blog/ssd-yolo,desktop,,,Uzbekistan,(not set),1,1,0,0,1,20240301,12,UZ
-/blog/fluentbit-elasticsearch-kibana,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240301,14,RU
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Indonesia,Selorejo,1,1,0,0,1,20240301,14,ID
-/blog/image-processing-using-serverless-architecture,mobile,https://www.google.com/,,United Kingdom,Berkhamsted,1,1,0,3,1,20240301,15,GB
-/blog/vimwiki-hugo,desktop,https://www.google.com/,,United Kingdom,Oxford,1,1,0,3,1,20240301,17,GB
-/blog/document-detection,desktop,https://www.google.com/,,France,Paris,1,1,0,0,1,20240301,18,FR
-/blog/vimwiki-hugo,mobile,https://www.google.com/,,Russia,Nizhny Novgorod,1,1,0,3,1,20240301,18,RU
-/blog/image-rotation-opencv,desktop,,,Russia,Moscow,1,1,978.055215,4,0,20240301,20,RU
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Sweden,Bengtsfors,1,1,0,0,1,20240301,20,SE
-/blog/vimwiki-hugo,desktop,https://www.reddit.com/,,United States,Chicago,1,1,0,3,1,20240301,20,US
-/blog/document-detection,mobile,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240301,22,RU
-/blog/image-rotation-opencv,desktop,,,Russia,Moscow,1,1,0,2,1,20240301,22,RU
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Sweden,Bengtsfors,1,1,0,2,1,20240301,22,SE
-/blog/image-rotation-opencv,desktop,,,Russia,Moscow,1,1,0,2,1,20240301,23,RU
 /blog/ssd-yolo,desktop,https://www.bing.com/,,United States,Levittown,1,1,0,0,1,20240302,4,US
 /blog/raspberry-video-stream,desktop,https://www.google.com/,,India,Nagpur,1,1,0,0,1,20240302,5,IN
 /blog/ssd-yolo,desktop,https://www.bing.com/,,United States,Levittown,1,1,0,0,1,20240302,5,US
@@ -105,14 +86,21 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/ssd-yolo,desktop,https://www.google.com/,,South Korea,Hwaseong-si,1,1,0,3,1,20240307,20,
 /blog/traefik-goaccess,mobile,,,Ireland,Dublin,1,1,0,0,1,20240307,22,IE
 /blog/magic-wand,mobile,,,United States,Ozark,1,1,0,0,1,20240308,0,US
-/,desktop,https://bing.com/,,United States,,1,1,0,12,1,20240308,1,US
+/,desktop,https://bing.com/,,United States,(not set),1,1,0,12,1,20240308,1,US
 /blog/magic-wand,desktop,https://www.google.com/,,United States,Oceanside,1,1,0,2,1,20240308,1,US
 /blog/image-rotation-opencv,mobile,https://www.google.com/,,Vietnam,Ho Chi Minh City,1,1,0,6,1,20240308,2,VN
 /blog/vimwiki-hugo,tablet,,,Uruguay,Montevideo,1,1,0,6,1,20240308,2,UY
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Italy,,1,1,0,2,1,20240308,9,IT
-/blog,desktop,https://cristianpb.github.io/blog/jekyll-algolia,,Vietnam,Ho Chi Minh City,1,1,970.207359,1,1,20240308,10,VN
-/blog/jekyll-algolia,desktop,https://www.google.com/,,Vietnam,Ho Chi Minh City,1,1,0,0,1,20240308,10,VN
-/blog/magic-wand,desktop,https://cristianpb.github.io/blog,,Vietnam,Ho Chi Minh City,1,1,56.318255,0,1,20240308,10,VN
+/blog/ssd-yolo,mobile,https://www.google.com/,,Indonesia,(not set),1,1,0,3,1,20240308,4,ID
+/blog/monitoring-grafana,mobile,https://www.google.com/,,Germany,Hanover,1,1,0,0,1,20240308,7,DE
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Italy,(not set),1,1,0,2,1,20240308,9,IT
+/blog,desktop,https://cristianpb.github.io/blog/jekyll-algolia,,Vietnam,Ho Chi Minh City,1,1,970.207359,1,0,20240308,10,VN
+/blog/jekyll-algolia,desktop,https://www.google.com/,,Vietnam,Ho Chi Minh City,1,1,0,0,0,20240308,10,VN
+/blog/magic-wand,desktop,https://cristianpb.github.io/blog,,Vietnam,Ho Chi Minh City,1,1,56.318255,0,0,20240308,10,VN
 /blog/magic-wand,desktop,https://www.google.com.hk/,,China,Shanghai,1,1,0,9,1,20240308,10,CN
-/blog/grafana-dashboard,desktop,https://www.bing.com/,,Argentina,,1,1,726.84,0,1,20240308,13,AR
-/blog/grafana-dashboard,desktop,https://www.reddit.com/,,Argentina,,1,1,0,0,1,20240308,13,AR
+/blog/ssd-yolo,mobile,https://www.google.com/,,Indonesia,Semarang,1,1,0,3,1,20240308,10,ID
+/blog/grafana-dashboard,desktop,https://www.bing.com/,,Argentina,(not set),1,1,726.84,0,0,20240308,13,AR
+/blog/grafana-dashboard,desktop,https://www.reddit.com/,,Argentina,(not set),1,1,0,0,0,20240308,13,AR
+/blog/gnuplot-electrode,desktop,https://www.google.com/,,Spain,(not set),1,1,0,0,1,20240308,14,ES
+/blog/document-detection,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240308,18,RU
+/blog/analytics-google,desktop,https://www.google.com/,,Spain,Madrid,1,1,0,0,1,20240308,19,ES
+/about,desktop,https://www.google.com/,,France,Paris,1,1,0,3,1,20240309,11,FR
