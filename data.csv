@@ -1,23 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/grafana-dashboard,desktop,,,Vietnam,Hanoi,2,2,74.1954055,0,0.5,20240315,13,VN
-/blog/magic-wand,mobile,,,United States,Ozark,1,1,0,0,1,20240308,0,US
-/,desktop,https://bing.com/,,United States,(not set),1,1,0,12,1,20240308,1,US
-/blog/magic-wand,desktop,https://www.google.com/,,United States,Oceanside,1,1,0,2,1,20240308,1,US
-/blog/image-rotation-opencv,mobile,https://www.google.com/,,Vietnam,Ho Chi Minh City,1,1,0,6,1,20240308,2,VN
-/blog/vimwiki-hugo,tablet,,,Uruguay,Montevideo,1,1,0,6,1,20240308,2,UY
-/blog/ssd-yolo,mobile,https://www.google.com/,,Indonesia,(not set),1,1,0,3,1,20240308,4,ID
-/blog/monitoring-grafana,mobile,https://www.google.com/,,Germany,Hanover,1,1,0,0,1,20240308,7,DE
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Italy,(not set),1,1,0,2,1,20240308,9,IT
-/blog,desktop,https://cristianpb.github.io/blog/jekyll-algolia,,Vietnam,Ho Chi Minh City,1,1,970.207359,1,0,20240308,10,VN
-/blog/jekyll-algolia,desktop,https://www.google.com/,,Vietnam,Ho Chi Minh City,1,1,0,0,0,20240308,10,VN
-/blog/magic-wand,desktop,https://cristianpb.github.io/blog,,Vietnam,Ho Chi Minh City,1,1,56.318255,0,0,20240308,10,VN
-/blog/magic-wand,desktop,https://www.google.com.hk/,,China,Shanghai,1,1,0,9,1,20240308,10,CN
-/blog/ssd-yolo,mobile,https://www.google.com/,,Indonesia,Semarang,1,1,0,3,1,20240308,10,ID
-/blog/grafana-dashboard,desktop,https://www.bing.com/,,Argentina,(not set),1,1,726.84,0,0,20240308,13,AR
-/blog/grafana-dashboard,desktop,https://www.reddit.com/,,Argentina,(not set),1,1,0,0,0,20240308,13,AR
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,Spain,(not set),1,1,0,0,1,20240308,14,ES
-/blog/document-detection,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240308,18,RU
-/blog/analytics-google,desktop,https://www.google.com/,,Spain,Madrid,1,1,0,0,1,20240308,19,ES
+/blog/grafana-dashboard,desktop,,,Vietnam,Hanoi,2,2,156.685666,0,0,20240315,13,VN
 /blog/serverless-api-lambda,desktop,https://www.google.com/,,United States,Santa Clara,1,1,0,0,1,20240309,1,US
 /about,desktop,https://www.google.com/,,France,Paris,1,1,0,3,1,20240309,11,FR
 /blog/grafana-dashboard,mobile,https://duckduckgo.com/,,Morocco,Agadir,1,1,0,0,1,20240309,16,MA
@@ -83,8 +65,17 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/music-voice-cotrol,mobile,,,India,Chennai,1,1,0,0,1,20240314,16,IN
 /blog/traefik-goaccess,desktop,https://www.google.com/,,United States,Columbus,1,1,0,2,1,20240314,19,US
 /blog/image-processing-using-serverless-architecture,mobile,https://www.google.com/,,Oman,(not set),1,1,0,0,1,20240314,20,OM
+/blog/vimwiki-hugo,desktop,https://www.reddit.com/,,Spain,Barcelona,1,1,0,3,1,20240315,0,ES
 /blog/ssd-yolo,desktop,https://www.bing.com/,,Vietnam,Di An,1,1,0,3,1,20240315,8,VN
-/blog/jekyll-algolia,desktop,https://www.google.com/,,South Korea,Gwangju,1,1,0,0,1,20240315,10,
-/blog/tags,desktop,https://cristianpb.github.io/blog/jekyll-algolia,,South Korea,Gwangju,1,1,12.977987,0,1,20240315,10,
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Vietnam,Hanoi,1,1,0,0,1,20240315,13,VN
-/blog/monitoring-grafana,desktop,https://cristianpb.github.io/blog/grafana-dashboard,,Vietnam,Hanoi,1,1,43.919103,0,1,20240315,13,VN
+/blog/jekyll-algolia,desktop,https://www.google.com/,,South Korea,Gwangju,1,1,0,0,0,20240315,10,
+/blog/tags,desktop,https://cristianpb.github.io/blog/jekyll-algolia,,South Korea,Gwangju,1,1,12.977987,0,0,20240315,10,
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Vietnam,Hanoi,1,1,0,0,0,20240315,13,VN
+/blog/monitoring-grafana,desktop,https://cristianpb.github.io/blog/grafana-dashboard,,Vietnam,Hanoi,1,1,43.919103,0,0,20240315,13,VN
+/blog/grafana-dashboard,mobile,,,Vietnam,Ho Chi Minh City,1,1,0,3,1,20240315,14,VN
+/blog/vimwiki-hugo,desktop,,,Spain,Barcelona,1,1,0,2,1,20240315,14,ES
+/blog/motion-monitor-opencv,mobile,android-app://com.google.android.googlequicksearchbox/,,India,Nagpur,1,1,0,3,1,20240315,15,IN
+/blog/vimwiki-hugo,desktop,,,Spain,Barcelona,1,1,0,0,0,20240315,17,ES
+/blog/vimwiki-hugo,desktop,,,Spain,Barcelona,1,1,1089.625027,0,0,20240315,18,ES
+/blog/image-rotation-opencv,desktop,,,Italy,Milan,1,1,502.613952,4,0,20240315,19,IT
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Vietnam,Da Nang,1,1,0,6,1,20240316,6,VN
+/blog/image-rotation-opencv,mobile,https://www.google.de/,,Germany,Schwabach,1,1,0,3,1,20240316,7,DE
