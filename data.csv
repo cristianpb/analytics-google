@@ -1,14 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Morocco,Casablanca,1,1,0,9,1,20240317,0,MA
-/blog/motion-monitor-opencv,mobile,https://www.google.com/,,India,Ahmedabad,1,1,0,0,1,20240317,6,IN
-/blog/magic-wand,mobile,,,Germany,Dresden,1,1,0,0,1,20240317,8,DE
-/blog/ssd-yolo,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240317,8,RU
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Germany,Frankfurt,1,1,0,6,1,20240317,10,DE
-/blog/ssd-yolo,desktop,https://www.google.com/,,India,Noida,1,1,0,3,1,20240317,10,IN
-/blog/ssd-yolo,desktop,https://yandex.ru/,,Russia,Korolyov,1,1,0,0,1,20240317,13,RU
-/,desktop,,,United States,(not set),1,1,0,3,1,20240317,17,US
-/blog/image-rotation-opencv,desktop,https://yandex.by/,,Ukraine,Donetsk,1,1,0,3,1,20240317,20,UA
-/blog/mopidy-muse,mobile,https://mopidy.com/,,Austria,Vienna,1,1,0,0,1,20240317,23,AT
 /blog/ssd-yolo,desktop,https://www.google.com/,,India,Lucknow,1,1,0,6,1,20240318,1,IN
 /blog/monitoring-grafana,desktop,https://medium.com/@cristianpb/system-monitoring-with-grafana-influxdb-et-collectd-7827969e1fe,,United States,Sunnyvale,1,1,0,3,1,20240318,3,US
 /blog/data-withings,desktop,https://www.google.com/,,Germany,Frankfurt,1,1,0,0,1,20240318,9,DE
@@ -113,7 +103,31 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240323,18,US
 /,desktop,,,Russia,Oryol,1,1,0,0,1,20240323,21,RU
 /blog/vimwiki-hugo,desktop,https://discourse.gohugo.io/,,Germany,Frankfurt,1,1,0,0,1,20240323,21,DE
-/blog/document-detection,desktop,https://www.google.com/,,Greece,,1,1,0,3,1,20240324,0,GR
+/blog/document-detection,desktop,https://www.google.com/,,Greece,(not set),1,1,175.210908,4,0,20240324,0,GR
 /blog/bulma-amp,desktop,https://www.google.com/,,United States,Centreville,1,1,0,0,1,20240324,2,US
 /blog/image-rotation-opencv,mobile,https://yandex.by/,,Belarus,Gomel,1,1,0,15,1,20240324,2,BY
+/,desktop,https://bing.com/,,United States,Coffeyville,1,1,0,3,1,20240324,5,US
 /blog/vimwiki-hugo,mobile,https://www.google.es/,,Spain,Murcia,1,1,0,0,1,20240324,8,ES
+/,desktop,,,China,(not set),1,1,0,3,1,20240324,9,CN
+/,desktop,,,China,(not set),1,1,0,15,1,20240324,12,CN
+/blog/monitoring-grafana,desktop,https://medium.com/@cristianpb/system-monitoring-with-grafana-influxdb-et-collectd-7827969e1fe,,India,Chennai,1,1,0,0,1,20240324,12,IN
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,India,Mumbai,1,1,0,0,1,20240324,13,IN
+/blog/traefik-goaccess,mobile,https://www.google.com/,,Switzerland,Uster,1,1,0,0,1,20240324,14,CH
+/blog/vimwiki-hugo,mobile,https://discourse.gohugo.io/,,Netherlands,Woerden,1,1,0,0,1,20240324,14,NL
+/blog,desktop,https://cristianpb.github.io/blog/vimwiki-hugo,,South Korea,Seoul,1,1,2.72758,0,0,20240324,16,
+/blog/vimwiki-hugo,desktop,https://cristianpb.github.io/blog/vimwiki-hugo,,South Korea,Seoul,1,1,5.564722,0,0,20240324,16,
+/blog/vimwiki-hugo,desktop,https://www.google.com/,,South Korea,Seoul,1,1,0,0,0,20240324,16,
+/blog/vimwiki-hugo,desktop,https://www.reddit.com/,,South Korea,Seoul,1,1,549.360521,1,0,20240324,16,
+/blog/vimwiki-hugo,mobile,https://www.google.com/,,South Korea,Gimpo-si,1,1,0,0,1,20240324,17,
+/blog/ssd-yolo,mobile,https://www.google.com/,,Canada,Baie-Comeau,1,1,0,0,1,20240324,22,CA
+/blog/traefik-goaccess,desktop,,,United States,Seattle,1,1,0,0,1,20240325,0,US
+/,desktop,,,United States,,1,1,0,0,1,20240325,2,US
+/,desktop,https://bing.com/,,United States,Coffeyville,1,1,0,3,1,20240325,2,US
+/blog,desktop,https://cristianpb.github.io/blog/vimwiki-hugo,,South Korea,Seoul,1,1,6.67833,0,1,20240325,4,
+/blog/vimwiki-hugo,desktop,https://cristianpb.github.io/blog/vimwiki-hugo,,South Korea,Seoul,1,1,0,0,1,20240325,4,
+/blog/vimwiki-hugo,desktop,https://www.google.com/,,South Korea,Seoul,1,1,0,3,1,20240325,4,
+/blog/ssd-yolo,desktop,https://www.bing.com/,,South Africa,Ibhayi,1,1,0,3,1,20240325,9,ZA
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Russia,Perm,1,1,0,0,0,20240325,11,RU
+/blog/playlists-dashboard,desktop,,,Russia,Perm,1,1,0,1,0,20240325,11,RU
+/blog/velib-folium,desktop,https://www.google.com/,,Japan,Chiyoda City,1,1,0,6,1,20240325,12,JP
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Spain,Madrid,1,1,0,0,1,20240325,14,ES
