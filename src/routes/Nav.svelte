@@ -54,6 +54,9 @@
         <li>
           <a href="{base}/github" class="{$page.url.pathname === "/github" ? 'bg-blue-700 md:text-blue-700 text-white  md:bg-transparent md:dark:text-blue-500' : 'text-gray-900 hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 dark:text-blue-100' } block py-2 pl-3 pr-4 rounded md:p-0 ">Github</a>
         </li>
+        <li>
+          <a href="{base}/algolia" class="{$page.url.pathname === "/algolia" ? 'bg-blue-700 md:text-blue-700 text-white  md:bg-transparent md:dark:text-blue-500' : 'text-gray-900 hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 dark:text-blue-100' } block py-2 pl-3 pr-4 rounded md:p-0 ">Algolia</a>
+        </li>
       </ul>
     </div>
   </div>
