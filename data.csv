@@ -3,18 +3,6 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,6,1,20240329,16,CN
 /,desktop,,,China,(not set),2,2,0,6,1,20240330,1,CN
 /,desktop,https://bing.com/,,United States,Coffeyville,2,2,0,6,1,20240401,16,US
-/blog/vimwiki-hugo,desktop,,,South Korea,Seoul,1,1,0,0,1,20240328,2,
-/blog/analytics-google,desktop,https://www.google.com/,,Singapore,Singapore,1,1,0,0,1,20240328,5,SG
-/blog/data-withings,mobile,android-app://com.google.android.googlequicksearchbox/,,India,Bengaluru,1,1,0,3,1,20240328,7,IN
-/blog/vimwiki-hugo,desktop,,,South Korea,Seoul,1,1,0,2,1,20240328,9,
-/blog/vimwiki-hugo,desktop,,,South Korea,Seoul,1,1,0,2,1,20240328,13,
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,Germany,Heidelberg,1,1,0,0,1,20240328,14,DE
-/blog/velib-folium,desktop,https://www.google.com/,,South Korea,Seoul,1,1,0,3,1,20240328,14,
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,Munich,1,1,0,0,1,20240328,15,DE
-/blog/traefik-goaccess,desktop,https://www.reddit.com/,,United States,Columbus,1,1,0,0,1,20240328,15,US
-/blog/grafana-dashboard,desktop,https://www.google.com/,,France,Annecy,1,1,0,0,1,20240328,16,FR
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,United States,Annapolis,1,1,0,3,1,20240328,19,US
-/blog/velib-folium,desktop,https://www.google.com/,,France,Antony,1,1,0,0,1,20240328,19,FR
 /blog/mopidy-muse,desktop,https://mopidy.com/,,Vietnam,Da Nang,1,1,647.018627,4,0,20240329,2,VN
 /blog/mopidy-muse,desktop,https://github.com/cristianpb/muse/?tab=readme-ov-file,,Vietnam,Da Nang,1,1,0,2,1,20240329,3,VN
 /blog/mopidy-muse,desktop,,,Vietnam,Da Nang,1,1,0,0,1,20240329,7,VN
@@ -109,5 +97,28 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,India,Indore,1,1,0,0,1,20240403,23,IN
 /,desktop,https://bing.com/,,United States,Coffeyville,1,1,0,0,1,20240404,2,US
 /about,desktop,,,United States,Coffeyville,1,1,0,6,1,20240404,2,US
-/blog/analytics-google,desktop,https://cristianpb.github.io/blog/dashboard-dc-js,,Australia,Melbourne,1,1,0,0,1,20240404,5,AU
-/blog/dashboard-dc-js,desktop,https://www.google.com/,,Australia,Melbourne,1,1,0,0,1,20240404,5,AU
+/blog/analytics-google,desktop,https://cristianpb.github.io/blog/dashboard-dc-js,,Australia,Melbourne,1,1,15.980087,0,0,20240404,5,AU
+/blog/dashboard-dc-js,desktop,https://www.google.com/,,Australia,Melbourne,1,1,0,0,0,20240404,5,AU
+/blog/image-rotation-opencv,desktop,https://cristianpb.github.io/blog/tags,,Vietnam,Bac Giang,1,1,6.783325,0,0,20240404,8,VN
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,South Korea,Gyeongsan-si,1,1,0,3,1,20240404,8,
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Vietnam,Bac Giang,1,1,0,3,0,20240404,8,VN
+/blog/tags,desktop,https://cristianpb.github.io/blog/image-rotation-opencv,,Vietnam,Bac Giang,1,1,50.731,0,0,20240404,8,VN
+/,desktop,,,United States,Coffeyville,1,1,0,3,1,20240404,12,US
+/blog/image-rotation-opencv,desktop,https://blog.paperspace.com/data-augmentation-for-object-detection-rotation-and-shearing/,,Russia,Nizhny Novgorod,1,1,0,3,1,20240404,15,RU
+/blog/ssd-yolo,desktop,https://www.google.com/,,India,Chennai,1,1,0,0,1,20240404,15,IN
+/blog/traefik-goaccess,desktop,https://www.reddit.com/,,Romania,(not set),1,1,0,3,1,20240404,15,RO
+/blog/image-rotation-opencv,desktop,https://link.csdn.net/?target=https%3A%2F%2Fcristianpb.github.io%2Fblog%2Fimage-rotation-opencv,,China,(not set),1,1,0,3,1,20240404,17,CN
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,India,Ashta,1,1,0,3,1,20240404,18,IN
+/blog/gnuplot-electrode,desktop,https://www.google.com/,,Finland,Helsinki,1,1,0,3,1,20240404,20,FI
+/,desktop,,,United States,,1,1,0,0,1,20240405,1,US
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,South Korea,Seoul,1,1,0,3,1,20240405,2,
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,South Korea,Seoul,1,1,1768.648783,1,1,20240405,3,
+/,desktop,,,United States,,1,1,0,0,1,20240405,5,US
+/about,desktop,,,United States,,1,1,0,3,1,20240405,5,US
+/blog/mopidy-muse,desktop,https://github.com/cristianpb/muse?tab=readme-ov-file,,United States,Lake Ronkonkoma,1,1,212.929728,0,0,20240405,5,US
+/blog/grafana-dashboard,desktop,,,Germany,Munich,1,1,0,0,1,20240405,10,DE
+/blog/motion-monitor-opencv,desktop,https://duckduckgo.com/,,United Kingdom,,1,1,0,0,1,20240405,11,GB
+/blog/traefik-goaccess,mobile,https://duckduckgo.com/,,Japan,,1,1,0,0,1,20240405,13,JP
+/blog/image-rotation-opencv,desktop,,,Russia,Nizhny Novgorod,1,1,0,0,1,20240405,14,RU
+/blog/raspberry-video-stream,desktop,https://cristianpb.github.io/blog/ssd-yolo,,Russia,Moscow,1,1,0,0,0,20240405,15,RU
+/blog/ssd-yolo,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,3,0,20240405,15,RU
