@@ -1,21 +1,6 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,China,(not set),4,4,0,24,1,20240329,16,CN
-//0.0.0.1/,desktop,,,China,(not set),2,2,0,6,1,20240329,16,CN
 /,desktop,,,China,(not set),2,2,0,6,1,20240330,1,CN
 /,desktop,https://bing.com/,,United States,Coffeyville,2,2,0,6,1,20240401,16,US
-/blog/mopidy-muse,desktop,https://mopidy.com/,,Vietnam,Da Nang,1,1,647.018627,4,0,20240329,2,VN
-/blog/mopidy-muse,desktop,https://github.com/cristianpb/muse/?tab=readme-ov-file,,Vietnam,Da Nang,1,1,0,2,1,20240329,3,VN
-/blog/mopidy-muse,desktop,,,Vietnam,Da Nang,1,1,0,0,1,20240329,7,VN
-/blog/vimwiki-hugo,desktop,,,South Korea,Seoul,1,1,0,2,1,20240329,11,
-/blog/ssd-yolo,desktop,https://www.google.com/,,India,Bengaluru,1,1,0,0,1,20240329,13,IN
-/about,desktop,,,United States,(not set),1,1,0,0,1,20240329,15,US
-/about,desktop,,,United States,Coffeyville,1,1,0,3,1,20240329,15,US
-//0.0.0.1/,desktop,,,China,Qingdao,1,1,0,3,1,20240329,16,CN
-/1,desktop,,,China,(not set),1,1,0,15,1,20240329,16,CN
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Australia,Perth,1,1,0,0,1,20240329,17,AU
-/blog/vimwiki-hugo,desktop,https://duckduckgo.com/,,Singapore,Singapore,1,1,0,3,1,20240329,17,SG
-/,desktop,,,United States,(not set),1,1,0,0,1,20240329,20,US
-/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240329,22,US
 /,desktop,,,China,Chengdu,1,1,0,3,1,20240330,1,CN
 //0.0.0.1/,desktop,,,China,(not set),1,1,0,3,1,20240330,1,CN
 //0.0.0.1/,desktop,,,China,Suzhou,1,1,0,3,1,20240330,1,CN
@@ -110,15 +95,23 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/image-rotation-opencv,desktop,https://link.csdn.net/?target=https%3A%2F%2Fcristianpb.github.io%2Fblog%2Fimage-rotation-opencv,,China,(not set),1,1,0,3,1,20240404,17,CN
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,India,Ashta,1,1,0,3,1,20240404,18,IN
 /blog/gnuplot-electrode,desktop,https://www.google.com/,,Finland,Helsinki,1,1,0,3,1,20240404,20,FI
-/,desktop,,,United States,,1,1,0,0,1,20240405,1,US
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,South Korea,Seoul,1,1,0,3,1,20240405,2,
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,South Korea,Seoul,1,1,1768.648783,1,1,20240405,3,
-/,desktop,,,United States,,1,1,0,0,1,20240405,5,US
-/about,desktop,,,United States,,1,1,0,3,1,20240405,5,US
+/,desktop,,,United States,(not set),1,1,0,0,1,20240405,1,US
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,South Korea,Seoul,1,1,0,3,0,20240405,2,
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,South Korea,Seoul,1,1,1768.648783,1,0,20240405,3,
+/,desktop,,,United States,(not set),1,1,0,0,1,20240405,5,US
+/about,desktop,,,United States,(not set),1,1,0,3,1,20240405,5,US
 /blog/mopidy-muse,desktop,https://github.com/cristianpb/muse?tab=readme-ov-file,,United States,Lake Ronkonkoma,1,1,212.929728,0,0,20240405,5,US
+/blog/ssd-yolo,mobile,https://www.google.com/,,Germany,Gottingen,1,1,0,0,1,20240405,5,DE
 /blog/grafana-dashboard,desktop,,,Germany,Munich,1,1,0,0,1,20240405,10,DE
-/blog/motion-monitor-opencv,desktop,https://duckduckgo.com/,,United Kingdom,,1,1,0,0,1,20240405,11,GB
-/blog/traefik-goaccess,mobile,https://duckduckgo.com/,,Japan,,1,1,0,0,1,20240405,13,JP
+/blog/motion-monitor-opencv,desktop,https://duckduckgo.com/,,United Kingdom,(not set),1,1,0,0,1,20240405,11,GB
+/blog/monitoring-grafana,desktop,,,Sweden,Sodertalje,1,1,0,0,1,20240405,13,SE
+/blog/traefik-goaccess,mobile,https://duckduckgo.com/,,Japan,(not set),1,1,0,0,1,20240405,13,JP
+/blog/image-rotation-opencv,desktop,,,Russia,Kazan,1,1,0,0,1,20240405,14,RU
 /blog/image-rotation-opencv,desktop,,,Russia,Nizhny Novgorod,1,1,0,0,1,20240405,14,RU
-/blog/raspberry-video-stream,desktop,https://cristianpb.github.io/blog/ssd-yolo,,Russia,Moscow,1,1,0,0,0,20240405,15,RU
+/blog/raspberry-video-stream,desktop,https://cristianpb.github.io/blog/ssd-yolo,,Russia,Moscow,1,1,26.828244,0,0,20240405,15,RU
 /blog/ssd-yolo,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,3,0,20240405,15,RU
+/blog/grafana-dashboard,desktop,https://www.yandex.by/,,Belarus,Minsk,1,1,0,0,1,20240405,17,BY
+/blog/monitoring-grafana,desktop,https://www.google.com/,,United States,San Diego,1,1,0,0,1,20240405,18,US
+/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240405,19,US
+/blog/monitoring-grafana,desktop,https://www.google.com/,,United States,San Diego,1,1,0,0,1,20240405,19,US
+/blog/magic-wand,desktop,https://www.google.com/,,United States,,1,1,0,3,1,20240406,0,US
