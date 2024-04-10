@@ -1,21 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/marathon-mirabelle,desktop,https://www.bing.com/,,United States,Westbrook,1,1,0,0,1,20240402,0,US
-/blog/mopidy-muse,desktop,https://www.google.com/,,United States,Daleville,1,1,0,0,1,20240402,0,US
-/blog/ssd-yolo,desktop,https://www.google.com/,,South Korea,Seoul,1,1,0,0,1,20240402,0,
-/blog/vimwiki-hugo,desktop,https://discourse.gohugo.io/,,Netherlands,Ede,1,1,0,3,1,20240402,3,NL
-/,desktop,https://bing.com/,,United States,Coffeyville,1,1,0,9,1,20240402,4,US
-/blog/gnuplot-electrode,mobile,https://www.google.com/,,United States,Austin,1,1,0,0,1,20240402,5,US
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Sweden,Sodertalje,1,1,0,0,1,20240402,9,SE
-/blog/marathon-mirabelle,mobile,https://www.google.com/,,United States,Goodyear,1,1,0,3,1,20240402,11,US
-/about,desktop,,,United States,Wynnewood,1,1,18.978569,1,0,20240402,15,US
-/blog,desktop,,,United States,Wynnewood,1,1,48.566196,3,0,20240402,15,US
-/blog/tags,desktop,,,United States,Wynnewood,1,1,3.996031,0,0,20240402,15,US
-/blog/vimwiki-hugo,desktop,,,United States,Wynnewood,1,1,34.048335,0,0,20240402,15,US
-/blog/vimwiki-hugo,desktop,https://discourse.gohugo.io/,,United States,Wynnewood,1,1,0,24,0,20240402,15,US
-/blog/image-rotation-opencv,desktop,,,Russia,Moscow,1,1,0,2,1,20240402,16,RU
-/blog/ssd-yolo,desktop,https://www.bing.com/,,India,Rajnandgaon,1,1,0,3,1,20240402,16,IN
-/blog/music-voice-cotrol,desktop,https://www.google.com/,,France,Poitiers,1,1,0,3,1,20240402,21,FR
-/,desktop,https://bing.com/,,United States,Coffeyville,1,1,0,6,1,20240402,23,US
+/,desktop,,,United States,,3,3,0,3,1,20240410,2,US
 /,desktop,,,United States,(not set),1,1,0,0,1,20240403,2,US
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Australia,Melbourne,1,1,0,0,1,20240403,3,AU
 /blog/ssd-yolo,desktop,https://www.google.com/,,Vietnam,Di An,1,1,0,0,1,20240403,3,VN
@@ -94,12 +78,30 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/vim-plugins,desktop,https://www.google.com/,,India,Bengaluru,1,1,0,3,1,20240408,17,IN
 /about,desktop,https://www.google.com/,,France,Paris,1,1,0,3,1,20240408,18,FR
 /blog/vimwiki-hugo,desktop,,,United States,Morrisville,1,1,0,0,1,20240408,19,US
-/,desktop,https://cristianpb.github.io/blog/gnuplot-electrode,,United States,San Francisco,1,1,60.015011,0,1,20240409,3,US
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,United States,San Francisco,1,1,0,0,1,20240409,3,US
+/,desktop,https://cristianpb.github.io/blog/gnuplot-electrode,,United States,San Francisco,1,1,60.015011,0,0,20240409,3,US
+/blog/gnuplot-electrode,desktop,https://www.google.com/,,United States,San Francisco,1,1,0,0,0,20240409,3,US
+/blog/ssd-yolo,desktop,https://www.bing.com/,,India,Mumbai,1,1,0,0,1,20240409,8,IN
 /blog/ssd-yolo,mobile,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240409,8,RU
 /blog/image-rotation-opencv,desktop,,,Sweden,Enkoping,1,1,0,3,1,20240409,9,SE
 /,desktop,,,France,Amiens,1,1,0,0,1,20240409,10,FR
-/blog/ssd-yolo,desktop,https://www.bing.com/,,China,,1,1,0,3,1,20240409,10,CN
+/blog/ssd-yolo,desktop,https://www.bing.com/,,China,(not set),1,1,0,3,1,20240409,10,CN
 /blog/grafana-dashboard,desktop,https://www.google.com/,,Germany,Ansbach,1,1,0,0,1,20240409,12,DE
+/blog/image-rotation-opencv,desktop,,,Iran,(not set),1,1,0,2,1,20240409,13,
 /blog/vimwiki-hugo,desktop,https://www.google.com/,,Germany,Cologne,1,1,0,0,1,20240409,14,DE
+/blog/withings-data,desktop,https://www.google.com/,,Romania,Otopeni,1,1,0,3,1,20240409,14,RO
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Czechia,Liberec,1,1,0,3,1,20240409,15,
+/blog/music-voice-cotrol,desktop,https://www.google.com/,,United States,Mentor,1,1,0,0,1,20240409,18,US
+/blog/document-detection,mobile,https://www.google.com/,,India,Chennai,1,1,0,3,1,20240409,21,IN
+/about,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,0,1,20240409,22,GB
+/blog/ssd-yolo,desktop,https://www.google.com/,,Netherlands,Zaandam,1,1,0,3,1,20240409,22,NL
+/blog/fluentbit-elasticsearch-kibana,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240410,0,RU
+/,desktop,https://bing.com/,,United States,,1,1,0,6,1,20240410,2,US
+/,desktop,https://bing.com/,,United States,Coffeyville,1,1,0,3,1,20240410,2,US
+/about,desktop,,,United States,,1,1,0,6,1,20240410,2,US
+/about,desktop,,,United States,Coffeyville,1,1,0,3,1,20240410,2,US
+/blog/monitoring-grafana,desktop,https://www.google.com/,,United States,Parker,1,1,0,0,1,20240410,2,US
+/blog/vimwiki-hugo,mobile,https://www.google.com/,,Argentina,Buenos Aires,1,1,0,0,1,20240410,2,AR
+/blog/document-detection,desktop,https://yandex.kz/,,Kazakhstan,Almaty,1,1,0,3,1,20240410,8,KZ
+/,desktop,,,France,Vallauris,1,1,0,0,1,20240410,9,FR
+/blog/playlists-dashboard,desktop,,,France,Vallauris,1,1,0,1,1,20240410,9,FR
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Germany,Frankfurt,1,1,0,6,1,20240410,13,DE
