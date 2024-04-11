@@ -1,23 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,United States,,3,3,0,3,1,20240410,2,US
-/,desktop,,,United States,(not set),1,1,0,0,1,20240403,2,US
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Australia,Melbourne,1,1,0,0,1,20240403,3,AU
-/blog/ssd-yolo,desktop,https://www.google.com/,,Vietnam,Di An,1,1,0,0,1,20240403,3,VN
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Indonesia,Sragen,1,1,0,3,1,20240403,4,ID
-/blog/ssd-yolo,desktop,https://www.bing.com/,,India,Mumbai,1,1,155.732256,3,0,20240403,6,IN
-/blog/ssd-yolo,desktop,https://www.bing.com/,,Japan,(not set),1,1,0,0,1,20240403,7,JP
-/blog/monitoring-grafana,desktop,,,Sweden,Sodertalje,1,1,0,0,1,20240403,13,SE
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Philippines,Binan,1,1,0,6,0,20240403,14,PH
-/blog/monitoring-grafana,desktop,https://cristianpb.github.io/blog/grafana-dashboard,,Philippines,Binan,1,1,545.032873,3,0,20240403,14,PH
-/blog/music-voice-cotrol,desktop,https://www.google.com/,,South Africa,Cape Town,1,1,0,3,1,20240403,16,ZA
-/blog/ssd-yolo,desktop,https://r.search.yahoo.com/_ylt=Awr.oClnbQ1mE4QJO30k24lQ;_ylu=Y29sbwNpcjIEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1712184807/RO=10/RU=https%3a%2f%2fcristianpb.github.io%2fblog%2fssd-yolo/RK=2/RS=_3Rr.IZTLuPN69RbbsLv8hT6cF4-,,Morocco,Rabat,1,1,0,12,1,20240403,16,MA
-/blog/vimwiki-hugo,desktop,https://www.google.com/,,Taiwan,(not set),1,1,0,2,1,20240403,16,TW
-/blog/categories,desktop,https://cristianpb.github.io/blog/gnuplot-electrode,,India,Kalyani,1,1,38.988278,0,0,20240403,19,IN
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,India,Kalyani,1,1,0,3,0,20240403,19,IN
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Mexico,Monterrey,1,1,0,3,1,20240403,19,MX
-/blog/vimwiki-hugo,mobile,https://duckduckgo.com/,,Switzerland,Geneva,1,1,0,0,1,20240403,19,CH
-/blog/traefik-goaccess,desktop,https://www.reddit.com/,,Canada,Toronto,1,1,0,3,1,20240403,22,CA
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,India,Indore,1,1,0,0,1,20240403,23,IN
+/,desktop,,,United States,(not set),3,3,0,3,1,20240410,2,US
 /,desktop,https://bing.com/,,United States,Coffeyville,1,1,0,0,1,20240404,2,US
 /about,desktop,,,United States,Coffeyville,1,1,0,6,1,20240404,2,US
 /blog/analytics-google,desktop,https://cristianpb.github.io/blog/dashboard-dc-js,,Australia,Melbourne,1,1,15.980087,0,0,20240404,5,AU
@@ -95,13 +77,24 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /about,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,0,1,20240409,22,GB
 /blog/ssd-yolo,desktop,https://www.google.com/,,Netherlands,Zaandam,1,1,0,3,1,20240409,22,NL
 /blog/fluentbit-elasticsearch-kibana,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240410,0,RU
-/,desktop,https://bing.com/,,United States,,1,1,0,6,1,20240410,2,US
+/,desktop,https://bing.com/,,United States,(not set),1,1,0,6,1,20240410,2,US
 /,desktop,https://bing.com/,,United States,Coffeyville,1,1,0,3,1,20240410,2,US
-/about,desktop,,,United States,,1,1,0,6,1,20240410,2,US
+/about,desktop,,,United States,(not set),1,1,0,6,1,20240410,2,US
 /about,desktop,,,United States,Coffeyville,1,1,0,3,1,20240410,2,US
 /blog/monitoring-grafana,desktop,https://www.google.com/,,United States,Parker,1,1,0,0,1,20240410,2,US
 /blog/vimwiki-hugo,mobile,https://www.google.com/,,Argentina,Buenos Aires,1,1,0,0,1,20240410,2,AR
 /blog/document-detection,desktop,https://yandex.kz/,,Kazakhstan,Almaty,1,1,0,3,1,20240410,8,KZ
-/,desktop,,,France,Vallauris,1,1,0,0,1,20240410,9,FR
-/blog/playlists-dashboard,desktop,,,France,Vallauris,1,1,0,1,1,20240410,9,FR
+/,desktop,,,France,Vallauris,1,1,0,0,0,20240410,9,FR
+/blog/playlists-dashboard,desktop,,,France,Vallauris,1,1,319.993446,1,0,20240410,9,FR
+/blog/bulma-amp,desktop,https://www.google.com/,,Germany,Cologne,1,1,0,0,1,20240410,11,DE
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Germany,Frankfurt,1,1,0,6,1,20240410,13,DE
+/blog/document-detection,desktop,https://yandex.ru/,,Russia,Saint Petersburg,1,1,0,3,1,20240410,16,RU
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Switzerland,Lancy,1,1,0,0,1,20240410,17,CH
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Canada,Ottawa,1,1,0,0,1,20240410,17,CA
+/blog/ssd-yolo,desktop,https://duckduckgo.com/,,Malaysia,Petaling Jaya,1,1,0,0,1,20240410,19,MY
+/blog/analytics-google,desktop,https://www.google.com/,,United States,Atlanta,1,1,0,3,1,20240410,20,US
+/blog/vimwiki-hugo,desktop,https://www.google.com/,,Taiwan,Taoyuan District,1,1,0,6,1,20240411,2,TW
+/blog/vimwiki-hugo,desktop,https://www.google.com/,,Taiwan,Zhongli District,1,1,367.361716,1,1,20240411,2,TW
+/blog/monitoring-grafana,desktop,https://yandex.ru/,,Ukraine,Yuvileine,1,1,0,3,1,20240411,5,UA
+/blog/ssd-yolo,desktop,https://duckduckgo.com/,,Malaysia,Petaling Jaya,1,1,0,0,1,20240411,7,MY
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Taiwan,,1,1,0,0,1,20240411,10,TW
