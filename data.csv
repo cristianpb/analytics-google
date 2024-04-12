@@ -1,20 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,United States,(not set),3,3,0,3,1,20240410,2,US
-/,desktop,https://bing.com/,,United States,Coffeyville,1,1,0,0,1,20240404,2,US
-/about,desktop,,,United States,Coffeyville,1,1,0,6,1,20240404,2,US
-/blog/analytics-google,desktop,https://cristianpb.github.io/blog/dashboard-dc-js,,Australia,Melbourne,1,1,15.980087,0,0,20240404,5,AU
-/blog/dashboard-dc-js,desktop,https://www.google.com/,,Australia,Melbourne,1,1,0,0,0,20240404,5,AU
-/blog/image-rotation-opencv,desktop,https://cristianpb.github.io/blog/tags,,Vietnam,Bac Giang,1,1,6.783325,0,0,20240404,8,VN
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,South Korea,Gyeongsan-si,1,1,0,3,1,20240404,8,
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Vietnam,Bac Giang,1,1,0,3,0,20240404,8,VN
-/blog/tags,desktop,https://cristianpb.github.io/blog/image-rotation-opencv,,Vietnam,Bac Giang,1,1,50.731,0,0,20240404,8,VN
-/,desktop,,,United States,Coffeyville,1,1,0,3,1,20240404,12,US
-/blog/image-rotation-opencv,desktop,https://blog.paperspace.com/data-augmentation-for-object-detection-rotation-and-shearing/,,Russia,Nizhny Novgorod,1,1,0,3,1,20240404,15,RU
-/blog/ssd-yolo,desktop,https://www.google.com/,,India,Chennai,1,1,0,0,1,20240404,15,IN
-/blog/traefik-goaccess,desktop,https://www.reddit.com/,,Romania,(not set),1,1,0,3,1,20240404,15,RO
-/blog/image-rotation-opencv,desktop,https://link.csdn.net/?target=https%3A%2F%2Fcristianpb.github.io%2Fblog%2Fimage-rotation-opencv,,China,(not set),1,1,0,3,1,20240404,17,CN
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,India,Ashta,1,1,0,3,1,20240404,18,IN
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,Finland,Helsinki,1,1,0,3,1,20240404,20,FI
 /,desktop,,,United States,(not set),1,1,0,0,1,20240405,1,US
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,South Korea,Seoul,1,1,0,3,0,20240405,2,
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,South Korea,Seoul,1,1,1768.648783,1,0,20240405,3,
@@ -93,8 +78,26 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Canada,Ottawa,1,1,0,0,1,20240410,17,CA
 /blog/ssd-yolo,desktop,https://duckduckgo.com/,,Malaysia,Petaling Jaya,1,1,0,0,1,20240410,19,MY
 /blog/analytics-google,desktop,https://www.google.com/,,United States,Atlanta,1,1,0,3,1,20240410,20,US
-/blog/vimwiki-hugo,desktop,https://www.google.com/,,Taiwan,Taoyuan District,1,1,0,6,1,20240411,2,TW
-/blog/vimwiki-hugo,desktop,https://www.google.com/,,Taiwan,Zhongli District,1,1,367.361716,1,1,20240411,2,TW
+/blog/vimwiki-hugo,desktop,https://www.google.com/,,Taiwan,Taoyuan District,1,1,0,6,0,20240411,2,TW
+/blog/vimwiki-hugo,desktop,https://www.google.com/,,Taiwan,Zhongli District,1,1,367.361716,1,0,20240411,2,TW
 /blog/monitoring-grafana,desktop,https://yandex.ru/,,Ukraine,Yuvileine,1,1,0,3,1,20240411,5,UA
 /blog/ssd-yolo,desktop,https://duckduckgo.com/,,Malaysia,Petaling Jaya,1,1,0,0,1,20240411,7,MY
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Taiwan,,1,1,0,0,1,20240411,10,TW
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Taiwan,(not set),1,1,0,0,1,20240411,10,TW
+/blog/image-rotation-opencv,desktop,,,Germany,Hamburg,1,1,0,3,1,20240411,11,DE
+/,desktop,,,United States,(not set),1,1,0,0,1,20240411,12,US
+/,desktop,https://bing.com/,,United States,Abbeville,1,1,0,6,1,20240411,12,US
+/blog/velib-folium,tablet,https://www.google.com/,,Singapore,Singapore,1,1,0,3,1,20240411,12,SG
+/blog/analytics-google,desktop,https://www.google.com/,,Croatia,Cakovec,1,1,0,0,1,20240411,14,HR
+/blog/image-rotation-opencv,tablet,https://www.google.com/,,United Kingdom,London,1,1,0,6,1,20240411,16,GB
+/blog/motion-monitor-opencv,desktop,https://search.yahoo.com/,,United States,Indianapolis,1,1,0,0,1,20240411,19,US
+/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240411,23,US
+/about,desktop,,,United States,(not set),1,1,0,0,1,20240411,23,US
+/about,desktop,,,United States,Abbeville,1,1,0,3,1,20240411,23,US
+/blog/mopidy-muse,desktop,https://www.bing.com/,,United States,San Diego,1,1,0,3,1,20240411,23,US
+/blog/ssd-yolo,desktop,https://www.bing.com/,,Vietnam,Hanoi,1,1,0,3,1,20240412,5,VN
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Belarus,Minsk,1,1,0,0,1,20240412,8,BY
+/blog/raspberry-video-stream,tablet,https://cristianpb.github.io/blog/ssd-yolo,,Vietnam,Hanoi,1,1,0,0,1,20240412,8,VN
+/blog/monitoring-grafana,desktop,https://www.google.com/,,South Korea,Seoul,1,1,0,0,1,20240412,9,
+/blog/bulma-amp,desktop,https://www.google.com/,,China,Shenzhen,1,1,0,0,1,20240412,10,CN
+/blog/image-rotation-opencv,desktop,,,Russia,Nizhny Novgorod,1,1,0,0,1,20240412,12,RU
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Denmark,Risskov,1,1,0,3,1,20240412,15,DK
