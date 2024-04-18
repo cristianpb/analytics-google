@@ -1,24 +1,6 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,United States,(not set),3,3,0,3,1,20240410,2,US
 /,desktop,,,China,(not set),3,3,0,27,1,20240413,6,CN
 //0.0.0.1/,desktop,,,China,(not set),3,3,0,15,1,20240413,6,CN
-/blog/fluentbit-elasticsearch-kibana,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240410,0,RU
-/,desktop,https://bing.com/,,United States,(not set),1,1,0,6,1,20240410,2,US
-/,desktop,https://bing.com/,,United States,Coffeyville,1,1,0,3,1,20240410,2,US
-/about,desktop,,,United States,(not set),1,1,0,6,1,20240410,2,US
-/about,desktop,,,United States,Coffeyville,1,1,0,3,1,20240410,2,US
-/blog/monitoring-grafana,desktop,https://www.google.com/,,United States,Parker,1,1,0,0,1,20240410,2,US
-/blog/vimwiki-hugo,mobile,https://www.google.com/,,Argentina,Buenos Aires,1,1,0,0,1,20240410,2,AR
-/blog/document-detection,desktop,https://yandex.kz/,,Kazakhstan,Almaty,1,1,0,3,1,20240410,8,KZ
-/,desktop,,,France,Vallauris,1,1,0,0,0,20240410,9,FR
-/blog/playlists-dashboard,desktop,,,France,Vallauris,1,1,319.993446,1,0,20240410,9,FR
-/blog/bulma-amp,desktop,https://www.google.com/,,Germany,Cologne,1,1,0,0,1,20240410,11,DE
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Germany,Frankfurt,1,1,0,6,1,20240410,13,DE
-/blog/document-detection,desktop,https://yandex.ru/,,Russia,Saint Petersburg,1,1,0,3,1,20240410,16,RU
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Switzerland,Lancy,1,1,0,0,1,20240410,17,CH
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Canada,Ottawa,1,1,0,0,1,20240410,17,CA
-/blog/ssd-yolo,desktop,https://duckduckgo.com/,,Malaysia,Petaling Jaya,1,1,0,0,1,20240410,19,MY
-/blog/analytics-google,desktop,https://www.google.com/,,United States,Atlanta,1,1,0,3,1,20240410,20,US
 /blog/vimwiki-hugo,desktop,https://www.google.com/,,Taiwan,Taoyuan District,1,1,0,6,0,20240411,2,TW
 /blog/vimwiki-hugo,desktop,https://www.google.com/,,Taiwan,Zhongli District,1,1,367.361716,1,0,20240411,2,TW
 /blog/monitoring-grafana,desktop,https://yandex.ru/,,Ukraine,Yuvileine,1,1,0,3,1,20240411,5,UA
@@ -100,8 +82,28 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/document-detection,desktop,https://www.google.com/,,Netherlands,(not set),1,1,0,18,1,20240416,17,NL
 /blog/traefik-goaccess,desktop,https://www.google.com/,,Brazil,Rio de Janeiro,1,1,0,3,1,20240417,2,BR
 /blog/analytics-google,desktop,https://www.google.com/,,United States,State College,1,1,0,0,1,20240417,5,US
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Spain,,1,1,0,0,1,20240417,9,ES
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Spain,(not set),1,1,0,0,1,20240417,9,ES
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Germany,Hamburg,1,1,0,3,1,20240417,10,DE
-/blog/ssd-yolo,desktop,,,Tunisia,,1,1,1732.961161,0,1,20240417,11,TN
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Sweden,Stockholm,1,1,0,1,0,20240417,14,SE
+/blog/ssd-yolo,desktop,,,Tunisia,(not set),1,1,1684.893388,0,0,20240417,11,TN
+/blog/motion-monitor-opencv,mobile,https://cristianpb-github-io.cdn.ampproject.org/,,India,Tumakuru,1,1,0,0,1,20240417,12,IN
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Sweden,Stockholm,1,1,875.811416,1,0,20240417,14,SE
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,Bielefeld,1,1,0,3,1,20240417,14,DE
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Netherlands,Wageningen,1,1,0,0,1,20240417,14,NL
+/blog/image-rotation-opencv,mobile,https://www.google.com/,,Bangladesh,(not set),1,1,0,3,1,20240417,15,BD
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Türkiye,Istanbul,1,1,263.002229,0,0,20240417,16,
+/blog/monitoring-grafana,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,0,1,20240417,17,GB
+/blog/santorini-experience,mobile,https://www.google.com/,,Hungary,Budapest,1,1,0,3,0,20240417,20,HU
+/blog/tags,mobile,https://cristianpb.github.io/blog/santorini-experience,,Hungary,Budapest,1,1,439.798892,0,0,20240417,20,HU
+/blog/traefik-goaccess,desktop,https://www.google.com/,,Taiwan,(not set),1,1,0,3,1,20240417,20,TW
+/blog/ssd-yolo,desktop,https://www.google.com/,,United Kingdom,Shepshed,1,1,0,6,1,20240417,21,GB
+/,desktop,https://bing.com/,,United States,Abbeville,1,1,0,9,1,20240417,23,US
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Netherlands,Arnhem,1,1,0,0,1,20240417,23,NL
+/,desktop,,,United States,,1,1,0,0,1,20240418,0,US
+/blog/vim-plugins,desktop,https://www.google.com/,,Canada,Markham,1,1,0,3,1,20240418,3,CA
+/,mobile,,,Belgium,Brussels,1,1,0,0,1,20240418,4,BE
+/,desktop,https://bing.com/,,United States,Abbeville,1,1,0,3,1,20240418,9,US
+/about,desktop,,,United States,,1,1,0,0,1,20240418,9,US
+/blog/grafana-dashboard,desktop,https://www.google.com/,,South Korea,Seoul,1,1,0,3,1,20240418,9,
+/blog/image-rotation-opencv,desktop,https://duckduckgo.com/,,Germany,Cham,1,1,0,0,1,20240418,9,DE
+/blog/gnuplot-electrode,desktop,https://www.google.com/,,Germany,Bayreuth,1,1,0,0,1,20240418,10,DE
+/blog/ssd-yolo,desktop,https://mail.google.com/,,Tunisia,Tunis,1,1,0,2,1,20240418,14,TN
