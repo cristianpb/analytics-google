@@ -1,15 +1,7 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
+/,desktop,,,United States,(not set),3,3,0,6,1,20240427,17,US
 /,desktop,,,China,(not set),2,2,0,30,1,20240421,20,CN
 /blog/tags,desktop,,,United States,San Antonio,2,2,0,0,1,20240424,18,US
-/blog/traefik-goaccess,desktop,https://www.reddit.com/,,Ukraine,Kyiv,1,1,0,3,1,20240420,0,UA
-/,desktop,,,China,(not set),1,1,0,15,1,20240420,2,CN
-/blog/music-voice-cotrol,mobile,https://www.google.com/,,United States,Philadelphia,1,1,0,15,1,20240420,3,US
-/blog/vimwiki-hugo,mobile,https://www.google.com/,,United Kingdom,London,1,1,0,0,1,20240420,7,GB
-/blog/image-rotation-opencv,desktop,https://yandex.ru/,,Russia,Yekaterinburg,1,1,0,3,1,20240420,9,RU
-/blog/vimwiki-hugo,desktop,https://www.google.com/,,Spain,Palma,1,1,0,6,1,20240420,10,ES
-/,mobile,,,Belgium,Brussels,1,1,0,2,1,20240420,11,BE
-/blog/image-rotation-opencv,desktop,,,United Kingdom,Kingston upon Hull,1,1,0,3,1,20240420,14,GB
-/blog/image-rotation-opencv,desktop,,,Russia,Moscow,1,1,0,0,1,20240420,18,RU
 /,desktop,,,United States,(not set),1,1,0,0,1,20240421,11,US
 /,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240421,11,US
 /blog/image-rotation-opencv,mobile,https://www.google.com/,,Thailand,Bangkok,1,1,0,4,1,20240421,16,TH
@@ -84,5 +76,19 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/raspberry-video-stream,desktop,https://www.google.com/,,Canada,Toronto,1,1,0,3,1,20240427,5,CA
 /blog/traefik-goaccess,desktop,,,Brazil,17057,1,1,0,2,1,20240427,7,BR
 /blog/traefik-goaccess,desktop,,,Brazil,17057,1,1,0,2,1,20240427,8,BR
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Iran,,1,1,0,3,1,20240427,13,
+/blog/ssd-yolo,desktop,https://www.google.com/,,India,Puducherry,1,1,0,3,1,20240427,9,IN
+/blog/velib-folium,desktop,http://localhost:8888/,,France,Toulouse,1,1,0,6,1,20240427,10,FR
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Iran,(not set),1,1,0,3,1,20240427,13,
 /blog/ssd-yolo,desktop,https://www.google.com/,,India,Thiruporur,1,1,0,0,1,20240427,15,IN
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Vietnam,Ho Chi Minh City,1,1,0,3,1,20240427,16,VN
+/blog/monitoring-grafana,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,3,1,20240427,17,GB
+/blog/motion-monitor-opencv,mobile,https://www.google.com/,,Germany,Mittenwald,1,1,0,6,1,20240427,17,DE
+/,desktop,,,China,(not set),1,1,0,0,1,20240427,23,CN
+/,mobile,,,China,(not set),1,1,0,0,1,20240427,23,CN
+/blog/ssd-yolo,desktop,,,Tunisia,,1,1,15.472028,0,0,20240428,10,TN
+/blog/categories,desktop,https://cristianpb.github.io/blog/motion-monitor-opencv,,Tunisia,Tunis,1,1,803.482401,0,0,20240428,16,TN
+/blog/motion-monitor-opencv,desktop,https://cristianpb.github.io/blog/ssd-yolo,,Tunisia,Tunis,1,1,0,2,0,20240428,16,TN
+/blog/raspberry-video-stream,desktop,https://cristianpb.github.io/blog/tags,,Tunisia,Tunis,1,1,98.903505,1,0,20240428,16,TN
+/blog/ssd-yolo,desktop,,,Tunisia,Tunis,1,1,0,3,0,20240428,16,TN
+/blog/ssd-yolo,mobile,,,Tunisia,Tunis,1,1,0,6,1,20240428,16,TN
+/blog/tags,desktop,https://cristianpb.github.io/blog/motion-monitor-opencv,,Tunisia,Tunis,1,1,67.180964,2,0,20240428,16,TN
