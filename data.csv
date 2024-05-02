@@ -1,24 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,United States,(not set),3,3,0,6,1,20240427,17,US
-/blog/tags,desktop,,,United States,San Antonio,2,2,0,0,1,20240424,18,US
-/blog/vim-plugins,mobile,https://www.google.com/,,United States,Howard City,1,1,0,0,1,20240424,0,US
-/blog/vim-plugins,mobile,https://www.google.com/,,United States,New York,1,1,0,0,1,20240424,0,US
-/,desktop,,,United States,(not set),1,1,0,6,1,20240424,1,US
-/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240424,1,US
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,United States,Cheney,1,1,0,0,1,20240424,1,US
-/blog/document-detection,desktop,,,Australia,Sydney,1,1,0,0,1,20240424,2,AU
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United States,Mendon,1,1,0,0,1,20240424,6,US
-/blog/ssd-yolo,desktop,https://www.google.com/,,Germany,Bad Oldesloe,1,1,0,3,1,20240424,8,DE
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,India,Kolkata,1,1,0,3,1,20240424,10,IN
-/blog/motion-monitor-opencv,mobile,,,Türkiye,Izmir,1,1,0,2,1,20240424,10,
-/blog/fluentbit-elasticsearch-kibana,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240424,11,RU
-/blog/vimwiki-hugo,desktop,https://duckduckgo.com/,,Germany,Bochum,1,1,0,3,1,20240424,11,DE
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,Munich,1,1,0,0,1,20240424,16,DE
-/blog/motion-monitor-opencv,mobile,,,Türkiye,(not set),1,1,0,0,1,20240424,16,
-/blog/image-rotation-opencv,desktop,,,United States,San Antonio,1,1,0,6,1,20240424,18,US
-/blog/image-rotation-opencv,desktop,,,China,(not set),1,1,0,3,1,20240424,19,CN
-/blog/motion-monitor-opencv,mobile,,,Türkiye,Istanbul,1,1,4.869827,0,0,20240424,22,
-/blog/image-processing-using-serverless-architecture,mobile,https://www.google.com/,,Mexico,Zapopan,1,1,0,0,1,20240424,23,MX
 /blog/ssd-yolo,desktop,https://ya.ru/,,Russia,Miass,1,1,0,3,1,20240425,4,RU
 /blog/document-detection,desktop,https://www.google.com/,,Spain,Malaga,1,1,0,0,1,20240425,9,ES
 /blog/monitoring-grafana,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240425,9,RU
@@ -91,5 +72,25 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/marathon-mirabelle,mobile,,,United States,Georgetown,1,1,0,0,1,20240501,1,US
 /,desktop,,,United States,Ashburn,1,1,0,0,1,20240501,2,US
 /blog/vimwiki-hugo,mobile,https://www.google.com/,,South Korea,Seoul,1,1,0,0,1,20240501,4,
+/blog/image-processing-using-serverless-architecture,desktop,https://cristianpb.github.io/blog/serverless-api-lambda,,India,Bengaluru,1,1,684.164585,1,0,20240501,8,IN
+/blog/serverless-api-lambda,desktop,https://www.google.com/,,India,Bengaluru,1,1,0,3,0,20240501,8,IN
 /blog/motion-monitor-opencv,desktop,https://edgeservices.bing.com/,,Philippines,Davao City,1,1,0,0,1,20240501,13,PH
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Netherlands,Amsterdam,1,1,0,0,1,20240501,13,NL
+/blog/ssd-yolo,desktop,https://yandex.ru/,,France,(not set),1,1,0,6,1,20240501,13,FR
 /blog/monitoring-grafana,desktop,https://www.google.com/,,India,Hyderabad,1,1,0,3,1,20240501,16,IN
+/blog/monitoring-grafana,desktop,https://www.yandex.ru/,,Uzbekistan,Tashkent,1,1,0,0,1,20240501,17,UZ
+/blog/vimwiki-hugo,desktop,https://cn.bing.com/,,China,(not set),1,1,0,3,1,20240501,18,CN
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Egypt,Asyut,1,1,0,6,1,20240501,20,EG
+/blog/motion-monitor-opencv,desktop,,,Poland,Warsaw,1,1,0,2,1,20240501,21,PL
+/,desktop,,,United States,(not set),1,1,0,3,1,20240501,22,US
+/blog/vimwiki-hugo,mobile,https://www.google.com/,,New Zealand,Auckland,1,1,0,3,1,20240501,23,NZ
+/blog/motion-monitor-opencv,mobile,https://cristianpb.github.io/blog/ssd-yolo,,Russia,Moscow,1,1,0,0,1,20240502,6,RU
+/blog/ssd-yolo,mobile,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240502,6,RU
+/blog/vimwiki-hugo,desktop,https://cn.bing.com/,,China,,1,1,0,2,1,20240502,6,CN
+/,mobile,,,United States,Ashburn,1,1,0,0,1,20240502,8,US
+/blog/grafana-dashboard,desktop,https://ya.ru/,,Russia,Oryol,1,1,0,3,1,20240502,9,RU
+/blog/ssd-yolo,desktop,https://www.google.com/,,India,Pune,1,1,0,0,1,20240502,10,IN
+/blog/grafana-dashboard,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240502,13,RU
+/blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Dusseldorf,1,1,0,3,1,20240502,13,DE
+/blog/bulma-amp,desktop,https://www.google.com/,,France,Paris,1,1,0,0,1,20240502,14,FR
+/blog/grafana-dashboard,desktop,https://www.reddit.com/,,France,,1,1,0,0,0,20240502,15,FR
