@@ -1,20 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,United States,(not set),3,3,0,6,1,20240427,17,US
-/blog/ssd-yolo,desktop,https://ya.ru/,,Russia,Miass,1,1,0,3,1,20240425,4,RU
-/blog/document-detection,desktop,https://www.google.com/,,Spain,Malaga,1,1,0,0,1,20240425,9,ES
-/blog/monitoring-grafana,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240425,9,RU
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Austria,(not set),1,1,0,3,1,20240425,9,AT
-/blog/image-rotation-opencv,desktop,https://www.google.co.kr/,,South Korea,Suwon-si,1,1,0,3,1,20240425,10,
-/blog/motion-monitor-opencv,desktop,https://duckduckgo.com/,,Germany,Pforzheim,1,1,0,0,1,20240425,10,DE
-/,desktop,,,United States,(not set),1,1,0,0,1,20240425,11,US
-/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240425,11,US
-/blog/monitoring-grafana,desktop,https://www.google.com/,,France,Montpellier,1,1,0,0,1,20240425,11,FR
-/blog/motion-monitor-opencv,mobile,,,Türkiye,Istanbul,1,1,0,0,1,20240425,14,
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Argentina,Villa Martelli,1,1,0,3,1,20240425,15,AR
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,Czechia,Kralupy nad Vltavou,1,1,192.467827,0,0,20240425,16,
-/blog/ssd-yolo,desktop,https://www.bing.com/,,Belgium,Herve,1,1,0,0,1,20240425,16,BE
-/blog/ssd-yolo,desktop,https://www.google.com/,,United States,Chicago,1,1,0,0,1,20240425,19,US
-/blog/traefik-goaccess,mobile,,,Italy,Turin,1,1,0,0,1,20240425,21,IT
 /blog/mopidy-muse,mobile,https://mopidy.com/,,Germany,Moers,1,1,0,0,1,20240426,0,DE
 /blog/vimwiki-hugo,desktop,,,Canada,Gravenhurst,1,1,0,3,1,20240426,4,CA
 /blog/magic-wand,desktop,https://www.google.com/,,France,Lyon,1,1,0,0,1,20240426,10,FR
@@ -84,13 +69,19 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/motion-monitor-opencv,desktop,,,Poland,Warsaw,1,1,0,2,1,20240501,21,PL
 /,desktop,,,United States,(not set),1,1,0,3,1,20240501,22,US
 /blog/vimwiki-hugo,mobile,https://www.google.com/,,New Zealand,Auckland,1,1,0,3,1,20240501,23,NZ
-/blog/motion-monitor-opencv,mobile,https://cristianpb.github.io/blog/ssd-yolo,,Russia,Moscow,1,1,0,0,1,20240502,6,RU
-/blog/ssd-yolo,mobile,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240502,6,RU
-/blog/vimwiki-hugo,desktop,https://cn.bing.com/,,China,,1,1,0,2,1,20240502,6,CN
+/blog/motion-monitor-opencv,mobile,https://cristianpb.github.io/blog/ssd-yolo,,Russia,Moscow,1,1,26.755805,0,0,20240502,6,RU
+/blog/ssd-yolo,mobile,https://yandex.ru/,,Russia,Moscow,1,1,0,0,0,20240502,6,RU
+/blog/vimwiki-hugo,desktop,https://cn.bing.com/,,China,(not set),1,1,0,2,1,20240502,6,CN
+/,desktop,,,United States,Coffeyville,1,1,0,3,1,20240502,8,US
 /,mobile,,,United States,Ashburn,1,1,0,0,1,20240502,8,US
 /blog/grafana-dashboard,desktop,https://ya.ru/,,Russia,Oryol,1,1,0,3,1,20240502,9,RU
 /blog/ssd-yolo,desktop,https://www.google.com/,,India,Pune,1,1,0,0,1,20240502,10,IN
+/blog/ssd-yolo,desktop,https://yandex.ru/,,Russia,Yaroslavl,1,1,0,3,1,20240502,12,RU
 /blog/grafana-dashboard,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240502,13,RU
 /blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Dusseldorf,1,1,0,3,1,20240502,13,DE
 /blog/bulma-amp,desktop,https://www.google.com/,,France,Paris,1,1,0,0,1,20240502,14,FR
-/blog/grafana-dashboard,desktop,https://www.reddit.com/,,France,,1,1,0,0,0,20240502,15,FR
+/blog/grafana-dashboard,desktop,https://www.reddit.com/,,France,(not set),1,1,0,0,1,20240502,15,FR
+/blog/music-voice-cotrol,desktop,https://www.google.com/,,Netherlands,Enschede,1,1,0,0,1,20240502,16,NL
+/blog/traefik-goaccess,desktop,https://www.reddit.com/,,Venezuela,Caracas,1,1,0,3,1,20240502,17,
+/blog/monitoring-grafana,desktop,,,Thailand,Bangkok,1,1,0,0,1,20240503,10,TH
+/blog/ssd-yolo,desktop,https://www.google.com/,,India,Mumbai,1,1,0,3,1,20240503,11,IN
