@@ -1,6 +1,6 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
+/,desktop,,,China,(not set),10,10,0,126,1,20240509,6,CN
 /,desktop,,,China,(not set),8,8,0,117,1,20240508,23,CN
-/,desktop,,,China,,8,8,0,135,0.875,20240509,6,CN
 /,desktop,,,China,(not set),7,7,0,102,1,20240508,21,CN
 //0.0.0.1/,desktop,,,China,(not set),5,5,0,60,1,20240508,21,CN
 /,desktop,,,China,(not set),3,3,0,45,1,20240508,22,CN
@@ -8,20 +8,8 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 //0.0.0.1/,desktop,,,China,(not set),3,3,0,39,1,20240508,23,CN
 /1,desktop,,,China,(not set),3,3,0,42,1,20240508,23,CN
 /blog/image-rotation-opencv,desktop,,,India,Mumbai,2,3,0,6,1,20240507,11,IN
-/blog/motion-monitor-opencv,mobile,https://cristianpb.github.io/blog/ssd-yolo,,Russia,Moscow,1,1,26.755805,0,0,20240502,6,RU
-/blog/ssd-yolo,mobile,https://yandex.ru/,,Russia,Moscow,1,1,0,0,0,20240502,6,RU
-/blog/vimwiki-hugo,desktop,https://cn.bing.com/,,China,(not set),1,1,0,2,1,20240502,6,CN
-/,desktop,,,United States,Coffeyville,1,1,0,3,1,20240502,8,US
-/,mobile,,,United States,Ashburn,1,1,0,0,1,20240502,8,US
-/blog/grafana-dashboard,desktop,https://ya.ru/,,Russia,Oryol,1,1,0,3,1,20240502,9,RU
-/blog/ssd-yolo,desktop,https://www.google.com/,,India,Pune,1,1,0,0,1,20240502,10,IN
-/blog/ssd-yolo,desktop,https://yandex.ru/,,Russia,Yaroslavl,1,1,0,3,1,20240502,12,RU
-/blog/grafana-dashboard,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240502,13,RU
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Dusseldorf,1,1,0,3,1,20240502,13,DE
-/blog/bulma-amp,desktop,https://www.google.com/,,France,Paris,1,1,0,0,1,20240502,14,FR
-/blog/grafana-dashboard,desktop,https://www.reddit.com/,,France,(not set),1,1,0,0,1,20240502,15,FR
-/blog/music-voice-cotrol,desktop,https://www.google.com/,,Netherlands,Enschede,1,1,0,0,1,20240502,16,NL
-/blog/traefik-goaccess,desktop,https://www.reddit.com/,,Venezuela,Caracas,1,1,0,3,1,20240502,17,
+/,desktop,,,China,(not set),2,2,0,30,1,20240509,9,CN
+//0.0.0.1/,desktop,,,China,(not set),2,2,0,30,1,20240509,9,CN
 /blog/ssd-yolo,desktop,https://www.google.com/,,Taiwan,(not set),1,1,0,0,1,20240503,8,TW
 /blog/monitoring-grafana,desktop,,,Thailand,Bangkok,1,1,204.625375,0,0,20240503,10,TH
 /blog/ssd-yolo,desktop,https://www.google.com/,,Singapore,Singapore,1,1,0,3,1,20240503,10,SG
@@ -116,11 +104,32 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /1,desktop,,,China,(not set),1,1,0,15,1,20240508,22,CN
 /,desktop,,,China,Nanchang,1,1,0,15,1,20240508,23,CN
 /,desktop,,,China,Shanghai,1,1,0,15,1,20240508,23,CN
-/,desktop,,,United States,,1,1,0,3,1,20240509,2,US
-//0.0.0.1/,desktop,,,China,,1,1,0,30,1,20240509,6,CN
+/,desktop,,,United States,(not set),1,1,0,3,1,20240509,2,US
+//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240509,6,CN
+//0.0.0.1/,desktop,,,China,Wuhan,1,1,0,15,1,20240509,6,CN
 //0.0.0.1/,desktop,,,China,Zhengzhou,1,1,0,15,1,20240509,6,CN
-/1,desktop,,,China,,1,1,0,15,1,20240509,6,CN
+/1,desktop,,,China,(not set),1,1,0,15,1,20240509,6,CN
 /1,desktop,,,China,Changsha,1,1,0,15,1,20240509,6,CN
-/,desktop,,,China,,1,1,0,12,1,20240509,7,CN
-/,desktop,,,China,,1,1,0,30,0,20240509,9,CN
+/,desktop,,,China,(not set),1,1,0,12,1,20240509,7,CN
+/blog/traefik-goaccess,desktop,https://www.google.com/,,Poland,Sanok,1,1,0,3,1,20240509,9,PL
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Vietnam,Quy Nhon,1,1,0,6,1,20240509,11,VN
+/,desktop,,,China,(not set),1,1,0,15,1,20240509,18,CN
+/,desktop,,,China,Changsha,1,1,0,15,1,20240509,18,CN
+/,desktop,,,China,Guangzhou,1,1,0,6,1,20240509,18,CN
+/,desktop,,,China,Jiaxing,1,1,0,6,1,20240509,18,CN
+//0.0.0.1/,desktop,,,China,(not set),1,1,0,6,1,20240509,18,CN
+//0.0.0.1/,desktop,,,China,Beijing,1,1,0,12,1,20240509,18,CN
+/blog/bulma-amp,mobile,https://www.google.com/,,France,Cherbourg-Octeville,1,1,0,0,1,20240509,23,FR
+/blog/motion-monitor-opencv,mobile,https://cristianpb.github.io/blog/tags,,Martinique,Fort-de-France,1,1,1163.930179,0,1,20240510,1,MQ
+/blog/raspberry-video-stream,mobile,https://cristianpb.github.io/blog/ssd-yolo,,Martinique,Fort-de-France,1,1,0,0,1,20240510,1,MQ
+/blog/ssd-yolo,mobile,https://cristianpb.github.io/blog/motion-monitor-opencv,,Martinique,Fort-de-France,1,1,198.932724,0,1,20240510,1,MQ
+/blog/ssd-yolo,mobile,https://duckduckgo.com/,,Martinique,Fort-de-France,1,1,0,3,1,20240510,1,MQ
+/blog/tags,mobile,https://cristianpb.github.io/blog/raspberry-video-stream,,Martinique,Fort-de-France,1,1,0,0,1,20240510,1,MQ
+/blog/motion-monitor-opencv,mobile,https://cristianpb.github.io/blog/tags,,Martinique,Fort-de-France,1,1,55.149491,0,1,20240510,2,MQ
+/blog/ssd-yolo,mobile,https://cristianpb.github.io/blog/motion-monitor-opencv,,Martinique,Fort-de-France,1,1,0,0,1,20240510,2,MQ
+/blog/tags,mobile,https://cristianpb.github.io/blog/ssd-yolo,,Martinique,Fort-de-France,1,1,0,0,1,20240510,2,MQ
+/,desktop,https://bing.com/,,United States,,1,1,0,3,1,20240510,6,US
+/,desktop,,,United States,,1,1,0,3,1,20240510,7,US
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Spain,El Prat de Llobregat,1,1,0,3,1,20240510,11,ES
+/blog/image-rotation-opencv,desktop,,,Taiwan,Hukou Township,1,1,0,3,1,20240510,16,TW
+/blog/traefik-goaccess,desktop,https://www.google.com/,,China,Guangzhou,1,1,0,3,1,20240510,17,CN
