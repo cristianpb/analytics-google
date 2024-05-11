@@ -10,14 +10,6 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/image-rotation-opencv,desktop,,,India,Mumbai,2,3,0,6,1,20240507,11,IN
 /,desktop,,,China,(not set),2,2,0,30,1,20240509,9,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,30,1,20240509,9,CN
-/blog/ssd-yolo,desktop,https://www.google.com/,,Taiwan,(not set),1,1,0,0,1,20240503,8,TW
-/blog/monitoring-grafana,desktop,,,Thailand,Bangkok,1,1,204.625375,0,0,20240503,10,TH
-/blog/ssd-yolo,desktop,https://www.google.com/,,Singapore,Singapore,1,1,0,3,1,20240503,10,SG
-/blog/ssd-yolo,desktop,https://www.google.com/,,India,Mumbai,1,1,0,3,1,20240503,11,IN
-/blog/vimwiki-hugo,mobile,https://www.google.de/,,Indonesia,Denpasar,1,1,0,3,1,20240503,13,ID
-/blog/analytics-google,desktop,https://www.google.com/,,France,Paris,1,1,0,0,1,20240503,15,FR
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,Brazil,Jaboatao dos Guararapes,1,1,0,3,1,20240503,20,BR
-/blog/ssd-yolo,desktop,https://www.google.com/,,Brazil,Sao Paulo,1,1,0,0,1,20240503,21,BR
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Mexico,Monterrey,1,1,0,15,1,20240504,2,MX
 /,desktop,,,United States,(not set),1,1,0,0,1,20240504,10,US
 /,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240504,10,US
@@ -120,16 +112,28 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 //0.0.0.1/,desktop,,,China,(not set),1,1,0,6,1,20240509,18,CN
 //0.0.0.1/,desktop,,,China,Beijing,1,1,0,12,1,20240509,18,CN
 /blog/bulma-amp,mobile,https://www.google.com/,,France,Cherbourg-Octeville,1,1,0,0,1,20240509,23,FR
-/blog/motion-monitor-opencv,mobile,https://cristianpb.github.io/blog/tags,,Martinique,Fort-de-France,1,1,1163.930179,0,1,20240510,1,MQ
-/blog/raspberry-video-stream,mobile,https://cristianpb.github.io/blog/ssd-yolo,,Martinique,Fort-de-France,1,1,0,0,1,20240510,1,MQ
-/blog/ssd-yolo,mobile,https://cristianpb.github.io/blog/motion-monitor-opencv,,Martinique,Fort-de-France,1,1,198.932724,0,1,20240510,1,MQ
-/blog/ssd-yolo,mobile,https://duckduckgo.com/,,Martinique,Fort-de-France,1,1,0,3,1,20240510,1,MQ
-/blog/tags,mobile,https://cristianpb.github.io/blog/raspberry-video-stream,,Martinique,Fort-de-France,1,1,0,0,1,20240510,1,MQ
-/blog/motion-monitor-opencv,mobile,https://cristianpb.github.io/blog/tags,,Martinique,Fort-de-France,1,1,55.149491,0,1,20240510,2,MQ
-/blog/ssd-yolo,mobile,https://cristianpb.github.io/blog/motion-monitor-opencv,,Martinique,Fort-de-France,1,1,0,0,1,20240510,2,MQ
-/blog/tags,mobile,https://cristianpb.github.io/blog/ssd-yolo,,Martinique,Fort-de-France,1,1,0,0,1,20240510,2,MQ
-/,desktop,https://bing.com/,,United States,,1,1,0,3,1,20240510,6,US
-/,desktop,,,United States,,1,1,0,3,1,20240510,7,US
+/blog/motion-monitor-opencv,mobile,https://cristianpb.github.io/blog/tags,,Martinique,Fort-de-France,1,1,13.125475,0,0,20240510,1,MQ
+/blog/raspberry-video-stream,mobile,https://cristianpb.github.io/blog/ssd-yolo,,Martinique,Fort-de-France,1,1,1069.018107,0,0,20240510,1,MQ
+/blog/ssd-yolo,mobile,https://cristianpb.github.io/blog/motion-monitor-opencv,,Martinique,Fort-de-France,1,1,104.020652,0,0,20240510,1,MQ
+/blog/ssd-yolo,mobile,https://duckduckgo.com/,,Martinique,Fort-de-France,1,1,0,3,0,20240510,1,MQ
+/blog/tags,mobile,https://cristianpb.github.io/blog/raspberry-video-stream,,Martinique,Fort-de-France,1,1,81.786597,0,0,20240510,1,MQ
+/blog/document-detection,mobile,https://cristianpb.github.io/blog/tags,,Martinique,Fort-de-France,1,1,30.410651,0,0,20240510,2,MQ
+/blog/motion-monitor-opencv,mobile,https://cristianpb.github.io/blog/tags,,Martinique,Fort-de-France,1,1,24.73884,0,0,20240510,2,MQ
+/blog/ssd-yolo,mobile,https://cristianpb.github.io/blog/motion-monitor-opencv,,Martinique,Fort-de-France,1,1,0,0,0,20240510,2,MQ
+/blog/tags,mobile,https://cristianpb.github.io/blog/ssd-yolo,,Martinique,Fort-de-France,1,1,13.940271,0,0,20240510,2,MQ
+/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240510,6,US
+/,desktop,,,United States,(not set),1,1,0,3,1,20240510,7,US
+/blog/image-rotation-opencv,desktop,,,Germany,Leipzig,1,1,0,3,1,20240510,10,DE
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Spain,El Prat de Llobregat,1,1,0,3,1,20240510,11,ES
+/blog/velib-folium,desktop,https://www.google.com/,,France,Nancy,1,1,0,3,1,20240510,12,FR
+/blog/mopidy-muse,desktop,https://mopidy.com/,,United States,Lamoni,1,1,0,0,1,20240510,14,US
 /blog/image-rotation-opencv,desktop,,,Taiwan,Hukou Township,1,1,0,3,1,20240510,16,TW
+/blog/document-detection,desktop,https://yandex.ru/,,Russia,Saint Petersburg,1,1,0,0,1,20240510,17,RU
+/blog/monitoring-grafana,desktop,https://www.google.com/,,France,Paris,1,1,0,0,1,20240510,17,FR
 /blog/traefik-goaccess,desktop,https://www.google.com/,,China,Guangzhou,1,1,0,3,1,20240510,17,CN
+/blog/document-detection,desktop,https://lens.google.com/,,India,Ahmedabad,1,1,0,3,1,20240510,19,IN
+/blog/mopidy-muse,desktop,https://yandex.ru/,,Uzbekistan,Tashkent,1,1,0,3,1,20240510,21,UZ
+/blog/motion-monitor-opencv,mobile,https://cristianpb.github.io/blog/tags,,Martinique,Fort-de-France,1,1,0,0,1,20240510,21,MQ
+/blog/ssd-yolo,desktop,https://www.google.com/,,Saudi Arabia,Riyadh,1,1,30.772756,0,0,20240510,21,SA
+/blog/vimwiki-hugo,mobile,https://www.google.de/,,Indonesia,,1,1,0,3,1,20240511,5,ID
+/blog/ssd-yolo,desktop,https://mail.google.com/,,Argentina,Villa Carlos Paz,1,1,0,0,1,20240511,11,AR
