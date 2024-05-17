@@ -1,23 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,China,(not set),10,10,0,126,1,20240509,6,CN
-/,desktop,,,China,(not set),2,2,0,30,1,20240509,9,CN
-//0.0.0.1/,desktop,,,China,(not set),2,2,0,30,1,20240509,9,CN
-/,desktop,,,United States,(not set),1,1,0,3,1,20240509,2,US
-//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240509,6,CN
-//0.0.0.1/,desktop,,,China,Wuhan,1,1,0,15,1,20240509,6,CN
-//0.0.0.1/,desktop,,,China,Zhengzhou,1,1,0,15,1,20240509,6,CN
-/1,desktop,,,China,(not set),1,1,0,15,1,20240509,6,CN
-/1,desktop,,,China,Changsha,1,1,0,15,1,20240509,6,CN
-/,desktop,,,China,(not set),1,1,0,12,1,20240509,7,CN
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Poland,Sanok,1,1,0,3,1,20240509,9,PL
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Vietnam,Quy Nhon,1,1,0,6,1,20240509,11,VN
-/,desktop,,,China,(not set),1,1,0,15,1,20240509,18,CN
-/,desktop,,,China,Changsha,1,1,0,15,1,20240509,18,CN
-/,desktop,,,China,Guangzhou,1,1,0,6,1,20240509,18,CN
-/,desktop,,,China,Jiaxing,1,1,0,6,1,20240509,18,CN
-//0.0.0.1/,desktop,,,China,(not set),1,1,0,6,1,20240509,18,CN
-//0.0.0.1/,desktop,,,China,Beijing,1,1,0,12,1,20240509,18,CN
-/blog/bulma-amp,mobile,https://www.google.com/,,France,Cherbourg-Octeville,1,1,0,0,1,20240509,23,FR
+/,desktop,,,China,,2,2,0,15,1,20240517,15,CN
 /blog/motion-monitor-opencv,mobile,https://cristianpb.github.io/blog/tags,,Martinique,Fort-de-France,1,1,13.125475,0,0,20240510,1,MQ
 /blog/raspberry-video-stream,mobile,https://cristianpb.github.io/blog/ssd-yolo,,Martinique,Fort-de-France,1,1,1069.018107,0,0,20240510,1,MQ
 /blog/ssd-yolo,mobile,https://cristianpb.github.io/blog/motion-monitor-opencv,,Martinique,Fort-de-France,1,1,104.020652,0,0,20240510,1,MQ
@@ -94,6 +76,15 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/dashboard-dc-js,desktop,https://cristianpb.github.io/blog/analytics-google,,India,Indore,1,1,24.311793,1,0,20240515,19,IN
 /blog/image-preprocessing,desktop,https://www.google.com/,,Brazil,Brasilia,1,1,0,3,1,20240516,2,BR
 /blog/monitoring-grafana,desktop,https://www.google.com/,,South Korea,Cheonan-si,1,1,0,3,1,20240516,4,
-/blog/grafana-dashboard,desktop,https://www.google.com,,Denmark,Copenhagen,1,1,0,0,1,20240516,6,DK
-/blog/monitoring-grafana,desktop,https://www.google.com,,Denmark,Copenhagen,1,1,0,0,1,20240516,6,DK
+/blog/grafana-dashboard,desktop,https://www.google.com,,Denmark,Copenhagen,1,1,18.403039,0,0,20240516,6,DK
+/blog/monitoring-grafana,desktop,https://www.google.com,,Denmark,Copenhagen,1,1,0,0,0,20240516,6,DK
+/blog/ssd-yolo,desktop,https://www.bing.com/,,Japan,Osaka,1,1,0,3,1,20240516,10,JP
+/,desktop,https://www.data.gouv.fr/,,France,Le Rheu,1,1,0,3,1,20240516,11,FR
+/about,mobile,,,Tunisia,Tunis,1,1,0,0,1,20240516,13,TN
 /blog/mopidy-muse,desktop,https://pypi.org/,,Germany,Memmingen,1,1,0,3,1,20240516,13,DE
+/,desktop,,,United States,(not set),1,1,0,0,1,20240516,15,US
+/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240516,15,US
+/blog/magic-wand,desktop,https://www.google.com/,,Sweden,Botkyrka,1,1,0,3,1,20240516,15,SE
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,Freital,1,1,0,3,1,20240516,19,DE
+/blog/fluentbit-elasticsearch-kibana,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240517,10,RU
+/blog/magic-wand,desktop,https://www.google.com/,,France,Lyon,1,1,0,2,1,20240517,10,FR
