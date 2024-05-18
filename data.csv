@@ -1,28 +1,13 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,China,,2,2,0,15,1,20240517,15,CN
-/blog/motion-monitor-opencv,mobile,https://cristianpb.github.io/blog/tags,,Martinique,Fort-de-France,1,1,13.125475,0,0,20240510,1,MQ
-/blog/raspberry-video-stream,mobile,https://cristianpb.github.io/blog/ssd-yolo,,Martinique,Fort-de-France,1,1,1069.018107,0,0,20240510,1,MQ
-/blog/ssd-yolo,mobile,https://cristianpb.github.io/blog/motion-monitor-opencv,,Martinique,Fort-de-France,1,1,104.020652,0,0,20240510,1,MQ
-/blog/ssd-yolo,mobile,https://duckduckgo.com/,,Martinique,Fort-de-France,1,1,0,3,0,20240510,1,MQ
-/blog/tags,mobile,https://cristianpb.github.io/blog/raspberry-video-stream,,Martinique,Fort-de-France,1,1,81.786597,0,0,20240510,1,MQ
-/blog/document-detection,mobile,https://cristianpb.github.io/blog/tags,,Martinique,Fort-de-France,1,1,30.410651,0,0,20240510,2,MQ
-/blog/motion-monitor-opencv,mobile,https://cristianpb.github.io/blog/tags,,Martinique,Fort-de-France,1,1,24.73884,0,0,20240510,2,MQ
-/blog/ssd-yolo,mobile,https://cristianpb.github.io/blog/motion-monitor-opencv,,Martinique,Fort-de-France,1,1,0,0,0,20240510,2,MQ
-/blog/tags,mobile,https://cristianpb.github.io/blog/ssd-yolo,,Martinique,Fort-de-France,1,1,13.940271,0,0,20240510,2,MQ
-/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240510,6,US
-/,desktop,,,United States,(not set),1,1,0,3,1,20240510,7,US
-/blog/image-rotation-opencv,desktop,,,Germany,Leipzig,1,1,0,3,1,20240510,10,DE
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Spain,El Prat de Llobregat,1,1,0,3,1,20240510,11,ES
-/blog/velib-folium,desktop,https://www.google.com/,,France,Nancy,1,1,0,3,1,20240510,12,FR
-/blog/mopidy-muse,desktop,https://mopidy.com/,,United States,Lamoni,1,1,0,0,1,20240510,14,US
-/blog/image-rotation-opencv,desktop,,,Taiwan,Hukou Township,1,1,0,3,1,20240510,16,TW
-/blog/document-detection,desktop,https://yandex.ru/,,Russia,Saint Petersburg,1,1,0,0,1,20240510,17,RU
-/blog/monitoring-grafana,desktop,https://www.google.com/,,France,Paris,1,1,0,0,1,20240510,17,FR
-/blog/traefik-goaccess,desktop,https://www.google.com/,,China,Guangzhou,1,1,0,3,1,20240510,17,CN
-/blog/document-detection,desktop,https://lens.google.com/,,India,Ahmedabad,1,1,0,3,1,20240510,19,IN
-/blog/mopidy-muse,desktop,https://yandex.ru/,,Uzbekistan,Tashkent,1,1,0,3,1,20240510,21,UZ
-/blog/motion-monitor-opencv,mobile,https://cristianpb.github.io/blog/tags,,Martinique,Fort-de-France,1,1,0,0,1,20240510,21,MQ
-/blog/ssd-yolo,desktop,https://www.google.com/,,Saudi Arabia,Riyadh,1,1,30.772756,0,0,20240510,21,SA
+/,desktop,,,China,(not set),9,9,0,69,1,20240517,15,CN
+//0.0.0.1/,desktop,,,China,(not set),5,5,0,48,1,20240517,15,CN
+/,desktop,,,China,,5,5,0,69,1,20240518,9,CN
+/,desktop,,,China,,5,5,0,54,1,20240518,11,CN
+/,desktop,,,China,,3,3,0,45,1,20240518,15,CN
+/,desktop,,,China,Guangzhou,2,2,0,12,1,20240517,15,CN
+/,desktop,,,China,,2,2,0,30,1,20240518,6,CN
+//0.0.0.1/,desktop,,,China,,2,2,0,24,1,20240518,9,CN
+//0.0.0.1/,desktop,,,China,,2,2,0,21,1,20240518,11,CN
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,United States,Fort Collins,1,1,0,3,1,20240511,4,US
 /blog/vimwiki-hugo,mobile,https://www.google.de/,,Indonesia,(not set),1,1,0,3,1,20240511,5,ID
 /blog/ssd-yolo,desktop,https://mail.google.com/,,Argentina,Villa Carlos Paz,1,1,0,0,1,20240511,11,AR
@@ -88,3 +73,24 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,Freital,1,1,0,3,1,20240516,19,DE
 /blog/fluentbit-elasticsearch-kibana,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240517,10,RU
 /blog/magic-wand,desktop,https://www.google.com/,,France,Lyon,1,1,0,2,1,20240517,10,FR
+/blog/monitoring-grafana,desktop,https://www.google.com/,,France,Paris,1,1,0,0,1,20240517,13,FR
+/1,desktop,,,China,(not set),1,1,0,15,1,20240517,15,CN
+/blog/document-detection,desktop,https://lens.google.com/,,Morocco,El Jadida,1,1,0,0,1,20240517,15,MA
+/blog/vimwiki-hugo,desktop,https://www.google.com/,,France,(not set),1,1,0,3,1,20240517,16,FR
+/blog/mopidy-muse,desktop,https://mopidy.com/,,Germany,Holzkirchen,1,1,0,0,0,20240517,18,DE
+/blog/mopidy-muse,desktop,https://pypi.org/,,Germany,Holzkirchen,1,1,585.779524,0,0,20240517,18,DE
+/,desktop,,,China,,1,1,0,15,1,20240518,7,CN
+/,desktop,,,China,Sanya,1,1,0,15,1,20240518,7,CN
+/,desktop,,,China,Urumqi,1,1,0,15,1,20240518,7,CN
+/,desktop,,,Singapore,,1,1,0,0,1,20240518,7,SG
+//0.0.0.1/,desktop,,,China,,1,1,0,15,1,20240518,7,CN
+/,desktop,,,China,,1,1,0,15,1,20240518,10,CN
+/1,desktop,,,China,,1,1,0,9,1,20240518,10,CN
+/,desktop,,,China,Nanjing,1,1,0,15,1,20240518,11,CN
+//0.0.0.1/,desktop,,,China,,1,1,0,6,1,20240518,14,CN
+/,desktop,,,China,Chengdu,1,1,0,15,1,20240518,15,CN
+//0.0.0.1/,desktop,,,China,Jiaxing,1,1,0,15,1,20240518,15,CN
+/1,desktop,,,China,Tianjin,1,1,0,15,1,20240518,15,CN
+/,desktop,,,China,,1,1,0,15,1,20240518,16,CN
+/,desktop,,,China,Guangzhou,1,1,0,9,1,20240518,16,CN
+//0.0.0.1/,desktop,,,China,,1,1,0,15,1,20240518,17,CN
