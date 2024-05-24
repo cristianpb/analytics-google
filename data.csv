@@ -6,6 +6,7 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),6,6,0,75,1,20240518,9,CN
 /,desktop,,,China,(not set),6,6,0,57,1,20240521,2,CN
 //0.0.0.1/,desktop,,,China,(not set),6,6,0,69,1,20240521,2,CN
+/,desktop,,,China,,6,6,0,90,1,20240524,3,CN
 //0.0.0.1/,desktop,,,China,(not set),5,5,0,48,1,20240517,15,CN
 //0.0.0.1/,desktop,,,China,(not set),5,5,0,66,1,20240518,11,CN
 /,desktop,,,China,(not set),5,5,0,75,1,20240522,3,CN
@@ -29,24 +30,15 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),2,2,0,0,1,20240521,9,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20240521,18,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,24,1,20240521,19,CN
-/,desktop,,,China,,2,2,0,30,1,20240523,7,CN
-/,desktop,https://cristianpb.github.io/,,Bangladesh,Dhaka,2,0,0,696,0,20240523,13,BD
-/,desktop,https://cristianpb.github.io/,,China,,2,0,0,888,0,20240523,13,CN
+/,desktop,,,China,(not set),2,2,0,30,1,20240523,7,CN
+/,desktop,https://cristianpb.github.io/,,Bangladesh,Dhaka,2,0,0,783,0,20240523,13,BD
+/,desktop,https://cristianpb.github.io/,,China,(not set),2,0,0,967,0,20240523,13,CN
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Bangladesh,Dhaka,2,0,0,108,0,20240523,13,BD
-/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,China,,2,0,0,138,0,20240523,13,CN
-/,desktop,https://cristianpb.github.io/,,Iran,,2,0,0,884,0,20240523,15,
-/blog/image-preprocessing,desktop,https://www.google.com/,,Brazil,Brasilia,1,1,0,3,1,20240516,2,BR
-/blog/monitoring-grafana,desktop,https://www.google.com/,,South Korea,Cheonan-si,1,1,0,3,1,20240516,4,
-/blog/grafana-dashboard,desktop,https://www.google.com,,Denmark,Copenhagen,1,1,18.403039,0,0,20240516,6,DK
-/blog/monitoring-grafana,desktop,https://www.google.com,,Denmark,Copenhagen,1,1,0,0,0,20240516,6,DK
-/blog/ssd-yolo,desktop,https://www.bing.com/,,Japan,Osaka,1,1,0,3,1,20240516,10,JP
-/,desktop,https://www.data.gouv.fr/,,France,Le Rheu,1,1,0,3,1,20240516,11,FR
-/about,mobile,,,Tunisia,Tunis,1,1,0,0,1,20240516,13,TN
-/blog/mopidy-muse,desktop,https://pypi.org/,,Germany,Memmingen,1,1,0,3,1,20240516,13,DE
-/,desktop,,,United States,(not set),1,1,0,0,1,20240516,15,US
-/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240516,15,US
-/blog/magic-wand,desktop,https://www.google.com/,,Sweden,Botkyrka,1,1,0,3,1,20240516,15,SE
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,Freital,1,1,0,3,1,20240516,19,DE
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,China,(not set),2,0,0,138,0,20240523,13,CN
+/,desktop,https://cristianpb.github.io/,,Iran,(not set),2,0,0,994,0,20240523,15,
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Iran,(not set),2,0,0,126,0,20240523,15,
+/,desktop,,,China,,2,2,0,30,1,20240524,2,CN
+//0.0.0.1/,desktop,,,China,,2,2,0,30,1,20240524,2,CN
 /blog/fluentbit-elasticsearch-kibana,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240517,10,RU
 /blog/magic-wand,desktop,https://www.google.com/,,France,Lyon,1,1,0,2,1,20240517,10,FR
 /blog/monitoring-grafana,desktop,https://www.google.com/,,France,Paris,1,1,0,0,1,20240517,13,FR
@@ -131,116 +123,123 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/velib-folium,desktop,https://www.google.com/,,United Kingdom,Liverpool,1,1,0,3,1,20240522,17,GB
 /,desktop,,,United States,(not set),1,1,0,0,1,20240522,19,US
 /,desktop,https://bing.com/,,United States,Coffeyville,1,1,0,6,1,20240522,19,US
-/blog/gnuplot-electrode,desktop,,,Netherlands,,1,1,0,3,1,20240523,0,NL
+/blog/gnuplot-electrode,desktop,,,Netherlands,(not set),1,1,0,3,1,20240523,0,NL
 /blog/traefik-goaccess,desktop,https://www.google.com/,,United States,Burlington,1,1,0,3,1,20240523,0,US
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Taiwan,(not set),1,1,0,0,1,20240523,3,TW
 /blog/image-rotation-opencv,desktop,,,Malaysia,Klang,1,1,0,3,1,20240523,5,MY
 /blog/grafana-dashboard,desktop,https://www.google.co.in/,,India,Mumbai,1,1,0,0,1,20240523,7,IN
-/,desktop,https://cristianpb.github.io/,,Bangladesh,Dhaka,1,0,0,523,0,20240523,10,BD
-/,desktop,https://cristianpb.github.io/,,Egypt,,1,0,0,464,0,20240523,10,EG
-/,desktop,https://cristianpb.github.io/,,Germany,Olching,1,0,0,391,0,20240523,10,DE
+/,desktop,https://cristianpb.github.io/,,Bangladesh,Dhaka,1,0,0,542,0,20240523,10,BD
+/,desktop,https://cristianpb.github.io/,,Egypt,(not set),1,0,0,511,0,20240523,10,EG
+/,desktop,https://cristianpb.github.io/,,Germany,Olching,1,0,0,474,0,20240523,10,DE
 /,desktop,https://cristianpb.github.io/,,India,Patna,1,0,0,436,0,20240523,10,IN
-/,desktop,https://cristianpb.github.io/,,Iraq,,1,0,0,473,0,20240523,10,IQ
-/,desktop,https://cristianpb.github.io/,,Kazakhstan,Ekibastuz,1,0,0,401,0,20240523,10,KZ
-/,desktop,https://cristianpb.github.io/,,Poland,Mielec,1,0,0,488,0,20240523,10,PL
-/,desktop,https://cristianpb.github.io/,,United States,,1,0,0,226,0,20240523,10,US
-/,desktop,https://cristianpb.github.io/,,United States,Watertown,1,0,0,180,0,20240523,10,US
-/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Egypt,,1,0,0,45,0,20240523,10,EG
+/,desktop,https://cristianpb.github.io/,,Iraq,(not set),1,0,0,473,0,20240523,10,IQ
+/,desktop,https://cristianpb.github.io/,,Kazakhstan,Ekibastuz,1,0,0,498,0,20240523,10,KZ
+/,desktop,https://cristianpb.github.io/,,Poland,Mielec,1,0,0,518,0,20240523,10,PL
+/,desktop,https://cristianpb.github.io/,,United States,(not set),1,0,0,277,0,20240523,10,US
+/,desktop,https://cristianpb.github.io/,,United States,Watertown,1,0,0,212,0,20240523,10,US
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Bangladesh,Dhaka,1,0,0,72,0,20240523,10,BD
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Egypt,(not set),1,0,0,45,0,20240523,10,EG
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Germany,Olching,1,0,0,51,0,20240523,10,DE
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,India,Patna,1,0,0,21,0,20240523,10,IN
-/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Iraq,,1,0,0,81,0,20240523,10,IQ
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Iraq,(not set),1,0,0,81,0,20240523,10,IQ
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Kazakhstan,Ekibastuz,1,0,0,39,0,20240523,10,KZ
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Poland,Mielec,1,0,0,54,0,20240523,10,PL
-/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,United States,,1,0,0,51,0,20240523,10,US
-/,desktop,https://cristianpb.github.io/,,India,Agartala,1,0,0,419,0,20240523,11,IN
-/,desktop,https://cristianpb.github.io/,,India,Coimbatore,1,0,0,460,0,20240523,11,IN
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,United States,(not set),1,0,0,51,0,20240523,10,US
+/,desktop,https://cristianpb.github.io/,,India,Agartala,1,0,0,457,0,20240523,11,IN
+/,desktop,https://cristianpb.github.io/,,India,Coimbatore,1,0,0,538,0,20240523,11,IN
 /,desktop,https://cristianpb.github.io/,,India,Patna,1,0,0,17,0,20240523,11,IN
-/,desktop,https://cristianpb.github.io/,,Indonesia,,1,0,0,458,0,20240523,11,ID
+/,desktop,https://cristianpb.github.io/,,Indonesia,(not set),1,0,0,505,0,20240523,11,ID
 /,desktop,https://cristianpb.github.io/,,Indonesia,Bekasi,1,0,0,14,0,20240523,11,ID
 /,desktop,https://cristianpb.github.io/,,Indonesia,Bekasi Regency,1,0,0,68,0,20240523,11,ID
-/,desktop,https://cristianpb.github.io/,,Indonesia,Cileungsi,1,0,0,12,0,20240523,11,ID
-/,desktop,https://cristianpb.github.io/,,Indonesia,Depok,1,0,0,443,0,20240523,11,ID
-/,desktop,https://cristianpb.github.io/,,Indonesia,Jakarta,1,0,0,262,0,20240523,11,ID
-/,desktop,https://cristianpb.github.io/,,Indonesia,Purwakarta,1,0,0,46,0,20240523,11,ID
-/,desktop,https://cristianpb.github.io/,,Italy,Bareggio,1,0,0,337,0,20240523,11,IT
+/,desktop,https://cristianpb.github.io/,,Indonesia,Cileungsi,1,0,0,25,0,20240523,11,ID
+/,desktop,https://cristianpb.github.io/,,Indonesia,Depok,1,0,0,461,0,20240523,11,ID
+/,desktop,https://cristianpb.github.io/,,Indonesia,Jakarta,1,0,0,308,0,20240523,11,ID
+/,desktop,https://cristianpb.github.io/,,Indonesia,Purwakarta,1,0,0,77,0,20240523,11,ID
+/,desktop,https://cristianpb.github.io/,,Italy,Bareggio,1,0,0,436,0,20240523,11,IT
 /,desktop,https://cristianpb.github.io/,,Mexico,Ciudad Apodaca,1,0,0,82,0,20240523,11,MX
 /,desktop,https://cristianpb.github.io/,,Mexico,Guadalupe,1,0,0,242,0,20240523,11,MX
 /,desktop,https://cristianpb.github.io/,,Mexico,San Nicolas de los Garza,1,0,0,174,0,20240523,11,MX
-/,desktop,https://cristianpb.github.io/,,New Zealand,Auckland,1,0,0,399,0,20240523,11,NZ
-/,desktop,https://cristianpb.github.io/,,Pakistan,Lahore,1,0,0,397,0,20240523,11,PK
-/,desktop,https://cristianpb.github.io/,,Philippines,,1,0,0,287,0,20240523,11,PH
-/,desktop,https://cristianpb.github.io/,,Philippines,Cagayan de Oro,1,0,0,133,0,20240523,11,PH
+/,desktop,https://cristianpb.github.io/,,New Zealand,Auckland,1,0,0,436,0,20240523,11,NZ
+/,desktop,https://cristianpb.github.io/,,Pakistan,Lahore,1,0,0,462,0,20240523,11,PK
+/,desktop,https://cristianpb.github.io/,,Philippines,(not set),1,0,0,287,0,20240523,11,PH
+/,desktop,https://cristianpb.github.io/,,Philippines,Cagayan de Oro,1,0,0,156,0,20240523,11,PH
 /,desktop,https://cristianpb.github.io/,,Philippines,Iligan City,1,0,0,76,0,20240523,11,PH
-/,desktop,https://cristianpb.github.io/,,South Africa,Pretoria,1,0,0,507,0,20240523,11,ZA
-/,desktop,https://cristianpb.github.io/,,United States,Columbus,1,0,0,395,0,20240523,11,US
-/,desktop,https://cristianpb.github.io/,,Vietnam,,1,0,0,99,0,20240523,11,VN
-/,desktop,https://cristianpb.github.io/,,Vietnam,Vung Tau,1,0,0,293,0,20240523,11,VN
+/,desktop,https://cristianpb.github.io/,,South Africa,Pretoria,1,0,0,525,0,20240523,11,ZA
+/,desktop,https://cristianpb.github.io/,,United States,Columbus,1,0,0,407,0,20240523,11,US
+/,desktop,https://cristianpb.github.io/,,Vietnam,(not set),1,0,0,120,0,20240523,11,VN
+/,desktop,https://cristianpb.github.io/,,Vietnam,Vung Tau,1,0,0,305,0,20240523,11,VN
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,India,Agartala,1,0,0,30,0,20240523,11,IN
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,India,Coimbatore,1,0,0,54,0,20240523,11,IN
-/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Indonesia,,1,0,0,48,0,20240523,11,ID
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Indonesia,(not set),1,0,0,48,0,20240523,11,ID
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Indonesia,Bekasi Regency,1,0,0,30,0,20240523,11,ID
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Indonesia,Depok,1,0,0,42,0,20240523,11,ID
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Italy,Bareggio,1,0,0,42,0,20240523,11,IT
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Mexico,Ciudad Apodaca,1,0,0,18,0,20240523,11,MX
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,New Zealand,Auckland,1,0,0,36,0,20240523,11,NZ
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Pakistan,Lahore,1,0,0,60,0,20240523,11,PK
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Philippines,Cagayan de Oro,1,0,0,75,0,20240523,11,PH
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,South Africa,Pretoria,1,0,0,39,0,20240523,11,ZA
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,United States,Columbus,1,0,0,42,0,20240523,11,US
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Vietnam,Vung Tau,1,0,0,15,0,20240523,11,VN
 /blog/image-processing-using-serverless-architecture,desktop,https://cristianpb.github.io/blog/serverless-api-lambda,,India,Chennai,1,1,0,0,1,20240523,11,IN
-/,desktop,https://cristianpb.github.io/,,Algeria,,1,0,0,43,0,20240523,12,DZ
+/blog/ssd-yolo,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,3,1,20240523,11,GB
+/,desktop,https://cristianpb.github.io/,,Algeria,(not set),1,0,0,43,0,20240523,12,DZ
 /,desktop,https://cristianpb.github.io/,,Algeria,Batna,1,0,0,263,0,20240523,12,DZ
 /,desktop,https://cristianpb.github.io/,,Algeria,Biskra,1,0,0,189,0,20240523,12,DZ
-/,desktop,https://cristianpb.github.io/,,Brazil,Recife,1,0,0,452,0,20240523,12,BR
-/,desktop,https://cristianpb.github.io/,,Egypt,New Cairo City,1,0,0,498,0,20240523,12,EG
-/,desktop,https://cristianpb.github.io/,,Kazakhstan,Almaty,1,0,0,356,0,20240523,12,KZ
-/,desktop,https://cristianpb.github.io/,,Mexico,,1,0,0,445,0,20240523,12,MX
-/,desktop,https://cristianpb.github.io/,,Morocco,Casablanca,1,0,0,438,0,20240523,12,MA
-/,desktop,https://cristianpb.github.io/,,Philippines,,1,0,0,426,0,20240523,12,PH
-/,desktop,https://cristianpb.github.io/,,Philippines,Pasay,1,0,0,396,0,20240523,12,PH
-/,desktop,https://cristianpb.github.io/,,Russia,,1,0,0,420,0,20240523,12,RU
-/,desktop,https://cristianpb.github.io/,,South Africa,Vereeniging,1,0,0,381,0,20240523,12,ZA
-/,desktop,https://cristianpb.github.io/,,South Korea,Yeosu-si,1,0,0,415,0,20240523,12,
-/,desktop,https://cristianpb.github.io/,,Switzerland,Burgdorf,1,0,0,389,0,20240523,12,CH
-/,desktop,https://cristianpb.github.io/,,Türkiye,,1,0,0,124,0,20240523,12,
-/,desktop,https://cristianpb.github.io/,,Türkiye,Yalova,1,0,0,239,0,20240523,12,
-/,desktop,https://cristianpb.github.io/,,Ukraine,Verkhn'odniprovs'k,1,0,0,446,0,20240523,12,UA
-/,desktop,https://cristianpb.github.io/,,United States,Columbus,1,0,0,56,0,20240523,12,US
+/,desktop,https://cristianpb.github.io/,,Brazil,Recife,1,0,0,459,0,20240523,12,BR
+/,desktop,https://cristianpb.github.io/,,Egypt,New Cairo City,1,0,0,520,0,20240523,12,EG
+/,desktop,https://cristianpb.github.io/,,Kazakhstan,Almaty,1,0,0,415,0,20240523,12,KZ
+/,desktop,https://cristianpb.github.io/,,Mexico,(not set),1,0,0,475,0,20240523,12,MX
+/,desktop,https://cristianpb.github.io/,,Morocco,Casablanca,1,0,0,550,0,20240523,12,MA
+/,desktop,https://cristianpb.github.io/,,Philippines,(not set),1,0,0,426,0,20240523,12,PH
+/,desktop,https://cristianpb.github.io/,,Philippines,Pasay,1,0,0,450,0,20240523,12,PH
+/,desktop,https://cristianpb.github.io/,,Russia,(not set),1,0,0,436,0,20240523,12,RU
+/,desktop,https://cristianpb.github.io/,,South Africa,Vereeniging,1,0,0,447,0,20240523,12,ZA
+/,desktop,https://cristianpb.github.io/,,South Korea,Yeosu-si,1,0,0,471,0,20240523,12,
+/,desktop,https://cristianpb.github.io/,,Switzerland,Burgdorf,1,0,0,427,0,20240523,12,CH
+/,desktop,https://cristianpb.github.io/,,Türkiye,(not set),1,0,0,124,0,20240523,12,
+/,desktop,https://cristianpb.github.io/,,Türkiye,Yalova,1,0,0,301,0,20240523,12,
+/,desktop,https://cristianpb.github.io/,,Ukraine,Verkhn'odniprovs'k,1,0,0,465,0,20240523,12,UA
+/,desktop,https://cristianpb.github.io/,,United States,Columbus,1,0,0,70,0,20240523,12,US
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Algeria,Batna,1,0,0,45,0,20240523,12,DZ
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Brazil,Recife,1,0,0,45,0,20240523,12,BR
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Egypt,New Cairo City,1,0,0,36,0,20240523,12,EG
-/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Mexico,,1,0,0,33,0,20240523,12,MX
-/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Philippines,,1,0,0,66,0,20240523,12,PH
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Kazakhstan,Almaty,1,0,0,72,0,20240523,12,KZ
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Mexico,(not set),1,0,0,33,0,20240523,12,MX
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Morocco,Casablanca,1,0,0,57,0,20240523,12,MA
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Philippines,(not set),1,0,0,66,0,20240523,12,PH
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Philippines,Pasay,1,0,0,51,0,20240523,12,PH
-/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Russia,,1,0,0,51,0,20240523,12,RU
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Russia,(not set),1,0,0,51,0,20240523,12,RU
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,South Africa,Vereeniging,1,0,0,24,0,20240523,12,ZA
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,South Korea,Yeosu-si,1,0,0,48,0,20240523,12,
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Switzerland,Burgdorf,1,0,0,42,0,20240523,12,CH
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Türkiye,Yalova,1,0,0,27,0,20240523,12,
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Ukraine,Verkhn'odniprovs'k,1,0,0,21,0,20240523,12,UA
 /,desktop,https://cristianpb.github.io/,,Australia,Melbourne,1,0,0,478,0,20240523,13,AU
-/,desktop,https://cristianpb.github.io/,,Austria,Wiener Neustadt,1,0,0,447,0,20240523,13,AT
+/,desktop,https://cristianpb.github.io/,,Austria,Wiener Neustadt,1,0,0,462,0,20240523,13,AT
 /,desktop,https://cristianpb.github.io/,,Bangladesh,Ashulia,1,0,0,29,0,20240523,13,BD
 /,desktop,https://cristianpb.github.io/,,Bangladesh,Mawna,1,0,0,40,0,20240523,13,BD
-/,desktop,https://cristianpb.github.io/,,Colombia,Medellin,1,0,0,418,0,20240523,13,CO
-/,desktop,https://cristianpb.github.io/,,Japan,Shinagawa City,1,0,0,441,0,20240523,13,JP
+/,desktop,https://cristianpb.github.io/,,Colombia,Medellin,1,0,0,426,0,20240523,13,CO
+/,desktop,https://cristianpb.github.io/,,Japan,Shinagawa City,1,0,0,518,0,20240523,13,JP
 /,desktop,https://cristianpb.github.io/,,Kazakhstan,Almaty,1,0,0,34,0,20240523,13,KZ
-/,desktop,https://cristianpb.github.io/,,Mexico,,1,0,0,432,0,20240523,13,MX
-/,desktop,https://cristianpb.github.io/,,Russia,Ulan-Ude,1,0,0,455,0,20240523,13,RU
-/,desktop,https://cristianpb.github.io/,,Sudan,,1,0,0,498,0,20240523,13,SD
+/,desktop,https://cristianpb.github.io/,,Mexico,(not set),1,0,0,537,0,20240523,13,MX
+/,desktop,https://cristianpb.github.io/,,Russia,Ulan-Ude,1,0,0,465,0,20240523,13,RU
+/,desktop,https://cristianpb.github.io/,,Sudan,(not set),1,0,0,498,0,20240523,13,SD
 /,desktop,https://cristianpb.github.io/,,Switzerland,Burgdorf,1,0,0,54,0,20240523,13,CH
-/,desktop,https://cristianpb.github.io/,,United States,San Diego,1,0,0,507,0,20240523,13,US
+/,desktop,https://cristianpb.github.io/,,United States,San Diego,1,0,0,531,0,20240523,13,US
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Australia,Melbourne,1,0,0,69,0,20240523,13,AU
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Austria,Wiener Neustadt,1,0,0,63,0,20240523,13,AT
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Colombia,Medellin,1,0,0,27,0,20240523,13,CO
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Japan,Shinagawa City,1,0,0,24,0,20240523,13,JP
-/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Mexico,,1,0,0,48,0,20240523,13,MX
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Mexico,(not set),1,0,0,48,0,20240523,13,MX
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Russia,Ulan-Ude,1,0,0,48,0,20240523,13,RU
-/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Sudan,,1,0,0,39,0,20240523,13,SD
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Sudan,(not set),1,0,0,39,0,20240523,13,SD
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,United States,San Diego,1,0,0,42,0,20240523,13,US
-/,desktop,https://cristianpb.github.io/,,Burkina Faso,Ouagadougou,1,0,0,387,0,20240523,14,BF
-/,desktop,https://cristianpb.github.io/,,China,,1,0,0,383,0,20240523,14,CN
+/,desktop,https://cristianpb.github.io/,,Burkina Faso,Ouagadougou,1,0,0,419,0,20240523,14,BF
+/,desktop,https://cristianpb.github.io/,,China,(not set),1,0,0,451,0,20240523,14,CN
 /,desktop,https://cristianpb.github.io/,,Colombia,Itagui,1,0,0,16,0,20240523,14,CO
 /,desktop,https://cristianpb.github.io/,,Colombia,Medellin,1,0,0,18,0,20240523,14,CO
-/,desktop,https://cristianpb.github.io/,,Germany,,1,0,0,57,0,20240523,14,DE
+/,desktop,https://cristianpb.github.io/,,Germany,(not set),1,0,0,57,0,20240523,14,DE
 /,desktop,https://cristianpb.github.io/,,Germany,Ansbach,1,0,0,39,0,20240523,14,DE
 /,desktop,https://cristianpb.github.io/,,Germany,Eggolsheim,1,0,0,23,0,20240523,14,DE
 /,desktop,https://cristianpb.github.io/,,Germany,Furth,1,0,0,26,0,20240523,14,DE
@@ -255,68 +254,80 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,https://cristianpb.github.io/,,India,Bengaluru,1,0,0,512,0,20240523,14,IN
 /,desktop,https://cristianpb.github.io/,,India,Jaipur,1,0,0,431,0,20240523,14,IN
 /,desktop,https://cristianpb.github.io/,,Indonesia,Medan,1,0,0,462,0,20240523,14,ID
-/,desktop,https://cristianpb.github.io/,,Italy,,1,0,0,116,0,20240523,14,IT
+/,desktop,https://cristianpb.github.io/,,Italy,(not set),1,0,0,139,0,20240523,14,IT
 /,desktop,https://cristianpb.github.io/,,Italy,Lucca,1,0,0,25,0,20240523,14,IT
 /,desktop,https://cristianpb.github.io/,,Italy,Pesaro,1,0,0,299,0,20240523,14,IT
 /,desktop,https://cristianpb.github.io/,,Italy,Rome,1,0,0,26,0,20240523,14,IT
-/,desktop,https://cristianpb.github.io/,,Japan,Yonago,1,0,0,355,0,20240523,14,JP
-/,desktop,https://cristianpb.github.io/,,Kenya,,1,0,0,234,0,20240523,14,KE
-/,desktop,https://cristianpb.github.io/,,Pakistan,,1,0,0,500,0,20240523,14,PK
-/,desktop,https://cristianpb.github.io/,,Poland,Brodnica,1,0,0,425,0,20240523,14,PL
-/,desktop,https://cristianpb.github.io/,,South Africa,,1,0,0,446,0,20240523,14,ZA
-/,desktop,https://cristianpb.github.io/,,Uzbekistan,,1,0,0,323,0,20240523,14,UZ
+/,desktop,https://cristianpb.github.io/,,Japan,Yonago,1,0,0,421,0,20240523,14,JP
+/,desktop,https://cristianpb.github.io/,,Kenya,(not set),1,0,0,488,0,20240523,14,KE
+/,desktop,https://cristianpb.github.io/,,Pakistan,(not set),1,0,0,500,0,20240523,14,PK
+/,desktop,https://cristianpb.github.io/,,Poland,Brodnica,1,0,0,517,0,20240523,14,PL
+/,desktop,https://cristianpb.github.io/,,South Africa,(not set),1,0,0,468,0,20240523,14,ZA
+/,desktop,https://cristianpb.github.io/,,Uzbekistan,(not set),1,0,0,323,0,20240523,14,UZ
 /,desktop,https://cristianpb.github.io/,,Uzbekistan,Tashkent,1,0,0,165,0,20240523,14,UZ
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Burkina Faso,Ouagadougou,1,0,0,57,0,20240523,14,BF
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,China,(not set),1,0,0,33,0,20240523,14,CN
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Germany,Stein,1,0,0,45,0,20240523,14,DE
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,India,Bengaluru,1,0,0,69,0,20240523,14,IN
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,India,Jaipur,1,0,0,57,0,20240523,14,IN
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Indonesia,Medan,1,0,0,51,0,20240523,14,ID
-/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Italy,,1,0,0,63,0,20240523,14,IT
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Italy,(not set),1,0,0,63,0,20240523,14,IT
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Japan,Yonago,1,0,0,45,0,20240523,14,JP
-/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Kenya,,1,0,0,27,0,20240523,14,KE
-/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Pakistan,,1,0,0,51,0,20240523,14,PK
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Kenya,(not set),1,0,0,27,0,20240523,14,KE
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Pakistan,(not set),1,0,0,51,0,20240523,14,PK
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Poland,Brodnica,1,0,0,24,0,20240523,14,PL
-/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,South Africa,,1,0,0,72,0,20240523,14,ZA
-/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Uzbekistan,,1,0,0,66,0,20240523,14,UZ
-/,desktop,https://cristianpb.github.io/,,Australia,Geelong,1,0,0,15,0,20240523,15,AU
-/,desktop,https://cristianpb.github.io/,,Australia,Melbourne,1,0,0,455,0,20240523,15,AU
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,South Africa,(not set),1,0,0,72,0,20240523,14,ZA
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Uzbekistan,(not set),1,0,0,66,0,20240523,14,UZ
+/,desktop,https://cristianpb.github.io/,,Australia,Geelong,1,0,0,28,0,20240523,15,AU
+/,desktop,https://cristianpb.github.io/,,Australia,Melbourne,1,0,0,478,0,20240523,15,AU
 /,desktop,https://cristianpb.github.io/,,Bangladesh,Sylhet,1,0,0,464,0,20240523,15,BD
 /,desktop,https://cristianpb.github.io/,,Burkina Faso,Ouagadougou,1,0,0,44,0,20240523,15,BF
-/,desktop,https://cristianpb.github.io/,,France,Muret,1,0,0,413,0,20240523,15,FR
-/,desktop,https://cristianpb.github.io/,,Hong Kong,,1,0,0,471,0,20240523,15,HK
-/,desktop,https://cristianpb.github.io/,,Japan,Chofu,1,0,0,417,0,20240523,15,JP
+/,desktop,https://cristianpb.github.io/,,France,Muret,1,0,0,464,0,20240523,15,FR
+/,desktop,https://cristianpb.github.io/,,Hong Kong,(not set),1,0,0,490,0,20240523,15,HK
+/,desktop,https://cristianpb.github.io/,,Japan,Chofu,1,0,0,530,0,20240523,15,JP
 /,desktop,https://cristianpb.github.io/,,Russia,Pskov,1,0,0,70,0,20240523,15,RU
-/,desktop,https://cristianpb.github.io/,,Russia,Velikiye Luki,1,0,0,396,0,20240523,15,RU
-/,desktop,https://cristianpb.github.io/,,South Africa,Cape Town,1,0,0,475,0,20240523,15,ZA
-/,desktop,https://cristianpb.github.io/,,South Africa,Johannesburg,1,0,0,460,0,20240523,15,ZA
-/,desktop,https://cristianpb.github.io/,,South Korea,Busan,1,0,0,377,0,20240523,15,
-/,desktop,https://cristianpb.github.io/,,Ukraine,Kharkiv,1,0,0,533,0,20240523,15,UA
-/,desktop,https://cristianpb.github.io/,,United States,,1,0,0,469,0,20240523,15,US
-/,desktop,https://cristianpb.github.io/,,United States,University Heights,1,0,0,417,0,20240523,15,US
+/,desktop,https://cristianpb.github.io/,,Russia,Velikiye Luki,1,0,0,414,0,20240523,15,RU
+/,desktop,https://cristianpb.github.io/,,South Africa,Cape Town,1,0,0,508,0,20240523,15,ZA
+/,desktop,https://cristianpb.github.io/,,South Africa,Johannesburg,1,0,0,508,0,20240523,15,ZA
+/,desktop,https://cristianpb.github.io/,,South Korea,Busan,1,0,0,456,0,20240523,15,
+/,desktop,https://cristianpb.github.io/,,Ukraine,Kharkiv,1,0,0,542,0,20240523,15,UA
+/,desktop,https://cristianpb.github.io/,,United States,(not set),1,0,0,434,0,20240523,15,US
+/,desktop,https://cristianpb.github.io/,,United States,University Heights,1,0,0,483,0,20240523,15,US
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Australia,Melbourne,1,0,0,63,0,20240523,15,AU
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Bangladesh,Sylhet,1,0,0,39,0,20240523,15,BD
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,France,Muret,1,0,0,42,0,20240523,15,FR
-/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Hong Kong,,1,0,0,69,0,20240523,15,HK
-/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Iran,,1,0,0,36,0,20240523,15,
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Hong Kong,(not set),1,0,0,69,0,20240523,15,HK
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Japan,Chofu,1,0,0,63,0,20240523,15,JP
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Russia,Pskov,1,0,0,66,0,20240523,15,RU
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,South Africa,Cape Town,1,0,0,24,0,20240523,15,ZA
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,South Africa,Johannesburg,1,0,0,42,0,20240523,15,ZA
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,South Korea,Busan,1,0,0,48,0,20240523,15,
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Ukraine,Kharkiv,1,0,0,21,0,20240523,15,UA
-/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,United States,,1,0,0,63,0,20240523,15,US
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,United States,(not set),1,0,0,63,0,20240523,15,US
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,United States,University Heights,1,0,0,21,0,20240523,15,US
 /blog/grafana-dashboard,desktop,https://www.google.com/,,France,Marseille,1,1,0,0,1,20240523,15,FR
-/,desktop,https://cristianpb.github.io/,,China,,1,0,0,155,0,20240523,16,CN
-/,desktop,https://cristianpb.github.io/,,China,Zhangjiajie,1,0,0,433,0,20240523,16,CN
-/,desktop,https://cristianpb.github.io/,,Germany,Buren,1,0,0,331,0,20240523,16,DE
-/,desktop,https://cristianpb.github.io/,,Iran,,1,0,0,45,0,20240523,16,
-/,desktop,https://cristianpb.github.io/,,Ukraine,Odesa,1,0,0,277,0,20240523,16,UA
-/,desktop,https://cristianpb.github.io/,,United Kingdom,Camerton,1,0,0,391,0,20240523,16,GB
-/,desktop,https://cristianpb.github.io/,,United States,Las Vegas,1,0,0,339,0,20240523,16,US
-/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,China,,1,0,0,21,0,20240523,16,CN
+/,desktop,https://cristianpb.github.io/,,China,(not set),1,0,0,437,0,20240523,16,CN
+/,desktop,https://cristianpb.github.io/,,China,Zhangjiajie,1,0,0,473,0,20240523,16,CN
+/,desktop,https://cristianpb.github.io/,,Germany,Buren,1,0,0,505,0,20240523,16,DE
+/,desktop,https://cristianpb.github.io/,,Iran,(not set),1,0,0,45,0,20240523,16,
+/,desktop,https://cristianpb.github.io/,,Ukraine,Odesa,1,0,0,502,0,20240523,16,UA
+/,desktop,https://cristianpb.github.io/,,United Kingdom,Camerton,1,0,0,510,0,20240523,16,GB
+/,desktop,https://cristianpb.github.io/,,United States,Las Vegas,1,0,0,487,0,20240523,16,US
+/,desktop,https://urlumbrella.com/site/cristianpb.github.io,,China,(not set),1,0,0,21,0,20240523,16,CN
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,China,Zhangjiajie,1,0,0,21,0,20240523,16,CN
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Germany,Buren,1,0,0,87,0,20240523,16,DE
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Ukraine,Odesa,1,0,0,27,0,20240523,16,UA
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,United Kingdom,Camerton,1,0,0,63,0,20240523,16,GB
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,United States,Las Vegas,1,0,0,24,0,20240523,16,US
 /blog/mopidy-muse,desktop,https://github.com/cristianpb/muse?tab=readme-ov-file,,Canada,Toronto,1,1,0,0,1,20240523,16,CA
+/,desktop,,,China,Guangzhou,1,1,0,12,1,20240524,2,CN
+/,desktop,,,China,Nanjing,1,1,0,15,1,20240524,3,CN
+/1,desktop,,,China,,1,1,0,15,1,20240524,3,CN
+/blog/music-voice-cotrol,desktop,https://www.google.com/,,United States,,1,1,0,3,1,20240524,4,US
+/blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,Japan,Fujisawa,1,1,0,0,1,20240524,6,JP
+/,desktop,,,China,,1,1,0,15,1,20240524,8,CN
+/blog/ssd-yolo,desktop,https://www.bing.com/,,India,Ahmedabad,1,1,0,3,1,20240524,8,IN
+/blog/vimwiki-hugo,desktop,https://www.google.com/,,Greece,,1,1,0,3,1,20240524,8,GR
+/,desktop,,,United States,,1,1,0,3,1,20240524,9,US
+/,desktop,https://bing.com/,,United States,Abbeville,1,1,0,3,1,20240524,9,US
+/,desktop,,,China,,1,1,0,15,1,20240524,10,CN
