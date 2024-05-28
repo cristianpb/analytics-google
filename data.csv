@@ -9,7 +9,7 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 //0.0.0.1/,desktop,,,China,(not set),3,3,0,42,1,20240521,18,CN
 /,desktop,,,China,(not set),3,3,0,36,1,20240522,9,CN
 /,desktop,,,China,(not set),3,3,0,45,1,20240524,10,CN
-//0.0.0.1/,desktop,,,China,(not set),2,2,0,21,1,20240520,15,CN
+/,desktop,,,China,,3,3,0,42,1,20240528,9,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,24,1,20240521,1,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,9,1,20240521,4,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20240521,5,CN
@@ -26,20 +26,6 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,Iran,(not set),2,0,0,126,0,20240523,15,
 /,desktop,,,China,(not set),2,2,0,30,1,20240524,2,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,30,1,20240524,2,CN
-/blog/ssd-yolo,desktop,https://www.google.com/,,United Kingdom,Bolton,1,1,0,0,1,20240520,0,GB
-/blog/ssd-yolo,desktop,,,Indonesia,Jakarta,1,1,0,0,1,20240520,2,ID
-/blog/monitoring-grafana,desktop,https://www.google.com.hk/,,Hong Kong,(not set),1,1,0,0,1,20240520,7,HK
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Russia,Oryol,1,1,0,3,1,20240520,8,RU
-/blog/ssd-yolo,mobile,https://www.google.com/,,Germany,Karlsruhe,1,1,0,0,1,20240520,14,DE
-/,desktop,,,China,Changsha,1,1,0,15,1,20240520,15,CN
-/,desktop,,,China,Nanjing,1,1,0,3,1,20240520,15,CN
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,France,Brest,1,1,0,3,1,20240520,16,FR
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Italy,Rome,1,1,0,3,1,20240520,16,IT
-/blog/ssd-yolo,desktop,https://mail.google.com/,,Argentina,Cordoba,1,1,0,0,1,20240520,16,AR
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,Finland,Espoo,1,1,0,0,1,20240520,17,FI
-/,desktop,,,France,Paris,1,1,0,6,1,20240520,18,FR
-/blog/monitoring-grafana,desktop,https://www.google.com/,,France,Bussy-Saint-Georges,1,1,0,0,1,20240520,21,FR
-/blog/mopidy-muse,desktop,https://mopidy.com/,,France,(not set),1,1,0,3,1,20240520,23,FR
 //0.0.0.1/,desktop,,,China,Changsha,1,1,0,12,1,20240521,1,CN
 /blog/marathon-mirabelle,desktop,https://www.google.com/,,United States,San Francisco,1,1,0,0,0,20240521,1,US
 /blog/tags,desktop,https://cristianpb.github.io/blog/marathon-mirabelle,,United States,San Francisco,1,1,27.917017,0,0,20240521,1,US
@@ -301,14 +287,28 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/ssd-yolo,desktop,https://mail.google.com/,,Argentina,Villa Carlos Paz,1,1,0,0,1,20240526,22,AR
 /blog/vimwiki-hugo,desktop,https://discourse.gohugo.io/,,Germany,Berlin,1,1,0,3,1,20240526,22,DE
 /blog/magic-wand,mobile,https://www.google.ch/,,Switzerland,Zurich,1,1,0,0,1,20240526,23,CH
+/blog/vimwiki-hugo,mobile,https://www.google.com/,,United Kingdom,Connah's Quay,1,1,0,3,1,20240527,0,GB
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Spain,Barcelona,1,1,0,0,1,20240527,2,ES
-/,desktop,,,United States,,1,1,0,0,1,20240527,3,US
-/,desktop,https://bing.com/,,United States,,1,1,0,3,1,20240527,3,US
+/,desktop,,,United States,(not set),1,1,0,0,1,20240527,3,US
+/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240527,3,US
 /blog/magic-wand,mobile,,,Australia,Melbourne,1,1,0,0,0,20240527,6,AU
 /blog/serverless-api-lambda,desktop,https://www.google.com/,,New Zealand,Auckland,1,1,0,3,1,20240527,6,NZ
-/blog/tags,mobile,https://cristianpb.github.io/blog/magic-wand,,Australia,Melbourne,1,1,0,0,0,20240527,6,AU
+/blog/tags,mobile,https://cristianpb.github.io/blog/magic-wand,,Australia,Melbourne,1,1,55.160099,0,0,20240527,6,AU
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,Italy,Rome,1,1,0,0,1,20240527,8,IT
+/blog/motion-monitor-opencv,desktop,https://yandex.ru/,,China,(not set),1,1,0,0,1,20240527,14,CN
 /blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,Japan,Fujisawa,1,1,0,0,1,20240527,15,JP
+/blog/mopidy-muse,desktop,https://www.google.com/,,Poland,Krakow,1,1,0,0,1,20240527,15,PL
+/,desktop,,,China,(not set),1,1,0,15,1,20240527,16,CN
+/blog/mopidy-muse,desktop,https://www.google.com/,,Germany,Karlsruhe,1,1,0,0,1,20240527,16,DE
 /blog/ssd-yolo,desktop,https://nl.search.yahoo.com/,,Netherlands,Tilburg,1,1,0,0,1,20240527,16,NL
 /about,desktop,https://cristianpb.github.io/about,,France,Paris,1,1,4.243332,0,0,20240527,17,FR
 /about,desktop,https://www.google.com/,,France,Paris,1,1,107.999859,3,0,20240527,17,FR
+/blog/traefik-goaccess,desktop,https://www.reddit.com/,,Poland,Rzeszow,1,1,0,3,1,20240527,17,PL
+/,desktop,,,China,,1,1,0,15,1,20240528,3,CN
+/,desktop,,,United States,,1,1,0,0,1,20240528,4,US
+/,desktop,https://bing.com/,,United States,,1,1,0,3,1,20240528,4,US
+/blog/monitoring-grafana,desktop,https://www.google.com.hk/,,China,Shanghai,1,1,0,3,1,20240528,4,CN
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Vietnam,Hanoi,1,1,0,0,1,20240528,5,VN
+/1,desktop,,,China,,1,1,0,15,1,20240528,9,CN
+/blog/image-rotation-opencv,desktop,,,India,Chennai,1,1,0,3,1,20240528,10,IN
+/blog/ssd-yolo,desktop,https://www.google.com/,,Thailand,Bangkok,1,1,0,3,1,20240528,10,TH
