@@ -1,22 +1,20 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,China,(not set),7,7,0,99,1,20240602,6,CN
 /,desktop,,,China,(not set),7,7,0,105,1,20240605,23,CN
+/,desktop,,,China,(not set),7,7,0,84,1,20240606,8,CN
 /,desktop,,,China,(not set),6,6,0,87,1,20240601,4,CN
 /,desktop,,,China,(not set),6,6,0,78,1,20240603,17,CN
 /,desktop,,,China,(not set),6,6,0,87,1,20240604,2,CN
-/,desktop,,,China,,6,6,0,81,1,20240606,8,CN
+/,desktop,,,China,(not set),6,6,0,90,1,20240606,4,CN
 /,desktop,,,China,(not set),5,5,0,75,1,20240531,6,CN
 /,desktop,,,China,(not set),5,5,0,75,1,20240531,23,CN
 /,desktop,,,China,(not set),5,5,0,75,1,20240604,0,CN
 /,desktop,,,China,(not set),5,5,0,63,1,20240604,13,CN
-/,desktop,,,China,(not set),4,4,0,60,1,20240530,12,CN
-/,desktop,,,China,(not set),4,4,0,60,1,20240530,13,CN
-/,desktop,,,China,(not set),4,4,0,60,1,20240530,14,CN
 /,desktop,,,China,(not set),4,4,0,51,1,20240531,22,CN
 /,desktop,,,China,(not set),4,4,0,48,1,20240602,5,CN
 /,desktop,,,China,(not set),4,4,0,60,1,20240603,19,CN
-/,desktop,,,China,,4,4,0,60,1,20240606,4,CN
-/,desktop,,,China,(not set),3,3,0,42,1,20240530,16,CN
+/,desktop,,,China,(not set),4,4,0,60,1,20240606,6,CN
+/,desktop,,,China,,4,4,0,60,1,20240607,9,CN
 /,desktop,,,China,(not set),3,3,0,45,1,20240601,0,CN
 /,desktop,,,China,(not set),3,3,0,45,1,20240601,5,CN
 /,desktop,,,China,(not set),3,3,0,30,1,20240602,1,CN
@@ -26,8 +24,8 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,Guangzhou,3,3,0,36,1,20240604,0,CN
 /,desktop,,,China,(not set),3,3,0,33,1,20240604,1,CN
 /1,desktop,,,China,(not set),3,3,0,36,1,20240604,13,CN
-/,desktop,,,China,,3,3,0,45,1,20240606,6,CN
-/,desktop,,,China,(not set),2,2,0,30,1,20240530,15,CN
+/,desktop,,,China,(not set),3,3,0,45,1,20240606,9,CN
+/,desktop,,,China,(not set),3,3,0,45,1,20240606,15,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,24,1,20240531,23,CN
 /,desktop,,,China,(not set),2,2,0,27,1,20240601,1,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20240602,0,CN
@@ -39,39 +37,7 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),2,2,0,24,1,20240605,5,CN
 /,desktop,,,China,(not set),2,2,0,24,1,20240605,13,CN
 /1,desktop,,,China,(not set),2,2,0,30,1,20240605,23,CN
-/,desktop,,,China,,2,2,0,30,1,20240606,9,CN
-/blog/ssd-yolo,desktop,https://www.google.com/,,France,(not set),1,1,0,0,1,20240530,0,FR
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Japan,Meguro City,1,1,0,0,1,20240530,4,JP
-/blog/monitoring-grafana,desktop,,,Thailand,Bangkok,1,1,0,0,1,20240530,4,TH
-/blog/monitoring-grafana,desktop,https://www.google.com/,,France,Bagneux,1,1,0,0,1,20240530,7,FR
-/blog/playlists-dashboard,desktop,https://yandex.ru/,,Russia,(not set),1,1,0,0,1,20240530,7,RU
-/,desktop,,,United States,(not set),1,1,0,0,1,20240530,9,US
-/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240530,9,US
-/blog/gnuplot-electrode,desktop,https://www.google.de/,,Germany,Weissensee,1,1,0,3,1,20240530,9,DE
-/blog/motion-monitor-opencv,mobile,https://cristianpb.github.io/blog/ssd-yolo,,India,Bengaluru,1,1,5.539907,0,0,20240530,9,IN
-/blog/ssd-yolo,mobile,https://www.google.com/,,India,Bengaluru,1,1,0,0,0,20240530,9,IN
-/,desktop,https://cristianpb.github.io/,,France,Paris,1,1,4.943003,0,0,20240530,11,FR
-/,desktop,https://cristianpb.github.io/about,,France,Paris,1,1,13.413656,0,0,20240530,11,FR
-/about,desktop,https://www.google.com/,,France,Paris,1,1,228.248623,0,0,20240530,11,FR
-/blog,desktop,https://cristianpb.github.io/,,France,Paris,1,1,31.337881,0,0,20240530,11,FR
-/blog,desktop,https://cristianpb.github.io/blog,,France,Paris,1,1,15.491235,0,0,20240530,11,FR
-/,desktop,,,China,Jiaxing,1,1,0,15,1,20240530,12,CN
-//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240530,12,CN
-/blog/traefik-goaccess,desktop,https://www.reddit.com/,,Bulgaria,Sofia,1,1,0,2,1,20240530,12,BG
-/,desktop,,,China,Chongqing,1,1,0,15,1,20240530,13,CN
-//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240530,13,CN
-//0.0.0.1/,desktop,,,China,(not set),1,1,0,12,1,20240530,14,CN
-/1,desktop,,,China,Hefei,1,1,0,15,1,20240530,14,CN
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Finland,Oulu,1,1,0,3,1,20240530,14,FI
-/blog/velib-folium,desktop,https://www.google.com/,,France,Paris,1,1,0,0,1,20240530,14,FR
-/,desktop,,,China,Changsha,1,1,0,15,1,20240530,16,CN
-//0.0.0.1/,desktop,,,China,Guangzhou,1,1,0,15,1,20240530,16,CN
-/1,desktop,,,China,Changsha,1,1,0,15,1,20240530,16,CN
-/blog/serverless-api-lambda,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,3,1,20240530,17,GB
-/blog/serverless-api-lambda,desktop,https://www.google.com/,,Canada,Toronto,1,1,0,0,1,20240530,18,CA
-/blog/velib-folium,desktop,https://www.google.com/,,Ireland,Dublin,1,1,0,2,1,20240530,19,IE
-/blog/document-detection,mobile,https://www.google.com/,,Morocco,Rabat,1,1,0,3,1,20240530,21,MA
-/blog/marathon-mirabelle,desktop,https://www.google.com/,,United States,Phoenix,1,1,0,0,1,20240530,23,US
+/,desktop,,,China,(not set),2,2,0,30,1,20240606,14,CN
 /,desktop,,,China,Jiaxing,1,1,0,15,1,20240531,6,CN
 //0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240531,6,CN
 /1,desktop,,,China,(not set),1,1,0,12,1,20240531,6,CN
@@ -184,14 +150,24 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/traefik-goaccess,desktop,https://www.bing.com/,,Germany,Tecklenburg,1,1,0,3,0,20240605,19,DE
 /blog/traefik-goaccess,desktop,https://www.google.de/,,Germany,Tecklenburg,1,1,68.573383,0,0,20240605,19,DE
 //0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240605,23,CN
-/,desktop,,,China,,1,1,0,15,1,20240606,0,CN
-/,desktop,,,China,,1,1,0,15,1,20240606,3,CN
+/,desktop,,,China,(not set),1,1,0,15,1,20240606,0,CN
+/,desktop,,,China,(not set),1,1,0,15,1,20240606,3,CN
 /,desktop,,,China,Xi'An,1,1,0,15,1,20240606,4,CN
 //0.0.0.1/,desktop,,,China,Chongqing,1,1,0,15,1,20240606,4,CN
-/1,desktop,,,China,,1,1,0,12,1,20240606,8,CN
+/1,desktop,,,China,(not set),1,1,0,12,1,20240606,8,CN
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Vietnam,Thu Dau Mot,1,1,0,3,1,20240606,9,VN
 /blog/magic-wand,desktop,https://www.google.com/,,Iran,Tehran,1,1,0,3,1,20240606,9,
 /blog/ssd-yolo,desktop,https://www.bing.com/,,Vietnam,Hanoi,1,1,0,0,1,20240606,11,VN
 /blog/ssd-yolo,desktop,https://www.google.com/,,France,Paris,1,1,0,0,1,20240606,11,FR
 /blog/grafana-dashboard,desktop,https://www.google.com/,,India,Thanjavur,1,1,0,9,1,20240606,12,IN
-/,desktop,,,China,,1,1,0,15,1,20240606,15,CN
+/,desktop,,,China,Chengdu,1,1,0,15,1,20240606,14,CN
+//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240606,14,CN
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,0,1,20240606,14,GB
+/,desktop,,,China,Nanjing,1,1,0,6,1,20240606,15,CN
+/,desktop,,,China,Sanya,1,1,0,15,1,20240606,15,CN
+/1,desktop,,,China,Jiaxing,1,1,0,15,1,20240606,15,CN
+/blog/document-detection,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240606,15,RU
+/,desktop,,,China,(not set),1,1,0,15,1,20240606,18,CN
+/,desktop,,,China,,1,1,0,9,1,20240607,10,CN
+//0.0.0.1/,desktop,,,China,Hefei,1,1,0,15,1,20240607,10,CN
+/,desktop,,,United States,,1,1,0,3,1,20240607,12,US
