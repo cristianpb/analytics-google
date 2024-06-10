@@ -1,5 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,China,(not set),7,7,0,99,1,20240602,6,CN
 /,desktop,,,China,(not set),7,7,0,105,1,20240605,23,CN
 /,desktop,,,China,(not set),7,7,0,84,1,20240606,8,CN
 /,desktop,,,China,(not set),7,7,0,105,1,20240607,9,CN
@@ -8,11 +7,9 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),6,6,0,90,1,20240606,4,CN
 /,desktop,,,China,(not set),5,5,0,75,1,20240604,0,CN
 /,desktop,,,China,(not set),5,5,0,63,1,20240604,13,CN
-/,desktop,,,China,(not set),4,4,0,48,1,20240602,5,CN
+/,desktop,,,China,,5,5,0,75,1,20240610,7,CN
 /,desktop,,,China,(not set),4,4,0,60,1,20240603,19,CN
 /,desktop,,,China,(not set),4,4,0,60,1,20240606,6,CN
-/,desktop,,,China,(not set),3,3,0,30,1,20240602,1,CN
-/,desktop,,,China,(not set),3,3,0,42,1,20240602,3,CN
 /,desktop,,,China,(not set),3,3,0,45,1,20240603,0,CN
 /,desktop,,,China,(not set),3,3,0,42,1,20240603,20,CN
 /,desktop,,,China,Guangzhou,3,3,0,36,1,20240604,0,CN
@@ -20,8 +17,7 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /1,desktop,,,China,(not set),3,3,0,36,1,20240604,13,CN
 /,desktop,,,China,(not set),3,3,0,45,1,20240606,9,CN
 /,desktop,,,China,(not set),3,3,0,45,1,20240606,15,CN
-/,desktop,,,China,(not set),2,2,0,30,1,20240602,0,CN
-/,desktop,,,China,(not set),2,2,0,27,1,20240602,9,CN
+/,desktop,,,China,,3,3,0,42,1,20240610,11,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20240603,1,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20240603,2,CN
 /,desktop,,,China,(not set),2,2,0,27,1,20240603,4,CN
@@ -31,33 +27,8 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /1,desktop,,,China,(not set),2,2,0,30,1,20240605,23,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20240606,14,CN
 /,desktop,,,China,(not set),2,2,0,24,1,20240607,10,CN
-/,desktop,,,China,Qiandongnan Miao and Dong Autonomous Prefecture,1,1,0,15,1,20240602,0,CN
-/,desktop,,,China,Wuhan,1,1,0,15,1,20240602,0,CN
-/,desktop,,,China,Changsha,1,1,0,15,1,20240602,1,CN
-//0.0.0.1/,desktop,,,China,Xi'An,1,1,0,9,1,20240602,1,CN
-/1,desktop,,,China,(not set),1,1,0,15,1,20240602,1,CN
-/,desktop,,,China,(not set),1,1,0,9,1,20240602,2,CN
-/1,desktop,,,China,(not set),1,1,0,12,1,20240602,2,CN
-//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240602,3,CN
-//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240602,5,CN
-//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240602,6,CN
-/,desktop,,,China,(not set),1,1,0,15,1,20240602,8,CN
-/1,desktop,,,China,(not set),1,1,0,15,1,20240602,9,CN
-/blog/ssd-yolo,desktop,https://www.google.com/,,Pakistan,Lahore,1,1,0,3,1,20240602,19,PK
-/,desktop,,,South Korea,Hwaseong-si,1,1,0,0,0,20240602,20,
-/,desktop,https://cristianpb.github.io/analytics-google/,,South Korea,Hwaseong-si,1,1,27.765986,1,0,20240602,20,
-/about,desktop,https://cristianpb.github.io/,,South Korea,Hwaseong-si,1,1,7.810105,1,0,20240602,20,
-/blog,mobile,https://cristianpb.github.io/blog/ssd-yolo,,India,Bengaluru,1,1,56.757128,1,0,20240602,20,IN
-/blog/analytics-google,desktop,https://github.com/cristianpb/analytics-google?tab=readme-ov-file,,South Korea,Hwaseong-si,1,1,103.039903,0,0,20240602,20,
-/blog/document-detection,mobile,https://cristianpb.github.io/blog,,India,Bengaluru,1,1,92.312102,0,0,20240602,20,IN
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Ukraine,Slavutych,1,1,0,9,1,20240602,20,UA
-/blog/ssd-yolo,mobile,https://www.google.com/,,India,Bengaluru,1,1,0,0,0,20240602,20,IN
-,desktop,,,Italy,Rome,1,1,0,0,1,20240602,21,IT
-/,desktop,,,China,(not set),1,1,0,15,1,20240602,21,CN
-/blog/vimwiki-hugo,desktop,https://www.google.com/,,Sweden,Stockholm,1,1,0,3,1,20240602,21,SE
-/blog/monitoring-grafana,desktop,,,Ukraine,Slavutych,1,1,0,0,1,20240602,22,UA
-/blog/ssd-yolo,desktop,https://www.google.com/,,India,Ahmedabad,1,1,0,0,1,20240602,22,IN
-/blog/monitoring-grafana,desktop,,,Ukraine,Slavutych,1,1,0,0,1,20240602,23,UA
+/,desktop,,,China,Xi'An,2,2,0,24,1,20240610,2,CN
+/,desktop,,,China,,2,2,0,30,1,20240610,6,CN
 /,desktop,,,China,Chengdu,1,1,0,15,1,20240603,1,CN
 /,desktop,,,China,Shanghai,1,1,0,15,1,20240603,2,CN
 //0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240603,2,CN
@@ -146,3 +117,20 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/ssd-yolo,desktop,https://www.bing.com/,,Estonia,Tallinn,1,1,0,0,1,20240608,18,EE
 /blog/monitoring-grafana,desktop,https://yandex.by/,,Belarus,Barysaw,1,1,0,0,1,20240608,19,BY
 /blog/vimwiki-hugo,desktop,https://www.google.com/,,Luxembourg,Luxembourg,1,1,0,0,1,20240609,9,LU
+/blog/jekyll-algolia,mobile,,,Poland,Wroclaw,1,1,0,0,1,20240609,12,PL
+/,mobile,,,China,(not set),1,1,0,6,1,20240609,17,CN
+/blog/motion-monitor-opencv,desktop,https://www.bing.com/,,United Kingdom,Liverpool,1,1,0,6,1,20240609,20,GB
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United Kingdom,Evesham,1,1,0,3,1,20240609,20,GB
+/blog/serverless-api-lambda,desktop,https://www.google.com/,,United States,Eagle Mountain,1,1,0,0,1,20240609,23,US
+/,desktop,,,China,,1,1,0,15,1,20240610,1,CN
+/,desktop,,,China,,1,1,0,15,1,20240610,2,CN
+/,desktop,,,China,Nanjing,1,1,0,15,1,20240610,2,CN
+/,desktop,,,China,Wuhan,1,1,0,15,1,20240610,2,CN
+/blog/serverless-api-lambda,desktop,https://www.google.com/,,United States,Eagle Mountain,1,1,0,0,1,20240610,6,US
+/,desktop,,,China,Jiaxing,1,1,0,15,1,20240610,7,CN
+/1,desktop,,,China,,1,1,0,15,1,20240610,7,CN
+/blog,desktop,https://cristianpb.github.io/blog/,,India,Bengaluru,1,1,5.416497,0,0,20240610,7,IN
+/blog/,desktop,,,India,Bengaluru,1,1,56.020829,0,0,20240610,7,IN
+/blog/image-rotation-opencv.,desktop,,,India,Bengaluru,1,1,0,3,0,20240610,7,IN
+/,desktop,,,China,,1,1,0,15,1,20240610,8,CN
+/,desktop,,,United States,,1,1,0,0,1,20240610,13,US
