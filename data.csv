@@ -1,5 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,China,(not set),7,7,0,105,1,20240605,23,CN
 /,desktop,,,China,(not set),7,7,0,84,1,20240606,8,CN
 /,desktop,,,China,(not set),7,7,0,105,1,20240607,9,CN
 /,desktop,,,China,(not set),6,6,0,90,1,20240606,4,CN
@@ -9,9 +8,7 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),3,3,0,45,1,20240606,9,CN
 /,desktop,,,China,(not set),3,3,0,45,1,20240606,15,CN
 /,desktop,,,China,(not set),3,3,0,42,1,20240610,11,CN
-/,desktop,,,China,(not set),2,2,0,24,1,20240605,5,CN
-/,desktop,,,China,(not set),2,2,0,24,1,20240605,13,CN
-/1,desktop,,,China,(not set),2,2,0,30,1,20240605,23,CN
+/,desktop,,,China,(not set),3,3,0,45,1,20240612,18,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20240606,14,CN
 /,desktop,,,China,(not set),2,2,0,24,1,20240607,10,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20240610,1,CN
@@ -19,18 +16,6 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),2,2,0,30,1,20240610,6,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20240610,8,CN
 /,desktop,,,China,(not set),2,2,0,27,1,20240610,17,CN
-/,desktop,,,China,Changsha,1,1,0,15,1,20240605,5,CN
-/1,desktop,,,China,(not set),1,1,0,15,1,20240605,5,CN
-/blog/ssd-yolo,mobile,https://www.google.com/,,Ukraine,Kyiv,1,1,0,0,1,20240605,9,UA
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,United Kingdom,Farnborough,1,1,0,3,1,20240605,10,GB
-/blog/motion-monitor-opencv,desktop,https://www.bing.com/,,Denmark,Copenhagen,1,1,0,0,1,20240605,12,DK
-/,desktop,,,China,Changsha,1,1,0,15,1,20240605,13,CN
-//0.0.0.1/,desktop,,,China,(not set),1,1,0,6,1,20240605,13,CN
-//0.0.0.1/,desktop,,,China,Liuzhou,1,1,0,15,1,20240605,13,CN
-/blog/analytics-google,desktop,https://www.google.com/,,India,Srinagar,1,1,0,6,1,20240605,19,IN
-/blog/traefik-goaccess,desktop,https://www.bing.com/,,Germany,Tecklenburg,1,1,0,3,0,20240605,19,DE
-/blog/traefik-goaccess,desktop,https://www.google.de/,,Germany,Tecklenburg,1,1,68.573383,0,0,20240605,19,DE
-//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240605,23,CN
 /,desktop,,,China,(not set),1,1,0,15,1,20240606,0,CN
 /,desktop,,,China,(not set),1,1,0,15,1,20240606,3,CN
 /,desktop,,,China,Xi'An,1,1,0,15,1,20240606,4,CN
@@ -99,5 +84,18 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/traefik-goaccess,desktop,https://www.bing.com/,,Canada,Calgary,1,1,0,3,1,20240611,17,CA
 /blog/vimwiki-hugo,desktop,,,United Kingdom,Oxford,1,1,0,3,0,20240611,18,GB
 /blog/vimwiki-hugo,desktop,https://www.google.com/,,United Kingdom,Oxford,1,1,2134.309173,1,0,20240611,19,GB
+/blog/ssd-yolo,desktop,https://yandex.ru/search?text=ssd+mobilenet&lr=213&clid=2192594&src=suggest_Dssm,,Russia,(not set),1,1,0,0,1,20240612,0,RU
 /blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,South Korea,Seoul,1,1,0,3,1,20240612,4,
 /blog/traefik-goaccess,desktop,https://duckduckgo.com/,,United States,Cedar Park,1,1,0,3,1,20240612,6,US
+/,desktop,,,United States,(not set),1,1,0,0,1,20240612,12,US
+/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240612,12,US
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Austria,Vienna,1,1,0,0,1,20240612,12,AT
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Romania,Targoviste,1,1,0,3,1,20240612,13,RO
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Austria,Vienna,1,1,0,3,1,20240612,17,AT
+//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240612,18,CN
+/blog/fluentbit-elasticsearch-kibana,desktop,https://www.bing.com/,,Indonesia,Jakarta,1,1,0,3,1,20240612,19,ID
+/blog/vimwiki-hugo,desktop,https://www.google.com/,,United Kingdom,Oxford,1,1,0,0,1,20240612,19,GB
+/blog/monitoring-grafana,desktop,https://cristianpb.github.io/blog/traefik-goaccess,,India,Kolkata,1,1,693.724622,1,0,20240612,21,IN
+/blog/traefik-goaccess,desktop,https://www.google.com/,,India,Kolkata,1,1,0,6,0,20240612,21,IN
+/blog/traefik-goaccess,desktop,,,United States,Cedar Park,1,1,0,2,1,20240613,2,US
+/blog/traefik-goaccess,desktop,,,United States,Cedar Park,1,1,0,1,1,20240613,4,US
