@@ -1,6 +1,8 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,China,(not set),8,8,0,108,1,20240618,4,CN
+//0.0.0.1/,desktop,,,China,(not set),5,5,0,27,1,20240620,22,CN
 /,desktop,,,China,(not set),4,4,0,60,1,20240618,11,CN
+/,desktop,,,China,(not set),4,4,0,12,1,20240620,22,CN
 /,desktop,,,China,(not set),3,3,0,24,1,20240618,17,CN
 /,desktop,,,China,(not set),3,3,0,39,1,20240619,11,CN
 /,desktop,,,China,(not set),3,3,0,45,1,20240619,21,CN
@@ -9,17 +11,6 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),2,2,0,30,1,20240618,0,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20240619,13,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,30,1,20240619,13,CN
-/blog/traefik-goaccess,desktop,,,United States,Cedar Park,1,1,0,2,1,20240613,2,US
-/blog/traefik-goaccess,desktop,,,United States,Cedar Park,1,1,297.794231,3,0,20240613,4,US
-/blog/vim-plugins,desktop,https://yandex.ru/,,Israel,Jerusalem,1,1,0,0,1,20240613,12,IL
-/blog/image-rotation-opencv,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240613,13,RU
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United Kingdom,(not set),1,1,0,2,1,20240613,13,GB
-/,desktop,,,United States,(not set),1,1,0,3,1,20240613,14,US
-/,desktop,,,United States,Coffeyville,1,1,0,6,1,20240613,14,US
-/blog/grafana-dashboard,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,3,1,20240613,14,RU
-/blog/image-rotation-opencv,desktop,https://blog.paperspace.com/data-augmentation-for-object-detection-rotation-and-shearing/,,Taiwan,(not set),1,1,0,3,1,20240613,14,TW
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Brazil,Rio de Janeiro,1,1,0,0,1,20240613,21,BR
-/blog/document-detection,mobile,https://www.google.com/,,Czechia,Prague,1,1,0,0,1,20240613,22,
 /,desktop,,,United States,(not set),1,1,0,0,1,20240614,0,US
 /blog/grafana-dashboard,desktop,https://www.google.com/,,Thailand,Bangkok,1,1,392.049612,0,0,20240614,6,TH
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Thailand,Bangkok,1,1,0,0,0,20240614,6,TH
@@ -115,5 +106,13 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/traefik-goaccess,desktop,https://www.bing.com/,,Canada,Calgary,1,1,0,2,1,20240619,21,CA
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Thailand,Bangkok,1,1,0,2,1,20240620,6,TH
 /blog/motion-monitor-opencv,desktop,https://www.bing.com/,,Israel,Rosh Haayin,1,1,0,21,1,20240620,6,IL
-/blog/analytics-google,mobile,https://cristianpb.github.io/blog/dashboard-dc-js,,Australia,Sydney,1,1,0,0,1,20240620,10,AU
+/blog/analytics-google,mobile,https://cristianpb.github.io/blog/dashboard-dc-js,,Australia,Sydney,1,1,13.602332,0,0,20240620,10,AU
+/blog/dashboard-dc-js,mobile,https://www.google.com/,,Australia,Sydney,1,1,0,3,0,20240620,10,AU
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Poland,Debica,1,1,0,0,1,20240620,16,PL
+/blog/data-withings,mobile,https://www.google.com/,,Netherlands,Amsterdam,1,1,0,0,1,20240620,19,NL
+/,desktop,,,China,Guiyang,1,1,0,3,1,20240620,22,CN
+/,desktop,,,China,Taiyuan,1,1,0,3,1,20240620,22,CN
+//0.0.0.1/,desktop,,,China,Jiaxing,1,1,0,3,1,20240620,22,CN
+/blog/gnuplot-electrode,desktop,https://www.google.com/,,Brazil,Juazeiro do Norte,1,1,0,0,1,20240621,5,BR
+/blog/image-rotation-opencv,desktop,,,Japan,Hamamatsu,1,1,0,3,1,20240621,9,JP
+/1,desktop,,,China,,1,1,0,3,1,20240621,12,CN
