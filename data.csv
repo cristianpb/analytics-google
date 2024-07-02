@@ -17,7 +17,7 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),4,4,0,45,1,20240628,7,CN
 /,desktop,,,China,(not set),4,4,0,57,1,20240628,15,CN
 /,desktop,,,China,(not set),4,4,0,51,1,20240630,19,CN
-/,desktop,,,China,,4,4,0,60,1,20240701,4,CN
+/,desktop,,,China,(not set),4,4,0,60,1,20240701,4,CN
 //0.0.0.1/,desktop,,,China,(not set),3,3,0,45,1,20240626,12,CN
 /,desktop,,,China,(not set),3,3,0,39,1,20240626,17,CN
 /1,desktop,,,China,(not set),3,3,0,45,1,20240627,16,CN
@@ -27,6 +27,7 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 //0.0.0.1/,desktop,,,China,(not set),3,3,0,27,1,20240628,8,CN
 /,desktop,,,China,(not set),3,3,0,42,1,20240628,12,CN
 /,desktop,,,China,(not set),3,3,0,45,1,20240629,3,CN
+/,desktop,,,China,(not set),3,3,0,45,1,20240701,8,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20240626,11,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,21,1,20240626,16,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20240626,19,CN
@@ -37,18 +38,8 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),2,2,0,30,1,20240628,5,CN
 /1,desktop,,,China,(not set),2,2,0,30,1,20240628,9,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,24,1,20240628,15,CN
-/blog/monitoring-grafana,desktop,https://www.google.com/,,South Korea,Seongnam-si,1,1,0,0,1,20240624,2,
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Vietnam,Hanoi,1,1,0,3,1,20240624,4,VN
-/blog/ssd-yolo,mobile,https://cristianpb.github.io/blog/ssd-yolo,,Andorra,(not set),1,1,52.238356,0,0,20240624,10,AD
-/blog/ssd-yolo,mobile,https://www.google.com/,,Andorra,(not set),1,1,0,0,0,20240624,10,AD
-/blog/ssd-yolo,mobile,https://www.google.com/,,India,Thiruvananthapuram,1,1,0,6,1,20240624,11,IN
-/blog/ssd-yolo,desktop,https://www.google.com/,,India,Bengaluru,1,1,0,3,1,20240624,14,IN
-/blog/ssd-yolo,desktop,https://www.google.com/,,India,Kochi,1,1,0,3,1,20240624,16,IN
-/blog/gnuplot-electrode,desktop,https://www.ecosia.org/,,Germany,Bonn,1,1,0,0,1,20240624,17,DE
-/blog/magic-wand,desktop,https://www.google.com/,,United States,Brandon,1,1,285.746378,3,0,20240624,17,US
-/blog/motion-monitor-opencv,desktop,https://duckduckgo.com/,,United States,Austin,1,1,0,0,1,20240624,17,US
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,United States,Austin,1,1,0,0,1,20240624,21,US
-/blog/grafana-dashboard,desktop,https://yandex.ru/,,Russia,Ulyanovsk,1,1,0,0,1,20240624,23,RU
+/,desktop,,,China,(not set),2,2,0,21,1,20240701,7,CN
+/,desktop,,,United States,Green River,2,2,0,15,1,20240701,9,US
 /,desktop,,,China,(not set),1,1,0,15,1,20240625,0,CN
 /,desktop,,,China,Taiyuan,1,1,0,15,1,20240625,0,CN
 /,desktop,,,China,Yinchuan,1,1,0,15,1,20240625,0,CN
@@ -146,11 +137,21 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/ssd-yolo,desktop,https://www.google.com/,,Germany,Dieburg,1,1,0,0,1,20240630,17,DE
 /1,desktop,,,China,Chongqing,1,1,0,15,1,20240630,19,CN
 /blog/motion-monitor-opencv,mobile,,,United States,Ashburn,1,1,0,0,1,20240630,21,US
-/,desktop,,,China,,1,1,0,15,1,20240701,3,CN
+/blog/ssd-yolo,desktop,https://www.google.com/,,Malaysia,Parit Buntar,1,1,0,3,1,20240701,0,MY
+/,desktop,,,China,(not set),1,1,0,15,1,20240701,3,CN
 /,desktop,,,China,Nanjing,1,1,0,15,1,20240701,4,CN
-/1,desktop,,,China,,1,1,0,15,1,20240701,4,CN
-/,desktop,,,China,,1,1,0,15,1,20240701,8,CN
-/1,desktop,,,China,,1,1,0,15,1,20240701,8,CN
-/,desktop,,,United States,Green River,1,1,0,6,1,20240701,9,US
+/1,desktop,,,China,(not set),1,1,0,15,1,20240701,4,CN
+/,desktop,,,China,Ganzhou,1,1,0,15,1,20240701,7,CN
+/1,desktop,,,China,(not set),1,1,0,15,1,20240701,8,CN
 /,desktop,,,United Kingdom,Manchester,1,1,0,0,1,20240701,11,GB
+/blog/serverless-api-lambda,desktop,https://www.google.com/,,India,Indore,1,1,0,3,1,20240701,12,IN
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,Dortmund,1,1,0,0,1,20240701,14,DE
+/blog/grafana-dashboard,desktop,https://www.google.com/,,India,Chennai,1,1,0,3,1,20240701,18,IN
+/blog/fluentbit-elasticsearch-kibana,desktop,https://www.yandex.com.tr/,,Türkiye,Ankara,1,1,0,3,1,20240701,19,
+/blog/traefik-goaccess,desktop,https://www.google.com/,,United States,(not set),1,1,0,6,1,20240701,20,US
+/blog/gnuplot-electrode,desktop,https://www.google.com/,,Brazil,Betim,1,1,0,3,1,20240701,22,BR
+/,desktop,,,China,,1,1,0,15,1,20240702,4,CN
+/blog/magic-wand,desktop,https://www.google.com/,,Mexico,Ciudad Victoria,1,1,0,0,1,20240702,4,MX
+/,desktop,,,Belgium,Brussels,1,1,0,0,0,20240702,13,BE
+/about,desktop,https://cristianpb.github.io/,,Belgium,Brussels,1,1,53.638431,0,0,20240702,13,BE
+/blog,desktop,https://cristianpb.github.io/about,,Belgium,Brussels,1,1,70.064478,0,0,20240702,13,BE
