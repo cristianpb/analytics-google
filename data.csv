@@ -28,6 +28,7 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),3,3,0,42,1,20240628,12,CN
 /,desktop,,,China,(not set),3,3,0,45,1,20240629,3,CN
 /,desktop,,,China,(not set),3,3,0,45,1,20240701,8,CN
+/,desktop,,,China,,3,3,0,45,1,20240703,3,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20240626,11,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,21,1,20240626,16,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20240626,19,CN
@@ -40,18 +41,7 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,24,1,20240628,15,CN
 /,desktop,,,China,(not set),2,2,0,21,1,20240701,7,CN
 /,desktop,,,United States,Green River,2,2,0,15,1,20240701,9,US
-/,desktop,,,China,(not set),1,1,0,15,1,20240625,0,CN
-/,desktop,,,China,Taiyuan,1,1,0,15,1,20240625,0,CN
-/,desktop,,,China,Yinchuan,1,1,0,15,1,20240625,0,CN
-//0.0.0.1/,desktop,,,China,Dalian,1,1,0,15,1,20240625,0,CN
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Australia,Ballarat,1,1,0,3,1,20240625,2,AU
-/blog/monitoring-grafana,desktop,https://yandex.ru/,,Russia,Novosibirsk,1,1,0,0,1,20240625,3,RU
-/blog/ssd-yolo,desktop,https://www.google.com/,,India,Hyderabad,1,1,0,0,1,20240625,4,IN
-/blog/ssd-yolo,desktop,https://www.google.com/,,India,(not set),1,1,0,0,1,20240625,8,IN
-/blog/motion-monitor-opencv,desktop,https://cristianpb.github.io/blog/ssd-yolo,,India,Rajsamand,1,1,0,0,0,20240625,11,IN
-/blog/raspberry-video-stream,desktop,https://cristianpb.github.io/blog/motion-monitor-opencv,,India,Rajsamand,1,1,263.447442,0,0,20240625,11,IN
-/blog/analytics-google,desktop,https://github.com/cristianpb/analytics-google?tab=readme-ov-file,,Qatar,Doha,1,1,0,3,1,20240625,15,QA
-/blog/vimwiki-hugo,desktop,https://www.google.com/,,Canada,Montreal,1,1,0,0,1,20240625,15,CA
+/,desktop,,,China,(not set),2,2,0,30,1,20240702,4,CN
 /blog/arduino-mkr-fox,mobile,https://www.google.com/,,Australia,Sale,1,1,0,0,1,20240626,0,AU
 /blog/grafana-dashboard,desktop,https://www.google.com/,,Chile,Iquique,1,1,101.330033,1,0,20240626,2,CL
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Chile,Iquique,1,1,0,0,0,20240626,2,CL
@@ -150,8 +140,16 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/fluentbit-elasticsearch-kibana,desktop,https://www.yandex.com.tr/,,Türkiye,Ankara,1,1,0,3,1,20240701,19,
 /blog/traefik-goaccess,desktop,https://www.google.com/,,United States,(not set),1,1,0,6,1,20240701,20,US
 /blog/gnuplot-electrode,desktop,https://www.google.com/,,Brazil,Betim,1,1,0,3,1,20240701,22,BR
-/,desktop,,,China,,1,1,0,15,1,20240702,4,CN
 /blog/magic-wand,desktop,https://www.google.com/,,Mexico,Ciudad Victoria,1,1,0,0,1,20240702,4,MX
+/blog/image-rotation-opencv,desktop,,,India,Pune,1,1,178.828858,1,0,20240702,10,IN
 /,desktop,,,Belgium,Brussels,1,1,0,0,0,20240702,13,BE
-/about,desktop,https://cristianpb.github.io/,,Belgium,Brussels,1,1,53.638431,0,0,20240702,13,BE
-/blog,desktop,https://cristianpb.github.io/about,,Belgium,Brussels,1,1,70.064478,0,0,20240702,13,BE
+/,desktop,https://cristianpb.github.io/about,,Belgium,Brussels,1,1,51.816936,1,0,20240702,13,BE
+/about,desktop,https://cristianpb.github.io/,,Belgium,Brussels,1,1,16.834457,0,0,20240702,13,BE
+/blog,desktop,https://cristianpb.github.io/about,,Belgium,Brussels,1,1,1.413085,0,0,20240702,13,BE
+/blog/document-detection,desktop,https://www.google.com/,,India,Bengaluru,1,1,0,0,1,20240702,13,IN
+/blog/ssd-yolo,mobile,https://www.google.com/,,Tunisia,Tunis,1,1,0,3,1,20240702,21,TN
+/blog/traefik-goaccess,mobile,https://www.google.com/,,Slovakia,Nitra,1,1,0,0,1,20240702,22,SK
+/blog/bulma-amp,desktop,https://www.google.com/,,United States,Oakwood,1,1,0,0,1,20240702,23,US
+/blog/serverless-api-lambda,desktop,https://www.google.com/,,Mexico,Mexico City,1,1,0,3,1,20240703,1,MX
+/,desktop,,,China,Guiyang,1,1,0,15,1,20240703,3,CN
+//0.0.0.1/,desktop,,,China,,1,1,0,15,1,20240703,3,CN
