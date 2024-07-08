@@ -4,7 +4,6 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),7,7,0,69,1,20240704,15,CN
 /,desktop,,,China,(not set),7,7,0,93,1,20240706,18,CN
 /,desktop,,,China,(not set),5,5,0,51,1,20240704,16,CN
-/,desktop,,,China,(not set),4,4,0,51,1,20240630,19,CN
 /,desktop,,,China,(not set),4,4,0,60,1,20240701,4,CN
 /,desktop,,,China,(not set),4,4,0,60,1,20240703,3,CN
 /,desktop,,,China,(not set),4,4,0,60,1,20240704,19,CN
@@ -25,16 +24,6 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),2,2,0,9,1,20240705,23,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,9,1,20240706,17,CN
 /1,desktop,,,China,(not set),2,2,0,30,1,20240706,18,CN
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Tunisia,Tunis,1,1,0,3,1,20240630,1,TN
-/,desktop,,,China,(not set),1,1,0,15,1,20240630,4,CN
-/1,desktop,,,China,(not set),1,1,0,12,1,20240630,4,CN
-/,desktop,,,China,(not set),1,1,0,15,1,20240630,7,CN
-/,desktop,,,China,(not set),1,1,0,15,1,20240630,8,CN
-/,desktop,,,China,(not set),1,1,0,15,1,20240630,15,CN
-/blog/vimwiki-hugo,mobile,https://www.google.com/,,Germany,Hamm,1,1,0,0,1,20240630,16,DE
-/blog/ssd-yolo,desktop,https://www.google.com/,,Germany,Dieburg,1,1,0,0,1,20240630,17,DE
-/1,desktop,,,China,Chongqing,1,1,0,15,1,20240630,19,CN
-/blog/motion-monitor-opencv,mobile,,,United States,Ashburn,1,1,0,0,1,20240630,21,US
 /blog/ssd-yolo,desktop,https://www.google.com/,,Malaysia,Parit Buntar,1,1,0,3,1,20240701,0,MY
 /,desktop,,,China,(not set),1,1,0,15,1,20240701,3,CN
 /,desktop,,,China,Nanjing,1,1,0,15,1,20240701,4,CN
@@ -138,3 +127,9 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/traefik-goaccess,mobile,https://www.google.com/,,Slovakia,Bratislava,1,1,0,0,1,20240706,20,SK
 /blog/traefik-goaccess,mobile,https://www.google.com/,,Slovakia,Bratislava,1,1,0,0,1,20240706,22,SK
 /blog/music-voice-cotrol,mobile,https://www.google.com/,,United States,Lake Zurich,1,1,0,0,1,20240707,4,US
+/blog/document-detection,desktop,https://www.google.com/,,Taiwan,(not set),1,1,0,0,1,20240707,13,TW
+/blog/grafana-dashboard,desktop,,,Italy,Milan,1,1,0,2,1,20240707,17,IT
+/blog/monitoring-grafana,desktop,,,Italy,Milan,1,1,1661.945366,1,0,20240707,17,IT
+/blog/monitoring-grafana,desktop,https://medium.com/@cristianpb/system-monitoring-with-grafana-influxdb-et-collectd-7827969e1fe,,Italy,Milan,1,1,0,3,0,20240707,17,IT
+/blog/mopidy-muse,desktop,https://mopidy.com/,,Austria,Modling,1,2,0,0,1,20240707,21,AT
+/blog/traefik-goaccess,desktop,https://www.google.com/,,Vietnam,Ho Chi Minh City,1,1,0,0,1,20240708,8,VN
