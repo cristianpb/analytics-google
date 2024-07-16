@@ -2,12 +2,11 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),6,6,0,75,1,20240712,21,CN
 /,desktop,,,China,(not set),5,5,0,24,1,20240709,16,CN
 /,desktop,,,China,(not set),5,5,0,69,1,20240712,23,CN
+/,desktop,,,China,(not set),5,5,0,75,1,20240715,11,CN
 /,desktop,,,China,(not set),4,4,0,12,1,20240712,4,CN
 /,desktop,,,China,(not set),3,3,0,9,1,20240710,6,CN
 //0.0.0.1/,desktop,,,China,(not set),3,3,0,12,1,20240710,6,CN
 //0.0.0.1/,desktop,,,China,(not set),3,3,0,24,1,20240712,21,CN
-/,desktop,,,China,(not set),2,2,0,9,1,20240708,15,CN
-/,desktop,,,China,(not set),2,2,0,3,1,20240708,22,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,6,1,20240709,16,CN
 /,desktop,,,China,(not set),2,2,0,15,1,20240710,1,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,18,1,20240710,1,CN
@@ -17,18 +16,8 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,https://bing.com/,,United States,Gardiner,2,2,0,12,1,20240712,15,US
 /1,desktop,,,China,(not set),2,2,0,21,1,20240712,21,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,30,1,20240712,23,CN
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Vietnam,Ho Chi Minh City,1,1,0,0,1,20240708,8,VN
-/blog/document-detection,mobile,https://www.google.com/,,United Kingdom,London,1,1,0,0,1,20240708,11,GB
-/,desktop,https://www.data.gouv.fr/,,France,Grenoble,1,1,0,3,1,20240708,12,FR
-/blog/ssd-yolo,desktop,,,Tunisia,Tunis,1,1,0,3,1,20240708,18,TN
-/blog/ssd-yolo,desktop,https://www.google.com/,,Canada,Ottawa,1,1,0,3,1,20240708,18,CA
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Türkiye,Izmir,1,1,0,0,0,20240708,21,
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Türkiye,Izmir,1,1,113.09541,0,0,20240708,21,
-//0.0.0.1/,desktop,,,China,(not set),1,1,0,3,1,20240708,22,CN
-//0.0.0.1/,desktop,,,China,Nanchang,1,1,0,3,1,20240708,22,CN
-/blog/ssd-yolo,mobile,https://www.google.com/,,Iraq,(not set),1,1,0,3,1,20240708,22,IQ
-/,desktop,,,China,(not set),1,1,0,6,1,20240708,23,CN
-/,mobile,,,China,(not set),1,1,0,3,1,20240708,23,CN
+/,desktop,,,China,(not set),2,2,0,24,1,20240715,12,CN
+//0.0.0.1/,desktop,,,China,(not set),2,2,0,15,1,20240715,21,CN
 /blog/ssd-yolo,desktop,,,Tunisia,(not set),1,1,0,2,1,20240709,0,TN
 /blog/traefik-goaccess,desktop,https://www.reddit.com/,,Bulgaria,Sofia,1,1,0,2,1,20240709,0,BG
 /blog/monitoring-grafana,desktop,https://www.google.com/,,United States,Dublin,1,1,0,0,1,20240709,1,US
@@ -103,6 +92,20 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/music-voice-cotrol,desktop,https://www.google.com/,,United Kingdom,Clacton-on-Sea,1,1,0,0,1,20240714,14,GB
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Morocco,Mohammedia,1,1,0,12,1,20240714,17,MA
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Morocco,Mohammedia,1,1,0,4,1,20240714,21,MA
-/blog/ssd-yolo,desktop,,,Tunisia,,1,1,0,2,1,20240715,12,TN
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Germany,Munich,1,1,0,0,1,20240715,11,DE
+/blog/ssd-yolo,desktop,,,Tunisia,(not set),1,1,0,2,1,20240715,12,TN
+/,desktop,,,United States,Gardiner,1,1,0,3,1,20240715,14,US
+/,desktop,https://bing.com/,,United States,Gardiner,1,1,0,3,1,20240715,14,US
+/blog/raspberry-video-stream,desktop,https://www.google.com/,,Germany,Stuttgart,1,1,0,3,1,20240715,15,DE
 /blog/ssd-yolo,desktop,,,Canada,Ottawa,1,1,0,2,1,20240715,15,CA
-/,desktop,,,China,,1,1,0,0,1,20240715,16,CN
+/,desktop,,,China,(not set),1,1,0,0,1,20240715,16,CN
+/,desktop,,,China,Tianjin,1,1,0,0,1,20240715,16,CN
+/1,desktop,,,China,(not set),1,1,0,3,1,20240715,16,CN
+/blog/music-voice-cotrol,mobile,,,Russia,Saint Petersburg,1,1,149.900696,1,0,20240715,18,RU
+/blog/music-voice-cotrol,mobile,https://www.google.com/,,Russia,Saint Petersburg,1,1,0,3,0,20240715,18,RU
+/,desktop,,,China,(not set),1,1,0,6,1,20240715,21,CN
+/,desktop,,,China,Harbin,1,1,0,9,1,20240715,21,CN
+/blog/marathon-mirabelle,desktop,https://www.google.com/,,France,Toulouse,1,1,1882.698431,1,0,20240715,21,FR
+/blog/marathon-mirabelle,mobile,https://www.google.com/,,France,Toulouse,1,1,0,0,1,20240715,21,FR
+/blog/image-rotation-opencv,desktop,,,United States,Washington,1,1,0,3,1,20240715,22,US
+/blog/bulma-amp,mobile,https://duckduckgo.com/,,Malaysia,Subang Jaya,1,1,0,0,1,20240716,4,MY
