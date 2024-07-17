@@ -1,13 +1,11 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,China,(not set),6,6,0,75,1,20240712,21,CN
-/,desktop,,,China,(not set),5,5,0,24,1,20240709,16,CN
 /,desktop,,,China,(not set),5,5,0,69,1,20240712,23,CN
 /,desktop,,,China,(not set),5,5,0,75,1,20240715,11,CN
 /,desktop,,,China,(not set),4,4,0,12,1,20240712,4,CN
 /,desktop,,,China,(not set),3,3,0,9,1,20240710,6,CN
 //0.0.0.1/,desktop,,,China,(not set),3,3,0,12,1,20240710,6,CN
 //0.0.0.1/,desktop,,,China,(not set),3,3,0,24,1,20240712,21,CN
-//0.0.0.1/,desktop,,,China,(not set),2,2,0,6,1,20240709,16,CN
 /,desktop,,,China,(not set),2,2,0,15,1,20240710,1,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,18,1,20240710,1,CN
 /,desktop,,,China,(not set),2,2,0,6,1,20240710,16,CN
@@ -18,20 +16,8 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,30,1,20240712,23,CN
 /,desktop,,,China,(not set),2,2,0,24,1,20240715,12,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,15,1,20240715,21,CN
-/blog/ssd-yolo,desktop,,,Tunisia,(not set),1,1,0,2,1,20240709,0,TN
-/blog/traefik-goaccess,desktop,https://www.reddit.com/,,Bulgaria,Sofia,1,1,0,2,1,20240709,0,BG
-/blog/monitoring-grafana,desktop,https://www.google.com/,,United States,Dublin,1,1,0,0,1,20240709,1,US
-/blog/traefik-goaccess,desktop,https://www.reddit.com/,,Taiwan,(not set),1,1,0,3,1,20240709,6,TW
-/blog/ssd-yolo,desktop,https://duckduckgo.com/,,Türkiye,Istanbul,1,1,0,3,1,20240709,7,
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Türkiye,Istanbul,1,1,0,12,1,20240709,11,
-/,desktop,,,United States,Coffeyville,1,1,0,0,1,20240709,13,US
-/,desktop,https://bing.com/,,United States,Coffeyville,1,1,0,3,1,20240709,13,US
-/blog/ssd-yolo,desktop,https://yandex.ru/,,United Arab Emirates,Dubai,1,1,0,3,1,20240709,14,AE
-//0.0.0.1/,desktop,,,China,Nanjing,1,1,0,9,1,20240709,16,CN
-/1,desktop,,,China,(not set),1,1,0,3,1,20240709,16,CN
-/blog/grafana-dashboard,mobile,https://www.google.com/,,Russia,Perm,1,1,52.111855,0,0,20240709,22,RU
-/blog/traefik-goaccess,desktop,https://www.reddit.com/,,Bulgaria,Sofia,1,1,0,2,1,20240709,22,BG
-/blog/traefik-goaccess,mobile,https://www.google.com/,,Russia,Perm,1,1,0,0,0,20240709,22,RU
+/,desktop,,,China,(not set),2,2,0,30,1,20240716,12,CN
+/,desktop,,,China,,2,2,0,30,1,20240717,5,CN
 /blog/traefik-goaccess,desktop,,,Pakistan,Islamabad,1,1,0,12,1,20240710,4,PK
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Türkiye,Izmir,1,1,0,0,1,20240710,5,
 /,desktop,,,China,Liuzhou,1,1,0,0,1,20240710,6,CN
@@ -109,3 +95,16 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/marathon-mirabelle,mobile,https://www.google.com/,,France,Toulouse,1,1,0,0,1,20240715,21,FR
 /blog/image-rotation-opencv,desktop,,,United States,Washington,1,1,0,3,1,20240715,22,US
 /blog/bulma-amp,mobile,https://duckduckgo.com/,,Malaysia,Subang Jaya,1,1,0,0,1,20240716,4,MY
+/blog/monitoring-grafana,desktop,https://www.google.com/,,South Korea,Incheon,1,1,0,0,1,20240716,12,
+/,desktop,https://www.data.gouv.fr/,,Hungary,4060,1,1,0,0,1,20240716,13,HU
+/blog/marathon-mirabelle,desktop,https://www.google.com/,,France,Paris,1,1,0,0,1,20240716,13,FR
+/,desktop,,,United States,Gardiner,1,1,0,6,1,20240716,16,US
+/blog/arduino-mkr-fox,desktop,https://www.google.com/,,France,Massy,1,1,0,0,1,20240716,16,FR
+/blog/traefik-goaccess,desktop,https://www.reddit.com/,,Brazil,Sao Paulo,1,1,0,3,1,20240716,16,BR
+/,desktop,,,China,Nanchang,1,1,0,15,1,20240716,17,CN
+/,desktop,https://bing.com/,,United States,Gardiner,1,1,0,0,1,20240716,17,US
+/,desktop,,,China,,1,1,0,15,1,20240717,1,CN
+/,desktop,,,China,Sanya,1,1,0,15,1,20240717,5,CN
+/blog/monitoring-grafana,desktop,https://yandex.by/,,Belarus,Gomel,1,1,0,3,1,20240717,10,BY
+/blog/image-processing-using-serverless-architecture,mobile,https://www.google.com/,,India,Mumbai,1,1,0,0,1,20240717,11,IN
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,India,Sahibzada Ajit Singh Nagar,1,1,0,3,1,20240717,11,IN
