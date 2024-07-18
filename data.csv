@@ -1,14 +1,13 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,China,(not set),6,6,0,75,1,20240712,21,CN
+/,desktop,,,China,(not set),6,6,0,81,1,20240717,20,CN
 /,desktop,,,China,(not set),5,5,0,69,1,20240712,23,CN
 /,desktop,,,China,(not set),5,5,0,75,1,20240715,11,CN
 /,desktop,,,China,(not set),4,4,0,12,1,20240712,4,CN
-/,desktop,,,China,(not set),3,3,0,9,1,20240710,6,CN
-//0.0.0.1/,desktop,,,China,(not set),3,3,0,12,1,20240710,6,CN
+/,desktop,,,China,,4,4,0,48,1,20240718,0,CN
+/,desktop,,,China,,4,4,0,57,1,20240718,1,CN
 //0.0.0.1/,desktop,,,China,(not set),3,3,0,24,1,20240712,21,CN
-/,desktop,,,China,(not set),2,2,0,15,1,20240710,1,CN
-//0.0.0.1/,desktop,,,China,(not set),2,2,0,18,1,20240710,1,CN
-/,desktop,,,China,(not set),2,2,0,6,1,20240710,16,CN
+/,desktop,,,China,(not set),3,3,0,42,1,20240717,5,CN
 /,desktop,,,China,(not set),2,2,0,18,1,20240711,16,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,6,1,20240711,23,CN
 /,desktop,https://bing.com/,,United States,Gardiner,2,2,0,12,1,20240712,15,US
@@ -17,20 +16,10 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),2,2,0,24,1,20240715,12,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,15,1,20240715,21,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20240716,12,CN
-/,desktop,,,China,,2,2,0,30,1,20240717,5,CN
-/blog/traefik-goaccess,desktop,,,Pakistan,Islamabad,1,1,0,12,1,20240710,4,PK
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Türkiye,Izmir,1,1,0,0,1,20240710,5,
-/,desktop,,,China,Liuzhou,1,1,0,0,1,20240710,6,CN
-//0.0.0.1/,desktop,,,China,Nanjing,1,1,0,0,1,20240710,6,CN
-/,mobile,,,China,(not set),1,1,0,3,1,20240710,7,CN
-/blog/serverless-api-lambda,desktop,https://www.google.com/,,Spain,Barcelona,1,1,0,0,1,20240710,11,ES
-/,desktop,https://cristianpb.github.io/blog/grafana-dashboard,,Türkiye,Izmir,1,1,12.955439,0,0,20240710,13,
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Türkiye,Izmir,1,1,0,0,0,20240710,13,
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Türkiye,Izmir,1,1,259.357199,0,0,20240710,13,
-/,desktop,,,United States,Gardiner,1,1,0,3,1,20240710,15,US
-/,desktop,https://bing.com/,,United States,Gardiner,1,1,0,6,1,20240710,15,US
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,Germany,Bayreuth,1,1,0,0,1,20240710,15,DE
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Türkiye,Istanbul,1,1,0,3,1,20240710,22,
+/,desktop,,,China,(not set),2,2,0,30,1,20240717,1,CN
+/1,desktop,,,China,(not set),2,2,0,24,1,20240717,20,CN
+/,desktop,,,China,(not set),2,2,0,30,1,20240717,21,CN
+/,desktop,,,China,(not set),2,2,0,27,1,20240717,23,CN
 /blog/serverless-api-lambda,desktop,https://www.google.com/,,Japan,Osaka,1,1,0,3,1,20240711,5,JP
 /blog/image-preprocessing,desktop,https://www.bing.com/,,India,Chennai,1,1,0,0,1,20240711,8,IN
 /blog/mopidy-muse,desktop,https://github.com/cristianpb/muse?tab=readme-ov-file,,United States,Mountain View,1,1,0,0,1,20240711,8,US
@@ -103,8 +92,32 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/traefik-goaccess,desktop,https://www.reddit.com/,,Brazil,Sao Paulo,1,1,0,3,1,20240716,16,BR
 /,desktop,,,China,Nanchang,1,1,0,15,1,20240716,17,CN
 /,desktop,https://bing.com/,,United States,Gardiner,1,1,0,0,1,20240716,17,US
-/,desktop,,,China,,1,1,0,15,1,20240717,1,CN
+/,desktop,,,China,Zhengzhou,1,1,0,15,1,20240717,1,CN
+/blog/image-rotation-opencv,desktop,,,Singapore,Singapore,1,1,0,0,1,20240717,4,SG
 /,desktop,,,China,Sanya,1,1,0,15,1,20240717,5,CN
 /blog/monitoring-grafana,desktop,https://yandex.by/,,Belarus,Gomel,1,1,0,3,1,20240717,10,BY
+/,desktop,,,China,Chengdu,1,1,0,15,1,20240717,11,CN
+/blog/document-detection,desktop,https://www.google.com/,,India,Lucknow,1,1,0,3,1,20240717,11,IN
 /blog/image-processing-using-serverless-architecture,mobile,https://www.google.com/,,India,Mumbai,1,1,0,0,1,20240717,11,IN
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,India,Sahibzada Ajit Singh Nagar,1,1,0,3,1,20240717,11,IN
+/,desktop,https://cristianpb.github.io/analytics-google/,,Indonesia,Klapanunggal,1,1,69.513919,0,0,20240717,16,ID
+/blog/analytics-google,desktop,https://www.google.com/,,Indonesia,Klapanunggal,1,1,0,2,0,20240717,16,ID
+/blog/gnuplot-electrode,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,3,1,20240717,16,RU
+/,desktop,,,China,(not set),1,1,0,15,1,20240717,19,CN
+/,desktop,,,China,Xi'An,1,1,0,15,1,20240717,19,CN
+/,desktop,,,China,Guiyang,1,1,0,15,1,20240717,20,CN
+/,desktop,,,China,Jiaxing,1,1,0,15,1,20240717,20,CN
+/,desktop,,,China,Zhengzhou,1,1,0,15,1,20240717,20,CN
+//0.0.0.1/,desktop,,,China,(not set),1,1,0,9,1,20240717,20,CN
+/,desktop,,,China,Hefei,1,1,0,15,1,20240717,21,CN
+/,desktop,,,China,Liuzhou,1,1,0,15,1,20240717,21,CN
+/,desktop,,,China,Nanchang,1,1,0,15,1,20240717,21,CN
+//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240717,21,CN
+/,desktop,,,China,Chongqing,1,1,0,15,1,20240717,22,CN
+//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240717,23,CN
+/,desktop,,,China,Hefei,1,1,0,15,1,20240718,0,CN
+//0.0.0.1/,desktop,,,China,,1,1,0,15,1,20240718,0,CN
+/1,desktop,,,China,,1,1,0,15,1,20240718,0,CN
+/1,desktop,,,China,Changchun,1,1,0,15,1,20240718,1,CN
+/blog/monitoring-grafana,desktop,https://www.google.com/,,South Korea,Seongnam-si,1,1,0,3,1,20240718,6,
+/blog/vimwiki-hugo,desktop,https://www.reddit.com/,,Italy,Bolzano,1,1,35.34394,0,1,20240718,12,IT
