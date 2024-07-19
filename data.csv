@@ -3,13 +3,11 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),6,6,0,81,1,20240717,20,CN
 /,desktop,,,China,(not set),5,5,0,69,1,20240712,23,CN
 /,desktop,,,China,(not set),5,5,0,75,1,20240715,11,CN
+/,desktop,,,China,(not set),5,5,0,60,1,20240718,0,CN
 /,desktop,,,China,(not set),4,4,0,12,1,20240712,4,CN
-/,desktop,,,China,,4,4,0,48,1,20240718,0,CN
-/,desktop,,,China,,4,4,0,57,1,20240718,1,CN
+/,desktop,,,China,(not set),4,4,0,57,1,20240718,1,CN
 //0.0.0.1/,desktop,,,China,(not set),3,3,0,24,1,20240712,21,CN
 /,desktop,,,China,(not set),3,3,0,42,1,20240717,5,CN
-/,desktop,,,China,(not set),2,2,0,18,1,20240711,16,CN
-//0.0.0.1/,desktop,,,China,(not set),2,2,0,6,1,20240711,23,CN
 /,desktop,https://bing.com/,,United States,Gardiner,2,2,0,12,1,20240712,15,US
 /1,desktop,,,China,(not set),2,2,0,21,1,20240712,21,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,30,1,20240712,23,CN
@@ -20,20 +18,6 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /1,desktop,,,China,(not set),2,2,0,24,1,20240717,20,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20240717,21,CN
 /,desktop,,,China,(not set),2,2,0,27,1,20240717,23,CN
-/blog/serverless-api-lambda,desktop,https://www.google.com/,,Japan,Osaka,1,1,0,3,1,20240711,5,JP
-/blog/image-preprocessing,desktop,https://www.bing.com/,,India,Chennai,1,1,0,0,1,20240711,8,IN
-/blog/mopidy-muse,desktop,https://github.com/cristianpb/muse?tab=readme-ov-file,,United States,Mountain View,1,1,0,0,1,20240711,8,US
-/blog/ssd-yolo,desktop,,,Tunisia,(not set),1,1,0,2,1,20240711,11,TN
-/blog/traefik-goaccess,desktop,,,Taiwan,(not set),1,1,0,2,1,20240711,11,TW
-/blog/jekyll-algolia,desktop,https://www.google.com/,,Spain,Madrid,1,1,0,0,1,20240711,12,ES
-/blog/ssd-yolo,desktop,https://www.google.com/,,Vietnam,Ho Chi Minh City,1,1,0,0,1,20240711,12,VN
-//0.0.0.1/,desktop,,,China,Chongqing,1,1,0,3,1,20240711,16,CN
-/blog/traefik-goaccess,desktop,https://duckduckgo.com/,,Germany,(not set),1,1,0,3,1,20240711,16,DE
-/blog/vimwiki-hugo,mobile,,,Poland,Warsaw,1,1,0,0,1,20240711,17,PL
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,0,1,20240711,18,GB
-/blog/monitoring-grafana,mobile,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20240711,21,RU
-/,desktop,,,China,(not set),1,1,0,3,1,20240711,23,CN
-/,desktop,,,China,Nanjing,1,1,0,3,1,20240711,23,CN
 /blog/vimwiki-hugo,mobile,,,Poland,Warsaw,1,1,0,0,1,20240712,0,PL
 /,desktop,,,China,(not set),1,1,0,3,1,20240712,2,CN
 //0.0.0.1/,desktop,,,China,Kunming,1,1,0,6,1,20240712,2,CN
@@ -115,9 +99,31 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 //0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240717,21,CN
 /,desktop,,,China,Chongqing,1,1,0,15,1,20240717,22,CN
 //0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240717,23,CN
+/,desktop,,,China,Chengdu,1,1,0,15,1,20240718,0,CN
 /,desktop,,,China,Hefei,1,1,0,15,1,20240718,0,CN
-//0.0.0.1/,desktop,,,China,,1,1,0,15,1,20240718,0,CN
-/1,desktop,,,China,,1,1,0,15,1,20240718,0,CN
+//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240718,0,CN
+/1,desktop,,,China,(not set),1,1,0,15,1,20240718,0,CN
 /1,desktop,,,China,Changchun,1,1,0,15,1,20240718,1,CN
+/blog/monitoring-grafana,desktop,https://www.google.co.jp/,,Japan,Namerikawa,1,1,0,0,1,20240718,3,JP
 /blog/monitoring-grafana,desktop,https://www.google.com/,,South Korea,Seongnam-si,1,1,0,3,1,20240718,6,
-/blog/vimwiki-hugo,desktop,https://www.reddit.com/,,Italy,Bolzano,1,1,35.34394,0,1,20240718,12,IT
+/blog/ssd-yolo,desktop,https://www.google.com/,,Kenya,(not set),1,1,0,3,1,20240718,10,KE
+/blog/vimwiki-hugo,desktop,https://www.reddit.com/,,Italy,Bolzano,1,1,686.963697,0,0,20240718,11,IT
+/,desktop,,,United States,(not set),1,1,0,3,1,20240718,12,US
+/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240718,12,US
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Luxembourg,Munsbach,1,1,0,0,1,20240718,12,LU
+/blog/vimwiki-hugo,desktop,https://www.reddit.com/,,Italy,Bolzano,1,1,1220.699062,0,0,20240718,12,IT
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United Kingdom,Loughborough,1,1,0,6,1,20240718,13,GB
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Türkiye,Ankara,1,1,0,3,1,20240718,14,
+/blog/music-voice-cotrol,mobile,https://www.google.com/,,France,Lyon,1,1,0,3,1,20240718,15,FR
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,Frankfurt,1,1,0,0,1,20240718,16,DE
+/blog/vimwiki-hugo,desktop,https://discourse.gohugo.io/,,United States,Los Angeles,1,1,138.169543,0,0,20240718,17,US
+/blog/vimwiki-hugo,desktop,https://www.reddit.com/,,United States,Los Angeles,1,1,0,0,0,20240718,17,US
+/blog/velib-folium,mobile,https://www.google.com/,,United Kingdom,Bath,1,1,0,0,1,20240718,19,GB
+/blog/velib-folium,mobile,https://www.google.com/,,United Kingdom,Bath,1,1,0,0,1,20240718,21,GB
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Germany,Nuremberg,1,1,0,3,1,20240719,0,DE
+/blog/vimwiki-hugo,desktop,https://duckduckgo.com/,,Poland,Warsaw,1,1,208.878454,0,1,20240719,0,PL
+/,mobile,,,United States,Columbus,1,1,0,3,1,20240719,3,US
+/blog/magic-wand,desktop,https://www.google.com/,,South Korea,Gwacheon-si,1,1,294.743193,3,1,20240719,5,
+/blog/magic-wand,desktop,https://www.google.com/,,South Korea,Gwacheon-si,1,1,0,0,1,20240719,6,
+/blog/magic-wand,desktop,https://www.google.com/,,South Korea,Gwacheon-si,1,1,0,0,1,20240719,9,
+/blog/analytics-google,desktop,https://www.google.com/,,Vietnam,Ho Chi Minh City,1,1,0,3,1,20240719,10,VN
