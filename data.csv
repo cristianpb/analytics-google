@@ -1,9 +1,11 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,China,(not set),6,6,0,81,1,20240717,20,CN
+/,desktop,,,China,(not set),6,6,0,63,1,20240720,12,CN
+/,desktop,,,China,(not set),6,6,0,90,1,20240720,13,CN
+/,desktop,,,China,,6,6,0,90,1,20240721,6,CN
 /,desktop,,,China,(not set),5,5,0,75,1,20240715,11,CN
 /,desktop,,,China,(not set),5,5,0,60,1,20240718,0,CN
 /,desktop,,,China,(not set),4,4,0,57,1,20240718,1,CN
-/,desktop,,,China,,4,4,0,33,1,20240720,12,CN
 /,desktop,,,China,(not set),3,3,0,42,1,20240717,5,CN
 /,desktop,,,China,(not set),2,2,0,24,1,20240715,12,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,15,1,20240715,21,CN
@@ -13,15 +15,11 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),2,2,0,30,1,20240717,21,CN
 /,desktop,,,China,(not set),2,2,0,27,1,20240717,23,CN
 /,desktop,,,United States,(not set),2,2,0,3,1,20240719,13,US
-/,desktop,,,China,,2,2,0,30,1,20240720,7,CN
-/,desktop,,,China,,2,2,0,30,1,20240720,10,CN
-/1,desktop,,,China,,2,2,0,18,1,20240720,12,CN
-/,desktop,,,China,,2,2,0,30,1,20240720,13,CN
-/blog/fluentbit-elasticsearch-kibana,desktop,https://www.bing.com/,,China,(not set),1,1,0,0,1,20240713,8,CN
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Malaysia,Tanjung Bungah,1,1,0,0,1,20240713,9,MY
-/blog/ssd-yolo,mobile,https://www.google.com/,,United Arab Emirates,Sharjah,1,1,0,3,1,20240713,13,AE
-/blog/traefik-goaccess,desktop,https://www.reddit.com/,,Germany,Bamberg,1,1,0,0,1,20240713,13,DE
-/blog/traefik-goaccess,mobile,https://www.google.com/,,Slovakia,Nitra,1,1,0,0,1,20240713,15,SK
+/,desktop,,,China,(not set),2,2,0,30,1,20240720,7,CN
+/,desktop,,,China,(not set),2,2,0,30,1,20240720,10,CN
+/1,desktop,,,China,(not set),2,2,0,18,1,20240720,12,CN
+/,desktop,,,China,,2,2,0,30,1,20240721,1,CN
+//0.0.0.1/,desktop,,,China,,2,2,0,30,1,20240721,1,CN
 /blog/gnuplot-electrode,desktop,https://www.google.com/,,Israel,Jerusalem,1,1,0,3,1,20240714,12,IL
 /blog/music-voice-cotrol,desktop,https://www.google.com/,,United Kingdom,Clacton-on-Sea,1,1,0,0,1,20240714,14,GB
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Morocco,Mohammedia,1,1,0,12,1,20240714,17,MA
@@ -110,12 +108,35 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/traefik-goaccess,desktop,https://www.reddit.com/,,Australia,Canberra,1,1,0,6,1,20240719,20,AU
 /blog/gnuplot-electrode,desktop,https://www.google.com/,,Italy,(not set),1,1,0,0,1,20240719,21,IT
 /blog/vimwiki-hugo,desktop,https://duckduckgo.com/,,Poland,Warsaw,1,1,0,0,1,20240719,21,PL
-/,desktop,,,China,,1,1,0,6,1,20240720,5,CN
-//0.0.0.1/,desktop,,,China,,1,1,0,15,1,20240720,5,CN
+/,desktop,,,China,(not set),1,1,0,6,1,20240720,5,CN
+//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240720,5,CN
 /blog/magic-wand,desktop,https://www.google.com/,,South Korea,Gwacheon-si,1,1,0,0,1,20240720,5,
-/,desktop,,,China,,1,1,0,15,1,20240720,6,CN
-/1,desktop,,,China,,1,1,0,6,1,20240720,7,CN
+/,desktop,,,China,(not set),1,1,0,15,1,20240720,6,CN
+/,desktop,,,China,Harbin,1,1,0,15,1,20240720,6,CN
+/,desktop,,,China,Hefei,1,1,0,15,1,20240720,7,CN
+/1,desktop,,,China,(not set),1,1,0,6,1,20240720,7,CN
+/,desktop,,,China,(not set),1,1,0,15,1,20240720,11,CN
+//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240720,11,CN
+/,desktop,,,China,Changchun,1,1,0,15,1,20240720,12,CN
 /,desktop,,,China,Chengdu,1,1,0,15,1,20240720,12,CN
+/,desktop,,,China,Hefei,1,1,0,15,1,20240720,12,CN
+/,desktop,,,China,Xi'An,1,1,0,15,1,20240720,12,CN
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Greece,Athens,1,1,0,0,1,20240720,14,GR
 /blog/traefik-goaccess,desktop,https://www.reddit.com/,,Australia,Canberra,1,1,0,4,1,20240720,14,AU
 /blog/analytics-google,mobile,https://github.com/cristianpb/analytics-google?tab=readme-ov-file,,India,Akola,1,1,0,3,1,20240720,16,IN
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Czechia,Brno,1,1,0,3,1,20240720,22,
+/blog/analytics-google,mobile,,,United Kingdom,Cranleigh,1,1,0,0,1,20240720,23,GB
+/,desktop,,,China,Chengdu,1,1,0,15,1,20240721,1,CN
+/blog/raspberry-video-stream,mobile,https://cristianpb.github.io/blog/motion-monitor-opencv,,France,,1,1,0,0,1,20240721,3,FR
+/,desktop,,,China,,1,1,0,15,1,20240721,4,CN
+/,desktop,,,China,Changchun,1,1,0,15,1,20240721,6,CN
+//0.0.0.1/,desktop,,,China,Changchun,1,1,0,15,1,20240721,6,CN
+/1,desktop,,,China,,1,1,0,15,1,20240721,6,CN
+/,desktop,,,China,,1,1,0,15,1,20240721,8,CN
+/,desktop,,,China,Changchun,1,1,0,15,1,20240721,8,CN
+/1,desktop,,,China,,1,1,0,15,1,20240721,8,CN
+/blog/dashboard-dc-js,desktop,https://www.google.com/,,Indonesia,Klapanunggal,1,1,0,2,0,20240721,12,ID
+/blog/fluentbit-elasticsearch-kibana,desktop,https://github.com/,,Indonesia,Klapanunggal,1,1,0,1,1,20240721,12,ID
+/blog/grafana-dashboard,desktop,https://cristianpb.github.io/blog/fluentbit-elasticsearch-kibana,,Indonesia,Klapanunggal,1,1,165.177346,1,0,20240721,12,ID
+/blog/monitoring-grafana,desktop,https://cristianpb.github.io/blog/fluentbit-elasticsearch-kibana,,Indonesia,Klapanunggal,1,1,0,1,0,20240721,12,ID
+/blog/traefik-goaccess,desktop,https://cristianpb.github.io/blog/fluentbit-elasticsearch-kibana,,Indonesia,Klapanunggal,1,1,73.367658,1,1,20240721,12,ID
