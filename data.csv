@@ -1,18 +1,17 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,China,(not set),7,7,0,96,1,20240802,21,CN
 /,desktop,,,China,(not set),6,6,0,78,1,20240802,23,CN
-/,desktop,,,China,(not set),5,5,0,15,1,20240728,8,CN
 /,desktop,,,China,(not set),5,5,0,27,1,20240802,0,CN
 /,desktop,,,China,(not set),5,5,0,75,1,20240802,20,CN
 /,desktop,,,China,(not set),4,4,0,54,1,20240729,6,CN
 /,desktop,,,China,(not set),4,4,0,18,1,20240801,17,CN
 /,desktop,,,China,(not set),4,4,0,21,1,20240802,11,CN
-//0.0.0.1/,desktop,,,China,(not set),3,3,0,15,1,20240728,8,CN
 //0.0.0.1/,desktop,,,China,(not set),3,3,0,36,1,20240729,6,CN
 /,desktop,,,China,(not set),3,3,0,21,1,20240801,16,CN
 /,desktop,,,China,(not set),3,3,0,6,1,20240802,1,CN
 //0.0.0.1/,desktop,,,China,(not set),3,3,0,24,1,20240802,1,CN
 /,desktop,,,China,(not set),3,3,0,45,1,20240803,1,CN
+/,desktop,,,China,,3,3,0,27,1,20240805,4,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20240801,8,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,30,1,20240801,8,CN
 /1,desktop,,,China,(not set),2,2,0,21,1,20240801,17,CN
@@ -21,10 +20,7 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,6,1,20240802,11,CN
 /,desktop,,,China,Beijing,2,2,0,30,1,20240802,20,CN
 /,desktop,,,China,(not set),2,2,0,21,1,20240803,19,CN
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,Aachen,1,1,0,3,1,20240728,0,DE
-/blog/monitoring-grafana,desktop,,,Germany,Aachen,1,1,0,2,1,20240728,1,DE
-/1,desktop,,,China,(not set),1,1,0,3,1,20240728,8,CN
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Vietnam,Ho Chi Minh City,1,1,0,0,1,20240728,11,VN
+/,desktop,,,United States,(not set),2,2,0,3,1,20240804,14,US
 /,desktop,,,China,Guiyang,1,1,0,15,1,20240729,6,CN
 /,desktop,,,China,Liuzhou,1,1,0,9,1,20240729,6,CN
 /1,desktop,,,China,Tianjin,1,1,0,9,1,20240729,6,CN
@@ -159,6 +155,20 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/dashboard-dc-js,desktop,,,India,Vadodara,1,1,0,6,1,20240803,15,IN
 //0.0.0.1/,desktop,,,China,Nanchong,1,1,0,15,1,20240803,19,CN
 /,desktop,,,China,(not set),1,1,0,15,1,20240803,21,CN
+/,desktop,,,China,Diqing Tibetan Autonomous Prefecture,1,1,0,15,1,20240804,5,CN
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Finland,Oulu,1,1,0,0,1,20240804,9,FI
 /blog/mopidy-muse,desktop,https://mopidy.com/,,Sweden,Lund,1,1,0,0,1,20240804,9,SE
 /blog/document-detection,desktop,https://www.google.com/,,Türkiye,Gaziantep,1,1,0,0,1,20240804,13,
+/blog/traefik-goaccess,desktop,https://www.bing.com/,,Germany,(not set),1,1,0,0,1,20240804,16,DE
+/blog/gnuplot-electrode,tablet,https://www.google.com/,,United States,Albuquerque,1,1,0,3,1,20240804,18,US
+/blog/ssd-yolo,desktop,,,Russia,Korolyov,1,1,0,0,1,20240804,19,RU
+/blog/mopidy-muse,mobile,android-app://com.google.android.googlequicksearchbox/,,Netherlands,Rotterdam,1,1,0,3,1,20240804,21,NL
+/,desktop,,,China,Hangzhou,1,1,0,15,1,20240805,4,CN
+/,desktop,,,China,Shenzhen,1,1,0,15,1,20240805,4,CN
+//0.0.0.1/,desktop,,,China,,1,1,0,12,1,20240805,4,CN
+/,desktop,,,China,,1,1,0,15,1,20240805,7,CN
+/,desktop,,,China,Liuzhou,1,1,0,6,1,20240805,8,CN
+/blog/vimwiki-hugo,mobile,https://www.google.com/,,United Kingdom,Solihull,1,1,329.427712,0,0,20240805,8,GB
+/1,desktop,,,China,,1,1,0,6,1,20240805,10,CN
+/blog/analytics-google,desktop,https://github.com/cristianpb/analytics-google,,Spain,Madrid,1,1,120.620928,4,0,20240805,10,ES
+/,desktop,,,France,Paris,1,1,0,42,1,20240805,11,FR
