@@ -4,12 +4,6 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),2,2,0,27,1,20240916,13,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20240918,7,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20240918,8,CN
-/,desktop,,,China,(not set),1,1,0,15,1,20240913,1,CN
-/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240913,1,US
-/blog/monitoring-grafana,desktop,https://www.google.com/,,India,Mangaluru,1,1,0,0,1,20240913,13,IN
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Italy,(not set),1,1,0,0,1,20240913,16,IT
-/blog/magic-wand,desktop,https://www.google.com/,,Spain,Sant Cugat del Valles,1,1,0,0,1,20240913,20,ES
-/blog/velib-folium,desktop,https://www.google.com/,,Spain,Valencia,1,1,0,3,1,20240913,21,ES
 /,desktop,,,(not set),(not set),1,1,0,0,1,20240914,5,
 /blog/image-rotation-opencv,desktop,https://blog.csdn.net/loovelj/article/details/111758857,,China,(not set),1,1,0,3,1,20240914,5,CN
 /blog/monitoring-grafana,mobile,https://www.google.com/,,Germany,(not set),1,1,0,0,1,20240914,6,DE
@@ -90,9 +84,19 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),1,1,0,15,1,20240919,17,CN
 /,desktop,,,China,(not set),1,1,0,15,1,20240919,18,CN
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,Spain,Vic,1,1,0,3,1,20240919,18,ES
-/,desktop,,,China,,1,1,0,15,1,20240920,1,CN
+/,desktop,,,China,(not set),1,1,0,15,1,20240920,1,CN
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Brazil,Sao Paulo,1,1,0,3,1,20240920,2,BR
-/blog/traefik-goaccess,desktop,https://traefik.io/,,Taiwan,,1,1,0,3,1,20240920,7,TW
+/blog/traefik-goaccess,desktop,https://traefik.io/,,Taiwan,(not set),1,1,0,3,1,20240920,7,TW
+/blog/ssd-yolo,mobile,https://www.google.com/,,Italy,Milan,1,1,0,3,1,20240920,8,IT
 /,mobile,https://cristianpb-github-io.cdn.ampproject.org/v/s/cristianpb.github.io/about?amp_js_v=0.1&usqp=mq331AQIUAKwASCAAgM%3D,,France,Paris,1,1,0,0,1,20240920,15,FR
 /about,mobile,https://www.google.com/,,France,Paris,1,1,0,3,1,20240920,15,FR
-/blog/mopidy-muse,tablet,https://www.google.com/,,United States,Mead,1,1,0,0,1,20240920,16,US
+/blog/magic-wand,desktop,https://www.google.com/,,France,Lyon,1,1,0,0,1,20240920,15,FR
+/blog/mopidy-muse,desktop,https://mopidy.com/,,Germany,Frankfurt,1,1,0,0,1,20240920,15,DE
+/blog/mopidy-muse,tablet,https://www.google.com/,,United States,Mead,1,1,0,0,0,20240920,16,US
+/blog/mopidy-muse,tablet,https://www.google.com/,,United States,Mead,1,1,186.442885,0,0,20240920,17,US
+/blog/monitoring-grafana,desktop,https://duckduckgo.com/,,Poland,(not set),1,1,0,3,1,20240920,19,PL
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Mexico,Tijuana,1,1,0,3,1,20240920,20,MX
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Mexico,Tijuana,1,1,0,2,1,20240920,22,MX
+/blog/dashboard-dc-js,desktop,https://www.google.com/,,Indonesia,Klapanunggal,1,1,0,2,0,20240921,10,ID
+/blog/fluentbit-elasticsearch-kibana,desktop,https://github.com/cristianpb/cristianpb,,Indonesia,Klapanunggal,1,1,0,1,0,20240921,10,ID
+/blog/tags,desktop,https://cristianpb.github.io/blog/dashboard-dc-js,,Indonesia,Klapanunggal,1,1,293.2366,1,0,20240921,10,ID
