@@ -1,26 +1,14 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,China,,3,3,0,27,1,20240922,7,CN
-/,desktop,,,United States,(not set),2,2,0,12,1,20240915,13,US
-/,desktop,,,China,(not set),2,2,0,30,1,20240915,17,CN
+/,desktop,,,China,(not set),6,6,0,72,1,20240922,7,CN
+/,desktop,,,China,(not set),5,5,0,57,1,20240922,6,CN
 /,desktop,,,China,(not set),2,2,0,27,1,20240916,13,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20240918,7,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20240918,8,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20240921,20,CN
-/,desktop,,,China,,2,2,0,27,1,20240922,3,CN
-/,desktop,,,China,,2,2,0,18,1,20240922,6,CN
-/,desktop,,,China,(not set),1,1,0,15,1,20240915,7,CN
-/,desktop,,,China,(not set),1,1,0,15,1,20240915,9,CN
-/,desktop,,,China,(not set),1,1,0,15,1,20240915,11,CN
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Vietnam,Tu Son,1,1,0,0,1,20240915,11,VN
-/blog/mopidy-muse,desktop,https://mopidy.com/,,Switzerland,St. Gallen,1,1,0,0,1,20240915,11,CH
-/,desktop,,,China,(not set),1,1,0,15,1,20240915,12,CN
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,India,Mapusa,1,1,0,3,1,20240915,16,IN
-/,desktop,,,China,Shenzhen,1,1,0,15,1,20240915,17,CN
-/,desktop,,,China,Suzhou,1,1,0,15,1,20240915,17,CN
-/,desktop,,,China,(not set),1,1,0,9,1,20240915,18,CN
-/blog/document-detection,mobile,android-app://com.google.android.googlequicksearchbox/,,Netherlands,7545,1,1,0,3,1,20240915,20,NL
-/blog/grafana-dashboard,desktop,https://www.google.com/,,United States,Oviedo,1,1,78.312223,0,0,20240915,20,US
-/blog/monitoring-grafana,desktop,https://www.google.com/,,United States,Oviedo,1,1,0,0,0,20240915,20,US
+/,desktop,,,China,(not set),2,2,0,30,1,20240922,1,CN
+/,desktop,,,China,(not set),2,2,0,27,1,20240922,3,CN
+/,desktop,,,China,(not set),2,2,0,21,1,20240922,8,CN
+/,desktop,,,China,,2,2,0,30,1,20240923,3,CN
 /,desktop,,,China,(not set),1,1,0,15,1,20240916,1,CN
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Vietnam,Hanoi,1,1,0,0,1,20240916,5,VN
 /blog/document-detection,desktop,https://www.google.com/,,Vietnam,Hanoi,1,1,0,0,1,20240916,6,VN
@@ -100,17 +88,36 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/vimwiki-hugo,desktop,https://www.bing.com/,,South Korea,Hwaseong-si,1,1,0,3,1,20240921,14,
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Cambodia,Phnom Penh,1,1,0,0,1,20240921,15,KH
 /blog/motion-monitor-opencv,desktop,,,United States,Bridgetown North,1,1,46.23042,0,0,20240921,21,US
-/,desktop,,,China,,1,1,0,15,1,20240922,1,CN
 /,desktop,,,China,Fuzhou,1,1,0,15,1,20240922,1,CN
 //0.0.0.1/,desktop,,,China,Beijing,1,1,0,15,1,20240922,1,CN
-/,desktop,,,China,,1,1,0,9,1,20240922,2,CN
+/,desktop,,,China,(not set),1,1,0,9,1,20240922,2,CN
 /,desktop,,,China,Beijing,1,1,0,15,1,20240922,2,CN
+//0.0.0.1/,desktop,,,China,Tianjin,1,1,0,15,1,20240922,2,CN
 /blog/alchemy-machine,desktop,https://www.google.com/,,Canada,Vaudreuil-Dorion,1,1,0,0,1,20240922,4,CA
 /,desktop,,,China,Dalian,1,1,0,15,1,20240922,6,CN
-//0.0.0.1/,desktop,,,China,,1,1,0,6,1,20240922,6,CN
+/,desktop,,,China,Tianjin,1,1,0,15,1,20240922,6,CN
+//0.0.0.1/,desktop,,,China,(not set),1,1,0,6,1,20240922,6,CN
 /1,desktop,,,China,Guilin,1,1,0,3,1,20240922,6,CN
-//0.0.0.1/,desktop,,,China,,1,1,0,15,1,20240922,7,CN
-//0.0.0.1/,desktop,,,China,,1,1,0,15,1,20240922,8,CN
-/blog/marathon-mirabelle,mobile,https://www.google.com/,,India,Chennai,1,1,0,2,1,20240922,10,IN
-/blog/tags,mobile,https://cristianpb.github.io/blog/marathon-mirabelle,,India,Chennai,1,1,0,0,1,20240922,10,IN
-/,desktop,,,China,,1,1,0,6,1,20240922,13,CN
+/,desktop,,,China,Shenzhen,1,1,0,6,1,20240922,7,CN
+//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240922,7,CN
+//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240922,8,CN
+/1,desktop,,,China,Shanghai,1,1,0,15,1,20240922,8,CN
+/blog/marathon-mirabelle,mobile,https://www.google.com/,,India,Chennai,1,1,14.508976,11,0,20240922,10,IN
+/blog/tags,mobile,https://cristianpb.github.io/blog/marathon-mirabelle,,India,Chennai,1,1,0.85033,0,0,20240922,10,IN
+/,desktop,,,China,(not set),1,1,0,6,1,20240922,13,CN
+/,desktop,,,China,Shenyang,1,1,0,9,1,20240922,16,CN
+/blog/motion-monitor-opencv,mobile,https://duckduckgo.com/,,Netherlands,Amsterdam,1,1,0,0,1,20240922,17,NL
+/,desktop,,,China,Tianjin,1,1,0,15,1,20240923,3,CN
+/,desktop,,,China,,1,1,0,15,1,20240923,5,CN
+/,desktop,,,China,Nanjing,1,1,0,12,1,20240923,7,CN
+/blog/image-rotation-opencv,desktop,,,China,Guangzhou,1,1,0,0,1,20240923,8,CN
+/blog/monitoring-grafana,desktop,,,United Kingdom,London,1,1,0,6,1,20240923,9,GB
+/,desktop,https://cristianpb.github.io/analytics-google/github,,India,Mangaluru,1,1,0,0,0,20240923,10,IN
+/blog/analytics-google,desktop,https://github.com/cristianpb/analytics-google,,India,Mangaluru,1,1,0,5,0,20240923,10,IN
+/,desktop,https://cristianpb.github.io/about,,France,Paris,1,1,0,0,0,20240923,13,FR
+/about,desktop,https://www.google.com/,,France,Paris,1,1,0,0,0,20240923,13,FR
+/blog,desktop,https://cristianpb.github.io/,,France,Paris,1,1,17.493829,0,0,20240923,13,FR
+/,desktop,,,Switzerland,Bern,1,1,236.033964,2,0,20240923,14,CH
+/,desktop,https://cristianpb.github.io/analytics-google/,,France,Paris,1,1,0,0,0,20240923,14,FR
+/about,desktop,https://cristianpb.github.io/,,France,Paris,1,1,4.433344,0,0,20240923,14,FR
+/about,desktop,https://www.google.com/,,Switzerland,Bern,1,1,0,0,0,20240923,14,CH
