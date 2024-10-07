@@ -1,41 +1,6 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,China,Shanghai,2,2,0,30,1,20240930,13,CN
 /,desktop,,,United States,Concord,2,2,0,6,1,20241005,0,US
-/,desktop,,,China,Taiyuan,1,1,0,15,1,20240929,0,CN
-/,desktop,,,China,Xi'An,1,1,0,15,1,20240929,0,CN
-/,desktop,https://www.google.com/,,Indonesia,Klapanunggal,1,1,0,2,0,20240929,0,ID
-/blog/fluentbit-elasticsearch-kibana,desktop,https://cristianpb.github.io/,,Indonesia,Klapanunggal,1,1,20.000742,0,0,20240929,0,ID
-/,desktop,,,China,Linyi,1,1,0,15,1,20240929,1,CN
-/,desktop,,,China,Tianjin,1,1,0,15,1,20240929,1,CN
-/,desktop,,,China,Xi'An,1,1,0,15,1,20240929,1,CN
-/,desktop,,,China,Yanbian Korean Autonomous Prefecture,1,1,0,15,1,20240929,1,CN
-//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20240929,1,CN
-/,desktop,,,China,Fuzhou,1,1,0,15,1,20240929,2,CN
-/,desktop,,,China,Kunming,1,1,0,15,1,20240929,2,CN
-/,desktop,,,China,Nanning,1,1,0,15,1,20240929,2,CN
-/,desktop,,,China,Nanning,1,1,0,15,1,20240929,3,CN
-/,desktop,,,China,Shanghai,1,1,0,15,1,20240929,3,CN
-/,desktop,,,China,Chongqing,1,1,0,15,1,20240929,4,CN
-/,desktop,,,China,Guilin,1,1,0,12,1,20240929,4,CN
-/,desktop,,,China,Kunming,1,1,0,15,1,20240929,4,CN
-/,desktop,,,China,Xi'An,1,1,0,15,1,20240929,4,CN
-/blog/vim-plugins,desktop,https://www.google.com/,,South Korea,Busan,1,1,0,3,1,20240929,7,
-/blog/image-rotation-opencv,mobile,,,Japan,Esashi,1,1,0,3,1,20240929,8,JP
-/blog/vim-plugins,desktop,,,South Korea,Busan,1,1,0,0,1,20240929,8,
-/,desktop,,,China,Xiamen,1,1,0,15,1,20240929,9,CN
-/,desktop,,,China,Beijing,1,1,0,15,1,20240929,10,CN
-/,desktop,,,China,Fuzhou,1,1,0,15,1,20240929,11,CN
-/,desktop,,,United States,(not set),1,1,0,3,1,20240929,12,US
-/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240929,12,US
-/blog/document-detection,desktop,https://www.google.com/,,Canada,Rhineland,1,1,0,3,1,20240929,12,CA
-/1,desktop,,,China,Xilingol League,1,1,0,15,1,20240929,13,CN
-/,desktop,,,China,(not set),1,1,0,15,1,20240929,14,CN
-/,desktop,,,China,Tianjin,1,1,0,15,1,20240929,16,CN
-/blog/grafana-dashboard,desktop,https://www.reddit.com/,,Canada,Winnipeg,1,1,0,0,1,20240929,19,CA
-/,desktop,,,China,(not set),1,1,0,15,1,20240929,20,CN
-/,desktop,,,China,Xi'An,1,1,0,15,1,20240929,20,CN
-//0.0.0.1/,desktop,,,China,Shanghai,1,1,0,6,1,20240929,20,CN
-/,desktop,,,China,Beijing,1,1,0,15,1,20240929,23,CN
 /,desktop,,,China,Hangzhou,1,1,0,9,1,20240930,0,CN
 /,desktop,,,China,Xilingol League,1,1,0,9,1,20240930,0,CN
 //0.0.0.1/,desktop,,,China,Shenyang,1,1,0,6,1,20240930,0,CN
@@ -133,3 +98,15 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/motion-monitor-opencv,desktop,,,Russia,Nizhny Tagil,1,1,0,0,1,20241005,12,RU
 /blog/vimwiki-hugo,desktop,https://www.reddit.com/,,Norway,Trondheim Municipality,1,1,0,0,1,20241005,22,NO
 /blog/fluentbit-elasticsearch-kibana,desktop,https://www.bing.com/,,United States,Boston,1,1,0,3,1,20241006,2,US
+/,desktop,,,United States,Concord,1,1,0,3,1,20241006,15,US
+/blog/document-detection,mobile,https://www.google.com/,,Russia,Vidnoye,1,1,0,3,1,20241006,21,RU
+/,desktop,,,China,Shanghai,1,1,0,15,1,20241007,2,CN
+/blog/withings-data,mobile,android-app://com.google.android.googlequicksearchbox/,,United Kingdom,Warrington,1,1,0,0,1,20241007,2,GB
+/blog/image-rotation-opencv,desktop,https://www.google.co.kr/,,South Korea,Seongnam-si,1,1,0,3,1,20241007,5,
+/blog/ssd-yolo,desktop,https://duckduckgo.com/,,Australia,Sydney,1,1,0,2,1,20241007,6,AU
+/,desktop,,,China,Fuzhou,1,1,0,15,1,20241007,12,CN
+/,mobile,https://duckduckgo.com/,,France,Paris,1,1,0,0,0,20241007,12,FR
+/blog/data-withings,mobile,https://cristianpb.github.io/blog/talking-data,,France,Paris,1,1,0,0,0,20241007,12,FR
+/blog/marathon-mirabelle,mobile,https://cristianpb.github.io/blog/withings-data,,France,Paris,1,1,469.277793,0,0,20241007,12,FR
+/blog/talking-data,mobile,https://cristianpb.github.io/blog,,France,Paris,1,1,512.935418,1,0,20241007,12,FR
+/blog/withings-data,mobile,https://cristianpb.github.io/blog/data-withings,,France,Paris,1,1,87.881282,1,0,20241007,12,FR
