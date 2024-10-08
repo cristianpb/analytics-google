@@ -1,22 +1,7 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,China,Shanghai,2,2,0,30,1,20240930,13,CN
 /,desktop,,,United States,Concord,2,2,0,6,1,20241005,0,US
-/,desktop,,,China,Hangzhou,1,1,0,9,1,20240930,0,CN
-/,desktop,,,China,Xilingol League,1,1,0,9,1,20240930,0,CN
-//0.0.0.1/,desktop,,,China,Shenyang,1,1,0,6,1,20240930,0,CN
-/1,desktop,,,China,Xiamen,1,1,0,15,1,20240930,0,CN
-/blog/traefik-goaccess,desktop,https://ya.ru/,,Russia,Moscow,1,1,0,3,1,20240930,1,RU
-/about,desktop,https://www.bing.com/,,Spain,(not set),1,1,0,0,1,20240930,7,ES
-/,desktop,,,China,(not set),1,1,0,15,1,20240930,11,CN
-/,desktop,,,China,Xi'An,1,1,0,15,1,20240930,12,CN
-//0.0.0.1/,desktop,,,China,Fuzhou,1,1,0,15,1,20240930,13,CN
-/blog/velib-folium,desktop,https://www.google.com/,,Switzerland,Zurich,1,1,0,3,1,20240930,13,CH
-/blog/vimwiki-hugo,desktop,https://discourse.gohugo.io/,,United Kingdom,London,1,1,0,0,1,20240930,14,GB
-/,desktop,,,China,Tianjin,1,1,0,15,1,20240930,15,CN
-/,desktop,,,United States,(not set),1,1,0,3,1,20240930,15,US
-/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20240930,16,US
-/blog/monitoring-grafana,desktop,https://medium.com/@cristianpb/system-monitoring-with-grafana-influxdb-et-collectd-7827969e1fe,,Bulgaria,Sofia,1,1,0,0,1,20240930,16,BG
-/blog/traefik-goaccess,desktop,https://www.reddit.com/,,Pakistan,Lahore,1,1,0,24,1,20240930,17,PK
+/,desktop,,,China,(not set),2,2,0,27,1,20241007,12,CN
+/,desktop,,,China,Nanchang,2,2,0,30,1,20241007,21,CN
 /blog/ssd-yolo,desktop,https://www.google.com/,,Ireland,Limerick,1,1,0,0,1,20241001,3,IE
 /,desktop,,,United States,Ashburn,1,1,0,0,1,20241001,7,US
 /,mobile,,,United States,Ashburn,1,1,0,0,1,20241001,7,US
@@ -104,9 +89,26 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/withings-data,mobile,android-app://com.google.android.googlequicksearchbox/,,United Kingdom,Warrington,1,1,0,0,1,20241007,2,GB
 /blog/image-rotation-opencv,desktop,https://www.google.co.kr/,,South Korea,Seongnam-si,1,1,0,3,1,20241007,5,
 /blog/ssd-yolo,desktop,https://duckduckgo.com/,,Australia,Sydney,1,1,0,2,1,20241007,6,AU
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Israel,Tel Aviv-Yafo,1,1,0,0,1,20241007,9,IL
+/blog/mopidy-muse,desktop,https://mopidy.com/,,France,Villejuif,1,1,0,3,1,20241007,9,FR
+/blog/traefik-goaccess,desktop,https://www.reddit.com/,,Germany,Dortmund,1,1,0,0,1,20241007,10,DE
+/blog/image-rotation-opencv,desktop,https://www.digitalocean.com/,,Germany,Bietigheim-Bissingen,1,1,0,0,1,20241007,11,DE
 /,desktop,,,China,Fuzhou,1,1,0,15,1,20241007,12,CN
 /,mobile,https://duckduckgo.com/,,France,Paris,1,1,0,0,0,20241007,12,FR
-/blog/data-withings,mobile,https://cristianpb.github.io/blog/talking-data,,France,Paris,1,1,0,0,0,20241007,12,FR
-/blog/marathon-mirabelle,mobile,https://cristianpb.github.io/blog/withings-data,,France,Paris,1,1,469.277793,0,0,20241007,12,FR
-/blog/talking-data,mobile,https://cristianpb.github.io/blog,,France,Paris,1,1,512.935418,1,0,20241007,12,FR
-/blog/withings-data,mobile,https://cristianpb.github.io/blog/data-withings,,France,Paris,1,1,87.881282,1,0,20241007,12,FR
+/blog,mobile,https://cristianpb.github.io/,,France,Paris,1,1,4.438019,1,0,20241007,12,FR
+/blog/data-withings,mobile,https://cristianpb.github.io/blog/talking-data,,France,Paris,1,1,51.42011,0,0,20241007,12,FR
+/blog/marathon-mirabelle,mobile,https://cristianpb.github.io/blog/withings-data,,France,Paris,1,1,29.136854,0,0,20241007,12,FR
+/blog/talking-data,mobile,https://cristianpb.github.io/blog,,France,Paris,1,1,508.497399,1,0,20241007,12,FR
+/blog/withings-data,mobile,https://cristianpb.github.io/blog/data-withings,,France,Paris,1,1,36.461172,1,0,20241007,12,FR
+/,desktop,,,China,(not set),1,1,0,15,1,20241007,13,CN
+/,desktop,,,China,(not set),1,1,0,15,1,20241007,16,CN
+/,desktop,,,China,Changchun,1,1,0,15,1,20241007,17,CN
+/blog/monitoring-grafana,desktop,https://www.google.com/,,United Kingdom,Manchester,1,1,0,3,1,20241007,17,GB
+/,desktop,,,United States,Midlothian,1,1,0,6,1,20241007,19,US
+/,desktop,,,China,Chongzuo,1,1,0,15,1,20241007,21,CN
+/,desktop,,,China,Shenzhen,1,1,0,15,1,20241007,21,CN
+/,desktop,,,China,Shenzhen,1,1,0,15,1,20241007,22,CN
+/,desktop,,,United States,Midlothian,1,1,0,3,1,20241008,4,US
+/about,desktop,,,United States,Midlothian,1,1,0,3,1,20241008,4,US
+/blog/ssd-yolo,desktop,https://www.bing.com/,,Singapore,Singapore,1,1,0,3,1,20241008,4,SG
+/blog/ssd-yolo,desktop,https://www.bing.com/,,India,Chennai,1,1,0,3,1,20241008,6,IN
