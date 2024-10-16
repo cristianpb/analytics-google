@@ -1,36 +1,16 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
+/,desktop,,,China,(not set),5,5,0,75,1,20241015,2,CN
+/,desktop,,,China,(not set),5,5,0,75,1,20241015,6,CN
+/,desktop,,,China,(not set),4,4,0,51,1,20241015,12,CN
 /,desktop,,,China,(not set),3,3,0,39,1,20241014,8,CN
-/,desktop,,,China,,3,3,0,45,1,20241015,2,CN
-/,desktop,,,China,,3,3,0,45,1,20241015,6,CN
-/blog/analytics-google,mobile,https://www.google.com/,,Ukraine,Sevastopol,2,2,64.1917565,0,0.5,20241008,23,UA
+/,desktop,,,China,(not set),3,3,0,42,1,20241015,0,CN
+/,desktop,,,China,(not set),3,3,0,42,1,20241015,4,CN
 /,desktop,,,China,(not set),2,2,0,21,1,20241014,11,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,18,1,20241014,13,CN
 /,desktop,,,China,(not set),2,2,0,24,1,20241014,16,CN
-/,desktop,,,China,,2,2,0,30,1,20241015,4,CN
-/,mobile,https://cristianpb.github.io/blog,,United States,San Francisco,2,2,28.152351,0,1,20241015,5,US
-/blog,mobile,,,United States,San Francisco,2,2,0,3,1,20241015,5,US
-/,desktop,,,United States,Midlothian,1,1,0,3,1,20241008,4,US
-/about,desktop,,,United States,Midlothian,1,1,0,3,1,20241008,4,US
-/blog/ssd-yolo,desktop,https://www.bing.com/,,Singapore,Singapore,1,1,0,3,1,20241008,4,SG
-/blog/ssd-yolo,desktop,https://www.bing.com/,,India,Chennai,1,1,0,3,1,20241008,6,IN
-/,desktop,,,China,(not set),1,1,0,15,1,20241008,7,CN
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Germany,Frankfurt,1,1,0,3,1,20241008,9,DE
-/,desktop,,,China,(not set),1,1,0,15,1,20241008,11,CN
-/blog/dashboard-dc-js,desktop,https://www.google.com/,,India,Nagpur,1,1,0,3,1,20241008,11,IN
-/blog/fluentbit-elasticsearch-kibana,desktop,https://www.bing.com/,,France,Puteaux,1,1,0,0,0,20241008,12,FR
-/blog/monitoring-grafana,desktop,https://cristianpb.github.io/blog/fluentbit-elasticsearch-kibana,,France,Puteaux,1,1,52.019028,1,0,20241008,12,FR
-/,desktop,,,China,(not set),1,1,0,15,1,20241008,15,CN
-/,desktop,,,China,Hangzhou,1,1,0,15,1,20241008,15,CN
-/,desktop,,,China,(not set),1,1,0,15,1,20241008,17,CN
-/about,desktop,https://www.google.com/,,France,Bondy,1,1,0,0,1,20241008,17,FR
-/blog/ssd-yolo,mobile,https://www.google.com/,,Romania,Cluj-Napoca,1,1,0,3,1,20241008,20,RO
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Brazil,Goiania,1,1,0,3,1,20241008,21,BR
-/blog/document-detection,desktop,https://www.bing.com/,,United States,Oklahoma City,1,1,0,0,1,20241008,22,US
-/blog/image-rotation-opencv,mobile,https://www.google.com/,,Czechia,(not set),1,1,0,12,1,20241008,22,
-/,desktop,https://bing.com/,,United States,Midlothian,1,1,0,3,1,20241008,23,US
-/,mobile,https://cristianpb.github.io/analytics-google/?_gl=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,,Ukraine,Sevastopol,1,1,277.710924,1,0,20241008,23,UA
-/blog/categories,mobile,https://cristianpb.github.io/blog/analytics-google,,Ukraine,Sevastopol,1,1,11.710811,0,0,20241008,23,UA
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United Kingdom,Lincoln,1,1,0,3,1,20241008,23,GB
+/,mobile,https://cristianpb.github.io/blog,,United States,San Francisco,2,2,28.6895955,0,0,20241015,5,US
+/blog,mobile,,,United States,San Francisco,2,2,0,3,0,20241015,5,US
+//0.0.0.1/,desktop,,,China,(not set),2,2,0,18,1,20241015,12,CN
 /,desktop,,,China,Nanchang,1,1,0,15,1,20241009,4,CN
 /,desktop,,,China,Beijing,1,1,0,15,1,20241009,6,CN
 /,desktop,,,China,Shenzhen,1,1,0,15,1,20241009,6,CN
@@ -129,31 +109,75 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,United States,Midlothian,1,1,0,6,1,20241014,17,US
 //0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20241014,17,CN
 /,desktop,https://bing.com/,,United States,Midlothian,1,1,0,3,1,20241014,19,US
-/,desktop,,,China,,1,1,0,15,1,20241015,0,CN
 /,desktop,,,China,Shenzhen,1,1,0,15,1,20241015,0,CN
-//0.0.0.1/,desktop,,,China,,1,1,0,15,1,20241015,0,CN
+//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20241015,0,CN
+//0.0.0.1/fb,desktop,,,China,(not set),1,1,0,9,1,20241015,0,CN
 /blog/marathon-mirabelle,desktop,https://www.google.com/,,Ireland,Dublin,1,1,0,0,1,20241015,0,IE
+/,desktop,,,China,Fuzhou,1,1,0,15,1,20241015,1,CN
 /,desktop,,,China,Guilin,1,1,0,15,1,20241015,1,CN
 /,desktop,,,China,Sanya,1,1,0,15,1,20241015,1,CN
+/,desktop,,,China,Shenyang,1,1,0,15,1,20241015,1,CN
+/,desktop,,,China,Xiamen,1,1,0,9,1,20241015,1,CN
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Spain,Salamanca,1,1,0,3,1,20241015,1,ES
 /,desktop,,,China,Beijing,1,1,0,15,1,20241015,2,CN
 /,desktop,,,China,Chengdu,1,1,0,15,1,20241015,2,CN
 //0.0.0.1/,desktop,,,China,Tianjin,1,1,0,15,1,20241015,2,CN
-/1,desktop,,,China,,1,1,0,15,1,20241015,2,CN
-/,desktop,,,China,,1,1,0,15,1,20241015,3,CN
+/1,desktop,,,China,(not set),1,1,0,15,1,20241015,2,CN
+/blog/raspberry-video-stream,desktop,https://www.google.com/,,United States,Encinitas,1,1,0,0,1,20241015,2,US
+/,desktop,,,China,(not set),1,1,0,15,1,20241015,3,CN
+/,desktop,,,China,Beijing,1,1,0,15,1,20241015,3,CN
+/,desktop,,,China,Dalian,1,1,0,15,1,20241015,3,CN
 /,desktop,,,China,Kunming,1,1,0,15,1,20241015,3,CN
 /,desktop,,,China,Fuzhou,1,1,0,15,1,20241015,4,CN
 /,desktop,,,China,Nanchang,1,1,0,15,1,20241015,4,CN
-//0.0.0.1/,desktop,,,China,,1,1,0,9,1,20241015,4,CN
-//0.0.0.1/fb,desktop,,,China,,1,1,0,6,1,20241015,4,CN
+//0.0.0.1/,desktop,,,China,(not set),1,1,0,9,1,20241015,4,CN
+//0.0.0.1/fb,desktop,,,China,(not set),1,1,0,6,1,20241015,4,CN
+//0.0.0.1/fb/fwc,desktop,,,China,(not set),1,1,0,12,1,20241015,4,CN
 /1,desktop,,,China,Langfang,1,1,0,15,1,20241015,4,CN
-/,desktop,,,China,,1,1,0,15,1,20241015,5,CN
-/,mobile,https://cristianpb.github.io/analytics-google/,,United States,San Francisco,1,1,20.563742,0,1,20241015,5,US
-/about,mobile,https://cristianpb.github.io/,,United States,San Francisco,1,1,11.368198,0,1,20241015,5,US
-/about,mobile,https://cristianpb.github.io/blog,,United States,San Francisco,1,1,43.029744,0,1,20241015,5,US
-/blog,mobile,https://cristianpb.github.io/about,,United States,San Francisco,1,1,0,1,1,20241015,5,US
-/blog/application-revenue-prediction,mobile,https://cristianpb.github.io/blog,,United States,San Francisco,1,1,1.177975,0,1,20241015,5,US
+/,desktop,,,China,(not set),1,1,0,15,1,20241015,5,CN
+/,mobile,https://cristianpb.github.io/analytics-google/,,United States,San Francisco,1,1,20.563742,0,0,20241015,5,US
+/about,mobile,https://cristianpb.github.io/,,United States,San Francisco,1,1,11.368198,0,0,20241015,5,US
+/about,mobile,https://cristianpb.github.io/blog,,United States,San Francisco,1,1,13.120918,0,0,20241015,5,US
+/blog,mobile,https://cristianpb.github.io/,,United States,San Francisco,1,1,10.599578,0,0,20241015,5,US
+/blog,mobile,https://cristianpb.github.io/about,,United States,San Francisco,1,1,4.760933,1,0,20241015,5,US
+/blog/application-revenue-prediction,mobile,https://cristianpb.github.io/blog,,United States,San Francisco,1,1,1.177975,0,0,20241015,5,US
 /,desktop,,,China,Fuzhou,1,1,0,15,1,20241015,6,CN
 /,desktop,,,China,Sanya,1,1,0,15,1,20241015,6,CN
-//0.0.0.1/,desktop,,,China,,1,1,0,15,1,20241015,6,CN
-/,desktop,,,China,,1,1,0,12,1,20241015,7,CN
+/,desktop,,,China,Shenzhen,1,1,0,15,1,20241015,6,CN
+//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20241015,6,CN
+//0.0.0.1/,desktop,,,China,Guilin,1,1,0,15,1,20241015,6,CN
+/,desktop,,,China,(not set),1,1,0,12,1,20241015,7,CN
+/1,desktop,,,China,(not set),1,1,0,15,1,20241015,7,CN
+/,desktop,,,China,Dehong Dai and Jingpo Autonomous Prefecture,1,1,0,15,1,20241015,8,CN
+/,desktop,,,China,Urumqi,1,1,0,15,1,20241015,8,CN
+/,desktop,,,China,(not set),1,1,0,15,1,20241015,11,CN
+//0.0.0.1/,desktop,,,China,Zhangjiajie,1,1,0,6,1,20241015,11,CN
+/,desktop,,,China,Beijing,1,1,0,12,1,20241015,12,CN
+/,desktop,,,China,Chengdu,1,1,0,15,1,20241015,12,CN
+/,desktop,,,China,Dalian,1,1,0,15,1,20241015,12,CN
+/,desktop,,,China,Suzhou,1,1,0,15,1,20241015,12,CN
+//0.0.0.1/fb,desktop,,,China,(not set),1,1,0,15,1,20241015,12,CN
 //0.0.0.1/fb,desktop,,,China,Langfang,1,1,0,15,1,20241015,12,CN
+/blog/ssd-yolo,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,0,1,20241015,12,RU
+/,desktop,,,China,(not set),1,1,0,15,1,20241015,13,CN
+/,desktop,,,China,(not set),1,1,0,15,1,20241015,14,CN
+/,desktop,,,China,Qingdao,1,1,0,15,1,20241015,14,CN
+/,desktop,,,China,Shenyang,1,1,0,15,1,20241015,14,CN
+/,desktop,,,China,Shenzhen,1,1,0,6,1,20241015,14,CN
+//0.0.0.1/,desktop,,,China,Chengdu,1,1,0,3,1,20241015,14,CN
+//0.0.0.1/,desktop,,,China,Shenyang,1,1,0,9,1,20241015,14,CN
+//0.0.0.1/fb,desktop,,,China,(not set),1,1,0,3,1,20241015,14,CN
+//0.0.0.1/fb,desktop,,,China,Shanghai,1,1,0,12,1,20241015,14,CN
+//0.0.0.1/fb/fwc,desktop,,,China,(not set),1,1,0,3,1,20241015,14,CN
+//0.0.0.1/fb/fwc/fzh,desktop,,,China,(not set),1,1,0,3,1,20241015,14,CN
+/,desktop,,,China,(not set),1,1,0,15,1,20241015,15,CN
+/,desktop,,,China,(not set),1,1,0,12,1,20241015,16,CN
+/,desktop,,,China,Chongzuo,1,1,0,15,1,20241015,16,CN
+/,desktop,,,China,Guilin,1,1,0,15,1,20241015,16,CN
+/,desktop,,,China,Hangzhou,1,1,0,15,1,20241015,16,CN
+/,desktop,,,China,Shanghai,1,1,0,9,1,20241015,16,CN
+/blog/velib-folium,desktop,https://www.google.com/,,Vietnam,Hanoi,1,1,0,3,1,20241015,18,VN
+/,desktop,,,China,Xilingol League,1,1,0,15,1,20241015,20,CN
+/blog/ssd-yolo,desktop,https://chatgpt.com/,,Brazil,Recife,1,1,0,3,1,20241015,22,BR
+/blog/ssd-yolo,desktop,https://duckduckgo.com/,,Australia,Sydney,1,1,0,10,1,20241016,2,AU
+/,desktop,,,United States,,1,1,0,6,1,20241016,6,US
