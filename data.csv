@@ -1,8 +1,6 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,China,(not set),4,4,0,42,1,20241031,7,CN
 /,desktop,,,China,(not set),4,4,0,45,1,20241103,7,CN
-/,desktop,,,China,Chengdu,3,3,0,27,1,20241028,22,CN
-//0.0.0.1/,desktop,,,China,(not set),3,3,0,36,1,20241028,22,CN
 /,desktop,,,China,Xi'An,3,3,0,21,1,20241029,1,CN
 /,desktop,,,China,(not set),3,3,0,33,1,20241029,13,CN
 /,desktop,,,China,(not set),3,3,0,39,1,20241029,23,CN
@@ -12,13 +10,7 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),3,3,0,33,1,20241031,15,CN
 /,desktop,,,China,(not set),3,3,0,24,1,20241102,12,CN
 /,desktop,,,China,(not set),3,3,0,30,1,20241103,3,CN
-/,desktop,,,China,Dalian,2,2,0,30,1,20241028,18,CN
-//0.0.0.1/fb,desktop,,,China,(not set),2,2,0,18,1,20241028,18,CN
-/,desktop,,,China,Chongqing,2,2,0,24,1,20241028,19,CN
-//0.0.0.1/,desktop,,,China,(not set),2,2,0,12,1,20241028,19,CN
-/,desktop,,,China,(not set),2,2,0,21,1,20241028,22,CN
-/,desktop,,,China,Beijing,2,2,0,18,1,20241028,22,CN
-//0.0.0.1/fb/fwc,desktop,,,China,(not set),2,2,0,6,1,20241028,22,CN
+/,desktop,,,China,(not set),3,3,0,39,1,20241104,18,CN
 /,desktop,,,China,(not set),2,2,0,18,1,20241029,0,CN
 /,desktop,,,China,(not set),2,2,0,21,1,20241029,1,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,9,1,20241029,1,CN
@@ -49,68 +41,21 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),2,2,0,24,1,20241103,17,CN
 /,desktop,,,China,(not set),2,2,0,30,1,20241103,22,CN
 /,desktop,,,China,Changchun,2,2,0,27,1,20241103,22,CN
-/,desktop,,,China,Nanjing,1,1,0,9,1,20241028,1,CN
-/,desktop,,,China,Guangzhou,1,1,0,15,1,20241028,2,CN
-/,desktop,,,China,Kunming,1,1,0,15,1,20241028,2,CN
-/blog/mopidy-muse,desktop,https://mopidy.com/,,Thailand,Khlong Chik,1,1,0,0,1,20241028,3,TH
-/blog/grafana-dashboard,desktop,https://cristianpb.github.io/blog/traefik-goaccess,,Singapore,(not set),1,1,572.968275,1,0,20241028,4,SG
-/blog/image-rotation-opencv,desktop,,,Vietnam,Hanoi,1,1,0,3,1,20241028,4,VN
-/blog/traefik-goaccess,desktop,https://www.reddit.com/,,Singapore,(not set),1,1,0,3,0,20241028,4,SG
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Singapore,(not set),1,1,0,2,1,20241028,5,SG
-/blog/analytics-google,desktop,https://www.google.com/,,Sweden,Gothenburg,1,1,0,0,1,20241028,11,SE
-/blog/ssd-yolo,desktop,https://www.google.com/,,Switzerland,Dagmersellen,1,1,0,0,1,20241028,11,CH
-/,desktop,,,China,Wuxi,1,1,0,3,1,20241028,13,CN
-//0.0.0.1/,desktop,,,China,(not set),1,1,0,6,1,20241028,13,CN
-/,desktop,,,China,(not set),1,1,0,6,1,20241028,16,CN
-//0.0.0.1/,desktop,,,China,Harbin,1,1,0,3,1,20241028,16,CN
-/,desktop,,,China,(not set),1,1,0,3,1,20241028,17,CN
-/,desktop,,,China,Nanchang,1,1,0,12,1,20241028,17,CN
-//0.0.0.1/,desktop,,,China,Wuhan,1,1,0,9,1,20241028,17,CN
-/,desktop,,,China,(not set),1,1,0,15,1,20241028,18,CN
-/,desktop,,,China,Harbin,1,1,0,15,1,20241028,18,CN
-//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20241028,18,CN
-//0.0.0.1/,desktop,,,China,Fuzhou,1,1,0,3,1,20241028,18,CN
-//0.0.0.1/,desktop,,,China,Sanya,1,1,0,9,1,20241028,18,CN
-//0.0.0.1/,desktop,,,China,Suzhou,1,1,0,9,1,20241028,18,CN
-//0.0.0.1/fb,desktop,,,China,Shanghai,1,1,0,6,1,20241028,18,CN
-//0.0.0.1/fb/fwc,desktop,,,China,Wuhan,1,1,0,3,1,20241028,18,CN
-//0.0.0.1/fb/fwc,desktop,,,China,Xi'An,1,1,0,3,1,20241028,18,CN
-//0.0.0.1/fb/fwc/fzh,desktop,,,China,(not set),1,1,0,3,1,20241028,18,CN
-/blog/marathon-mirabelle,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,0,1,20241028,18,GB
-/,desktop,,,China,Dalian,1,1,0,15,1,20241028,19,CN
-/,desktop,,,China,Hangzhou,1,1,0,9,1,20241028,19,CN
-/,desktop,,,China,Nanning,1,1,0,15,1,20241028,19,CN
-/,desktop,,,China,Qingdao,1,1,0,15,1,20241028,19,CN
-//0.0.0.1/fb,desktop,,,China,(not set),1,1,0,6,1,20241028,19,CN
-//0.0.0.1/fb,desktop,,,China,Chongqing,1,1,0,15,1,20241028,19,CN
-//0.0.0.1/fb/fwc,desktop,,,China,Dalian,1,1,0,6,1,20241028,19,CN
-/,desktop,,,China,(not set),1,1,0,6,1,20241028,20,CN
-/,desktop,,,China,Shanghai,1,1,0,15,1,20241028,20,CN
-/about,desktop,,,China,Urumqi,1,1,0,3,1,20241028,20,CN
-/blog/document-detection,desktop,https://www.google.com/,,Taiwan,(not set),1,1,0,3,1,20241028,20,TW
-/blog/marathon-mirabelle,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,2,1,20241028,20,GB
-/,desktop,,,China,Changchun,1,1,0,15,1,20241028,22,CN
-/,desktop,,,China,Xi'An,1,1,0,15,1,20241028,22,CN
-/,desktop,,,China,Xishuangbanna Dai Autonomous Prefecture,1,1,0,9,1,20241028,22,CN
-//0.0.0.1/,desktop,,,China,Kunming,1,1,0,6,1,20241028,22,CN
-//0.0.0.1/,desktop,,,China,Xi'An,1,1,0,15,1,20241028,22,CN
-//0.0.0.1/,desktop,,,China,Xilingol League,1,1,0,15,1,20241028,22,CN
-//0.0.0.1/,desktop,,,China,Xishuangbanna Dai Autonomous Prefecture,1,1,0,6,1,20241028,22,CN
-//0.0.0.1/fb,desktop,,,China,(not set),1,1,0,6,1,20241028,22,CN
-//0.0.0.1/fb,desktop,,,China,Nanjing,1,1,0,15,1,20241028,22,CN
-//0.0.0.1/fb,desktop,,,China,Qingdao,1,1,0,9,1,20241028,22,CN
-//0.0.0.1/fb,desktop,,,China,Urumqi,1,1,0,3,1,20241028,22,CN
-//0.0.0.1/fb,desktop,,,China,Wuxi,1,1,0,6,1,20241028,22,CN
-//0.0.0.1/fb/fwc,desktop,,,China,Kashgar Prefecture,1,1,0,15,1,20241028,22,CN
-//0.0.0.1/fb/fwc/fzh,desktop,,,China,(not set),1,1,0,3,1,20241028,22,CN
-//0.0.0.1/fb/fwc/fzh,desktop,,,China,Chengdu,1,1,0,15,1,20241028,22,CN
-//0.0.0.1/fb/fwc/fzh,desktop,,,China,Dalian,1,1,0,12,1,20241028,22,CN
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United States,Englewood,1,1,0,0,1,20241028,22,US
-/,desktop,,,China,(not set),1,1,0,3,1,20241028,23,CN
-/,desktop,,,China,Jiaxing,1,1,0,15,1,20241028,23,CN
-/,desktop,,,China,Wuxi,1,1,0,15,1,20241028,23,CN
-/1,desktop,,,China,(not set),1,1,0,15,1,20241028,23,CN
-/1/fb,desktop,,,China,Nanjing,1,1,0,15,1,20241028,23,CN
+/,desktop,,,China,Chengdu,2,2,0,18,1,20241104,8,CN
+/,desktop,,,China,Guilin,2,2,0,18,1,20241104,9,CN
+/,desktop,,,China,(not set),2,2,0,18,1,20241104,10,CN
+/,desktop,,,China,(not set),2,2,0,18,1,20241104,11,CN
+/,desktop,,,China,Chengdu,2,2,0,15,1,20241104,16,CN
+/,desktop,,,China,Tianjin,2,2,0,27,1,20241104,18,CN
+//0.0.0.1/,desktop,,,China,(not set),2,2,0,27,1,20241104,18,CN
+/,desktop,,,China,Xilingol League,2,2,0,30,1,20241104,21,CN
+/,desktop,,,China,Jinan,2,2,0,30,1,20241104,23,CN
+/,desktop,,,China,Xi'An,2,2,0,27,1,20241104,23,CN
+//0.0.0.1/,desktop,,,China,(not set),2,2,0,24,1,20241104,23,CN
+//0.0.0.1/fb,desktop,,,China,Hangzhou,2,2,0,9,1,20241104,23,CN
+//0.0.0.1/fb/fwc/fzh,desktop,,,China,(not set),2,2,0,12,1,20241104,23,CN
+/,desktop,,,China,,2,2,0,30,1,20241105,0,CN
+/,desktop,,,China,Chengdu,2,2,0,15,1,20241105,0,CN
 /,desktop,,,China,Beijing,1,1,0,15,1,20241029,0,CN
 /,desktop,,,China,Nanning,1,1,0,15,1,20241029,0,CN
 //0.0.0.1/,desktop,,,China,(not set),1,1,0,3,1,20241029,0,CN
@@ -520,10 +465,118 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,United States,(not set),1,1,0,6,1,20241103,23,US
 /blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,Mexico,Guadalajara,1,1,0,0,1,20241104,1,MX
 /blog/mopidy-muse,desktop,https://www.google.com/,,United States,Napa,1,1,0,0,1,20241104,1,US
-/,desktop,,,China,Guilin,1,1,0,12,1,20241104,9,CN
+/,desktop,,,China,Dalian,1,1,0,3,1,20241104,8,CN
+/,desktop,,,China,Nanchang,1,1,0,6,1,20241104,8,CN
+//0.0.0.1/,desktop,,,China,(not set),1,1,0,3,1,20241104,8,CN
+//0.0.0.1/,desktop,,,China,Hangzhou,1,1,0,3,1,20241104,8,CN
+//0.0.0.1/fb,desktop,,,China,(not set),1,1,0,3,1,20241104,8,CN
+//0.0.0.1/fb/fwc,desktop,,,China,Dalian,1,1,0,6,1,20241104,8,CN
+/,desktop,,,China,(not set),1,1,0,15,1,20241104,9,CN
+/,desktop,,,China,Chongqing,1,1,0,15,1,20241104,9,CN
 /,desktop,,,China,Wuhan,1,1,0,15,1,20241104,9,CN
-/,desktop,,,China,,1,1,0,15,1,20241104,10,CN
+/,desktop,,,China,Hefei,1,1,0,3,1,20241104,10,CN
+/,desktop,,,China,Nanchang,1,1,0,15,1,20241104,10,CN
 /,desktop,,,China,Tianjin,1,1,0,15,1,20241104,10,CN
 /,desktop,,,China,Xiamen,1,1,0,15,1,20241104,10,CN
+//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20241104,10,CN
+//0.0.0.1/,desktop,,,China,Tianjin,1,1,0,6,1,20241104,10,CN
 //0.0.0.1/,desktop,,,China,Xi'An,1,1,0,3,1,20241104,10,CN
 //0.0.0.1/fb,desktop,,,China,Xiamen,1,1,0,6,1,20241104,10,CN
+/1,desktop,,,China,(not set),1,1,0,15,1,20241104,10,CN
+/1/fb,desktop,,,China,Hangzhou,1,1,0,6,1,20241104,10,CN
+/,desktop,,,China,Chengdu,1,1,0,3,1,20241104,11,CN
+//0.0.0.1/,desktop,,,China,(not set),1,1,0,3,1,20241104,11,CN
+//0.0.0.1/,desktop,,,China,Beijing,1,1,0,3,1,20241104,11,CN
+//0.0.0.1/,desktop,,,China,Suzhou,1,1,0,15,1,20241104,11,CN
+//0.0.0.1/fb,desktop,,,China,Shanghai,1,1,0,15,1,20241104,11,CN
+//0.0.0.1/fb/fwc,desktop,,,China,Sanya,1,1,0,3,1,20241104,11,CN
+/blog/ssd-yolo,mobile,https://www.google.com/,,Tunisia,Tunis,1,1,0,0,1,20241104,15,TN
+//0.0.0.1/,desktop,,,China,Chengdu,1,1,0,3,1,20241104,16,CN
+//0.0.0.1/,desktop,,,China,Fuzhou,1,1,0,6,1,20241104,16,CN
+//0.0.0.1/fb,desktop,,,China,Wuhan,1,1,0,15,1,20241104,16,CN
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Italy,Lodi,1,1,0,0,1,20241104,16,IT
+/,desktop,,,China,Changchun,1,1,0,15,1,20241104,17,CN
+/,desktop,,,China,Chengdu,1,1,0,15,1,20241104,17,CN
+/,desktop,,,China,Fuzhou,1,1,0,12,1,20241104,17,CN
+/,desktop,,,China,Xilingol League,1,1,0,15,1,20241104,17,CN
+/blog/image-rotation-opencv,desktop,https://link.csdn.net/?from_id=111758857&target=https%3A%2F%2Fcristianpb.github.io%2Fblog%2Fimage-rotation-opencv,,Japan,Koto City,1,1,0,3,1,20241104,17,JP
+/blog/vimwiki-hugo,mobile,,,United States,Cincinnati,1,1,0,0,1,20241104,17,US
+/,desktop,,,China,Changsha,1,1,0,15,1,20241104,18,CN
+/,desktop,,,China,Chengdu,1,1,0,12,1,20241104,18,CN
+/,desktop,,,China,Hefei,1,1,0,15,1,20241104,18,CN
+/,desktop,,,China,Nanning,1,1,0,6,1,20241104,18,CN
+/,desktop,,,China,Wuhan,1,1,0,15,1,20241104,18,CN
+/,desktop,https://bing.com/,,United States,(not set),1,1,0,6,1,20241104,18,US
+//0.0.0.1/,desktop,,,China,Dehong Dai and Jingpo Autonomous Prefecture,1,1,0,15,1,20241104,18,CN
+//0.0.0.1/,desktop,,,China,Nanning,1,1,0,15,1,20241104,18,CN
+/,desktop,,,China,(not set),1,1,0,15,1,20241104,19,CN
+/1,desktop,,,China,(not set),1,1,0,12,1,20241104,19,CN
+/,desktop,,,China,(not set),1,1,0,3,1,20241104,20,CN
+/,desktop,,,China,Beijing,1,1,0,15,1,20241104,20,CN
+/,desktop,,,China,Chengdu,1,1,0,15,1,20241104,20,CN
+/,desktop,,,China,Chongzuo,1,1,0,15,1,20241104,20,CN
+/,desktop,,,China,Suzhou,1,1,0,15,1,20241104,20,CN
+/,desktop,,,China,Xi'An,1,1,0,15,1,20241104,20,CN
+//0.0.0.1/,desktop,,,China,Sanya,1,1,0,12,1,20241104,20,CN
+/blog/document-detection,desktop,https://www.google.com/,,Poland,Bydgoszcz,1,1,0,3,1,20241104,20,PL
+/,desktop,,,China,Jiaxing,1,1,0,9,1,20241104,21,CN
+/,desktop,,,China,Tianjin,1,1,0,15,1,20241104,21,CN
+/,desktop,,,China,Urumqi,1,1,0,15,1,20241104,21,CN
+//0.0.0.1/,desktop,,,China,Qingdao,1,1,0,12,1,20241104,21,CN
+/1/fb,desktop,,,China,(not set),1,1,0,15,1,20241104,21,CN
+/1/fb/fwc,desktop,,,China,Shenyang,1,1,0,6,1,20241104,21,CN
+/1/fb/fwc/fzh,desktop,,,China,(not set),1,1,0,12,1,20241104,21,CN
+/,desktop,,,China,Beijing,1,1,0,9,1,20241104,22,CN
+/,desktop,,,China,Hefei,1,1,0,15,1,20241104,22,CN
+/,desktop,,,China,Xi'An,1,1,0,12,1,20241104,22,CN
+//0.0.0.1/,desktop,,,China,Xilingol League,1,1,0,6,1,20241104,22,CN
+//0.0.0.1/fb,desktop,,,China,Beijing,1,1,0,6,1,20241104,22,CN
+//0.0.0.1/fb/fwc,desktop,,,China,Dehong Dai and Jingpo Autonomous Prefecture,1,1,0,3,1,20241104,22,CN
+//0.0.0.1/fb/fwc/fzh,desktop,,,China,Suzhou,1,1,0,15,1,20241104,22,CN
+/,desktop,,,China,Chongzuo,1,1,0,3,1,20241104,23,CN
+/,desktop,,,China,Kashgar Prefecture,1,1,0,15,1,20241104,23,CN
+/,desktop,,,China,Kunming,1,1,0,0,1,20241104,23,CN
+/,desktop,,,China,Sanya,1,1,0,15,1,20241104,23,CN
+/,desktop,,,China,Xiamen,1,1,0,15,1,20241104,23,CN
+/,desktop,,,China,Xilingol League,1,1,0,15,1,20241104,23,CN
+//0.0.0.1/,desktop,,,China,Chongqing,1,1,0,12,1,20241104,23,CN
+//0.0.0.1/,desktop,,,China,Guiyang,1,1,0,9,1,20241104,23,CN
+//0.0.0.1/fb,desktop,,,China,(not set),1,1,0,3,1,20241104,23,CN
+//0.0.0.1/fb,desktop,,,China,Dalian,1,1,0,15,1,20241104,23,CN
+//0.0.0.1/fb/fwc,desktop,,,China,(not set),1,1,0,15,1,20241104,23,CN
+//0.0.0.1/fb/fwc,desktop,,,China,Tianjin,1,1,0,3,1,20241104,23,CN
+/1,desktop,,,China,Dalian,1,1,0,15,1,20241104,23,CN
+/1,desktop,,,China,Nanning,1,1,0,15,1,20241104,23,CN
+/1/fb,desktop,,,China,Nanchang,1,1,0,12,1,20241104,23,CN
+/,desktop,,,China,Beijing,1,1,0,15,1,20241105,0,CN
+//0.0.0.1/,desktop,,,China,,1,1,0,9,1,20241105,0,CN
+//0.0.0.1/,desktop,,,China,Xi'An,1,1,0,12,1,20241105,0,CN
+//0.0.0.1/fb/fwc/fzh,desktop,,,China,Fuzhou,1,1,0,15,1,20241105,0,CN
+/,desktop,,,China,,1,1,0,15,1,20241105,1,CN
+/,desktop,,,China,Guilin,1,1,0,9,1,20241105,1,CN
+/,desktop,,,China,Kunming,1,1,0,15,1,20241105,1,CN
+/,desktop,,,China,Sanya,1,1,0,15,1,20241105,1,CN
+/,desktop,,,China,Wuhan,1,1,0,6,1,20241105,1,CN
+//0.0.0.1/,desktop,,,China,Guiyang,1,1,0,3,1,20241105,1,CN
+//0.0.0.1/,desktop,,,China,Kunming,1,1,0,6,1,20241105,1,CN
+//0.0.0.1/,desktop,,,China,Wuhan,1,1,0,12,1,20241105,1,CN
+//0.0.0.1/fb,desktop,,,China,Guiyang,1,1,0,3,1,20241105,1,CN
+//0.0.0.1/fb/fwc,desktop,,,China,Chengdu,1,1,0,15,1,20241105,1,CN
+/1,desktop,,,China,Chengdu,1,1,0,15,1,20241105,1,CN
+/,desktop,,,China,,1,1,0,15,1,20241105,3,CN
+/,desktop,,,China,Changsha,1,1,0,15,1,20241105,3,CN
+/,desktop,,,China,Jinan,1,1,0,6,1,20241105,3,CN
+/,desktop,,,China,Kashgar Prefecture,1,1,0,6,1,20241105,3,CN
+/,desktop,,,China,Xilingol League,1,1,0,15,1,20241105,3,CN
+//0.0.0.1/,desktop,,,China,Changchun,1,1,0,3,1,20241105,3,CN
+//0.0.0.1/fb,desktop,,,China,Chengdu,1,1,0,3,1,20241105,3,CN
+//0.0.0.1/fb/fwc,desktop,,,China,Tianjin,1,1,0,3,1,20241105,3,CN
+//0.0.0.1/fb/fwc/fzh,desktop,,,China,Nanchang,1,1,0,3,1,20241105,3,CN
+/,desktop,,,China,Guiyang,1,1,0,15,1,20241105,4,CN
+/,desktop,,,China,Taizhou,1,1,0,15,1,20241105,4,CN
+//0.0.0.1/,desktop,,,China,Jiaxing,1,1,0,6,1,20241105,5,CN
+/,desktop,,,China,Jinan,1,1,0,12,1,20241105,7,CN
+/1,desktop,,,China,,1,1,0,15,1,20241105,7,CN
+/1,desktop,,,China,Kunming,1,1,0,3,1,20241105,7,CN
+/blog/dashboard-dc-js,mobile,android-app://com.google.android.googlequicksearchbox/,,India,,1,1,131.631651,0,0,20241105,7,IN
+/,desktop,,,China,Nanchang,1,1,0,15,1,20241105,8,CN
