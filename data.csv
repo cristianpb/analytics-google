@@ -45,34 +45,6 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 //0.0.0.1/fb/fwc/fzh,desktop,,,China,(not set),2,2,0,12,1,20241122,6,CN
 /,desktop,,,China,(not set),2,2,0,18,1,20241122,10,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,3,1,20241122,10,CN
-/blog/fluentbit-elasticsearch-kibana,desktop,,,Sweden,Malmo,1,1,0,0,1,20241116,0,SE
-/,desktop,,,China,(not set),1,1,0,6,1,20241116,1,CN
-/,desktop,,,China,Shanghai,1,1,0,6,1,20241116,1,CN
-/,desktop,,,China,Taizhou,1,1,0,3,1,20241116,1,CN
-/,desktop,,,China,Zhengzhou,1,1,0,3,1,20241116,1,CN
-//0.0.0.1/,desktop,,,China,Kashgar Prefecture,1,1,0,3,1,20241116,1,CN
-//0.0.0.1/fb,desktop,,,China,Xilingol League,1,1,0,12,1,20241116,1,CN
-/1,desktop,,,China,Sanya,1,1,0,15,1,20241116,1,CN
-/,desktop,,,China,Jinhua,1,1,0,3,1,20241116,2,CN
-//0.0.0.1/,desktop,,,China,(not set),1,1,0,6,1,20241116,2,CN
-/,desktop,,,China,Dali,1,1,0,15,1,20241116,3,CN
-/,desktop,,,China,Xi'An,1,1,0,3,1,20241116,3,CN
-//0.0.0.1/,desktop,,,China,Chongqing,1,1,0,3,1,20241116,3,CN
-//0.0.0.1/,desktop,,,China,Qingdao,1,1,0,15,1,20241116,3,CN
-/blog/vimwiki-hugo,mobile,https://discourse.gohugo.io/,,United States,Kansas City,1,1,0,0,1,20241116,3,US
-/,desktop,,,China,Xiamen,1,1,0,3,1,20241116,4,CN
-//0.0.0.1/,desktop,,,China,Xi'An,1,1,0,3,1,20241116,4,CN
-//0.0.0.1/fb,desktop,,,China,(not set),1,1,0,3,1,20241116,4,CN
-/,desktop,,,France,Palaiseau,1,1,2.633529,1,0,20241116,12,FR
-/blog/velib-folium,desktop,,,France,Palaiseau,1,1,1.576161,0,0,20241116,12,FR
-/blog/velib-folium,desktop,https://www.google.com/,,France,Palaiseau,1,1,0,3,0,20241116,12,FR
-/blog/fluentbit-elasticsearch-kibana,desktop,https://www.bing.com/,,Vietnam,Hanoi,1,1,0,3,1,20241116,14,VN
-/blog/grafana-dashboard,desktop,,,Switzerland,(not set),1,1,0,0,1,20241116,14,CH
-/blog/document-detection,mobile,android-app://com.google.android.googlequicksearchbox/,,United States,Phoenix,1,1,0,0,1,20241116,16,US
-/blog/image-processing-using-serverless-architecture,desktop,https://www.google.com/,,Mexico,Tepatitlan de Morelos,1,1,0,0,1,20241116,19,MX
-/blog/magic-wand,desktop,,,Canada,Montreal,1,1,0,0,1,20241116,20,CA
-/blog/traefik-goaccess,mobile,,,Japan,(not set),1,1,0,0,0,20241116,20,JP
-/blog/traefik-goaccess,mobile,https://www.reddit.com/,,Japan,(not set),1,1,0.943972,0,0,20241116,20,JP
 /blog/mopidy-muse,desktop,https://mopidy.com/,,Canada,Kingston,1,1,0,3,1,20241117,0,CA
 /blog/motion-monitor-opencv,mobile,https://www.google.com/,,United States,Carlsbad,1,1,0,3,1,20241117,7,US
 /,desktop,https://bing.com/,,United States,(not set),1,1,0,9,1,20241117,9,US
@@ -453,7 +425,14 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,United States,Boardman,1,1,0,0,1,20241122,12,US
 /blog/magic-wand,desktop,https://www.google.com/,,Japan,Yokohama,1,1,0,0,1,20241122,17,JP
 /blog/ssd-yolo,desktop,https://www.google.com/,,Türkiye,Kesan,1,1,0,0,1,20241122,21,
-/blog/vimwiki-hugo,mobile,https://www.reddit.com/,,United Kingdom,,1,1,0,0,1,20241123,3,GB
-/blog/mopidy-muse,desktop,https://www.google.com/,,France,,1,1,0,0,1,20241123,6,FR
-/blog/mopidy-muse,desktop,https://www.google.com/,,France,Grenoble,1,1,159.635861,0,1,20241123,6,FR
+/blog/vimwiki-hugo,mobile,https://www.reddit.com/,,United Kingdom,(not set),1,1,0,0,1,20241123,3,GB
+/blog/mopidy-muse,desktop,https://www.google.com/,,France,(not set),1,1,0,0,0,20241123,6,FR
+/blog/mopidy-muse,desktop,https://www.google.com/,,France,Grenoble,1,1,118.902185,0,0,20241123,6,FR
 /blog/music-voice-cotrol,desktop,https://www.google.com/,,Canada,Vancouver,1,1,0,3,1,20241123,6,CA
+/blog/tags,desktop,https://cristianpb.github.io/blog/mopidy-muse,,France,(not set),1,1,40.733676,0,0,20241123,6,FR
+/blog/document-detection,desktop,https://www.google.com/,,Pakistan,Lahore,1,1,0,3,1,20241123,10,PK
+/,mobile,https://www.data.gouv.fr/,,Israel,Tel Aviv-Yafo,1,1,0,0,1,20241123,13,IL
+/blog/vimwiki-hugo,mobile,,,United Kingdom,(not set),1,1,0,0,1,20241123,23,GB
+/blog,mobile,,,United Kingdom,,1,1,0,1,0,20241124,3,GB
+/blog/vimwiki-hugo,mobile,,,United Kingdom,,1,1,0,0,0,20241124,3,GB
+/,desktop,,,China,Nanchang,1,1,0,15,1,20241124,4,CN
