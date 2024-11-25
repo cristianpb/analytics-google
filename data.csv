@@ -2,14 +2,13 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),5,5,0,45,1,20241120,9,CN
 /,desktop,,,China,(not set),4,4,0,51,1,20241119,3,CN
 /,desktop,,,China,(not set),4,4,0,42,1,20241120,2,CN
-/,desktop,,,United States,(not set),3,3,0,12,1,20241117,9,US
 /,desktop,,,China,Guangzhou,3,3,0,36,1,20241119,3,CN
 //0.0.0.1/,desktop,,,China,(not set),3,3,0,27,1,20241119,8,CN
 /,desktop,,,China,(not set),3,3,0,45,1,20241119,9,CN
 /,desktop,,,China,(not set),3,3,0,45,1,20241119,20,CN
 /,desktop,,,China,(not set),3,3,0,27,1,20241120,22,CN
 /,desktop,,,China,(not set),3,3,0,27,1,20241122,8,CN
-/,desktop,,,(not set),(not set),2,2,0,21,1,20241117,8,
+/,desktop,,,China,,3,3,0,27,1,20241125,6,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,27,1,20241119,3,CN
 /,desktop,,,China,(not set),2,2,0,18,1,20241119,4,CN
 /,desktop,,,China,Beijing,2,2,0,18,1,20241119,8,CN
@@ -45,11 +44,10 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 //0.0.0.1/fb/fwc/fzh,desktop,,,China,(not set),2,2,0,12,1,20241122,6,CN
 /,desktop,,,China,(not set),2,2,0,18,1,20241122,10,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,3,1,20241122,10,CN
-/blog/mopidy-muse,desktop,https://mopidy.com/,,Canada,Kingston,1,1,0,3,1,20241117,0,CA
-/blog/motion-monitor-opencv,mobile,https://www.google.com/,,United States,Carlsbad,1,1,0,3,1,20241117,7,US
-/,desktop,https://bing.com/,,United States,(not set),1,1,0,9,1,20241117,9,US
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Poland,Wolbrom,1,1,0,3,1,20241117,13,PL
-/blog/traefik-goaccess,desktop,https://traefik.io/,,Italy,San Benedetto del Tronto,1,1,0,3,1,20241117,18,IT
+/,desktop,,,China,Chongqing,2,2,0,21,1,20241125,5,CN
+/,desktop,,,China,Nanchang,2,2,0,21,1,20241125,5,CN
+//0.0.0.1/,desktop,,,China,,2,2,0,18,1,20241125,5,CN
+/,desktop,,,China,,2,2,0,30,1,20241125,7,CN
 /blog/document-detection,desktop,https://www.google.com/,,Colombia,Medellin,1,1,0,3,1,20241118,4,CO
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,India,Kulasekharapuram,1,1,0,3,1,20241118,10,IN
 /,desktop,,,China,(not set),1,1,0,15,1,20241118,15,CN
@@ -433,6 +431,47 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/document-detection,desktop,https://www.google.com/,,Pakistan,Lahore,1,1,0,3,1,20241123,10,PK
 /,mobile,https://www.data.gouv.fr/,,Israel,Tel Aviv-Yafo,1,1,0,0,1,20241123,13,IL
 /blog/vimwiki-hugo,mobile,,,United Kingdom,(not set),1,1,0,0,1,20241123,23,GB
-/blog,mobile,,,United Kingdom,,1,1,0,1,0,20241124,3,GB
-/blog/vimwiki-hugo,mobile,,,United Kingdom,,1,1,0,0,0,20241124,3,GB
+/blog,mobile,,,United Kingdom,(not set),1,1,70.431865,1,0,20241124,3,GB
+/blog/vimwiki-hugo,mobile,,,United Kingdom,(not set),1,1,0,0,0,20241124,3,GB
+/,desktop,,,China,Fuzhou,1,1,0,15,1,20241124,4,CN
 /,desktop,,,China,Nanchang,1,1,0,15,1,20241124,4,CN
+/blog,mobile,,,United Kingdom,(not set),1,1,0,4,0,20241124,11,GB
+/blog/vimwiki-hugo,mobile,,,United Kingdom,(not set),1,1,1.917576,0,0,20241124,11,GB
+/blog/dashboard-dc-js,mobile,android-app://com.google.android.googlequicksearchbox/,,India,Vijayawada,1,1,0,9,1,20241124,12,IN
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Norway,Stavanger Municipality,1,1,0,3,1,20241124,17,NO
+/blog/dashboard-dc-js,mobile,,,India,Chennai,1,1,0,0,1,20241124,18,IN
+/blog/marathon-mirabelle,desktop,https://www.google.com/,,United Kingdom,Southampton,1,1,0,0,1,20241124,18,GB
+/,desktop,,,United States,,1,1,0,3,1,20241125,2,US
+/,desktop,,,China,Fuzhou,1,1,0,15,1,20241125,4,CN
+/1,desktop,,,China,Hangzhou,1,1,0,3,1,20241125,4,CN
+/1/fb,desktop,,,China,,1,1,0,3,1,20241125,4,CN
+/blog/mopidy-muse,desktop,https://mopidy.com/,,Germany,Tuttlingen,1,1,0,3,1,20241125,4,DE
+/,desktop,,,China,,1,1,0,15,1,20241125,5,CN
+/,desktop,,,China,Fuzhou,1,1,0,12,1,20241125,5,CN
+/,desktop,,,China,Guangzhou,1,1,0,9,1,20241125,5,CN
+/,desktop,,,China,Jinan,1,1,0,15,1,20241125,5,CN
+/,desktop,,,China,Nanjing,1,1,0,15,1,20241125,5,CN
+//0.0.0.1/,desktop,,,China,Chongqing,1,1,0,12,1,20241125,5,CN
+/1,desktop,,,China,,1,1,0,3,1,20241125,5,CN
+//0.0.0.1/,desktop,,,China,,1,1,0,9,1,20241125,6,CN
+//0.0.0.1/,desktop,,,China,Shanghai,1,1,0,3,1,20241125,6,CN
+//0.0.0.1/,desktop,,,China,Tianjin,1,1,0,15,1,20241125,6,CN
+//0.0.0.1/fb,desktop,,,China,,1,1,0,6,1,20241125,6,CN
+//0.0.0.1/fb,desktop,,,China,Qingdao,1,1,0,15,1,20241125,6,CN
+/1,desktop,,,China,,1,1,0,3,1,20241125,6,CN
+/1,desktop,,,China,Shanghai,1,1,0,6,1,20241125,6,CN
+/1/fb,desktop,,,China,,1,1,0,3,1,20241125,6,CN
+/1/fb/fwc,desktop,,,China,Shanghai,1,1,0,3,1,20241125,6,CN
+/blog/image-rotation-opencv,desktop,https://www.digitalocean.com/,,India,Meiyur,1,1,0,3,1,20241125,6,IN
+/,desktop,,,China,Beijing,1,1,0,6,1,20241125,7,CN
+/,desktop,,,China,Shenyang,1,1,0,9,1,20241125,7,CN
+//0.0.0.1/,desktop,,,China,Xilingol League,1,1,0,6,1,20241125,7,CN
+//0.0.0.1/fb,desktop,,,China,Kunming,1,1,0,15,1,20241125,7,CN
+//0.0.0.1/fb/fwc/fzh,desktop,,,China,,1,1,0,15,1,20241125,7,CN
+/,desktop,,,China,Hangzhou,1,1,0,3,1,20241125,8,CN
+//0.0.0.1/,desktop,,,China,Beijing,1,1,0,3,1,20241125,8,CN
+//0.0.0.1/,desktop,,,China,Hangzhou,1,1,0,6,1,20241125,8,CN
+/blog/marathon-mirabelle,desktop,https://www.google.com/,,France,Courbevoie,1,1,0,2,1,20241125,8,FR
+/,desktop,,,China,,1,1,0,6,1,20241125,9,CN
+/,desktop,,,China,Kunming,1,1,0,15,1,20241125,9,CN
+/1/fb,desktop,,,China,,1,1,0,6,1,20241125,10,CN
