@@ -1,21 +1,9 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,China,(not set),4,4,0,27,1,20241219,12,CN
-/,desktop,,,China,(not set),3,3,0,45,1,20241218,10,CN
 /,desktop,,,China,(not set),3,3,0,12,1,20241219,11,CN
 /1,desktop,,,China,(not set),3,3,0,12,1,20241219,12,CN
-/,desktop,,,China,(not set),2,2,0,21,1,20241218,9,CN
 //0.0.0.1/,desktop,,,China,(not set),2,2,0,6,1,20241219,11,CN
 //0.0.0.1/fb,desktop,,,China,(not set),2,2,0,15,1,20241219,11,CN
-//0.0.0.1/,desktop,,,China,Beijing,1,1,0,6,1,20241218,9,CN
-/blog/automatic-content-generation,desktop,,,France,Paris,1,1,0,2,1,20241218,9,FR
-/,desktop,,,China,Changchun,1,1,0,15,1,20241218,10,CN
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Argentina,Cordoba,1,1,0,3,0,20241218,13,AR
-/blog/traefik-goaccess,desktop,https://www.reddit.com/,,Germany,Langenfeld,1,1,0,3,1,20241218,13,DE
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Argentina,Cordoba,1,1,1098.530467,1,0,20241218,14,AR
-/blog/automatic-content-generation,desktop,,,France,Paris,1,1,0,2,1,20241218,16,FR
-/,desktop,,,China,Xiamen,1,1,0,15,1,20241218,17,CN
-/blog/traefik-goaccess,desktop,https://www.reddit.com/,,France,Metz,1,1,0,3,1,20241218,21,FR
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Austria,Liezen,1,1,0,3,1,20241218,22,AT
 /blog/gnuplot-electrode,desktop,https://www.google.com/,,South Korea,Seoul,1,1,0,3,1,20241219,5,
 /blog/automatic-content-generation,desktop,,,France,Paris,1,1,0,2,1,20241219,9,FR
 /blog/velib-folium,desktop,https://www.google.com/,,France,Paris,1,1,58.446898,0,0,20241219,9,FR
@@ -82,3 +70,5 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/ssd-yolo,desktop,https://in.search.yahoo.com/,,India,Chennai,1,1,0,3,1,20241224,7,IN
 /blog/vimwiki-hugo,desktop,https://discourse.gohugo.io/,,Belgium,Mechelen,1,1,0,3,1,20241224,14,BE
 /blog/magic-wand,mobile,https://www.google.com/,,Ukraine,Putyvl',1,1,0,3,1,20241224,23,UA
+/blog/image-preprocessing,mobile,android-app://com.google.android.googlequicksearchbox/,,India,Navi Mumbai,1,1,0,3,1,20241225,10,IN
+/blog/magic-wand,desktop,,,India,Tirupati,1,1,0,3,1,20241225,13,IN
