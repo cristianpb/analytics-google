@@ -1,11 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/monitoring-grafana,desktop,https://www.google.com/,,India,Bengaluru,1,1,0,0,1,20250122,4,IN
-/blog/ssd-yolo,desktop,https://www.google.com/,,Singapore,Singapore,1,1,0,6,1,20250122,8,SG
-/blog/document-detection,desktop,https://www.google.com/,,France,Fontenay-le-Comte,1,1,0,0,1,20250122,9,FR
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,India,Greater Noida,1,1,0,3,1,20250122,10,IN
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,France,Nanterre,1,1,0,3,1,20250122,21,FR
-/blog/serverless-api-lambda,mobile,https://yandex.ru/,,United Kingdom,(not set),1,1,0,3,1,20250122,21,GB
-/blog/image-rotation-opencv,desktop,https://medium.com/@coding-otter/image-and-bounding-box-rotation-using-opencv-python-2def6c39453,,United States,Houston,1,1,0,3,1,20250122,22,US
 /blog/motion-monitor-opencv,mobile,android-app://com.google.android.googlequicksearchbox/,,France,Paris,1,1,0,0,1,20250123,7,FR
 /blog/image-rotation-opencv,desktop,https://www.digitalocean.com/,,India,Rasipuram,1,1,0,3,1,20250123,10,IN
 /blog/document-detection,desktop,https://www.google.com/,,France,Lyon,1,1,0,0,1,20250123,11,FR
@@ -55,3 +48,9 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /about,desktop,,,China,(not set),1,1,0,9,1,20250128,23,CN
 /blog/analytics-google,desktop,https://www.google.com/,,United States,Allentown,1,1,0,3,1,20250129,1,US
 /blog/analytics-google,desktop,https://www.google.com/,,United States,Allentown,1,1,0,0,1,20250129,4,US
+/blog/velib-folium,desktop,,,France,Neuilly-sur-Marne,1,1,237.881089,0,0,20250129,18,FR
+/blog/velib-folium,desktop,https://www.perplexity.ai/,,France,Neuilly-sur-Marne,1,1,0,0,0,20250129,18,FR
+/blog/velib-folium,mobile,,,Switzerland,Zurich,1,1,0,0,1,20250129,18,CH
+/blog/motion-monitor-opencv,mobile,android-app://com.google.android.googlequicksearchbox/,,France,Nanterre,1,1,0,0,1,20250129,19,FR
+/blog/motion-monitor-opencv,desktop,,,France,Nanterre,1,1,0,2,1,20250129,20,FR
+/blog/traefik-goaccess,desktop,https://www.reddit.com/,,Netherlands,Arnhem,1,1,0,0,1,20250129,21,NL
