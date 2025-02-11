@@ -1,11 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/image-rotation-opencv,desktop,,,Indonesia,Jakarta,2,2,0,6,1,20250203,13,ID
 /,desktop,,,United States,(not set),2,2,0,3,1,20250207,11,US
-/blog/motion-monitor-opencv,desktop,https://duckduckgo.com/,,France,Voisins-le-Bretonneux,1,1,0,3,1,20250203,9,FR
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Belgium,(not set),1,1,0,6,1,20250203,12,BE
-/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20250203,14,US
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Sweden,Gothenburg,1,1,0,0,1,20250203,15,SE
-/blog/fluentbit-elasticsearch-kibana,desktop,https://www.bing.com/,,Slovakia,Bratislava,1,1,0,0,1,20250203,17,SK
 /blog/ssd-yolo,desktop,https://www.bing.com/,,Türkiye,Ankara,1,1,0,0,1,20250204,9,
 /blog/image-preprocessing,desktop,https://www.google.com/,,Indonesia,Yogyakarta,1,1,0,0,1,20250204,11,ID
 /blog/traefik-goaccess,desktop,https://www.google.com/,,Brazil,Blumenau,1,1,0,3,1,20250204,18,BR
@@ -41,6 +35,14 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/marathon-mirabelle,mobile,,,Netherlands,Haarlem,1,1,227.370394,4,0,20250209,20,NL
 /blog/mopidy-muse,desktop,https://mopidy.com/,,Sweden,Lulea,1,1,1344.929369,0,0,20250210,0,SE
 /blog/image-rotation-opencv,desktop,,,South Korea,Seoul,1,1,0,3,1,20250210,2,
-/blog/grafana-dashboard,desktop,https://www.google.com/,,India,Bengaluru,1,1,0,6,1,20250210,7,IN
-/blog/music-voice-cotrol,desktop,https://cristianpb.github.io/blog/grafana-dashboard,,India,Bengaluru,1,1,33.370764,1,1,20250210,7,IN
-/blog/music-voice-cotrol,desktop,https://cristianpb.github.io/blog/music-voice-cotrol,,India,Bengaluru,1,1,37.189916,0,1,20250210,7,IN
+/blog/grafana-dashboard,desktop,https://www.google.com/,,India,Bengaluru,1,1,0,6,0,20250210,7,IN
+/blog/music-voice-cotrol,desktop,https://cristianpb.github.io/blog/grafana-dashboard,,India,Bengaluru,1,1,33.370764,1,0,20250210,7,IN
+/blog/music-voice-cotrol,desktop,https://cristianpb.github.io/blog/music-voice-cotrol,,India,Bengaluru,1,1,37.189916,0,0,20250210,7,IN
+/blog/motion-monitor-opencv,mobile,https://duckduckgo.com/,,Netherlands,Leusden,1,1,0,0,1,20250210,11,NL
+/blog/ssd-yolo,desktop,https://www.google.com/,,Italy,Milan,1,1,0,0,1,20250210,14,IT
+/blog/motion-monitor-opencv,mobile,,,Netherlands,Leusden,1,1,0,4,1,20250210,15,NL
+/blog/fluentbit-elasticsearch-kibana,desktop,https://chatgpt.com/,,Germany,Frankfurt,1,1,0,0,1,20250210,18,DE
+/blog/monitoring-grafana,tablet,https://www.google.com/,,Germany,Bremen,1,1,0,0,1,20250210,22,DE
+/blog/motion-monitor-opencv,desktop,https://www.ecosia.org/,,France,Venelles,1,1,0,0,1,20250210,22,FR
+/blog/motion-monitor-opencv,desktop,https://www.bing.com/,,Poland,Lodz,1,1,0,0,0,20250211,11,PL
+/,desktop,,,United States,,1,1,0,3,1,20250211,12,US
