@@ -1,12 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,United States,(not set),2,2,0,3,1,20250207,11,US
-/blog/monitoring-grafana,desktop,https://medium.com/,,Australia,Sydney,1,1,0,0,1,20250205,9,AU
-/blog/tags,desktop,,,China,Chengdu,1,1,0,0,1,20250205,11,CN
-/,desktop,https://cristianpb.github.io/blog/marathon-mirabelle,,Germany,Leipzig,1,1,39.404994,0,0,20250205,16,DE
-/blog/marathon-mirabelle,desktop,https://www.google.com/,,Germany,Leipzig,1,1,0,3,0,20250205,16,DE
-/about,desktop,https://www.google.com/,,France,Rueil-Malmaison,1,1,0,0,1,20250205,17,FR
-/blog/magic-wand,desktop,https://www.google.com/,,United States,Santa Clara,1,1,0,3,1,20250205,21,US
-/blog/image-rotation-opencv,desktop,https://www.digitalocean.com/,,Georgia,Tbilisi,1,1,0,3,1,20250205,22,GE
 /,mobile,http://m.baidu.com/,,China,Chengdu,1,1,0,0,1,20250206,9,CN
 /blog/ssd-yolo,desktop,https://www.google.com/,,Ukraine,Sofiivska Borschahivka,1,1,0,3,1,20250206,11,UA
 /blog/ssd-yolo,desktop,https://www.bing.com/,,United States,Mandan,1,1,0,3,1,20250206,18,US
@@ -53,5 +46,19 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/dashboard-dc-js,desktop,https://www.google.com/,,Saudi Arabia,Madinah,1,1,0,3,1,20250211,16,SA
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,France,Paris,1,1,0,3,1,20250211,17,FR
 /blog/mopidy-muse,desktop,https://www.google.com/,,Cuba,Havana,1,1,0,24,1,20250212,4,CU
+/blog/mopidy-muse,mobile,https://mopidy.com/,,Netherlands,Utrecht,1,1,23.68962,0,0,20250212,10,NL
+/blog/gnuplot-electrode,desktop,https://www.google.com/,,United Kingdom,Southampton,1,1,0,0,1,20250212,11,GB
 /blog/motion-monitor-opencv,desktop,https://www.bing.com/,,Poland,Lodz,1,1,0,0,1,20250212,11,PL
 /blog/motion-monitor-opencv,desktop,https://www.bing.com/,,Poland,Lodz,1,1,0,0,1,20250212,12,PL
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Ireland,Dublin,1,1,0,0,1,20250212,14,IE
+/blog/traefik-goaccess,desktop,https://www.reddit.com/,,Czechia,Bohumin,1,1,0,3,1,20250212,16,
+/blog/grafana-dashboard,desktop,https://www.google.com/,,United Kingdom,Brighton and Hove,1,1,0,0,1,20250212,19,GB
+/,desktop,,,China,(not set),1,1,0,3,1,20250212,20,CN
+//0.0.0.1/,desktop,,,China,(not set),1,1,0,3,1,20250212,20,CN
+//0.0.0.1/fb,desktop,,,China,Zhengzhou,1,1,0,3,1,20250212,20,CN
+//0.0.0.1/fb/fwc,desktop,,,China,Dalian,1,1,0,3,1,20250212,20,CN
+//0.0.0.1/fb/fwc/fzh,desktop,,,China,(not set),1,1,0,3,1,20250212,20,CN
+/blog/ssd-yolo,mobile,https://www.google.com/,,United Kingdom,Teddington,1,1,0,2,1,20250212,23,GB
+/blog/document-detection,desktop,https://www.google.com/,,France,Fontenay-le-Comte,1,1,0,10,1,20250213,9,FR
+//0.0.0.1/,desktop,,,China,Hefei,1,1,0,3,1,20250213,14,CN
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Canada,Toronto,1,1,0,0,1,20250213,20,CA
