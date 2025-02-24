@@ -1,11 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,China,(not set),2,2,0,9,1,20250216,20,CN
 /,desktop,,,United States,Boardman,2,2,0,3,1,20250217,18,US
-/blog/document-detection,mobile,https://yandex.ru/,,Germany,Frankfurt,1,1,0,0,1,20250216,1,DE
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Israel,Ramat Gan,1,1,0,0,1,20250216,13,IL
-/blog/traefik-goaccess,desktop,https://duckduckgo.com/,,United States,Kirkland,1,1,0,0,1,20250216,18,US
-/blog/fluentbit-elasticsearch-kibana,desktop,,,United States,(not set),1,1,0,6,1,20250216,19,US
-//0.0.0.1/,desktop,,,China,Beijing,1,1,0,3,1,20250216,20,CN
 /blog/document-detection,desktop,https://www.google.com/,,France,Fontenay-le-Comte,1,1,0,2,1,20250217,9,FR
 /blog/image-preprocessing,mobile,https://www.google.com/,,New Zealand,Whangarei,1,1,0,3,1,20250217,11,NZ
 /,desktop,,,United Kingdom,London,1,1,0,2,0,20250217,15,GB
@@ -73,5 +67,16 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/magic-wand,desktop,https://www.google.com/,,Lebanon,Beirut,1,1,0,6,1,20250222,22,LB
 /blog/traefik-goaccess,mobile,https://www.google.com/,,Vietnam,Ho Chi Minh City,1,1,0,0,1,20250223,1,VN
 /blog/traefik-goaccess,desktop,https://www.google.com/,,Vietnam,Ho Chi Minh City,1,1,0,3,1,20250223,9,VN
+/,desktop,,,China,(not set),1,1,0,6,1,20250223,13,CN
+/,desktop,,,China,Beijing,1,1,0,3,1,20250223,13,CN
+//0.0.0.1/,desktop,,,China,(not set),1,1,0,3,1,20250223,13,CN
+//0.0.0.1/,desktop,,,China,Nanjing,1,1,0,3,1,20250223,13,CN
+//0.0.0.1/fb,desktop,,,China,Hefei,1,1,0,9,1,20250223,13,CN
+/blog/ssd-yolo,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,6,1,20250223,13,RU
+/,desktop,,,China,Chongqing,1,1,0,3,1,20250223,14,CN
+//0.0.0.1/,desktop,,,China,Shenzhen,1,1,0,3,1,20250223,14,CN
+//0.0.0.1/fb,desktop,,,China,(not set),1,1,0,6,1,20250223,14,CN
 /,desktop,,,Canada,Montreal,1,1,0,3,0,20250223,17,CA
-/blog,desktop,,,Canada,Montreal,1,1,0,3,0,20250223,17,CA
+/about,desktop,,,Canada,Montreal,1,1,42.721367,1,0,20250223,17,CA
+/blog,desktop,,,Canada,Montreal,1,1,7.645078,3,0,20250223,17,CA
+/blog/velib-folium,desktop,https://www.google.com/,,South Africa,Pretoria,1,1,0,3,1,20250223,18,ZA
