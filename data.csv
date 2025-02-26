@@ -1,13 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Canada,Ottawa,1,1,0,0,1,20250218,0,CA
-/blog/traefik-goaccess,desktop,https://duckduckgo.com/,,United States,Kirkland,1,1,0,0,1,20250218,5,US
-/blog/analytics-google,desktop,https://www.google.com/,,Indonesia,Jakarta,1,1,0,3,1,20250218,9,ID
-/,desktop,https://www.data.gouv.fr/,,France,Montpellier,1,1,0,0,1,20250218,10,FR
-/blog/traefik-goaccess,desktop,,,Czechia,Bohumin,1,1,0,2,1,20250218,14,
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Belgium,Puurs-Sint-Amands,1,1,0,0,1,20250218,15,BE
-/blog/velib-folium,desktop,https://www.google.com/,,France,Bailly-Romainvilliers,1,1,0,3,1,20250218,15,FR
-/blog/traefik-goaccess,desktop,https://www.reddit.com/,,United States,Kirkland,1,1,0,0,1,20250218,18,US
-/blog/ssd-yolo,desktop,https://www.google.com/,,United States,Chicago,1,1,0,0,1,20250218,22,US
 /,desktop,https://cristianpb.github.io/about,,Canada,Toronto,1,1,2.2677,1,0,20250219,1,CA
 /,desktop,https://cristianpb.github.io/analytics-google/algolia/,,Canada,Toronto,1,1,102.282764,1,0,20250219,1,CA
 /,desktop,https://cristianpb.github.io/blog/velib-folium,,Canada,Toronto,1,1,6.033918,0,0,20250219,1,CA
@@ -74,7 +65,25 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/motion-monitor-opencv,mobile,android-app://com.google.android.googlequicksearchbox/,,Germany,(not set),1,1,0,0,1,20250224,10,DE
 /blog/gnuplot-electrode,desktop,https://www.google.com/,,Spain,(not set),1,1,0,0,1,20250224,12,ES
 /blog/marathon-mirabelle,desktop,https://www.google.com/,,Denmark,Copenhagen,1,1,0,3,1,20250224,14,DK
-/blog/image-rotation-opencv,desktop,,,China,,1,1,0,6,1,20250225,1,CN
+/blog/image-rotation-opencv,desktop,,,China,(not set),1,1,0,6,1,20250225,1,CN
 /blog/image-processing-using-serverless-architecture,desktop,https://www.bing.com/,,India,Jaipur,1,1,0,3,1,20250225,7,IN
-/blog/grafana-dashboard,desktop,https://cristianpb.github.io/blog/monitoring-grafana,,Brazil,Itapecerica da Serra,1,1,0,0,1,20250225,17,BR
-/blog/music-voice-cotrol,desktop,https://cristianpb.github.io/blog/grafana-dashboard,,Brazil,Itapecerica da Serra,1,1,0,0,1,20250225,17,BR
+/blog/image-rotation-opencv,mobile,https://yandex.by/,,Netherlands,(not set),1,1,0,18,1,20250225,9,NL
+/blog/analytics-google,desktop,https://yandex.ru/search/?text=github+analitics+dashboard&clid=2278637&banerid=6700355509_000000000000000000000000000000000067411&win=589&lr=213,,Russia,Moscow,1,1,0,0,1,20250225,11,RU
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Peru,(not set),1,1,0,0,1,20250225,16,PE
+/,desktop,,,China,(not set),1,1,0,12,1,20250225,17,CN
+/,desktop,,,China,Kunming,1,1,0,6,1,20250225,17,CN
+//0.0.0.1/,desktop,,,China,(not set),1,1,0,15,1,20250225,17,CN
+/blog/grafana-dashboard,desktop,https://cristianpb.github.io/blog/monitoring-grafana,,Brazil,Itapecerica da Serra,1,1,40.413796,0,0,20250225,17,BR
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Brazil,Itapecerica da Serra,1,1,0,0,0,20250225,17,BR
+/blog/music-voice-cotrol,desktop,https://cristianpb.github.io/blog/grafana-dashboard,,Brazil,Itapecerica da Serra,1,1,91.052105,0,0,20250225,17,BR
+/blog/ssd-yolo,desktop,https://www.google.com/,,Canada,Mississauga,1,1,0,0,1,20250225,17,CA
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,United States,Atlanta,1,1,0,3,1,20250225,20,US
+/blog/traefik-goaccess,desktop,https://www.reddit.com/,,United States,New York,1,1,0,0,1,20250225,22,US
+/,desktop,,,Sweden,Taby,1,1,502.3226,1,0,20250226,17,SE
+/about,desktop,,,Sweden,Taby,1,1,852.28784,0,0,20250226,17,SE
+/blog,desktop,,,Sweden,Taby,1,1,911.260517,2,0,20250226,17,SE
+/blog/automatic-content-generation,desktop,,,Sweden,Taby,1,1,62.04627,1,0,20250226,17,SE
+/blog/mopidy-muse,desktop,,,Sweden,Taby,1,1,0,2,0,20250226,17,SE
+/blog/mopidy-muse,desktop,https://mopidy.com/,,Sweden,Taby,1,1,0,0,0,20250226,17,SE
+/,desktop,,,United Kingdom,London,1,1,0,0,1,20250226,20,GB
+/about,desktop,,,Canada,Montreal,1,1,0,0,1,20250226,21,CA
