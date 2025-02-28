@@ -1,17 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/mopidy-muse,desktop,https://mopidy.com/,,United States,Palatine,1,1,0,3,1,20250220,0,US
-/blog/document-detection,desktop,https://www.google.com/,,Türkiye,Istanbul,1,1,0,0,1,20250220,1,
-/,desktop,,,United States,(not set),1,1,0,0,1,20250220,3,US
-/blog/marathon-mirabelle,desktop,https://www.google.com/,,Canada,Toronto,1,1,0,2,1,20250220,3,CA
-/blog/traefik-goaccess,desktop,https://duckduckgo.com/,,United States,Kirkland,1,1,0,0,1,20250220,3,US
-/blog/magic-wand,desktop,https://www.google.com/,,United States,Santa Clara,1,1,0,0,1,20250220,4,US
-/blog/ssd-yolo,mobile,https://www.google.com/,,Russia,Krasnoyarsk,1,1,0,3,1,20250220,8,RU
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Germany,Sindelfingen,1,1,0,0,1,20250220,10,DE
-/blog/traefik-goaccess,mobile,https://www.google.com/,,Canada,Oakville,1,1,403.116383,5,0,20250220,10,CA
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Italy,Rome,1,1,0,0,1,20250220,11,IT
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Germany,Sindelfingen,1,1,0,0,1,20250220,16,DE
-/blog/jekyll-algolia,mobile,,,United States,New York,1,1,0,0,1,20250220,22,US
-/blog/ssd-yolo,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,3,1,20250220,22,RU
 /blog/magic-wand,desktop,https://www.google.com/,,Canada,Richmond,1,1,0,3,1,20250221,3,CA
 /blog/grafana-dashboard,desktop,https://www.google.com/,,India,(not set),1,1,0,0,1,20250221,7,IN
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,France,Paris,1,1,0,3,1,20250221,9,FR
@@ -76,10 +63,21 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),1,1,0,15,1,20250226,21,CN
 /about,desktop,,,Canada,Montreal,1,1,37.24976,0,0,20250226,21,CA
 /blog,desktop,,,Canada,Montreal,1,1,7.317873,2,0,20250226,21,CA
-/blog,mobile,https://cristianpb.github.io/,,Germany,Landsberg am Lech,1,1,0,1,1,20250227,4,DE
-/blog/application-revenue-prediction,mobile,https://cristianpb.github.io/blog,,Germany,Landsberg am Lech,1,1,19.237495,0,1,20250227,4,DE
-/blog/vimwiki-hugo,mobile,,,Germany,Landsberg am Lech,1,1,0,0,1,20250227,4,DE
-/,mobile,https://cristianpb.github.io/,,Belgium,,1,1,0,0,0,20250227,14,BE
-/about,mobile,https://www.google.com/,,Belgium,,1,1,0,0,0,20250227,14,BE
-/blog,mobile,https://cristianpb.github.io/,,Belgium,,1,1,10.62738,0,0,20250227,14,BE
-/blog/ssd-yolo,desktop,https://www.google.com/,,United Kingdom,,1,1,0,0,0,20250227,19,GB
+/blog,mobile,https://cristianpb.github.io/,,Germany,Landsberg am Lech,1,1,9.682314,1,0,20250227,4,DE
+/blog/application-revenue-prediction,mobile,https://cristianpb.github.io/blog,,Germany,Landsberg am Lech,1,1,9.555181,0,0,20250227,4,DE
+/blog/playlists-dashboard,mobile,https://cristianpb.github.io/blog,,Germany,Landsberg am Lech,1,1,114.596161,0,0,20250227,4,DE
+/blog/vimwiki-hugo,mobile,,,Germany,Landsberg am Lech,1,1,0,0,0,20250227,4,DE
+/blog/ssd-yolo,desktop,https://coda.io/,,South Korea,Seoul,1,1,0,3,1,20250227,8,
+/blog/ssd-yolo,mobile,https://yandex.com/,,China,(not set),1,1,0,0,1,20250227,9,CN
+/blog/fluentbit-elasticsearch-kibana,desktop,https://yandex.ru/,,Russia,Nizhny Tagil,1,1,0,0,1,20250227,10,RU
+/blog/magic-wand,mobile,android-app://com.google.android.googlequicksearchbox/,,India,Thiruvananthapuram,1,1,96.808939,6,0,20250227,12,IN
+/blog/automatic-content-generation,desktop,,,France,Paris,1,1,0,3,1,20250227,13,FR
+/blog/mopidy-muse,desktop,https://www.ecosia.org/,,Germany,Heilbronn,1,1,0,3,1,20250227,13,DE
+/,mobile,https://cristianpb.github.io/,,Belgium,(not set),1,1,5.560039,0,0,20250227,14,BE
+/,mobile,https://cristianpb.github.io/about,,Belgium,(not set),1,1,3.11897,0,0,20250227,14,BE
+/about,mobile,https://www.google.com/,,Belgium,(not set),1,1,0,0,0,20250227,14,BE
+/blog,mobile,https://cristianpb.github.io/,,Belgium,(not set),1,1,10.62738,0,0,20250227,14,BE
+/,desktop,,,China,(not set),1,1,0,12,1,20250227,16,CN
+/blog/image-rotation-opencv,desktop,https://medium.com/@coding-otter/image-and-bounding-box-rotation-using-opencv-python-2def6c39453,,Vietnam,Ho Chi Minh City,1,1,0,3,1,20250227,16,VN
+/blog/traefik-goaccess,desktop,https://www.google.com/,,Poland,Warsaw,1,1,0,3,1,20250227,16,PL
+/blog/ssd-yolo,desktop,https://www.google.com/,,United Kingdom,(not set),1,1,39.167995,0,0,20250227,19,GB
