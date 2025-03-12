@@ -1,12 +1,6 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,China,(not set),2,2,0,21,1,20250304,14,CN
 /,desktop,,,China,(not set),2,2,0,21,1,20250305,11,CN
 /,desktop,,,China,(not set),2,2,0,27,1,20250305,17,CN
-/blog/motion-monitor-opencv,desktop,,,Indonesia,Cirebon,1,1,353.212607,1,0,20250304,3,ID
-/blog/ssd-yolo,desktop,https://www.google.com/,,Indonesia,Cirebon,1,1,0,3,0,20250304,3,ID
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Poland,Warsaw,1,1,0,3,1,20250304,12,PL
-/,desktop,,,China,Xilingol League,1,1,0,6,1,20250304,14,CN
-//0.0.0.1/,desktop,,,China,(not set),1,1,0,9,1,20250304,14,CN
 /blog/vimwiki-hugo,mobile,https://discourse.gohugo.io/,,Morocco,Marrakesh,1,1,0,0,1,20250305,0,MA
 /about,desktop,https://www.google.com/,,Germany,Dresden,1,1,0,0,1,20250305,8,DE
 /blog/dashboard-dc-js,mobile,,,India,(not set),1,1,0,3,1,20250305,8,IN
@@ -47,10 +41,22 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/vimwiki-hugo,desktop,https://discourse.gohugo.io/,,Finland,Helsinki,1,1,0,0,1,20250310,13,FI
 /blog/document-detection,desktop,https://www.google.com/,,France,Fontenay-le-Comte,1,1,0,10,1,20250310,14,FR
 /blog/vimwiki-hugo,desktop,https://discourse.gohugo.io/,,Finland,Helsinki,1,1,0,3,1,20250310,22,FI
-/blog/grafana-dashboard,desktop,,,France,Paris,1,1,0,1,1,20250311,9,FR
-/blog/monitoring-grafana,desktop,https://www.google.fr/,,France,Paris,1,1,0,18,1,20250311,9,FR
-/blog,desktop,https://www.google.com/,,Indonesia,Yogyakarta,1,1,0,4,1,20250311,16,ID
-/blog/fluentbit-elasticsearch-kibana,desktop,https://cristianpb.github.io/blog,,Indonesia,Yogyakarta,1,1,0,1,1,20250311,16,ID
-/blog/santorini-experience,desktop,https://cristianpb.github.io/blog,,Indonesia,Yogyakarta,1,1,0,1,1,20250311,16,ID
-/blog/withings-data,desktop,https://cristianpb.github.io/blog,,Indonesia,Yogyakarta,1,1,80.939761,1,1,20250311,16,ID
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Russia,Moscow,1,1,0,0,1,20250311,8,RU
+/blog/grafana-dashboard,desktop,,,France,Paris,1,1,60.498063,1,0,20250311,9,FR
+/blog/monitoring-grafana,desktop,https://www.google.fr/,,France,Paris,1,1,0,18,0,20250311,9,FR
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,France,Paris,1,1,0,0,1,20250311,9,FR
+/blog/image-rotation-opencv,desktop,https://www.digitalocean.com/,,Hong Kong,Hong Kong,1,1,0,3,1,20250311,10,HK
+/blog,desktop,https://www.google.com/,,Indonesia,Yogyakarta,1,1,0,4,0,20250311,16,ID
+/blog/fluentbit-elasticsearch-kibana,desktop,https://cristianpb.github.io/blog,,Indonesia,Yogyakarta,1,1,45.483602,1,0,20250311,16,ID
+/blog/santorini-experience,desktop,https://cristianpb.github.io/blog,,Indonesia,Yogyakarta,1,1,70.743751,1,0,20250311,16,ID
+/blog/withings-data,desktop,https://cristianpb.github.io/blog,,Indonesia,Yogyakarta,1,1,10.19601,1,0,20250311,16,ID
 /blog/monitoring-grafana,desktop,https://www.google.de/,,Germany,Oberhausen,1,1,0,0,1,20250311,17,DE
+/blog/traefik-goaccess,desktop,https://www.google.com/,,France,Bretignolles-sur-Mer,1,1,0,3,1,20250311,19,FR
+/blog/tags,desktop,https://cristianpb.github.io/blog/withings-data,,Italy,Parma,1,1,14.369543,1,0,20250311,20,IT
+/blog/withings-data,desktop,https://www.google.com/,,Italy,Parma,1,1,0,9,0,20250311,20,IT
+/,mobile,http://m.baidu.com/,,China,Ili,1,1,0,3,1,20250311,21,CN
+/blog/monitoring-grafana,mobile,https://www.google.com/,,Germany,(not set),1,1,0,0,1,20250311,22,DE
+/,desktop,,,South Korea,Seoul,1,1,6.11029,0,1,20250312,1,
+/assets/img/grafana-dashboar,desktop,,,South Korea,Seoul,1,1,0,0,1,20250312,1,
+/assets/img/grafana-dashboard/,desktop,,,South Korea,Seoul,1,1,0,0,1,20250312,1,
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Singapore,Singapore,1,1,0,3,1,20250312,8,SG
