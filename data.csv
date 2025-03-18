@@ -1,13 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/about,mobile,https://duckduckgo.com/,,Croatia,(not set),1,1,0,6,1,20250310,7,HR
-/,mobile,https://cristianpb.github.io/about,,Germany,(not set),1,1,0,6,1,20250310,8,DE
-/about,desktop,https://www.google.com/,,Germany,Munich,1,1,0,0,1,20250310,8,DE
-/blog/ssd-yolo,desktop,https://www.google.com/,,Taiwan,Zhongli District,1,1,0,3,1,20250310,9,TW
-/blog/vimwiki-hugo,desktop,https://duckduckgo.com/,,United Kingdom,London,1,1,0,3,1,20250310,10,GB
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Russia,Moscow,1,1,0,2,1,20250310,13,RU
-/blog/vimwiki-hugo,desktop,https://discourse.gohugo.io/,,Finland,Helsinki,1,1,0,0,1,20250310,13,FI
-/blog/document-detection,desktop,https://www.google.com/,,France,Fontenay-le-Comte,1,1,0,10,1,20250310,14,FR
-/blog/vimwiki-hugo,desktop,https://discourse.gohugo.io/,,Finland,Helsinki,1,1,0,3,1,20250310,22,FI
+/blog/motion-monitor-opencv,desktop,,,United States,Moses Lake,2,2,0.0039035,6,0.5,20250317,20,US
 /blog/grafana-dashboard,desktop,https://www.google.com/,,Russia,Moscow,1,1,0,0,1,20250311,8,RU
 /blog/grafana-dashboard,desktop,,,France,Paris,1,1,60.498063,1,0,20250311,9,FR
 /blog/monitoring-grafana,desktop,https://www.google.fr/,,France,Paris,1,1,0,18,0,20250311,9,FR
@@ -73,4 +65,13 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,Sweden,(not set),1,1,0,0,1,20250316,20,SE
 /blog/traefik-goaccess,desktop,https://yandex.ru/,,Russia,Saint Petersburg,1,1,0,3,1,20250316,20,RU
 /blog/fluentbit-elasticsearch-kibana,desktop,https://bing.com/,,United States,(not set),1,1,0,0,1,20250316,22,US
-/,desktop,https://bing.com/,,United States,,1,1,0,3,1,20250317,2,US
+/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20250317,2,US
+/blog/motion-monitor-opencv,tablet,https://www.google.com/,,Denmark,Esbjerg,1,1,0,3,1,20250317,2,DK
+/,desktop,,,United States,(not set),1,1,0,0,1,20250317,14,US
+/,desktop,,,Australia,(not set),1,1,0,15,1,20250317,15,AU
+/,desktop,,,China,(not set),1,1,0,9,1,20250317,15,CN
+/,desktop,,,China,Hangzhou,1,1,0,15,1,20250317,15,CN
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Germany,Gutersloh,1,1,0,3,1,20250317,17,DE
+/blog/document-detection,desktop,https://www.google.com/,,Türkiye,Bursa,1,1,0,0,1,20250317,18,
+/,desktop,,,China,,1,1,0,15,1,20250318,6,CN
+/blog/velib-folium,desktop,https://www.google.com/,,France,Nanterre,1,1,0,3,1,20250318,11,FR
