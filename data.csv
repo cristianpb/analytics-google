@@ -1,16 +1,6 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,China,(not set),2,2,0,30,1,20250320,4,CN
 /blog/traefik-goaccess,desktop,,,India,Mumbai,2,2,0.242862,21,0.5,20250324,7,IN
 /,desktop,,,China,(not set),2,2,0,30,1,20250325,21,CN
-/,desktop,,,China,Suzhou,1,1,0,15,1,20250320,4,CN
-/,desktop,,,China,Xiamen,1,1,0,15,1,20250320,4,CN
-/blog/mopidy-muse,desktop,https://mopidy.com/,,Germany,Friedrichshafen,1,1,0,3,1,20250320,16,DE
-/,desktop,https://bing.com/,,United States,Palm Springs,1,1,0,3,1,20250320,17,US
-/blog/gnuplot-electrode,mobile,https://www.google.com/,,India,Mumbai,1,1,0,12,1,20250320,19,IN
-/blog/image-rotation-opencv,desktop,,,Belgium,Hasselt,1,1,0,0,1,20250320,19,BE
-/blog/motion-monitor-opencv,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,3,1,20250320,19,RU
-/blog/music-voice-cotrol,mobile,,,United States,Darien,1,1,0,0,1,20250320,21,US
-/blog/document-detection,desktop,https://www.google.com/,,United States,Columbus,1,1,0,0,1,20250320,23,US
 /,desktop,,,United States,Palm Springs,1,1,0,0,1,20250321,10,US
 /,desktop,https://scholar.google.com/,,Japan,Setagaya City,1,1,0,3,1,20250321,10,JP
 /,desktop,https://www.google.be/,,Belgium,Brussels,1,1,0,3,1,20250321,14,BE
@@ -62,3 +52,6 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/ssd-yolo,desktop,https://yandex.ru/,,Russia,Solnechnogorsk,1,1,0,0,1,20250326,21,RU
 /blog/ssd-yolo,desktop,https://www.google.com/,,South Korea,Daejeon,1,1,0,0,1,20250327,5,
 /blog/document-detection,desktop,https://www.google.com/,,France,Fontenay-le-Comte,1,1,0,10,1,20250327,9,FR
+/blog/document-detection,desktop,https://www.google.com/,,Slovenia,(not set),1,1,0,0,1,20250327,10,SI
+/blog/vimwiki-hugo,desktop,https://discourse.gohugo.io/,,Switzerland,Zurich,1,1,0,3,1,20250327,13,CH
+/blog/velib-folium,mobile,https://www.google.com/,,France,Paris,1,1,0,3,1,20250327,22,FR
