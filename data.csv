@@ -1,16 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/traefik-goaccess,desktop,,,India,Mumbai,2,2,0.242862,21,0.5,20250324,7,IN
 /,desktop,,,China,(not set),2,2,0,30,1,20250325,21,CN
-/,desktop,,,United States,Palm Springs,1,1,0,0,1,20250324,7,US
-/blog/tags,desktop,,,India,Mumbai,1,1,0,3,0,20250324,7,IN
-/blog/traefik-goaccess,desktop,https://statics.teams.cdn.office.net/,,India,Bengaluru,1,1,0,3,1,20250324,7,IN
-/,desktop,https://bing.com/,,United States,Palm Springs,1,1,0,3,1,20250324,13,US
-/,desktop,,,China,Tianjin,1,1,0,6,1,20250324,18,CN
-/blog/fluentbit-elasticsearch-kibana,desktop,https://www.bing.com/,,United Arab Emirates,Dubai,1,1,0,6,1,20250324,18,AE
-/,desktop,,,China,(not set),1,1,0,15,1,20250324,19,CN
-/blog/mopidy-muse,desktop,https://mopidy.com/,,Israel,Haifa,1,1,0,3,1,20250324,21,IL
-/,desktop,,,Canada,Montreal,1,1,0,6,1,20250324,22,CA
-/,desktop,,,Finland,Helsinki,1,1,0,9,1,20250324,23,FI
 /blog/marathon-mirabelle,desktop,https://www.google.com/,,India,Bhubaneswar,1,1,0,3,1,20250325,5,IN
 /blog/document-detection,mobile,https://www.google.com/,,Germany,Petersberg,1,1,0,3,1,20250325,7,DE
 /blog/vimwiki-hugo,desktop,https://discourse.gohugo.io/,,United Kingdom,Leicester,1,1,0,3,1,20250325,12,GB
@@ -55,8 +44,20 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/document-detection,desktop,,,Slovenia,(not set),1,1,0,0,1,20250330,20,SI
 /blog/document-detection,mobile,https://www.google.com/,,Slovenia,(not set),1,1,0,0,1,20250330,20,SI
 /blog/analytics-google,mobile,https://www.google.com/,,United States,Nashville,1,1,0,0,1,20250331,4,US
+/blog/ssd-yolo,desktop,https://www.google.com/,,Germany,Butzbach,1,1,0,3,1,20250331,9,DE
+/blog/analytics-google,mobile,https://www.google.com/,,United States,Nashville,1,1,0,0,1,20250331,13,US
+/blog/mopidy-muse,tablet,https://mopidy.com/,,Croatia,Rijeka,1,1,0,0,1,20250331,13,HR
 /blog/image-rotation-opencv,desktop,,,India,Bengaluru,1,1,3.952705,0,0,20250331,14,IN
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,India,Bengaluru,1,1,0,3,0,20250331,14,IN
-/,desktop,,,China,,1,1,0,15,1,20250331,21,CN
+/blog,desktop,https://www.google.com/,,Spain,Colmenar Viejo,1,1,0,3,0,20250331,15,ES
+/blog/grafana-dashboard,desktop,https://cristianpb.github.io/blog,,Spain,Colmenar Viejo,1,1,397.252885,0,0,20250331,15,ES
+/,desktop,https://bing.com/,,United States,Toledo,1,1,0,3,1,20250331,16,US
+/,desktop,,,United States,Toledo,1,1,0,3,1,20250331,17,US
+/,desktop,,,China,(not set),1,1,0,15,1,20250331,21,CN
+/,desktop,,,China,Dalian,1,1,0,15,1,20250331,21,CN
 /,desktop,,,China,Nanjing,1,1,0,15,1,20250331,21,CN
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Canada,Longueuil,1,1,0,0,1,20250331,21,CA
+/blog/document-detection,desktop,https://www.google.com/,,Germany,Petersberg,1,1,0,0,1,20250331,23,DE
+/blog/analytics-google,desktop,https://www.bing.com/,,United States,New York,1,1,0,0,1,20250401,9,US
+/about,desktop,https://cristianpb.github.io/,,France,Paris,1,1,60.044178,1,0,20250401,19,FR
+/blog/velib-folium,desktop,https://www.google.com/,,France,Paris,1,1,0,3,0,20250401,19,FR
