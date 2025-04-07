@@ -1,11 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,China,(not set),1,1,0,15,1,20250330,10,CN
-/blog/motion-monitor-opencv,desktop,https://keep.google.com/,,Russia,(not set),1,1,0,0,1,20250330,13,RU
-/blog/document-detection,mobile,https://www.google.com/,,United States,Secaucus,1,1,0,0,1,20250330,14,US
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,Spain,Valencia,1,1,2.909913,0,0,20250330,16,ES
-/blog/motion-monitor-opencv,mobile,https://www.google.com/,,Spain,Barcelona,1,1,195.450627,4,0,20250330,19,ES
-/blog/document-detection,desktop,,,Slovenia,(not set),1,1,0,0,1,20250330,20,SI
-/blog/document-detection,mobile,https://www.google.com/,,Slovenia,(not set),1,1,0,0,1,20250330,20,SI
+/blog/analytics-google,mobile,https://www.google.com/,,South Korea,Busan,2,2,60.204693,3,0.5,20250406,18,
 /blog/analytics-google,mobile,https://www.google.com/,,United States,Nashville,1,1,0,0,1,20250331,4,US
 /blog/ssd-yolo,desktop,https://www.google.com/,,Germany,Butzbach,1,1,0,3,1,20250331,9,DE
 /blog/analytics-google,mobile,https://www.google.com/,,United States,Nashville,1,1,0,0,1,20250331,13,US
@@ -58,16 +52,21 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/marathon-mirabelle,mobile,https://www.google.com/,,India,Ghaziabad,1,1,0,3,1,20250405,11,IN
 /blog/grafana-dashboard,desktop,https://www.google.com/,,Vietnam,Hanoi,1,1,0,3,1,20250405,12,VN
 /blog/image-rotation-opencv,desktop,https://ya.ru/,,Russia,Petrozavodsk,1,1,0,6,1,20250405,15,RU
-/,mobile,https://cristianpb.github.io/about,,Canada,Grande Prairie,1,1,53.905979,0,1,20250406,2,CA
-/,mobile,https://cristianpb.github.io/blog/automatic-content-generation,,Canada,Grande Prairie,1,1,0,0,1,20250406,2,CA
-/about,mobile,https://cristianpb.github.io/,,Canada,Grande Prairie,1,1,0,0,1,20250406,2,CA
-/blog,mobile,https://cristianpb.github.io/,,Canada,Grande Prairie,1,1,0,0,1,20250406,2,CA
-/blog/automatic-content-generation,mobile,https://github.com/,,Canada,Grande Prairie,1,1,0,0,1,20250406,2,CA
-/blog/vimwiki-hugo,mobile,https://cristianpb.github.io/blog,,Canada,Grande Prairie,1,1,25.394813,0,1,20250406,2,CA
+/,mobile,https://cristianpb.github.io/about,,Canada,Grande Prairie,1,1,16.250769,0,0,20250406,2,CA
+/,mobile,https://cristianpb.github.io/blog/automatic-content-generation,,Canada,Grande Prairie,1,1,12.109899,0,0,20250406,2,CA
+/about,mobile,https://cristianpb.github.io/,,Canada,Grande Prairie,1,1,25.545311,0,0,20250406,2,CA
+/blog,mobile,https://cristianpb.github.io/,,Canada,Grande Prairie,1,1,10.245736,0,0,20250406,2,CA
+/blog/automatic-content-generation,mobile,https://github.com/,,Canada,Grande Prairie,1,1,0,0,0,20250406,2,CA
+/blog/vimwiki-hugo,mobile,https://cristianpb.github.io/blog,,Canada,Grande Prairie,1,1,15.149077,0,0,20250406,2,CA
 /blog/analytics-google,desktop,https://www.google.com/,,India,Bhiwandi,1,1,0,0,1,20250406,5,IN
 /blog/analytics-google,desktop,https://www.google.com/,,India,Bhiwandi,1,1,0,0,1,20250406,6,IN
+/blog/motion-monitor-opencv,desktop,,,Russia,Yekaterinburg,1,1,0,0,1,20250406,17,RU
+/blog/ssd-yolo,desktop,https://gemini.google.com/,,India,Delhi,1,1,0,3,1,20250406,17,IN
+/blog/playlists-dashboard,mobile,https://cristianpb.github.io/blog/analytics-google,,South Korea,Busan,1,1,23.48972,0,0,20250406,18,
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,Russia,Yekaterinburg,1,1,0,2,1,20250406,19,RU
 /blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Neu-Ulm,1,1,0,6,1,20250406,19,DE
 /blog/analytics-google,mobile,https://cristianpb.github.io/blog/analytics-google,,South Korea,Busan,1,1,105.266072,0,0,20250406,20,
-/blog/analytics-google,mobile,https://www.google.com/,,South Korea,Busan,1,1,0,0,0,20250406,20,
-/blog/image-rotation-opencv,mobile,https://cristianpb.github.io/blog/analytics-google,,South Korea,Busan,1,1,142.911006,2,0,20250406,20,
+/blog/analytics-google,mobile,https://www.google.com/,,South Korea,Busan,1,1,61.104056,0,0,20250406,20,
+/blog/dashboard-dc-js,mobile,https://www.google.com/,,South Korea,Busan,1,1,0,3,1,20250406,20,
+/blog/image-rotation-opencv,mobile,https://cristianpb.github.io/blog/analytics-google,,South Korea,Busan,1,1,81.80695,2,0,20250406,20,
+/blog/motion-monitor-opencv,mobile,android-app://com.google.android.googlequicksearchbox/,,India,Pune,1,1,0,0,1,20250407,6,IN
