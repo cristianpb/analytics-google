@@ -1,13 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,mobile,,,United States,Ashburn,2,2,0,0,1,20250421,22,US
-/blog/monitoring-grafana,desktop,,,Germany,Grafing,1,1,0,0,1,20250415,9,DE
-/blog/velib-folium,desktop,,,France,Paris,1,1,0,3,1,20250415,9,FR
-/blog/document-detection,mobile,https://yandex.ru/,,Russia,(not set),1,1,0,0,1,20250415,12,RU
-/,desktop,,,United States,(not set),1,1,0,0,1,20250415,13,US
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,Germany,Greifswald,1,1,818.176038,7,0,20250415,14,DE
-/blog/snips-relay-lights,desktop,https://www.google.com/,,Indonesia,Surabaya,1,1,0,3,1,20250415,14,ID
-/blog/dashboard-dc-js,desktop,https://www.google.co.in/,,India,Chennai,1,1,0,0,1,20250415,15,IN
-/blog/traefik-goaccess,desktop,https://www.google.com/,,France,Drancy,1,1,1620.467308,0,0,20250415,23,FR
 /blog/snips-relay-lights,mobile,https://www.google.com/,,Indonesia,Surabaya,1,1,0,0,1,20250416,0,ID
 /blog/ssd-yolo,desktop,https://www.google.com/,,Finland,Joensuu,1,1,0,0,1,20250416,14,FI
 /blog/ssd-yolo,desktop,https://www.google.com/,,Germany,Siegen,1,1,0,3,1,20250416,21,DE
@@ -32,5 +24,20 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/ssd-yolo,desktop,https://www.bing.com/,,Ukraine,Zhytomyr,1,1,0,0,0,20250421,13,UA
 /blog/traefik-goaccess,desktop,https://www.google.com/,,Indonesia,Bata Bual,1,1,78.043951,1,0,20250421,17,ID
 /blog/traefik-goaccess,desktop,https://www.reddit.com/,,Indonesia,Bata Bual,1,1,227.057453,4,0,20250421,17,ID
+/blog/ssd-yolo,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,6,1,20250422,11,RU
+/blog/document-detection,desktop,https://www.google.com/,,Romania,Constanta,1,1,0,3,1,20250422,15,RO
+/blog/grafana-dashboard,desktop,,,Switzerland,Meyrin,1,1,507.462417,1,0,20250422,17,CH
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Switzerland,Meyrin,1,1,0,3,0,20250422,17,CH
+/blog/monitoring-grafana,desktop,,,Switzerland,Meyrin,1,1,28.211569,1,0,20250422,17,CH
+/blog/ssd-yolo,mobile,https://www.google.com/,,United States,San Francisco,1,1,0,3,1,20250422,18,US
 /blog/traefik-goaccess,desktop,https://www.reddit.com/,,Indonesia,Bata Bual,1,1,0,2,1,20250422,18,ID
 /,desktop,,,United States,Boston,1,1,0,0,1,20250422,21,US
+/blog/ssd-yolo,desktop,,,United States,Washington,1,1,0,0,1,20250423,2,US
+/blog/analytics-google,desktop,https://cristianpb.github.io/blog/dashboard-dc-js,,United Kingdom,Cambridge,1,1,30.230585,0,0,20250423,9,GB
+/blog/dashboard-dc-js,desktop,https://www.google.com/,,United Kingdom,Cambridge,1,1,0,3,0,20250423,9,GB
+/blog/marathon-mirabelle,desktop,https://www.google.com/,,Egypt,New Cairo City,1,1,0,9,1,20250423,12,EG
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,Saarbrucken,1,1,0,0,0,20250423,12,DE
+/,desktop,,,Poland,Warsaw,1,1,0,1,1,20250423,17,PL
+/blog/categories,desktop,,,Poland,Warsaw,1,1,164.751587,0,0,20250423,17,PL
+/blog/mopidy-muse,desktop,https://mopidy.com/,,Poland,Warsaw,1,1,0,3,0,20250423,17,PL
+/blog/tags,desktop,,,Poland,Warsaw,1,1,0,0,1,20250423,17,PL
