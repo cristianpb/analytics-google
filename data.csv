@@ -1,8 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,mobile,,,United States,Ashburn,2,2,0,0,1,20250421,22,US
-/blog/snips-relay-lights,mobile,https://www.google.com/,,Indonesia,Surabaya,1,1,0,0,1,20250416,0,ID
-/blog/ssd-yolo,desktop,https://www.google.com/,,Finland,Joensuu,1,1,0,0,1,20250416,14,FI
-/blog/ssd-yolo,desktop,https://www.google.com/,,Germany,Siegen,1,1,0,3,1,20250416,21,DE
 /blog/document-detection,desktop,https://www.google.com/,,Bangladesh,Dhaka,1,1,0,0,1,20250417,11,BD
 /blog/document-detection,desktop,https://www.google.com/,,Bangladesh,Dhaka,1,1,0,2,1,20250417,12,BD
 /blog/image-preprocessing,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,3,1,20250417,13,GB
@@ -33,11 +30,19 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/traefik-goaccess,desktop,https://www.reddit.com/,,Indonesia,Bata Bual,1,1,0,2,1,20250422,18,ID
 /,desktop,,,United States,Boston,1,1,0,0,1,20250422,21,US
 /blog/ssd-yolo,desktop,,,United States,Washington,1,1,0,0,1,20250423,2,US
+/blog/traefik-goaccess,desktop,https://duckduckgo.com/,,Hong Kong,(not set),1,1,0,3,1,20250423,6,HK
+/,desktop,https://bing.com/,,United States,New York,1,1,0,3,1,20250423,7,US
+/blog/fluentbit-elasticsearch-kibana,desktop,https://yandex.ru/,,Russia,Arkhangelsk,1,1,0,3,1,20250423,8,RU
 /blog/analytics-google,desktop,https://cristianpb.github.io/blog/dashboard-dc-js,,United Kingdom,Cambridge,1,1,30.230585,0,0,20250423,9,GB
 /blog/dashboard-dc-js,desktop,https://www.google.com/,,United Kingdom,Cambridge,1,1,0,3,0,20250423,9,GB
 /blog/marathon-mirabelle,desktop,https://www.google.com/,,Egypt,New Cairo City,1,1,0,9,1,20250423,12,EG
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,Saarbrucken,1,1,0,0,0,20250423,12,DE
-/,desktop,,,Poland,Warsaw,1,1,0,1,1,20250423,17,PL
-/blog/categories,desktop,,,Poland,Warsaw,1,1,164.751587,0,0,20250423,17,PL
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,Saarbrucken,1,1,209.089234,0,0,20250423,12,DE
+/blog/fluentbit-elasticsearch-kibana,desktop,https://yandex.ru/,,Russia,Arkhangelsk,1,1,0,2,1,20250423,14,RU
+/,desktop,,,Poland,Warsaw,1,1,19.304797,1,0,20250423,17,PL
+/blog/categories,desktop,,,Poland,Warsaw,1,1,14.509405,0,0,20250423,17,PL
 /blog/mopidy-muse,desktop,https://mopidy.com/,,Poland,Warsaw,1,1,0,3,0,20250423,17,PL
-/blog/tags,desktop,,,Poland,Warsaw,1,1,0,0,1,20250423,17,PL
+/blog/tags,desktop,,,Poland,Warsaw,1,1,150.242182,0,0,20250423,17,PL
+/,desktop,,,United Kingdom,London,1,1,0,2,1,20250423,19,GB
+/blog/monitoring-grafana,desktop,https://yandex.ru/,,Russia,Saint Petersburg,1,1,0,0,1,20250423,19,RU
+/blog/motion-monitor-opencv,mobile,android-app://com.google.android.googlequicksearchbox/,,Austria,Villach,1,1,0,0,1,20250423,21,AT
+/,desktop,https://cristianpb.github.io/blog,,France,Champigny-sur-Marne,1,1,0,1,1,20250424,16,FR
