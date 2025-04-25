@@ -1,11 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,mobile,,,United States,Ashburn,2,2,0,0,1,20250421,22,US
-/blog/document-detection,desktop,https://www.google.com/,,Bangladesh,Dhaka,1,1,0,0,1,20250417,11,BD
-/blog/document-detection,desktop,https://www.google.com/,,Bangladesh,Dhaka,1,1,0,2,1,20250417,12,BD
-/blog/image-preprocessing,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,3,1,20250417,13,GB
-/blog/withings-data,desktop,https://www.google.com/,,United Kingdom,Eynsham,1,1,0,0,1,20250417,13,GB
-/,desktop,,,United States,Boston,1,1,0,6,1,20250417,21,US
-/,desktop,https://bing.com/,,United States,New York,1,1,0,9,1,20250417,21,US
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Taiwan,Zhongzheng District,1,1,0,3,1,20250418,3,TW
 /blog/ssd-yolo,desktop,https://www.google.com/,,United States,Catharpin,1,1,0,3,1,20250419,17,US
 /,desktop,,,United States,Boston,1,1,0,3,1,20250419,22,US
@@ -45,4 +39,14 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,United Kingdom,London,1,1,0,2,1,20250423,19,GB
 /blog/monitoring-grafana,desktop,https://yandex.ru/,,Russia,Saint Petersburg,1,1,0,0,1,20250423,19,RU
 /blog/motion-monitor-opencv,mobile,android-app://com.google.android.googlequicksearchbox/,,Austria,Villach,1,1,0,0,1,20250423,21,AT
-/,desktop,https://cristianpb.github.io/blog,,France,Champigny-sur-Marne,1,1,0,1,1,20250424,16,FR
+/blog/ssd-yolo,desktop,https://yandex.ru/,,Netherlands,Amsterdam,1,1,0,0,1,20250424,12,NL
+/,desktop,https://cristianpb.github.io/blog,,France,Champigny-sur-Marne,1,1,56.229247,1,0,20250424,16,FR
+/,desktop,https://www.google.com/,,France,Champigny-sur-Marne,1,1,0,0,0,20250424,16,FR
+/about,desktop,https://cristianpb.github.io/,,France,Champigny-sur-Marne,1,1,5.454684,0,0,20250424,16,FR
+/blog,desktop,https://cristianpb.github.io/about,,France,Champigny-sur-Marne,1,1,13.35103,0,0,20250424,16,FR
+/blog/dashboard-dc-js,mobile,android-app://com.google.android.googlequicksearchbox/,,India,Bengaluru,1,1,0,3,1,20250424,18,IN
+/blog/gnuplot-electrode,desktop,https://www.google.com/,,United Kingdom,Canterbury,1,1,0,0,1,20250424,19,GB
+/,desktop,https://www.google.com/,,France,Champigny-sur-Marne,1,1,0,3,0,20250425,12,FR
+/about,desktop,,,France,Champigny-sur-Marne,1,1,33.234022,1,0,20250425,12,FR
+/blog/mopidy-muse,mobile,https://www.google.com/,,Netherlands,Amsterdam,1,1,0,0,1,20250425,19,NL
+/blog/mopidy-muse,desktop,,,Spain,Madrid,1,1,0,0,1,20250425,21,ES
