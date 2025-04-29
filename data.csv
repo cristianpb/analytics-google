@@ -1,13 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,mobile,,,United States,Ashburn,2,2,0,0,1,20250421,22,US
-/,desktop,,,United States,Boston,1,1,0,15,1,20250421,0,US
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,United States,Edison,1,1,0,0,1,20250421,1,US
-/blog/document-detection,desktop,https://www.google.com/,,Bangladesh,Dhaka,1,1,0,0,1,20250421,5,BD
-/blog/playlists-dashboard,mobile,https://www.google.com/,,United States,Bergenfield,1,1,0,0,1,20250421,7,US
-/blog/motion-monitor-opencv,desktop,https://cristianpb.github.io/blog/ssd-yolo,,Ukraine,Zhytomyr,1,1,356.957834,1,0,20250421,13,UA
-/blog/ssd-yolo,desktop,https://www.bing.com/,,Ukraine,Zhytomyr,1,1,0,0,0,20250421,13,UA
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Indonesia,Bata Bual,1,1,78.043951,1,0,20250421,17,ID
-/blog/traefik-goaccess,desktop,https://www.reddit.com/,,Indonesia,Bata Bual,1,1,227.057453,4,0,20250421,17,ID
 /blog/ssd-yolo,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,6,1,20250422,11,RU
 /blog/document-detection,desktop,https://www.google.com/,,Romania,Constanta,1,1,0,3,1,20250422,15,RO
 /blog/grafana-dashboard,desktop,,,Switzerland,Meyrin,1,1,507.462417,1,0,20250422,17,CH
@@ -58,4 +49,17 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,Algeria,(not set),1,1,39.284214,1,0,20250427,21,DZ
 /about,desktop,https://cristianpb.github.io/,,Algeria,(not set),1,1,98.702201,17,0,20250427,21,DZ
 /about,desktop,https://cristianpb.github.io/about,,Algeria,(not set),1,1,16.990079,0,0,20250427,21,DZ
-/blog/monitoring-grafana,desktop,https://cristianpb.github.io/blog/grafana-dashboard,,Mexico,Acapulco,1,1,0,1,1,20250428,21,MX
+/,desktop,https://bing.com/,,United States,New York,1,1,0,3,1,20250428,8,US
+/blog/ssd-yolo,desktop,https://www.google.com/,,Belgium,Dendermonde,1,1,0,0,1,20250428,9,BE
+/about,desktop,https://www.google.com/,,Germany,Berlin,1,1,0,0,1,20250428,11,DE
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Germany,Munich,1,1,0,3,1,20250428,12,DE
+/blog/ssd-yolo,desktop,https://www.google.com/,,Belgium,Dendermonde,1,1,0,0,1,20250428,13,BE
+/blog/ssd-yolo,desktop,https://www.google.com/,,Belgium,Dendermonde,1,1,1518.97176,0,0,20250428,16,BE
+/blog/analytics-google,desktop,https://yandex.ru/,,Russia,Makhachkala,1,1,0,0,1,20250428,20,RU
+/blog/grafana-dashboard,desktop,https://www.google.com/,,Mexico,Acapulco,1,1,0,0,0,20250428,21,MX
+/blog/monitoring-grafana,desktop,https://cristianpb.github.io/blog/grafana-dashboard,,Mexico,Acapulco,1,1,37.1185,1,0,20250428,21,MX
+/blog/ssd-yolo,desktop,https://www.google.com/,,Belgium,Dendermonde,1,1,0,0,1,20250428,21,BE
+/blog/fluentbit-elasticsearch-kibana,desktop,https://cristianpb.github.io/blog/traefik-goaccess,,Ukraine,Kyiv,1,1,761.614278,0,1,20250429,15,UA
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Ukraine,Kyiv,1,1,846.770259,0,1,20250429,15,UA
+/blog/traefik-goaccess,desktop,https://cristianpb.github.io/blog/monitoring-grafana,,Ukraine,Kyiv,1,1,0,1,1,20250429,15,UA
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Kenya,Nairobi,1,1,0,3,1,20250429,16,KE
