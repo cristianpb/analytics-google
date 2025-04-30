@@ -1,12 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/ssd-yolo,desktop,https://yandex.ru/,,Russia,Moscow,1,1,0,6,1,20250422,11,RU
-/blog/document-detection,desktop,https://www.google.com/,,Romania,Constanta,1,1,0,3,1,20250422,15,RO
-/blog/grafana-dashboard,desktop,,,Switzerland,Meyrin,1,1,507.462417,1,0,20250422,17,CH
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Switzerland,Meyrin,1,1,0,3,0,20250422,17,CH
-/blog/monitoring-grafana,desktop,,,Switzerland,Meyrin,1,1,28.211569,1,0,20250422,17,CH
-/blog/ssd-yolo,mobile,https://www.google.com/,,United States,San Francisco,1,1,0,3,1,20250422,18,US
-/blog/traefik-goaccess,desktop,https://www.reddit.com/,,Indonesia,Bata Bual,1,1,0,2,1,20250422,18,ID
-/,desktop,,,United States,Boston,1,1,0,0,1,20250422,21,US
 /blog/ssd-yolo,desktop,,,United States,Washington,1,1,0,0,1,20250423,2,US
 /blog/traefik-goaccess,desktop,https://duckduckgo.com/,,Hong Kong,(not set),1,1,0,3,1,20250423,6,HK
 /,desktop,https://bing.com/,,United States,New York,1,1,0,3,1,20250423,7,US
@@ -59,7 +51,12 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/grafana-dashboard,desktop,https://www.google.com/,,Mexico,Acapulco,1,1,0,0,0,20250428,21,MX
 /blog/monitoring-grafana,desktop,https://cristianpb.github.io/blog/grafana-dashboard,,Mexico,Acapulco,1,1,37.1185,1,0,20250428,21,MX
 /blog/ssd-yolo,desktop,https://www.google.com/,,Belgium,Dendermonde,1,1,0,0,1,20250428,21,BE
-/blog/fluentbit-elasticsearch-kibana,desktop,https://cristianpb.github.io/blog/traefik-goaccess,,Ukraine,Kyiv,1,1,761.614278,0,1,20250429,15,UA
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Ukraine,Kyiv,1,1,846.770259,0,1,20250429,15,UA
-/blog/traefik-goaccess,desktop,https://cristianpb.github.io/blog/monitoring-grafana,,Ukraine,Kyiv,1,1,0,1,1,20250429,15,UA
+/blog/fluentbit-elasticsearch-kibana,desktop,https://cristianpb.github.io/blog/traefik-goaccess,,Ukraine,Kyiv,1,1,761.614278,0,0,20250429,15,UA
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Ukraine,Kyiv,1,1,20.352927,0,0,20250429,15,UA
+/blog/traefik-goaccess,desktop,https://cristianpb.github.io/blog/monitoring-grafana,,Ukraine,Kyiv,1,1,64.803054,1,0,20250429,15,UA
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Kenya,Nairobi,1,1,0,3,1,20250429,16,KE
+/blog/motion-monitor-opencv,mobile,https://www.google.com/,,Russia,Kyzyl,1,1,0,3,1,20250429,17,RU
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,France,Paris,1,1,0,3,1,20250429,18,FR
+/blog/motion-monitor-opencv,desktop,https://www.bing.com/,,United Kingdom,London,1,1,0,0,1,20250429,20,GB
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Spain,Pinto,1,1,0,0,1,20250429,23,ES
+/blog/gnuplot-electrode,desktop,https://www.google.com/,,United States,Los Angeles,1,1,0,3,1,20250430,5,US
