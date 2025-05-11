@@ -1,10 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/document-detection,desktop,https://www.google.com/,,Canada,Waterloo,1,1,0,3,1,20250503,0,CA
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Netherlands,Amsterdam,1,1,0,6,1,20250503,5,NL
-/,desktop,,,China,Wuhan,1,1,0,6,1,20250503,14,CN
-/blog/magic-wand,desktop,https://www.google.com/,,Serbia,Belgrade,1,1,0,3,1,20250503,15,RS
-/blog/motion-monitor-opencv,mobile,android-app://com.google.android.googlequicksearchbox/,,Portugal,Porto,1,1,0,0,1,20250503,19,PT
-/blog/ssd-yolo,desktop,https://www.google.com/,,Türkiye,Istanbul,1,1,0,0,1,20250503,21,
 /blog/dashboard-dc-js,mobile,android-app://com.google.android.googlequicksearchbox/,,India,Hyderabad,1,1,0,3,1,20250504,6,IN
 /blog/dashboard-dc-js,mobile,android-app://com.google.android.googlequicksearchbox/,,India,Visakhapatnam,1,1,0,3,1,20250504,6,IN
 /blog/marathon-mirabelle,desktop,,,Slovakia,Bratislava,1,1,0,0,1,20250504,10,SK
@@ -34,5 +28,9 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/grafana-dashboard,desktop,https://www.google.com/,,Italy,Palermo,1,1,0,0,1,20250509,21,IT
 /blog/vimwiki-hugo,desktop,https://duckduckgo.com/,,Australia,Melbourne,1,1,0,3,1,20250510,5,AU
 /blog/monitoring-grafana,mobile,https://www.google.com/,,Netherlands,Rotterdam,1,1,0,0,1,20250510,11,NL
-/blog/monitoring-grafana,mobile,https://www.google.com/,,Netherlands,Rotterdam,1,1,0,0,1,20250510,12,NL
-/blog/traefik-goaccess,mobile,https://cristianpb.github.io/blog/grafana-dashboard,,Netherlands,Rotterdam,1,1,0,0,1,20250510,12,NL
+/blog/grafana-dashboard,mobile,,,Netherlands,Rotterdam,1,1,11.651364,0,0,20250510,12,NL
+/blog/monitoring-grafana,mobile,https://www.google.com/,,Netherlands,Rotterdam,1,1,0,0,0,20250510,12,NL
+/blog/traefik-goaccess,mobile,https://cristianpb.github.io/blog/grafana-dashboard,,Netherlands,Rotterdam,1,1,142.224627,0,0,20250510,12,NL
+/blog/grafana-dashboard,mobile,,,Netherlands,Rotterdam,1,1,0,4,1,20250510,14,NL
+/blog/traefik-goaccess,desktop,,,Netherlands,The Hague,1,1,0,0,1,20250510,19,NL
+/blog/monitoring-grafana,desktop,https://cristianpb.github.io/blog/traefik-goaccess,,Netherlands,The Hague,1,1,0,0,1,20250510,20,NL
