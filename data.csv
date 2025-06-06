@@ -1,7 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/arduino-mkr-fox,desktop,https://www.google.com/,,France,(not set),1,1,0,6,1,20250529,4,FR
-/blog/ssd-yolo,desktop,https://yandex.ru/,,Ukraine,Khartsyz'k,1,1,0,0,1,20250529,10,UA
-/,desktop,,,United States,Avon Lake,1,1,0,0,1,20250529,19,US
+/blog/traefik-goaccess,mobile,https://www.google.com/,,France,Biganos,2,2,0,3,1,20250605,16,FR
 /blog/image-rotation-opencv,desktop,https://www.digitalocean.com/,,Germany,Alling,1,1,0,0,1,20250530,7,DE
 /blog/mopidy-muse,mobile,,,Canada,Ajax,1,1,0,0,1,20250530,7,CA
 /blog/motion-monitor-opencv,desktop,https://yandex.ru/,,Germany,Frankfurt,1,1,0,0,1,20250530,7,DE
@@ -32,10 +30,18 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /about,mobile,https://www.google.ch/,,Germany,Sankt Wendel,1,1,0,0,1,20250604,16,DE
 /blog/playlists-dashboard,mobile,https://www.google.com/,,United States,Charlotte,1,1,16.967211,3,0,20250604,18,US
 /blog/velib-folium,desktop,,,France,(not set),1,1,0,3,1,20250604,18,FR
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,United States,,1,1,0,0,1,20250605,1,US
+/blog/gnuplot-electrode,desktop,https://www.google.com/,,United States,(not set),1,1,0,0,1,20250605,1,US
+/,desktop,,,Poland,Warsaw,1,1,0,6,1,20250605,5,PL
 /blog/raspberry-video-stream,mobile,https://www.google.com/,,India,Lucknow,1,1,0,3,1,20250605,7,IN
 /blog/traefik-goaccess,desktop,https://www.google.com/,,France,Issy-les-Moulineaux,1,1,0,3,1,20250605,10,FR
+/blog/traefik-goaccess,desktop,https://www.google.com/,,France,Issy-les-Moulineaux,1,1,0,2,1,20250605,12,FR
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United States,Bridgetown North,1,1,892.268106,0,0,20250605,15,US
+/blog/monitoring-grafana,mobile,https://www.google.com/,,Thailand,Bangkok,1,1,0,6,1,20250605,16,TH
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United States,Bridgetown North,1,1,1484.823846,0,0,20250605,16,US
 /blog/motion-monitor-opencv,desktop,,,United States,Bridgetown North,1,1,101.933498,0,0,20250605,17,US
-/blog/motion-monitor-opencv,desktop,https://cristianpb.github.io/blog/ssd-yolo,,United States,Bridgetown North,1,1,187.122258,0,0,20250605,17,US
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United States,Bridgetown North,1,1,735.728042,0,0,20250605,17,US
-/blog/ssd-yolo,desktop,https://cristianpb.github.io/blog/motion-monitor-opencv,,United States,Bridgetown North,1,1,434.922903,0,0,20250605,17,US
+/blog/motion-monitor-opencv,desktop,https://cristianpb.github.io/blog/ssd-yolo,,United States,Bridgetown North,1,1,434.062104,0,0,20250605,17,US
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United States,Bridgetown North,1,1,632.933745,0,0,20250605,17,US
+/blog/ssd-yolo,desktop,https://cristianpb.github.io/blog/motion-monitor-opencv,,United States,Bridgetown North,1,1,11.61813,0,0,20250605,17,US
+/blog/dashboard-dc-js,desktop,https://www.google.com/,,India,Hyderabad,1,1,0,0,1,20250605,19,IN
+/blog/motion-monitor-opencv,desktop,https://cristianpb.github.io/blog/ssd-yolo,,Germany,,1,1,0,1,0,20250606,7,DE
+/blog/ssd-yolo,desktop,https://www.bing.com/,,Germany,,1,1,0,3,0,20250606,7,DE
