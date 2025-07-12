@@ -1,8 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/vimwiki-hugo,desktop,https://duckduckgo.com/,,Belgium,Ciney,1,1,0,3,1,20250704,7,BE
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,South Korea,Seoul,1,1,0,3,1,20250704,16,
-/,desktop,,,Belgium,Huy,1,1,0,0,1,20250704,18,BE
-/blog,mobile,https://www.google.com/,,Greece,(not set),1,1,0,6,1,20250704,22,GR
 /blog,desktop,,,United States,Columbus,1,1,2.700376,1,0,20250705,3,US
 /blog/monitoring-grafana,desktop,,,United States,Columbus,1,1,0,0,0,20250705,3,US
 /blog/grafana-dashboard,mobile,https://www.google.com/,,Indonesia,Jakarta,1,1,0,3,1,20250705,15,ID
@@ -32,8 +28,17 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/motion-monitor-opencv,desktop,https://duckduckgo.com/,,United States,San Antonio,1,1,0,0,1,20250709,22,US
 /blog,desktop,,,United States,Columbus,1,1,3.046393,1,0,20250710,18,US
 /blog/raspberry-video-stream,desktop,,,United States,Columbus,1,1,0,0,0,20250710,18,US
-/blog/motion-monitor-opencv,mobile,,,Italy,Milan,1,1,0,0,1,20250711,1,IT
-/blog/ssd-yolo,mobile,https://cristianpb.github.io/blog/motion-monitor-opencv,,Italy,Milan,1,1,211.301868,0,1,20250711,1,IT
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,United States,Springfield,1,1,0,12,1,20250711,2,US
+/blog/motion-monitor-opencv,mobile,,,Italy,Milan,1,1,0,0,0,20250711,1,IT
+/blog/ssd-yolo,mobile,https://cristianpb.github.io/blog/motion-monitor-opencv,,Italy,Milan,1,1,211.301868,0,0,20250711,1,IT
+/blog/gnuplot-electrode,desktop,https://www.google.com/,,United States,Springfield,1,1,0,12,0,20250711,2,US
+/blog/tags,desktop,,,United States,Springfield,1,1,66.260637,0,0,20250711,2,US
 /blog,desktop,,,United States,Columbus,1,1,2.458783,3,0,20250711,10,US
 /blog/dashboard-dc-js,desktop,,,United States,Columbus,1,1,0,0,0,20250711,10,US
+/,desktop,,,Sweden,(not set),1,1,0,0,1,20250711,17,SE
+/blog/mopidy-muse,desktop,https://github.com/cristianpb/muse?tab=readme-ov-file,,Argentina,(not set),1,1,0,0,1,20250711,21,AR
+/blog/vimwiki-hugo,desktop,https://www.reddit.com/,,United States,Portland,1,1,0,0,1,20250712,1,US
+/blog,desktop,,,United States,Columbus,1,1,0,1,1,20250712,7,US
+/blog/dashboard-dc-js,desktop,,,United States,Columbus,1,1,0,0,1,20250712,7,US
+/blog,desktop,,,United States,Columbus,1,1,0,1,1,20250712,9,US
+/blog/motion-monitor-opencv,mobile,,,Italy,Milan,1,1,0,0,0,20250712,20,IT
+/blog/ssd-yolo,mobile,https://cristianpb.github.io/blog/motion-monitor-opencv,,Italy,Milan,1,1,225.163462,0,0,20250712,20,IT
