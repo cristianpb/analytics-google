@@ -1,7 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog,desktop,,,United States,Columbus,1,1,2.700376,1,0,20250705,3,US
-/blog/monitoring-grafana,desktop,,,United States,Columbus,1,1,0,0,0,20250705,3,US
-/blog/grafana-dashboard,mobile,https://www.google.com/,,Indonesia,Jakarta,1,1,0,3,1,20250705,15,ID
+/blog/image-rotation-opencv,desktop,,,United States,(not set),3,3,0,24,1,20250712,7,US
 /,desktop,,,China,(not set),1,1,0,3,1,20250706,21,CN
 /blog/grafana-dashboard,desktop,https://www.google.com/,,Taiwan,Changhua City,1,1,0,0,1,20250707,5,TW
 /blog/monitoring-grafana,desktop,https://www.google.com/,,France,Suresnes,1,1,0,3,1,20250707,8,FR
@@ -36,9 +34,11 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/dashboard-dc-js,desktop,,,United States,Columbus,1,1,0,0,0,20250711,10,US
 /,desktop,,,Sweden,(not set),1,1,0,0,1,20250711,17,SE
 /blog/mopidy-muse,desktop,https://github.com/cristianpb/muse?tab=readme-ov-file,,Argentina,(not set),1,1,0,0,1,20250711,21,AR
+/blog/velib-folium,desktop,https://www.google.com/,,Portugal,Lisbon,1,1,0,3,1,20250712,1,PT
 /blog/vimwiki-hugo,desktop,https://www.reddit.com/,,United States,Portland,1,1,0,0,1,20250712,1,US
-/blog,desktop,,,United States,Columbus,1,1,0,1,1,20250712,7,US
-/blog/dashboard-dc-js,desktop,,,United States,Columbus,1,1,0,0,1,20250712,7,US
-/blog,desktop,,,United States,Columbus,1,1,0,1,1,20250712,9,US
+/blog,desktop,,,United States,Columbus,1,1,3.200304,1,0,20250712,7,US
+/blog/dashboard-dc-js,desktop,,,United States,Columbus,1,1,0,0,0,20250712,7,US
+/blog,desktop,,,United States,Columbus,1,1,2.882767,1,0,20250712,9,US
+/blog/dashboard-dc-js,desktop,,,United States,Columbus,1,1,0,0,0,20250712,9,US
 /blog/motion-monitor-opencv,mobile,,,Italy,Milan,1,1,0,0,0,20250712,20,IT
 /blog/ssd-yolo,mobile,https://cristianpb.github.io/blog/motion-monitor-opencv,,Italy,Milan,1,1,225.163462,0,0,20250712,20,IT
