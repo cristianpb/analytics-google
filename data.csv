@@ -1,7 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /blog/image-rotation-opencv,desktop,,,United States,(not set),3,3,0,24,1,20250712,7,US
-/blog,desktop,,,United States,Columbus,1,1,3.046393,1,0,20250710,18,US
-/blog/raspberry-video-stream,desktop,,,United States,Columbus,1,1,0,0,0,20250710,18,US
 /blog/motion-monitor-opencv,mobile,,,Italy,Milan,1,1,0,0,0,20250711,1,IT
 /blog/ssd-yolo,mobile,https://cristianpb.github.io/blog/motion-monitor-opencv,,Italy,Milan,1,1,211.301868,0,0,20250711,1,IT
 /blog/gnuplot-electrode,desktop,https://www.google.com/,,United States,Springfield,1,1,0,12,0,20250711,2,US
@@ -41,4 +39,6 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/velib-folium,desktop,https://www.google.com/,,United States,Reston,1,1,0,3,1,20250716,19,US
 /blog/jekyll-algolia,desktop,https://www.google.com/,,France,Blagnac,1,1,0,0,1,20250717,0,FR
 /blog/ssd-yolo,mobile,https://www.google.com/,,Belarus,Minsk,1,1,0,0,1,20250717,0,BY
+/blog/music-voice-cotrol,mobile,https://www.google.com/,,United States,Goodyear,1,1,0,3,1,20250717,2,US
 /blog/grafana-dashboard,desktop,,,Russia,Saint Petersburg,1,1,0,3,1,20250717,9,RU
+/blog,desktop,https://cristianpb.github.io/blog/jekyll-algolia,,France,Blagnac,1,1,0,2,1,20250717,13,FR
