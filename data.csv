@@ -1,11 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/traefik-goaccess,desktop,https://www.google.com/,,United States,Las Vegas,1,1,0,6,1,20250730,2,US
-/blog/grafana-dashboard,desktop,https://cristianpb.github.io/blog/traefik-goaccess,,Vietnam,Ho Chi Minh City,1,1,23.098769,1,0,20250730,9,VN
-/blog/traefik-goaccess,desktop,,,Vietnam,Ho Chi Minh City,1,1,0,0,0,20250730,9,VN
-/blog/document-detection,mobile,,,United States,Tustin,1,1,0,9,1,20250730,11,US
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Netherlands,Wenum-Wiesel,1,1,0,0,1,20250730,11,NL
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Tunisia,Tunis,1,1,0,0,1,20250730,13,TN
-/blog/traefik-goaccess,desktop,,,Germany,Wurzburg,1,1,0,3,1,20250730,16,DE
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,Australia,Brisbane,1,1,0,3,1,20250731,2,AU
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,Australia,Brisbane,1,1,0,0,1,20250731,3,AU
 /blog/fluentbit-elasticsearch-kibana,desktop,https://yandex.ru/,,Netherlands,Amsterdam,1,1,0,3,1,20250731,7,NL
@@ -34,6 +27,10 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Berlin,1,1,0,0,1,20250805,11,DE
 /blog/grafana-dashboard,desktop,https://www.google.com/,,Morocco,Casablanca,1,1,0,0,1,20250805,13,MA
 /blog/traefik-goaccess,desktop,https://www.bing.com/,,Austria,Freistadt,1,1,0,3,1,20250805,13,AT
+/blog/document-detection,desktop,,,Taiwan,(not set),1,1,0,3,1,20250806,5,TW
 /blog/marathon-mirabelle,mobile,https://www.google.com/,,United States,Stanford,1,1,0,0,1,20250806,9,US
-/blog/vimwiki-hugo,desktop,,,Italy,Alessandria,1,1,115.282899,2,1,20250806,13,IT
+/blog/vimwiki-hugo,desktop,,,Italy,Alessandria,1,1,115.282899,2,0,20250806,13,IT
+/blog/velib-folium,desktop,https://www.google.com/,,France,Saint-Denis,1,1,0,9,1,20250806,14,FR
 /blog/document-detection,desktop,https://www.google.com/,,France,Paris,1,1,0,2,1,20250806,15,FR
+/blog/mopidy-muse,desktop,https://mopidy.com/,,France,(not set),1,1,0,0,1,20250806,21,FR
+/blog/vimwiki-hugo,mobile,,,Singapore,Singapore,1,1,0,3,1,20250807,5,SG
