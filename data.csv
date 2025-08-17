@@ -1,8 +1,6 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,United States,Boardman,2,2,0,0,1,20250814,14,US
-/blog/raspberry-video-stream,desktop,,,United States,Columbus,2,2,0,0,1,20250816,5,US
-/blog/document-detection,desktop,https://www.google.com/,,Israel,Ramat Gan,1,1,0,0,1,20250809,10,IL
-/blog/amp-search-jekyll,desktop,https://www.google.com/,,Indonesia,Jakarta,1,1,0,0,1,20250809,11,ID
+/blog/raspberry-video-stream,desktop,,,United States,Columbus,2,2,0,0,0,20250816,5,US
 /,desktop,,,United States,Berkeley,1,1,0,0,1,20250810,10,US
 /blog/gnuplot-electrode,desktop,https://www.google.com/,,Finland,Tampere,1,1,0,3,1,20250810,10,FI
 /,desktop,,,United States,New York,1,1,0,0,1,20250810,11,US
@@ -37,5 +35,13 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /about,desktop,,,China,(not set),1,1,0,12,1,20250815,12,CN
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,Barsinghausen,1,1,0,0,0,20250815,12,DE
 /blog/tags,desktop,https://cristianpb.github.io/blog/monitoring-grafana,,Germany,Barsinghausen,1,1,70.564438,0,0,20250815,12,DE
-/blog,desktop,,,United States,Columbus,1,1,0,1,1,20250816,5,US
-/blog,desktop,https://cristianpb.github.io/blog/ssd-yolo,,United States,Columbus,1,1,0,1,1,20250816,5,US
+/blog,desktop,,,United States,Columbus,1,1,3.030037,1,0,20250816,5,US
+/blog,desktop,https://cristianpb.github.io/blog/ssd-yolo,,United States,Columbus,1,1,2.386178,1,0,20250816,5,US
+/,mobile,,,China,(not set),1,1,0,9,1,20250816,17,CN
+/blog/ssd-yolo,desktop,https://www.google.com/,,France,Paris,1,1,0,9,1,20250816,17,FR
+/blog/motion-monitor-opencv,desktop,,,Canada,Laval,1,1,0,0,1,20250816,18,CA
+/blog/image-preprocessing,desktop,,,United States,Columbus,1,1,0,0,1,20250817,1,US
+/blog/image-preprocessing,desktop,,,United States,Columbus,1,1,0,0,1,20250817,2,US
+/blog/ssd-yolo,mobile,https://www.google.com/,,Brazil,Vitoria da Conquista,1,1,0,3,1,20250817,2,BR
+/blog,desktop,,,United States,Columbus,1,1,2.76062,1,1,20250817,3,US
+/blog/ssd-yolo,desktop,,,United States,Columbus,1,1,0,0,1,20250817,3,US
