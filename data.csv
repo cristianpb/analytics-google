@@ -1,16 +1,10 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/raspberry-video-stream,desktop,,,United States,Columbus,2,2,0,0,0,20250816,5,US
 /blog/image-preprocessing,desktop,,,United States,Columbus,2,2,0,0,1,20250817,4,US
 /,desktop,https://cristianpb.github.io/,,United States,(not set),2,0,0,1037,0,20250822,3,US
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,United States,(not set),2,0,0,156,0,20250822,3,US
 /,desktop,https://cristianpb.github.io/,,United Kingdom,London,2,0,0,970,0,20250822,5,GB
 /,desktop,https://urlumbrella.com/site/cristianpb.github.io,,United Kingdom,London,2,0,0,69,0,20250822,5,GB
 /,desktop,https://cristianpb.github.io/,,Spain,(not set),2,0,0,530,0,20250822,6,ES
-/blog,desktop,,,United States,Columbus,1,1,3.030037,1,0,20250816,5,US
-/blog,desktop,https://cristianpb.github.io/blog/ssd-yolo,,United States,Columbus,1,1,2.386178,1,0,20250816,5,US
-/,mobile,,,China,(not set),1,1,0,9,1,20250816,17,CN
-/blog/ssd-yolo,desktop,https://www.google.com/,,France,Paris,1,1,0,9,1,20250816,17,FR
-/blog/motion-monitor-opencv,desktop,,,Canada,Laval,1,1,0,0,1,20250816,18,CA
 /blog/image-preprocessing,desktop,,,United States,Columbus,1,1,0,0,1,20250817,1,US
 /blog/image-preprocessing,desktop,,,United States,Columbus,1,1,0,0,1,20250817,2,US
 /blog/ssd-yolo,mobile,https://www.google.com/,,Brazil,Vitoria da Conquista,1,1,0,3,1,20250817,2,BR
@@ -244,5 +238,9 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /about,desktop,https://www.google.com/,,France,Angers,1,1,0,0,1,20250822,22,FR
 /blog/mopidy-muse,desktop,https://mopidy.com/,,Australia,Melbourne,1,1,0,0,1,20250823,5,AU
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,Taiwan,Zhubei City,1,1,0,3,1,20250823,14,TW
-/,desktop,https://cristianpb.github.io/blog/tags,,United States,Long Branch,1,1,9.11558,1,1,20250823,22,US
-/blog/tags,desktop,https://cristianpb.github.io/blog/mopidy-muse,,United States,Long Branch,1,1,0,0,1,20250823,22,US
+/,desktop,https://cristianpb.github.io/blog/tags,,United States,Long Branch,1,1,9.11558,1,0,20250823,22,US
+/blog/mopidy-muse,desktop,https://pypi.org/,,United States,Long Branch,1,1,0,0,0,20250823,22,US
+/blog/tags,desktop,https://cristianpb.github.io/blog/mopidy-muse,,United States,Long Branch,1,1,69.060487,0,0,20250823,22,US
+/,desktop,https://bing.com/,,United States,,1,1,0,3,1,20250824,11,US
+/blog,desktop,,,United States,Columbus,1,1,2.402648,3,0,20250824,11,US
+/blog/ssd-yolo,desktop,,,United States,Columbus,1,1,0,0,0,20250824,11,US
