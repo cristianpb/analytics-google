@@ -1,7 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/image-rotation-opencv,desktop,,,China,(not set),1,1,0,3,1,20250920,2,CN
-/blog/image-rotation-opencv,desktop,,,China,Beijing,1,1,0,6,1,20250920,22,CN
-/blog/marathon-mirabelle,desktop,https://www.google.com/,,France,Paris,1,1,0,0,1,20250920,23,FR
 /blog/traefik-goaccess,mobile,,,Mexico,Tamazunchale,1,1,0,0,1,20250921,2,MX
 /,mobile,,,Denmark,Ballerup,1,1,0,15,1,20250921,8,DK
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,(not set),1,1,0,0,1,20250921,12,DE
@@ -45,6 +42,9 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/mopidy-muse,desktop,https://www.google.com/,,South Korea,Seoul,1,1,0,0,0,20250926,10,
 /blog/image-rotation-opencv,mobile,https://link.csdn.net/?from_id=111758857&target=https%3A%2F%2Fcristianpb.github.io%2Fblog%2Fimage-rotation-opencv,,Japan,Shinjuku City,1,1,0,6,1,20250926,11,JP
 /blog/velib-folium,desktop,https://www.google.com/,,France,(not set),1,1,0,3,1,20250926,13,FR
-/blog,desktop,https://cristianpb.github.io/blog/marathon-mirabelle,,Switzerland,Bern,1,1,26.627759,1,1,20250927,6,CH
-/blog/marathon-mirabelle,desktop,https://www.google.com/,,Switzerland,Bern,1,1,0,3,1,20250927,6,CH
-/blog/velib-folium,desktop,,,France,,1,1,0,2,1,20250927,11,FR
+/blog,desktop,https://cristianpb.github.io/blog/marathon-mirabelle,,Switzerland,Bern,1,1,26.627759,1,0,20250927,6,CH
+/blog/marathon-mirabelle,desktop,https://www.google.com/,,Switzerland,Bern,1,1,0,3,0,20250927,6,CH
+/blog/velib-folium,desktop,,,France,(not set),1,1,0,2,1,20250927,11,FR
+/blog/velib-folium,desktop,,,France,Perpignan,1,1,0,2,1,20250927,16,FR
+/blog/velib-folium,desktop,,,France,(not set),1,1,0,2,1,20250927,17,FR
+/blog/velib-folium,desktop,,,France,(not set),1,1,0,2,1,20250927,18,FR
