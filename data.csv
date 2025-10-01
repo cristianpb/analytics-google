@@ -1,13 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/traefik-goaccess,desktop,,,Netherlands,Amsterdam,1,1,0,2,1,20250923,9,NL
-/,desktop,https://cristianpb.github.io/about,,France,Poitiers,1,1,21.544048,1,0,20250923,11,FR
-/,desktop,https://www.google.com/,,France,Poitiers,1,1,0,0,0,20250923,11,FR
-/about,desktop,https://cristianpb.github.io/,,France,Poitiers,1,1,2.379991,0,0,20250923,11,FR
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Spain,Madrid,1,1,0,0,1,20250923,12,ES
-/about,desktop,https://www.google.com/,,Sweden,Lund,1,1,0,0,1,20250923,14,SE
-/blog/grafana-dashboard,desktop,https://www.google.com/,,India,Bengaluru,1,1,0,0,1,20250923,15,IN
-/,desktop,,,United States,(not set),1,1,0,0,1,20250923,16,US
-/blog/analytics-google,desktop,https://www.google.com/,,Sri Lanka,Kandy,1,1,0,3,1,20250923,18,LK
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Japan,Shinagawa City,1,1,0,3,1,20250924,7,JP
 /,desktop,,,United States,(not set),1,1,0,0,1,20250924,18,US
 /blog/monitoring-grafana,desktop,https://www.google.com/,,United States,(not set),1,1,0,0,1,20250924,22,US
@@ -42,5 +33,7 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Spain,Terrassa,1,1,0,3,1,20250929,6,ES
 /,desktop,https://bing.com/,,United States,Indianapolis,1,1,0,3,1,20250929,7,US
 /blog/fluentbit-elasticsearch-kibana,desktop,https://cristianpb.github.io/blog/grafana-dashboard,,Vietnam,Ho Chi Minh City,1,1,0,2,1,20250929,9,VN
-/blog/vimwiki-hugo,desktop,,,China,,1,1,0,15,1,20250930,5,CN
+/blog/vimwiki-hugo,desktop,,,China,(not set),1,1,0,15,1,20250930,5,CN
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Spain,Barcelona,1,1,0,0,1,20250930,9,ES
+/,desktop,,,United States,(not set),1,1,0,3,1,20250930,10,US
+/blog/velib-folium,mobile,,,France,(not set),1,1,0,0,1,20250930,22,FR
