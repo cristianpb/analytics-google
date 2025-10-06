@@ -1,7 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/motion-monitor-opencv,desktop,,,Singapore,Singapore,1,1,0,0,1,20250928,11,SG
-/blog/motion-monitor-opencv,desktop,,,Singapore,Singapore,1,1,0,0,1,20250928,12,SG
-/blog/ssd-yolo,desktop,https://www.google.com/,,United States,North Brunswick Township,1,1,0,0,1,20250928,16,US
 /blog/grafana-dashboard,desktop,https://www.google.com/,,Vietnam,Ho Chi Minh City,1,1,0,0,1,20250929,3,VN
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Spain,Terrassa,1,1,0,3,1,20250929,6,ES
 /,desktop,https://bing.com/,,United States,Indianapolis,1,1,0,3,1,20250929,7,US
@@ -30,4 +27,13 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/velib-folium,desktop,,,China,(not set),1,1,0,9,1,20251004,16,CN
 /blog/vimwiki-hugo,desktop,https://discourse.gohugo.io/,,Turks & Caicos Islands,(not set),1,1,0,3,1,20251004,18,
 /blog/image-rotation-opencv,desktop,,,China,(not set),1,1,0,12,1,20251004,23,CN
+/blog/vimwiki-hugo,desktop,,,China,(not set),1,1,0,0,1,20251005,2,CN
 /blog/gnuplot-electrode,desktop,https://www.google.com/,,Mexico,San Nicolas de los Garza,1,1,0,3,1,20251005,4,MX
+/blog/fluentbit-elasticsearch-kibana,desktop,https://cristianpb.github.io/blog/traefik-goaccess,,United States,Bloomington,1,1,0,0,0,20251005,18,US
+/blog/music-voice-cotrol,desktop,https://www.google.com/,,France,(not set),1,1,0,3,1,20251005,18,FR
+/blog/traefik-goaccess,desktop,,,United States,Bloomington,1,1,0,0,1,20251005,18,US
+/blog/traefik-goaccess,desktop,https://cristianpb.github.io/blog/fluentbit-elasticsearch-kibana,,United States,Bloomington,1,1,18.873034,0,0,20251005,18,US
+/blog,desktop,https://cristianpb.github.io/blog/image-rotation-opencv,,Vietnam,Hue,1,1,0,0,0,20251006,9,VN
+/blog/image-preprocessing,desktop,https://cristianpb.github.io/blog,,Vietnam,Hue,1,1,130.586338,0,0,20251006,9,VN
+/blog/image-rotation-opencv,desktop,,,Vietnam,Hue,1,1,0,0,0,20251006,9,VN
+/blog/mopidy-muse,desktop,https://pypi.org/,,Germany,Illertissen,1,1,0,0,1,20251006,15,DE
