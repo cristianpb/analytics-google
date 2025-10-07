@@ -1,8 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Vietnam,Ho Chi Minh City,1,1,0,0,1,20250929,3,VN
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Spain,Terrassa,1,1,0,3,1,20250929,6,ES
-/,desktop,https://bing.com/,,United States,Indianapolis,1,1,0,3,1,20250929,7,US
-/blog/fluentbit-elasticsearch-kibana,desktop,https://cristianpb.github.io/blog/grafana-dashboard,,Vietnam,Ho Chi Minh City,1,1,0,2,1,20250929,9,VN
+/blog/image-rotation-opencv,desktop,,,Vietnam,Hue,2,2,0,0,0.5,20251006,9,VN
 /blog/vimwiki-hugo,desktop,,,China,(not set),1,1,0,15,1,20250930,5,CN
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Spain,Barcelona,1,1,0,0,1,20250930,9,ES
 /,desktop,,,United States,(not set),1,1,0,3,1,20250930,10,US
@@ -33,7 +30,16 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/music-voice-cotrol,desktop,https://www.google.com/,,France,(not set),1,1,0,3,1,20251005,18,FR
 /blog/traefik-goaccess,desktop,,,United States,Bloomington,1,1,0,0,1,20251005,18,US
 /blog/traefik-goaccess,desktop,https://cristianpb.github.io/blog/fluentbit-elasticsearch-kibana,,United States,Bloomington,1,1,18.873034,0,0,20251005,18,US
-/blog,desktop,https://cristianpb.github.io/blog/image-rotation-opencv,,Vietnam,Hue,1,1,0,0,0,20251006,9,VN
-/blog/image-preprocessing,desktop,https://cristianpb.github.io/blog,,Vietnam,Hue,1,1,130.586338,0,0,20251006,9,VN
-/blog/image-rotation-opencv,desktop,,,Vietnam,Hue,1,1,0,0,0,20251006,9,VN
+/blog,desktop,https://cristianpb.github.io/blog/image-rotation-opencv,,Vietnam,Hue,1,1,1.465466,0,0,20251006,9,VN
+/blog/image-preprocessing,desktop,https://cristianpb.github.io/blog,,Vietnam,Hue,1,1,58.962341,0,0,20251006,9,VN
+/blog/image-rotation-opencv,desktop,https://cristianpb.github.io/blog/image-rotation-opencv,,Vietnam,Hue,1,1,70.158531,1,0,20251006,9,VN
+/,desktop,,,United States,(not set),1,1,0,0,1,20251006,14,US
 /blog/mopidy-muse,desktop,https://pypi.org/,,Germany,Illertissen,1,1,0,0,1,20251006,15,DE
+/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20251006,16,US
+/blog/magic-wand,desktop,https://www.google.com/,,United States,Chicago,1,1,0,3,1,20251006,19,US
+/blog/vimwiki-hugo,desktop,,,China,(not set),1,1,0,0,1,20251006,19,CN
+/blog/marathon-mirabelle,mobile,https://www.google.com/,,Poland,Rumia,1,1,0,0,1,20251006,22,PL
+/common-images/data-augmentation-for-object-detection-rotation-and-shearing/image-rotation-opencv,desktop,,,China,,1,1,0,3,1,20251007,5,CN
+/blog/image-processing-using-serverless-architecture,desktop,https://cristianpb.github.io/blog/monitoring-grafana,,Indonesia,Rancaekek,1,1,660.855632,1,0,20251007,10,ID
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Indonesia,Rancaekek,1,1,0,3,0,20251007,10,ID
+/blog/traefik-goaccess,desktop,https://cristianpb.github.io/blog/monitoring-grafana,,Indonesia,Rancaekek,1,1,134.930669,0,0,20251007,10,ID
