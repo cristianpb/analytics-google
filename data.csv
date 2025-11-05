@@ -1,8 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/playlists-dashboard,desktop,,,China,(not set),1,1,0,3,1,20251028,0,CN
-/blog/ssd-yolo,desktop,https://www.google.com/,,India,Kharagpur,1,1,0,3,1,20251028,6,IN
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,Frankfurt am Main,1,1,0,3,1,20251028,14,DE
-/blog/traefik-goaccess,desktop,,,Panama,Panama City,1,1,0,3,1,20251028,17,PA
 /blog/motion-monitor-opencv,desktop,,,China,Zhuhai,1,1,0,3,1,20251029,3,CN
 /blog/bulma-amp,mobile,https://www.google.com/,,Indonesia,Bandung,1,1,0,3,1,20251029,5,ID
 /blog/raspberry-video-stream,desktop,,,China,Lhasa,1,1,0,3,1,20251029,9,CN
@@ -44,8 +40,20 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/magic-wand,desktop,https://www.google.com/,,Netherlands,(not set),1,1,0,3,0,20251103,23,NL
 /blog/image-rotation-opencv,mobile,,,France,Paris,1,1,0,3,1,20251104,10,FR
 /blog/grafana-dashboard,desktop,https://www.google.com/,,Spain,Madrid,1,1,0,0,1,20251104,11,ES
-/,desktop,,,United States,,1,1,0,6,1,20251104,15,US
-/,desktop,https://bing.com/,,United States,,1,1,0,3,1,20251104,15,US
-/blog/playlists-dashboard,desktop,,,China,,1,1,0,3,1,20251104,15,CN
+/,desktop,,,United States,(not set),1,1,0,6,1,20251104,15,US
+/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20251104,15,US
+/blog/playlists-dashboard,desktop,,,China,(not set),1,1,0,3,1,20251104,15,CN
 /blog/mopidy-muse,desktop,https://mopidy.com/,,France,Metz,1,1,0,3,1,20251104,16,FR
 /blog/playlists-dashboard,desktop,,,United Kingdom,Southampton,1,1,0,0,1,20251104,18,GB
+/blog/playlists-dashboard,mobile,android-app://com.google.android.googlequicksearchbox/,,Austria,Graz,1,1,0,0,1,20251104,20,AT
+/blog/raspberry-video-stream,desktop,,,China,(not set),1,1,0,6,1,20251104,20,CN
+/blog/automatic-content-generation,desktop,,,China,(not set),1,1,0,6,1,20251104,22,CN
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Denmark,Fano,1,1,0,0,1,20251104,22,DK
+/blog/snips-relay-lights,desktop,,,China,(not set),1,1,0,3,1,20251104,23,CN
+/blog/image-rotation-opencv,desktop,,,China,,1,1,0,3,1,20251105,1,CN
+/blog/vimwiki-hugo,desktop,,,China,,1,1,0,3,1,20251105,1,CN
+/blog/ssd-yolo,desktop,https://chatgpt.com/,,Vietnam,Can Tho,1,1,0,0,1,20251105,4,VN
+/,desktop,,,China,,1,1,0,3,1,20251105,5,CN
+/blog/vimwiki-hugo,mobile,https://www.reddit.com/,,United Kingdom,Lancaster,1,1,0,0,1,20251105,10,GB
+/blog/image-preprocessing,desktop,https://www.google.com/,,Germany,Freising,1,1,131.420176,0,0,20251105,12,DE
+/blog/ssd-yolo,desktop,https://www.google.com/,,Vietnam,Da Nang,1,1,0,3,1,20251105,14,VN
