@@ -1,7 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/mopidy-muse,desktop,https://mopidy.com/,,United States,Plymouth,1,1,0,0,1,20251031,3,US
-/blog/snips-relay-lights,desktop,,,Netherlands,Amsterdam,1,1,0,0,1,20251031,7,NL
-/blog/document-detection,desktop,https://www.yandex.ru/,,Netherlands,Amsterdam,1,1,0,3,1,20251031,21,NL
 /,desktop,,,Germany,Bielefeld,1,1,0,15,1,20251101,15,DE
 /blog/magic-wand,desktop,https://www.google.com/,,United States,Philadelphia,1,1,0,3,1,20251101,18,US
 /blog/magic-wand,mobile,https://www.google.cz/,,Czechia,Prague,1,1,0,0,1,20251101,18,
@@ -57,8 +54,14 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,Switzerland,Wallisellen,1,1,0,0,1,20251106,17,CH
 /blog/monitoring-grafana,mobile,https://www.google.com/,,Tunisia,La Marsa,1,1,0,0,1,20251107,2,TN
 /blog/velib-folium,mobile,,,Indonesia,Bandung,1,1,0,2,1,20251107,2,ID
-/blog/analytics-google,desktop,https://cristianpb.github.io/blog/dashboard-dc-js,,Peru,,1,1,202.600506,1,0,20251107,4,PE
-/blog/dashboard-dc-js,desktop,https://www.google.com/,,Peru,,1,1,0,3,0,20251107,4,PE
+/blog/analytics-google,desktop,https://cristianpb.github.io/blog/dashboard-dc-js,,Peru,(not set),1,1,202.600506,1,0,20251107,4,PE
+/blog/dashboard-dc-js,desktop,https://www.google.com/,,Peru,(not set),1,1,0,3,0,20251107,4,PE
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,France,Marseille,1,1,0,3,1,20251107,10,FR
-/blog/santorini-experience,desktop,,,China,,1,1,0,3,1,20251107,11,CN
+/blog/santorini-experience,desktop,,,China,(not set),1,1,0,3,1,20251107,11,CN
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Albania,Tirana,1,1,0,3,1,20251107,16,AL
+/blog/talking-data,desktop,,,China,(not set),1,1,0,9,1,20251107,21,CN
+/blog/santorini-experience,desktop,,,China,(not set),1,1,0,3,1,20251107,22,CN
+/blog/santorini-experience,desktop,,,China,Shanghai,1,1,0,3,1,20251107,22,CN
+/blog/image-processing-using-serverless-architecture,desktop,,,China,Chengdu,1,1,0,3,1,20251108,2,CN
+/blog/monitoring-grafana,desktop,https://www.google.com/,,Thailand,Phuket,1,1,0,0,1,20251108,11,TH
+/blog/mopidy-muse,desktop,https://mopidy.com/,,Germany,Dreieich,1,1,0,3,1,20251108,17,DE
