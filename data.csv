@@ -1,14 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/ssd-yolo,desktop,,,Australia,Melbourne,1,1,0,0,1,20251117,5,AU
-/blog/bulma-amp,desktop,,,China,(not set),1,1,0,3,1,20251117,7,CN
-/blog/categories,desktop,,,China,(not set),1,1,0,0,1,20251117,8,CN
-/blog/vimwiki-hugo,desktop,,,China,(not set),1,1,0,0,1,20251117,8,CN
-/blog/image-processing-using-serverless-architecture,desktop,,,China,(not set),1,1,0,0,1,20251117,9,CN
-/blog/grafana-dashboard,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,3,1,20251117,13,GB
-/blog/ssd-yolo,mobile,android-app://com.google.android.googlequicksearchbox/,,Indonesia,Jakarta,1,1,32.264585,0,0,20251117,13,ID
-/,desktop,,,United States,(not set),1,1,0,6,1,20251117,14,US
-/,desktop,,,United States,Council Bluffs,1,1,0,0,1,20251117,14,US
-/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20251117,14,US
 /blog/analytics-google,desktop,https://www.google.com/,,Indonesia,Jakarta,1,1,0,3,1,20251118,4,ID
 /blog/bulma-amp,desktop,,,China,(not set),1,1,0,3,1,20251118,6,CN
 /blog/magic-wand,mobile,https://www.google.com/,,Spain,Barcelona,1,1,0,0,1,20251118,7,ES
@@ -65,8 +55,19 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/image-rotation-opencv,desktop,,,United States,San Antonio,1,1,0,3,1,20251124,6,US
 /,desktop,,,United States,Council Bluffs,1,1,0,0,1,20251124,8,US
 /,desktop,,,United States,San Jose,1,1,0,15,1,20251124,8,US
-/,desktop,https://bing.com/,,United States,,1,1,0,3,1,20251124,8,US
+/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20251124,8,US
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Singapore,Singapore,1,1,0,2,1,20251124,9,SG
 /blog/marathon-mirabelle,desktop,https://www.google.com/,,Greece,Athens,1,1,0,3,1,20251124,12,GR
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,Ditzingen,1,1,0,2,1,20251124,12,DE
-/blog/image-rotation-opencv,mobile,,,China,,1,1,0,3,1,20251124,16,CN
+/blog/image-rotation-opencv,mobile,,,China,(not set),1,1,0,3,1,20251124,16,CN
+/blog,desktop,https://www.google.com/,,France,Montevrain,1,1,0,3,1,20251124,17,FR
+/blog,desktop,https://cristianpb.github.io/blog/image-rotation-opencv,,France,Paris,1,1,56.310999,1,0,20251124,22,FR
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,France,Paris,1,1,0,3,0,20251124,22,FR
+/,desktop,,,Iraq,(not set),1,1,0,15,1,20251124,23,IQ
+/blog/music-voice-cotrol,mobile,,,Canada,Regina,1,1,0,3,1,20251125,3,CA
+/blog/ssd-yolo,desktop,,,China,Guangzhou,1,1,0,0,1,20251125,4,CN
+/blog/traefik-goaccess,desktop,https://www.google.com/,,United States,Northfield,1,1,0,3,1,20251125,5,US
+/blog/grafana-dashboard,desktop,,,Indonesia,Semarang,1,1,0,3,1,20251125,8,ID
+/,desktop,,,United States,Chicago,1,1,0,3,1,20251125,11,US
+/,desktop,,,United States,Council Bluffs,1,1,0,0,1,20251125,11,US
+/blog/document-detection,desktop,https://www.google.com/,,Pakistan,Lahore,1,1,0,0,1,20251125,15,PK
