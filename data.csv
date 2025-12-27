@@ -1,11 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/application-revenue-prediction,desktop,,,China,(not set),1,1,0,0,1,20251219,0,CN
-/blog/application-revenue-prediction,desktop,,,China,(not set),1,1,0,3,1,20251219,6,CN
-/,desktop,,,United Kingdom,London,1,1,0,3,1,20251219,9,GB
-/blog/traefik-goaccess,desktop,https://www.google.com/,,France,Argenteuil,1,1,0,0,1,20251219,11,FR
-/,desktop,,,France,Paris,1,1,0,6,1,20251219,12,FR
-/blog/grafana-dashboard,desktop,,,China,(not set),1,1,0,3,1,20251219,16,CN
-/blog/velib-folium,desktop,https://www.google.com/,,Italy,Venice,1,1,0,2,1,20251219,23,IT
 /blog/playlists-dashboard,desktop,https://www.google.com/,,France,Tourcoing,1,1,0,0,1,20251220,14,FR
 /blog/serverless-api-lambda,desktop,,,China,(not set),1,1,0,3,1,20251220,16,CN
 /blog/magic-wand,mobile,,,United Kingdom,Bath,1,1,0,0,1,20251220,22,GB
@@ -33,9 +26,12 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,United States,Council Bluffs,1,1,0,0,1,20251225,7,US
 /,desktop,,,United States,New York,1,1,0,0,1,20251225,7,US
 /,desktop,https://bing.com/,,United States,Cape Coral,1,1,0,3,1,20251225,7,US
-/blog/image-rotation-opencv,desktop,,,China,,1,1,0,3,1,20251226,0,CN
+/blog/image-rotation-opencv,desktop,,,China,(not set),1,1,0,3,1,20251226,0,CN
 /blog/dashboard-dc-js,desktop,,,China,Changzhou,1,1,0,3,1,20251226,2,CN
-/blog/velib-folium,desktop,https://www.google.com/,,Taiwan,,1,1,0,3,1,20251226,4,TW
+/blog/velib-folium,desktop,https://www.google.com/,,Taiwan,(not set),1,1,0,3,1,20251226,4,TW
 /,desktop,,,United States,North Bergen,1,1,0,9,1,20251226,5,US
 /blog/vimwiki-hugo,desktop,,,China,Shanghai,1,1,0,3,1,20251226,5,CN
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Thailand,Bangkok,1,1,0,0,1,20251226,8,TH
+/,desktop,,,China,(not set),1,1,0,3,1,20251226,17,CN
+/blog/image-rotation-opencv,mobile,,,China,Shenzhen,1,1,0,3,1,20251227,12,CN
+/blog/traefik-goaccess,desktop,https://www.google.com/,,Czechia,Pilsen,1,1,0,3,1,20251227,15,
