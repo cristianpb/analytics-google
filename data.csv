@@ -1,14 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,United States,(not set),2,2,0,6,1,20251229,10,US
-/blog/document-detection,desktop,,,China,(not set),1,1,0,0,1,20251223,4,CN
-/,mobile,,,China,(not set),1,1,0,3,1,20251223,5,CN
-/about,mobile,,,China,Shanghai,1,1,0,3,1,20251223,5,CN
-/blog/traefik-goaccess,mobile,,,China,(not set),1,1,0,0,1,20251223,5,CN
-/blog/vimwiki-hugo,desktop,https://www.reddit.com/,,Thailand,Bangkok,1,1,0,3,1,20251223,7,TH
-/,desktop,,,United States,Aspen,1,1,0,3,1,20251223,8,US
-/,desktop,,,United States,Council Bluffs,1,1,0,0,1,20251223,8,US
-/,desktop,https://bing.com/,,United States,Cape Coral,1,1,0,3,1,20251223,8,US
-/blog/mopidy-muse,desktop,https://www.google.com/,,France,(not set),1,1,0,0,1,20251223,10,FR
 /blog/magic-wand,desktop,,,France,Aulnay-sous-Bois,1,1,0,0,1,20251224,1,FR
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,Canada,Surrey,1,1,0,3,1,20251224,21,CA
 /blog/image-rotation-opencv,desktop,,,China,(not set),1,1,0,3,1,20251225,4,CN
@@ -40,8 +31,15 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,mobile,,,United States,Boardman,1,1,0,0,1,20251229,20,US
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Ukraine,Odesa,1,1,0,0,1,20251229,20,UA
 /,mobile,,,United States,Boardman,1,1,0,0,1,20251229,21,US
-/blog/magic-wand,desktop,,,China,,1,1,0,0,1,20251230,2,CN
+/blog/magic-wand,desktop,,,China,(not set),1,1,0,0,1,20251230,2,CN
 /blog/image-processing-using-serverless-architecture,mobile,,,United States,Jersey City,1,1,0,3,1,20251230,10,US
 /,desktop,,,United States,Santa Clara,1,1,0,15,1,20251230,13,US
 /blog/monitoring-grafana,desktop,,,China,Hangzhou,1,1,0,3,1,20251230,16,CN
 /blog/ssd-yolo,desktop,,,China,Beijing,1,1,0,3,1,20251230,16,CN
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Russia,Moscow,1,1,0,3,1,20251230,18,RU
+/blog/mopidy-muse,mobile,https://www.google.com/,,Canada,Fort Saskatchewan,1,1,0,0,1,20251231,3,CA
+/blog/document-detection,desktop,,,China,Shanghai,1,1,0,3,1,20251231,5,CN
+/blog/monitoring-grafana,desktop,https://www.google.com/,,United Arab Emirates,Dubai,1,1,0,0,1,20251231,8,AE
+/,desktop,,,United States,Council Bluffs,1,1,0,3,1,20251231,9,US
+/,desktop,,,United States,San Diego,1,1,0,3,1,20251231,9,US
+/blog/document-detection,desktop,https://www.google.com/,,United States,Bentonville,1,1,0,2,1,20251231,16,US
