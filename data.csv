@@ -1,16 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,United States,(not set),2,2,0,6,1,20251229,10,US
 /,desktop,,,United States,Aspen,2,2,0,3,1,20260104,14,US
-/blog/jekyll-algolia,desktop,,,China,Beijing,1,1,0,3,1,20251229,6,CN
-/,desktop,,,United States,Council Bluffs,1,1,0,3,1,20251229,10,US
-/,desktop,https://bing.com/,,United States,Cape Coral,1,1,0,3,1,20251229,10,US
-/blog/document-detection,desktop,,,France,(not set),1,1,0,0,1,20251229,10,FR
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Chile,Santiago,1,1,0,3,1,20251229,15,CL
-/blog/document-detection,desktop,https://www.google.com/,,India,Gurugram,1,1,0,0,1,20251229,16,IN
-/blog/mopidy-muse,desktop,,,Netherlands,(not set),1,1,0,0,1,20251229,18,NL
-/,mobile,,,United States,Boardman,1,1,0,0,1,20251229,20,US
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Ukraine,Odesa,1,1,0,0,1,20251229,20,UA
-/,mobile,,,United States,Boardman,1,1,0,0,1,20251229,21,US
 /blog/magic-wand,desktop,,,China,(not set),1,1,0,0,1,20251230,2,CN
 /blog/image-processing-using-serverless-architecture,mobile,,,United States,Jersey City,1,1,0,3,1,20251230,10,US
 /,desktop,,,United States,Santa Clara,1,1,0,15,1,20251230,13,US
@@ -44,8 +33,12 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/traefik-goaccess,desktop,,,Canada,Ottawa,1,1,0,3,1,20260105,1,CA
 /blog/data-withings,desktop,,,China,Bayingolin Mongol Autonomous Prefecture,1,1,0,0,1,20260105,2,CN
 /blog/velib-folium,desktop,https://www.google.com/,,South Korea,Gwangju,1,1,0,3,1,20260105,7,
-/blog/document-detection,desktop,,,China,,1,1,0,0,1,20260105,10,CN
+/blog/document-detection,desktop,,,China,(not set),1,1,0,0,1,20260105,10,CN
 /,desktop,,,United States,Aspen,1,1,0,0,1,20260105,14,US
 /,desktop,,,United States,Council Bluffs,1,1,0,3,1,20260105,14,US
-/blog/application-revenue-prediction,desktop,,,China,,1,1,0,3,1,20260105,15,CN
+/blog/application-revenue-prediction,desktop,,,China,(not set),1,1,0,3,1,20260105,15,CN
 /,desktop,https://bing.com/,,United States,Aspen,1,1,0,6,1,20260105,16,US
+/blog/raspberry-video-stream,desktop,,,China,Suzhou,1,1,0,0,1,20260105,19,CN
+/blog/alchemy-machine,desktop,,,China,,1,1,0,3,1,20260106,1,CN
+/blog/arduino-mkr-fox,desktop,,,China,Shanghai,1,1,0,3,1,20260106,3,CN
+/common-images/data-augmentation-for-object-detection-rotation-and-shearing/image-rotation-opencv,desktop,,,China,,1,1,0,3,1,20260106,16,CN
