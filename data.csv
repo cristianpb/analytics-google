@@ -1,8 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,United States,Aspen,2,2,0,3,1,20260104,14,US
-/blog/traefik-goaccess,desktop,https://chatgpt.com/,,France,Bussy-Saint-Georges,1,1,0,0,1,20260101,14,FR
-/blog/playlists-dashboard,desktop,,,China,Changzhou,1,1,0,0,1,20260101,15,CN
-/blog/marathon-mirabelle,desktop,https://www.google.com/,,Netherlands,Alkmaar,1,1,0,3,1,20260101,20,NL
 /blog/serverless-api-lambda,desktop,,,China,Shanghai,1,1,0,0,1,20260102,6,CN
 /,desktop,,,United States,(not set),1,1,0,3,1,20260102,7,US
 /,desktop,,,United States,Council Bluffs,1,1,0,0,1,20260102,7,US
@@ -36,9 +33,12 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/ssd-yolo,desktop,https://www.google.com/,,Vietnam,Hanoi,1,1,0,15,1,20260107,10,VN
 /blog/arduino-mkr-fox,desktop,,,China,(not set),1,1,0,0,1,20260107,12,CN
 /blog/grafana-dashboard,desktop,https://www.google.com/,,Bangladesh,Dhaka,1,1,0,3,1,20260107,15,BD
-/blog/serverless-api-lambda,desktop,,,China,,1,1,0,0,1,20260108,3,CN
+/blog/serverless-api-lambda,desktop,,,China,(not set),1,1,0,0,1,20260108,3,CN
 /blog/gnuplot-electrode,desktop,https://www.google.com/,,United States,Boston,1,1,0,0,1,20260108,4,US
-/blog/analytics-google,desktop,,,China,,1,1,0,3,1,20260108,6,CN
+/blog/analytics-google,desktop,,,China,(not set),1,1,0,3,1,20260108,6,CN
 /blog/image-rotation-opencv,mobile,https://www.google.com/,,Vietnam,Ho Chi Minh City,1,1,0,6,1,20260108,7,VN
-/blog/fluentbit-elasticsearch-kibana,desktop,,,China,,1,1,0,0,1,20260108,15,CN
+/blog/fluentbit-elasticsearch-kibana,desktop,,,China,(not set),1,1,0,0,1,20260108,15,CN
 /blog/image-rotation-opencv,desktop,,,Singapore,Singapore,1,1,0,6,1,20260108,15,SG
+/,desktop,,,United States,Council Bluffs,1,1,0,3,1,20260108,23,US
+/blog/motion-monitor-opencv,desktop,https://duckduckgo.com/,,France,Saint-Egreve,1,1,0,3,1,20260109,11,FR
+/blog/monitoring-grafana,desktop,,,Finland,Helsinki,1,1,0,0,1,20260109,13,FI
