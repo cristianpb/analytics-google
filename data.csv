@@ -1,11 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,mobile,,,China,(not set),2,2,0,0,1,20260121,12,CN
-/,desktop,,,United Kingdom,Wickford,1,1,47.427378,1,0,20260115,15,GB
-/blog/mopidy-muse,desktop,,,United Kingdom,Wickford,1,1,0,0,0,20260115,15,GB
-/blog/mopidy-muse,desktop,https://www.google.com/,,United Kingdom,Wickford,1,1,32.428052,1,0,20260115,15,GB
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Brazil,Porto Alegre,1,1,0,0,1,20260115,18,BR
-/blog/document-detection,desktop,,,United States,The Dalles,1,1,0,0,1,20260115,21,US
-/blog/mopidy-muse,desktop,,,United States,Indianapolis,1,1,0,0,1,20260115,22,US
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Russia,Moscow,1,1,0,2,1,20260116,10,RU
 /blog/traefik-goaccess,desktop,https://www.google.com/,,Indonesia,Depok,1,1,0,3,1,20260116,11,ID
 /,desktop,,,United States,Council Bluffs,1,1,0,0,1,20260116,12,US
@@ -41,7 +35,9 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/traefik-goaccess,desktop,,,China,(not set),1,1,0,3,1,20260121,14,CN
 /blog/gnuplot-electrode,desktop,https://www.google.com/,,Germany,Mannheim,1,1,0,0,1,20260121,15,DE
 /,desktop,,,United States,Council Bluffs,1,1,0,3,1,20260122,2,US
-/,desktop,https://bing.com/,,United States,,1,1,0,3,1,20260122,3,US
+/,desktop,https://bing.com/,,United States,(not set),1,1,0,3,1,20260122,3,US
 /blog/velib-folium,desktop,https://www.google.com/,,France,Paris,1,1,0,0,1,20260122,12,FR
 /,desktop,,,United States,Sarasota,1,1,0,6,1,20260122,15,US
 /blog/monitoring-grafana,desktop,https://www.google.com/,,France,Paris,1,1,0,0,1,20260122,16,FR
+/blog/ssd-yolo,desktop,https://www.google.com/,,United Kingdom,Budbrooke,1,1,0,3,1,20260122,20,GB
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United Kingdom,London,1,1,0,3,1,20260122,22,GB
