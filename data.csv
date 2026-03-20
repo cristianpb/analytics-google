@@ -1,12 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,Germany,Neustadt,1,1,126.621506,0,0,20260312,0,DE
-/blog/traefik-goaccess,desktop,https://www.perplexity.ai/,,Germany,Neustadt,1,1,0,0,0,20260312,0,DE
-/,desktop,https://bing.com/,,United States,Aspen,1,1,0,3,1,20260312,2,US
-/blog/grafana-dashboard,desktop,https://www.google.com/,,Thailand,(not set),1,1,0,6,1,20260312,4,TH
-/blog/document-detection,desktop,https://www.google.com/,,India,Thiruvananthapuram,1,1,0,0,1,20260312,6,IN
-/blog/application-revenue-prediction,desktop,https://github.com/,,Germany,Dresden,1,1,0,0,1,20260312,9,DE
-/,desktop,,,United States,Aspen,1,1,0,3,1,20260312,16,US
-/blog/monitoring-grafana,desktop,https://www.google.com/,,France,Marseille,1,1,0,0,1,20260312,16,FR
+/,mobile,,,China,(not set),2,2,0,6,1,20260319,21,CN
 /blog/categories,desktop,,,Switzerland,(not set),1,1,0,3,1,20260313,7,CH
 /blog/monitoring-grafana,desktop,https://www.google.com/,,India,Chennai,1,1,0,3,1,20260313,8,IN
 /blog/document-detection,desktop,,,Italy,Latina,1,1,0,0,1,20260313,9,IT
@@ -33,5 +26,12 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/ssd-yolo,desktop,,,United States,The Dalles,1,1,0,0,1,20260317,14,US
 /blog/marathon-mirabelle,desktop,https://www.google.com/,,United States,Tucson Estates,1,1,0,6,1,20260318,3,US
 /,desktop,,,United States,Council Bluffs,1,1,0,0,1,20260318,15,US
-/,desktop,,,United States,,1,1,0,6,1,20260319,14,US
+/,desktop,,,United States,(not set),1,1,0,6,1,20260319,14,US
 /,mobile,,,United States,New York,1,1,0,3,1,20260319,15,US
+/blog/traefik-goaccess,desktop,https://traefik.io/,,Cyprus,Larnaca,1,1,0,3,1,20260319,19,CY
+/blog/vimwiki-hugo,mobile,,,United States,Austin,1,1,0,0,1,20260320,6,US
+/,desktop,,,United States,Council Bluffs,1,1,0,3,1,20260320,8,US
+/,mobile,,,United States,New York,1,1,0,3,1,20260320,11,US
+/blog/image-rotation-opencv,desktop,https://medium.com/@coding-otter/image-and-bounding-box-rotation-using-opencv-python-2def6c39453,,France,Courbevoie,1,1,0,3,1,20260320,16,FR
+/blog/mopidy-muse,desktop,https://mopidy.com/,,India,Kurukshetra,1,1,0,3,1,20260320,16,IN
+/blog/motion-monitor-opencv,mobile,android-app://com.google.android.googlequicksearchbox/,,India,Chennai,1,1,0,3,1,20260320,16,IN
