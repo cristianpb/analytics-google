@@ -1,12 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,Sweden,Stockholm,1,1,0,15,1,20260324,0,SE
-/,desktop,,,United States,(not set),1,1,0,0,1,20260324,8,US
-/blog/monitoring-grafana,desktop,https://www.google.com/,,Singapore,Singapore,1,1,0,3,0,20260324,9,SG
-/blog/traefik-goaccess,desktop,https://cristianpb.github.io/blog/monitoring-grafana,,Singapore,Singapore,1,1,41.707172,1,0,20260324,9,SG
-/blog/document-detection,desktop,https://www.google.com/,,Spain,Barcelona,1,1,36.257933,0,0,20260324,14,ES
-/blog/data-withings,desktop,https://www.google.com/,,United States,New York,1,1,0,0,1,20260324,15,US
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,France,Vandoeuvre-les-Nancy,1,1,0,0,1,20260324,17,FR
-/blog/document-detection,desktop,https://www.google.com/,,Brazil,Sao Paulo,1,1,0,3,1,20260324,20,BR
 /,desktop,,,United States,Council Bluffs,1,1,0,0,1,20260325,1,US
 /blog/image-rotation-opencv,desktop,,,United States,Houston,1,1,0,3,1,20260325,1,US
 /blog/dashboard-dc-js,desktop,https://www.google.com/,,India,Hyderabad,1,1,0,3,1,20260325,6,IN
@@ -35,6 +27,13 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,United States,Council Bluffs,1,1,0,0,1,20260329,11,US
 /,desktop,https://bing.com/,,United States,Aspen,1,1,0,3,1,20260329,11,US
 /,desktop,,,United States,(not set),1,1,0,6,1,20260329,12,US
-/,mobile,,,India,,1,1,0,3,1,20260330,10,IN
+/,mobile,,,India,(not set),1,1,0,3,1,20260330,10,IN
 /blog/vim-plugins,desktop,https://www.google.com/,,Japan,Minato City,1,1,0,3,1,20260330,10,JP
 /blog/data-withings,desktop,https://www.google.com/,,United States,New York,1,1,0,0,1,20260330,14,US
+/blog/motion-monitor-opencv,mobile,https://duckduckgo.com/,,Switzerland,Winterthur,1,1,0,0,1,20260331,1,CH
+/,desktop,,,United States,Washington,1,1,0,3,1,20260331,3,US
+/common-images/data-augmentation-for-object-detection-rotation-and-shearing/image-rotation-opencv,desktop,,,India,,1,1,0,6,1,20260331,6,IN
+/common-images/data-augmentation-for-object-detection-rotation-and-shearing/image-rotation-opencv,desktop,,,United States,,1,1,0,9,1,20260331,6,US
+/common-images/data-augmentation-for-object-detection-rotation-and-shearing/image-rotation-opencv,desktop,,,Canada,Montreal,1,1,0,15,1,20260331,11,CA
+/common-images/data-augmentation-for-object-detection-rotation-and-shearing/image-rotation-opencv,desktop,,,Romania,,1,1,0,3,1,20260331,12,RO
+/blog/gnuplot-electrode,desktop,,,Czechia,Prague,1,1,0,0,1,20260331,17,
