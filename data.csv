@@ -1,8 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /blog/magic-wand,desktop,https://www.google.com/,,South Korea,Gwangju,2,2,62.4825135,3,0.5,20260416,7,
-/,desktop,,,United States,Council Bluffs,1,1,0,3,1,20260410,10,US
-/,mobile,,,United States,New York,1,1,0,3,1,20260410,14,US
-/blog/data-withings,desktop,https://www.google.com/,,United States,New York,1,1,0,0,1,20260410,15,US
 /blog/ssd-yolo,desktop,https://www.google.com/,,Indonesia,Palembang,1,1,0,3,1,20260411,6,ID
 /blog/ssd-yolo,desktop,https://www.google.com/,,Netherlands,Amsterdam,1,1,0,0,1,20260411,15,NL
 /,mobile,https://cristianpb.github.io/blog/vimwiki-hugo,,Brazil,Sao Paulo,1,1,52.855934,0,0,20260411,22,BR
@@ -28,9 +25,13 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,https://bing.com/,,United States,Idaho Springs,1,1,0,3,1,20260415,9,US
 /,desktop,,,China,(not set),1,1,0,6,1,20260415,15,CN
 /blog/grafana-dashboard,desktop,https://www.google.com/,,France,Nort-sur-Erdre,1,1,0,0,1,20260415,23,FR
-/blog/vimwiki-hugo,desktop,https://duckduckgo.com/,,Netherlands,,1,1,0,3,1,20260416,0,NL
+/blog/vimwiki-hugo,desktop,https://duckduckgo.com/,,Netherlands,(not set),1,1,0,3,1,20260416,0,NL
 /,desktop,https://zhpw213.github.io/,,Germany,Bernau bei Berlin,1,1,0,0,1,20260416,1,DE
 /blog/analytics-google,desktop,https://www.google.com/,,Ukraine,Cherkasy,1,1,0,3,1,20260416,10,UA
 /,desktop,,,United States,Aspen,1,1,0,3,1,20260416,14,US
 /,desktop,,,United States,Council Bluffs,1,1,0,0,1,20260416,14,US
-/blog/gnuplot-electrode,desktop,https://www.google.com/,,Argentina,,1,1,0,3,1,20260416,16,AR
+/blog/gnuplot-electrode,desktop,https://www.google.com/,,Argentina,(not set),1,1,0,3,1,20260416,16,AR
+/blog/gnuplot-electrode,desktop,https://www.google.com/,,United States,Los Alamos,1,1,0,0,1,20260417,2,US
+/blog/marathon-mirabelle,mobile,https://www.google.com/,,Spain,,1,1,0,0,0,20260417,5,ES
+/blog/santorini-experience,mobile,https://cristianpb.github.io/blog/marathon-mirabelle,,Spain,,1,1,34.041008,0,0,20260417,5,ES
+/blog/arduino-mkr-fox,desktop,https://www.google.com/,,Estonia,Tallinn,1,2,0,0,1,20260417,17,EE
