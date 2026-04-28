@@ -1,7 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United States,Lovejoy,1,1,0,0,1,20260421,2,US
-/blog/velib-folium,desktop,https://www.google.com/,,United Kingdom,Edinburgh,1,1,0,3,1,20260421,14,GB
-/,mobile,,,Canada,Calgary,1,1,0,3,1,20260421,22,CA
 /,desktop,,,United States,(not set),1,1,0,3,1,20260422,8,US
 /,mobile,,,United States,(not set),1,1,0,0,1,20260422,11,US
 /blog/traefik-goaccess,desktop,https://www.google.com/,,South Africa,Pretoria,1,1,0,3,1,20260422,15,ZA
@@ -23,7 +20,7 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/monitoring-grafana,mobile,,,Argentina,Moron,1,1,0,0,1,20260426,13,AR
 /blog/mopidy-muse,desktop,,,United States,New York,1,1,0,3,1,20260426,19,US
 /,desktop,,,United States,(not set),1,1,0,12,1,20260426,22,US
-/blog/dashboard-dc-js,desktop,,,Germany,,1,1,0,3,1,20260427,0,DE
+/blog/dashboard-dc-js,desktop,,,Germany,(not set),1,1,0,3,1,20260427,0,DE
 /,desktop,https://cristianpb.github.io/blog/analytics-google,,India,Bengaluru,1,1,192.165753,1,0,20260427,11,IN
 /about,desktop,https://cristianpb.github.io/,,India,Bengaluru,1,1,5.023433,0,0,20260427,11,IN
 /blog,desktop,https://cristianpb.github.io/,,India,Bengaluru,1,1,11.288448,0,0,20260427,11,IN
@@ -33,3 +30,7 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/traefik-goaccess,desktop,https://cristianpb.github.io/blog,,India,Bengaluru,1,1,46.003238,1,0,20260427,11,IN
 /blog/vimwiki-hugo,desktop,https://cristianpb.github.io/blog,,India,Bengaluru,1,1,62.311936,1,0,20260427,11,IN
 /blog/ssd-yolo,desktop,https://www.google.com/,,Sweden,Linkoping,1,1,0,3,1,20260427,13,SE
+/blog/monitoring-grafana,desktop,,,United Kingdom,,1,1,0,15,1,20260428,15,GB
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Canada,Montreal,1,1,0,0,1,20260428,17,CA
+/blog/document-detection,mobile,https://www.google.com/,,Germany,Stuttgart,1,1,0,0,1,20260428,18,DE
+/,mobile,,,United States,,1,1,0,3,1,20260428,19,US
