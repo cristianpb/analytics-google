@@ -1,8 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,desktop,,,United States,(not set),1,1,0,3,1,20260422,8,US
-/,mobile,,,United States,(not set),1,1,0,0,1,20260422,11,US
-/blog/traefik-goaccess,desktop,https://www.google.com/,,South Africa,Pretoria,1,1,0,3,1,20260422,15,ZA
-/blog/ssd-yolo,desktop,,,United States,Santa Cruz,1,1,0,0,1,20260422,23,US
 /,desktop,,,United States,Gunnison,1,1,0,0,1,20260423,14,US
 /,mobile,,,Canada,Calgary,1,1,0,3,1,20260423,22,CA
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Germany,Heidelberg,1,1,0,3,1,20260424,8,DE
@@ -30,7 +26,13 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/traefik-goaccess,desktop,https://cristianpb.github.io/blog,,India,Bengaluru,1,1,46.003238,1,0,20260427,11,IN
 /blog/vimwiki-hugo,desktop,https://cristianpb.github.io/blog,,India,Bengaluru,1,1,62.311936,1,0,20260427,11,IN
 /blog/ssd-yolo,desktop,https://www.google.com/,,Sweden,Linkoping,1,1,0,3,1,20260427,13,SE
-/blog/monitoring-grafana,desktop,,,United Kingdom,,1,1,0,15,1,20260428,15,GB
+/blog/monitoring-grafana,desktop,,,United Kingdom,(not set),1,1,0,15,1,20260428,15,GB
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,Canada,Montreal,1,1,0,0,1,20260428,17,CA
 /blog/document-detection,mobile,https://www.google.com/,,Germany,Stuttgart,1,1,0,0,1,20260428,18,DE
-/,mobile,,,United States,,1,1,0,3,1,20260428,19,US
+/,mobile,,,United States,(not set),1,1,0,3,1,20260428,19,US
+/blog/magic-wand,desktop,https://www.google.com/,,Türkiye,Ankara,1,1,0,3,1,20260429,0,
+/blog/document-detection,desktop,,,Japan,Osaka,1,1,0,0,0,20260429,4,JP
+/openCV/python/opencv-document-detection/,desktop,,,Japan,Osaka,1,1,18.388064,0,0,20260429,4,JP
+/blog/document-detection,desktop,,,Germany,Friedrichshafen,1,1,0,0,1,20260429,8,DE
+/blog/gnuplot-electrode,desktop,https://www.google.com/,,France,Strasbourg,1,1,0,0,1,20260429,11,FR
+/blog/mopidy-muse,desktop,https://www.google.com/,,United Kingdom,,1,1,0,0,1,20260429,18,GB
