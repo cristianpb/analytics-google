@@ -1,10 +1,8 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/,mobile,,,,,2,2,0,0,1,20260511,9,
+/,mobile,,,(not set),(not set),2,2,0,0,1,20260511,9,
 /,desktop,,,United States,Council Bluffs,2,2,0,6,1,20260511,10,US
 /,desktop,https://bing.com/,,United States,Aspen,2,2,0,6,1,20260511,10,US
 /,desktop,,,United States,Boardman,2,2,0,3,1,20260511,11,US
-/blog/image-rotation-opencv,desktop,https://www.google.com/,,Mexico,Ciudad Juarez,1,1,0,3,1,20260505,0,MX
-/blog/image-rotation-opencv,mobile,https://www.google.com/,,Mexico,Monterrey,1,1,0,3,1,20260505,23,MX
 /blog/image-rotation-opencv,mobile,https://www.google.com/,,Mexico,Monterrey,1,1,0,0,1,20260506,1,MX
 /blog/image-rotation-opencv,desktop,https://yandex.ru/,,Russia,Odintsovo,1,1,0,3,1,20260506,13,RU
 /,mobile,https://cristianpb.github.io/,,United States,Forest Grove,1,1,0,1,1,20260507,7,US
@@ -20,7 +18,12 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,China,(not set),1,1,0,3,1,20260509,6,CN
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,United Kingdom,Fleet,1,1,0,3,1,20260510,21,GB
 /blog/mopidy-muse,mobile,https://github.com/cristianpb/muse,,Germany,Munich,1,1,0,0,1,20260511,5,DE
-/,mobile,https://bing.com/,,United States,,1,1,0,3,1,20260511,10,US
+/,mobile,https://bing.com/,,United States,(not set),1,1,0,3,1,20260511,10,US
 /,mobile,https://bing.com/,,United States,Aspen,1,1,0,3,1,20260511,10,US
-/,desktop,https://www.google.com/,,Spain,,1,1,0,0,1,20260511,11,ES
+/,desktop,https://www.google.com/,,Spain,(not set),1,1,0,0,1,20260511,11,ES
 /,desktop,,,United States,Aspen,1,1,0,3,1,20260511,13,US
+/,mobile,,,United States,,1,1,0,9,1,20260512,9,US
+/blog/document-detection,desktop,https://www.google.com/,,India,Delhi,1,1,0,0,1,20260512,13,IN
+/blog/image-rotation-opencv,desktop,https://www.google.com/,,Sweden,Stockholm,1,1,0,0,1,20260512,13,SE
+/blog/ssd-yolo,desktop,https://www.google.com/,,Croatia,Zagreb,1,1,0,0,1,20260512,13,HR
+/blog/ssd-yolo,desktop,https://www.bing.com/,,United Kingdom,Cambridge,1,1,0,3,1,20260512,14,GB
