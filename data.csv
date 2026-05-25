@@ -1,6 +1,5 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,desktop,,,United States,Council Bluffs,2,2,0,9,1,20260522,4,US
-/blog/traefik-goaccess,desktop,https://www.google.com/,,Germany,Oberdorla,1,1,0,6,1,20260518,23,DE
 /blog/motion-monitor-opencv,desktop,https://www.google.com/,,Türkiye,Ankara,1,1,0,0,1,20260519,13,
 /blog/motion-monitor-opencv,desktop,https://cristianpb.github.io/blog/ssd-yolo,,Argentina,Ushuaia,1,1,168.95065,1,0,20260519,16,AR
 /blog/ssd-yolo,desktop,https://www.google.com/,,Argentina,Ushuaia,1,1,0,6,0,20260519,16,AR
@@ -23,5 +22,8 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,mobile,,,United States,(not set),1,1,0,3,1,20260523,0,US
 /blog/traefik-goaccess,desktop,https://www.reddit.com/,,United States,Snoqualmie,1,1,0,3,1,20260523,10,US
 /blog/motion-monitor-opencv,desktop,https://duckduckgo.com/,,United Kingdom,Luton,1,1,0,0,1,20260523,21,GB
-/,mobile,,,United States,,1,1,0,3,1,20260524,8,US
+/,mobile,,,United States,(not set),1,1,0,3,1,20260524,8,US
 /,desktop,,,United Kingdom,Oldham,1,1,0,3,1,20260524,13,GB
+/,desktop,,,United Kingdom,Oldham,1,1,0,2,1,20260525,10,GB
+/blog/motion-monitor-opencv,desktop,https://www.google.com/,,Italy,Florence,1,1,0,0,0,20260525,16,IT
+/blog/ssd-yolo,desktop,https://cristianpb.github.io/blog/motion-monitor-opencv,,Italy,Florence,1,1,16.704074,1,0,20260525,16,IT
