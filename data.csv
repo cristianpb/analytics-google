@@ -6,7 +6,7 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog,desktop,,,United States,Ashburn,2,2,0,3,1,20260727,10,US
 /blog,desktop,,,Israel,Jerusalem,2,2,0,6,1,20260727,12,IL
 /blog,desktop,,,United States,Ashburn,2,2,0,0,1,20260727,12,US
-/,desktop,,,France,Paris,1,1,0,9,1,20260721,9,FR
+/,desktop,,,United States,Council Bluffs,2,2,0,0,1,20260728,7,US
 /blog/traefik-goaccess,desktop,https://www.google.com/,,United States,(not set),1,1,0,3,1,20260722,11,US
 /blog/gnuplot-electrode,desktop,https://www.google.com/,,United States,St. Petersburg,1,1,0,0,1,20260722,17,US
 /blog/motion-monitor-opencv,mobile,https://www.google.com/,,France,Paris,1,1,0,3,1,20260722,20,FR
@@ -27,7 +27,7 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog/traefik-goaccess,mobile,https://www.google.com/,,Italy,Milan,1,1,0,3,1,20260727,0,IT
 /blog,desktop,,,Israel,Jerusalem,1,1,0,3,1,20260727,6,IL
 /,desktop,,,United States,Council Bluffs,1,1,0,0,1,20260727,7,US
-/,desktop,,,United States,,1,1,0,0,1,20260727,8,US
+/,desktop,,,United States,(not set),1,1,0,0,1,20260727,8,US
 /blog,desktop,,,United States,Ashburn,1,1,0,3,1,20260727,8,US
 /blog/image-processing-using-serverless-architecture,desktop,,,United States,Ashburn,1,1,0,0,1,20260727,8,US
 /blog,desktop,,,Israel,Jerusalem,1,1,0,3,1,20260727,11,IL
@@ -35,3 +35,13 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /blog,desktop,,,United States,Ashburn,1,1,0,3,1,20260727,13,US
 /blog,desktop,,,United States,Ashburn,1,1,0,3,1,20260727,14,US
 /blog,desktop,,,United States,Ashburn,1,1,0,3,1,20260727,15,US
+/blog,desktop,,,Israel,Jerusalem,1,1,0,3,1,20260728,5,IL
+/,desktop,https://cristianpb.github.io/about,,Belgium,Brussels,1,1,1.721677,0,0,20260728,9,BE
+/about,desktop,,,Belgium,Brussels,1,1,1.577565,0,0,20260728,9,BE
+/about,desktop,https://cristianpb.github.io/,,Belgium,Brussels,1,1,15.566809,0,0,20260728,9,BE
+/about,desktop,https://cristianpb.github.io/blog,,Belgium,Brussels,1,1,10.71472,0,0,20260728,9,BE
+/blog,desktop,https://cristianpb.github.io/about,,Belgium,Brussels,1,1,56.618907,1,0,20260728,9,BE
+/blog,desktop,https://cristianpb.github.io/blog,,Belgium,Brussels,1,1,23.660041,0,0,20260728,9,BE
+/blog/marathon-mirabelle,desktop,https://www.google.com/,,France,Paris,1,1,0,0,0,20260728,16,FR
+/blog/withings-data,desktop,,,France,Paris,1,1,19.957843,0,0,20260728,16,FR
+/,desktop,https://bing.com/,,United States,Glenview,1,1,0,3,1,20260728,17,US
