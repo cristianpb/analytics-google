@@ -1,13 +1,11 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /blog,desktop,,,Israel,Jerusalem,3,3,0,9,1,20260727,14,IL
-/,desktop,,,United States,Council Bluffs,2,2,0,3,1,20260726,0,US
 /blog,desktop,,,Israel,Jerusalem,2,2,0,6,1,20260727,8,IL
 /blog,desktop,,,Israel,Jerusalem,2,2,0,6,1,20260727,10,IL
 /blog,desktop,,,United States,Ashburn,2,2,0,3,1,20260727,10,US
 /blog,desktop,,,Israel,Jerusalem,2,2,0,6,1,20260727,12,IL
 /blog,desktop,,,United States,Ashburn,2,2,0,0,1,20260727,12,US
 /,desktop,,,United States,Council Bluffs,2,2,0,0,1,20260728,7,US
-/,desktop,,,United States,Hershey,1,1,0,3,1,20260726,0,US
 /blog/traefik-goaccess,mobile,https://www.google.com/,,Italy,Milan,1,1,0,3,1,20260727,0,IT
 /blog,desktop,,,Israel,Jerusalem,1,1,0,3,1,20260727,6,IL
 /,desktop,,,United States,Council Bluffs,1,1,0,0,1,20260727,7,US
@@ -41,6 +39,6 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,,,United States,(not set),1,1,0,0,1,20260731,5,US
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Türkiye,Izmir,1,1,0,0,1,20260731,14,
 /,desktop,,,United States,Council Bluffs,1,1,0,3,1,20260801,9,US
-/,desktop,,,United States,,1,1,0,0,1,20260801,12,US
+/,desktop,,,United States,(not set),1,1,0,0,1,20260801,12,US
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Türkiye,Izmir,1,1,0,0,1,20260801,12,
 /,desktop,,,China,Changsha,1,1,0,3,1,20260801,15,CN
