@@ -1,9 +1,6 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
 /,mobile,,,China,(not set),2,2,0,21,1,20260905,13,CN
-/blog/image-rotation-opencv,desktop,http://localhost:8889/,,Taiwan,Zhongzheng District,1,1,0,3,1,20260902,5,TW
-/,desktop,,,United States,Orlando,1,1,0,3,1,20260902,10,US
-/blog/motion-monitor-opencv,desktop,https://www.google.com/,,United States,Gainesville,1,1,0,0,1,20260902,14,US
-/blog/traefik-goaccess,desktop,https://duckduckgo.com/,,Greece,Chalandri,1,1,0,3,1,20260902,23,GR
+/blog/traefik-goaccess,mobile,,,China,,2,2,0,3,1,20260909,8,CN
 /,desktop,,,United States,Buffalo,1,1,0,15,1,20260903,13,US
 /,desktop,,,United States,Council Bluffs,1,1,0,0,1,20260903,13,US
 /blog/image-rotation-opencv,desktop,https://www.google.com/,,Chile,Santiago,1,1,0,0,1,20260903,22,CL
@@ -20,6 +17,11 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,https://cristianpb.github.io/,,France,Arrondissement of Lure,1,1,8.184057,0,0,20260907,17,FR
 /,desktop,https://www.data.gouv.fr/,,France,Arrondissement of Lure,1,1,0,3,0,20260907,17,FR
 /blog/mopidy-muse,desktop,https://www.google.com/,,Portugal,Comporta,1,1,0,3,1,20260908,1,PT
-/blog/vimwiki-hugo,desktop,,,Italy,,1,1,0,3,1,20260908,1,IT
+/blog/vimwiki-hugo,desktop,,,Italy,(not set),1,1,0,3,1,20260908,1,IT
 /blog/dashboard-dc-js,desktop,https://www.google.com/,,India,Raichur,1,1,0,3,1,20260908,11,IN
 /blog/monitoring-grafana,desktop,https://www.google.com/,,Germany,Husum,1,1,0,3,1,20260908,11,DE
+/blog/document-detection,mobile,android-app://com.google.android.googlequicksearchbox/,,Tunisia,Tunis,1,1,0,0,1,20260908,21,TN
+/blog,desktop,,,United States,Ashburn,1,1,0,3,1,20260909,2,US
+/blog/motion-monitor-opencv,mobile,https://www.google.com/,,Sweden,Uppsala,1,1,0,0,1,20260909,8,SE
+/,desktop,https://www.linkedin.com/,,France,Chereng,1,1,0,0,0,20260909,16,FR
+/blog/vimwiki-hugo,desktop,https://cristianpb.github.io/,,France,Chereng,1,1,27.687349,0,0,20260909,16,FR
