@@ -1,10 +1,4 @@
 pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions,averageSessionDuration,userEngagementDuration,bounceRate,date,hour,countryIsoCode
-/blog/marathon-mirabelle,mobile,https://www.google.com/,,Brazil,Sao Paulo,1,1,0,3,1,20261030,1,BR
-/blog/serverless-api-lambda,desktop,https://www.aocr.org/,,Hungary,Jaszszentandras,1,1,0,12,1,20261030,5,HU
-/,desktop,,,United States,(not set),1,1,0,0,1,20261030,12,US
-/blog/monitoring-grafana,desktop,https://duckduckgo.com/,,Germany,Augsburg,1,1,0,0,0,20261030,20,DE
-/blog/monitoring-grafana,desktop,https://duckduckgo.com/,,Germany,Augsburg,1,1,1573.413227,0,0,20261030,21,DE
-/blog/monitoring-grafana,desktop,https://duckduckgo.com/,,Germany,Augsburg,1,1,0,0,1,20261030,22,DE
 /blog/traefik-goaccess,desktop,https://www.aocr.org/,,United States,Durham,1,1,0,6,1,20261031,2,US
 /blog/document-detection,desktop,https://www.google.com/,,Pakistan,Faisalabad,1,1,0,3,1,20261031,6,PK
 /,mobile,,,China,Tacheng Prefecture,1,1,0,3,1,20261031,13,CN
@@ -19,8 +13,12 @@ pagePath,deviceCategory,pageReferrer,searchTerm,country,city,totalUsers,sessions
 /,desktop,https://bing.com/,,United States,Glenview,1,1,0,3,1,20261104,0,US
 /blog/gnuplot-electrode,desktop,https://www.google.com/,,Denmark,Copenhagen,1,1,0,0,1,20261104,9,DK
 /,mobile,https://www.google.com/,,France,Paris,1,1,0,3,1,20261104,10,FR
-/,desktop,,,United States,,1,1,0,3,1,20261105,14,US
+/,desktop,,,United States,(not set),1,1,0,3,1,20261105,14,US
 /blog/grafana-dashboard,desktop,https://www.google.com/,,Senegal,Dakar,1,1,0,3,1,20261105,14,SN
-/blog/marathon-mirabelle,desktop,https://www.google.com/,,United Kingdom,,1,1,0,3,1,20261105,17,GB
-/blog/traefik-goaccess,desktop,https://www.aocr.org/,,United States,,1,1,0,3,1,20261105,18,US
+/blog/marathon-mirabelle,desktop,https://www.google.com/,,United Kingdom,(not set),1,1,0,3,1,20261105,17,GB
+/blog/traefik-goaccess,desktop,https://www.aocr.org/,,United States,(not set),1,1,0,3,1,20261105,18,US
 /blog/gnuplot-electrode,desktop,https://www.google.com/,,Canada,Quebec City,1,1,0,0,1,20261105,20,CA
+/blog/image-rotation-opencv,desktop,https://www.aocr.org/,,Panama,Panama City,1,1,0,9,1,20261106,1,PA
+/,desktop,,,United States,New York,1,1,0,6,1,20261106,9,US
+/blog/ssd-yolo,desktop,,,Netherlands,Haarlem,1,1,0,3,0,20261106,10,NL
+/blog/ssd-yolo,desktop,,,Netherlands,Haarlem,1,1,621.321207,0,0,20261106,11,NL
